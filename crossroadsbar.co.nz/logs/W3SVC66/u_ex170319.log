@@ -1,0 +1,25 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2017-03-19 10:05:26
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2017-03-19 10:05:25 GET / - 46.105.31.30 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/52.0.2743.116+Safari/537.36 - 200 7037 341
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2017-03-19 20:33:58
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2017-03-19 20:33:57 GET /robots.txt - 178.154.189.33 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - 404 1405 189
+2017-03-19 20:34:01 GET /favicon.ico - 178.154.189.33 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - 404 1405 234
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2017-03-20 01:18:39
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2017-03-20 01:18:39 GET /robots.txt - 66.249.79.22 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 404 1405 229
+2017-03-20 01:18:40 GET / - 66.249.79.22 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 7018 296
+2017-03-20 01:18:42 GET /css/animate.css - 66.249.79.22 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) http://crossroadsbar.co.nz/ 200 8279 332
+2017-03-20 01:18:43 GET /css/swipebox.css - 66.249.79.26 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) http://crossroadsbar.co.nz/ 200 1525 333
+2017-03-20 01:18:43 GET /css/iconeffects.css - 66.249.79.22 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) http://crossroadsbar.co.nz/ 200 3470 336
+2017-03-20 01:18:45 GET /css/bootstrap.css - 66.249.79.22 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) http://crossroadsbar.co.nz/ 200 27109 334
+2017-03-20 01:18:47 GET /css/style.css - 66.249.79.22 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) http://crossroadsbar.co.nz/ 200 15962 330
+2017-03-20 01:18:48 GET /pagead2.googlesyndication.com/pagead/js/f.txt - 66.249.79.22 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) http://crossroadsbar.co.nz/ 404 1405 347
+2017-03-20 01:18:51 GET /cdn.fancybar.net/ac/fancybar6a2f.js - 66.249.79.22 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) http://crossroadsbar.co.nz/ 404 1405 383
+2017-03-20 01:18:53 GET /www.google-analytics.com/analytics.js - 66.249.79.22 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) http://crossroadsbar.co.nz/ 404 1405 339

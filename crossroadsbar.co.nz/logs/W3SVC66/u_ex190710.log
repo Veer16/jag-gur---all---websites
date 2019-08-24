@@ -1,0 +1,84 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2019-07-10 09:51:31
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2019-07-10 09:51:31 GET / - 91.210.146.139 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/31.0.1650.57+Safari/537.36 http://crossroadsbar.co.nz 406 1511 445
+2019-07-10 09:51:51 GET /blog/ - 91.210.146.139 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/31.0.1650.57+Safari/537.36 http://crossroadsbar.co.nz/blog/ 404 1405 456
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2019-07-10 10:17:28
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2019-07-10 10:17:28 GET / - 173.252.87.8 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.100+Safari/537.36 - 200 23501 490
+2019-07-10 10:17:29 GET /css/bootstrap.css - 173.252.87.22 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.100+Safari/537.36 - 200 121515 308
+2019-07-10 10:17:29 GET /css/iconeffects.css - 173.252.87.21 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.100+Safari/537.36 - 200 16091 310
+2019-07-10 10:17:29 GET /css/style.css - 173.252.87.22 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.100+Safari/537.36 - 200 62590 304
+2019-07-10 10:17:30 GET /css/swipebox.css - 173.252.87.21 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.100+Safari/537.36 - 200 4352 307
+2019-07-10 10:17:31 GET /js/jquery-1.11.1.min.js - 173.252.87.22 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.100+Safari/537.36 - 200 96050 299
+2019-07-10 10:17:33 GET /css/animate.css - 173.252.87.21 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.100+Safari/537.36 - 200 72506 306
+2019-07-10 10:17:33 GET /js/move-top.js - 173.252.87.4 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.100+Safari/537.36 - 200 1592 290
+2019-07-10 10:17:34 GET /js/wow.min.js - 173.252.87.11 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.100+Safari/537.36 - 200 5039 289
+2019-07-10 10:17:34 GET /js/jquery.swipebox.min.js - 173.252.87.22 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.100+Safari/537.36 - 200 7468 301
+2019-07-10 10:17:34 GET /js/easing.js - 173.252.87.3 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.100+Safari/537.36 - 200 5020 288
+2019-07-10 10:17:34 GET /cdn.fancybar.net/ac/fancybar6a2f.js - 173.252.87.3 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.100+Safari/537.36 - 404 1405 357
+2019-07-10 10:17:34 GET /images/border.png - 173.252.87.22 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.100+Safari/537.36 - 200 3286 329
+2019-07-10 10:17:34 GET /js/responsiveslides.min.js - 173.252.87.11 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.100+Safari/537.36 - 200 3659 302
+2019-07-10 10:17:35 GET /pagead2.googlesyndication.com/pagead/js/f.txt - 173.252.87.11 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.100+Safari/537.36 - 404 1405 321
+2019-07-10 10:17:35 GET /images/down.png - 173.252.87.4 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.100+Safari/537.36 - 200 4972 327
+2019-07-10 10:17:35 GET /images/serve1.png - 173.252.87.11 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.100+Safari/537.36 - 200 1714 329
+2019-07-10 10:17:35 GET /images/s3.jpg - 173.252.87.22 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.100+Safari/537.36 - 200 65536 325
+2019-07-10 10:17:35 GET /images/s2.jpg - 173.252.87.3 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.100+Safari/537.36 - 200 0 325
+2019-07-10 10:17:35 GET /images/s1.jpg - 173.252.87.3 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.100+Safari/537.36 - 200 0 325
+2019-07-10 10:17:35 GET /images/s4.jpg - 173.252.87.11 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.100+Safari/537.36 - 200 131072 325
+2019-07-10 10:17:36 GET /images/serve3.png - 173.252.87.11 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.100+Safari/537.36 - 200 7307 329
+2019-07-10 10:17:36 GET /images/db.png - 173.252.87.11 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.100+Safari/537.36 - 200 7998 325
+2019-07-10 10:17:36 GET /images/serve2.png - 173.252.87.4 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.100+Safari/537.36 - 200 4431 329
+2019-07-10 10:17:36 GET /www.google-analytics.com/analytics.js - 173.252.87.17 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.100+Safari/537.36 - 404 1405 313
+2019-07-10 10:17:37 GET /images/serve4.png - 173.252.87.10 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.100+Safari/537.36 - 200 4415 329
+2019-07-10 10:17:38 GET /images/gg.png - 173.252.87.1 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.100+Safari/537.36 - 200 7753 325
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2019-07-10 12:03:04
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2019-07-10 12:03:03 GET /robots.txt - 66.249.69.78 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 404 1405 233
+2019-07-10 12:03:04 GET / - 66.249.69.78 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 6996 296
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2019-07-10 14:09:32
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2019-07-10 14:09:31 GET /robots.txt - 216.244.66.230 HTTP/1.1 Mozilla/5.0+(compatible;+DotBot/1.1;+http://www.opensiteexplorer.org/dotbot,+help@moz.com) - 404 1405 226
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2019-07-10 14:26:05
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2019-07-10 14:26:05 GET /index.html - 216.244.66.230 HTTP/1.1 Mozilla/5.0+(compatible;+DotBot/1.1;+http://www.opensiteexplorer.org/dotbot,+help@moz.com) - 200 23501 226
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2019-07-10 20:13:37
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2019-07-10 20:13:37 GET /robots.txt - 216.244.66.230 HTTP/1.1 Mozilla/5.0+(compatible;+DotBot/1.1;+http://www.opensiteexplorer.org/dotbot,+help@moz.com) - 404 1405 226
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2019-07-10 20:29:37
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2019-07-10 20:29:37 GET /images/c4.jpg - 216.244.66.230 HTTP/1.1 Mozilla/5.0+(compatible;+DotBot/1.1;+http://www.opensiteexplorer.org/dotbot,+help@moz.com) - 200 42204 229
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2019-07-10 22:19:13
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2019-07-10 22:19:13 GET / - 42.236.99.44 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/50.0.2661.102+Safari/537.36;+360Spider http://www.crossroadsbar.co.nz/ 200 6996 327
+2019-07-10 22:19:28 GET / - 42.236.12.130 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/50.0.2661.102+Safari/537.36;+360Spider http://crossroadsbar.co.nz/ 200 6996 319
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2019-07-10 22:35:31
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2019-07-10 22:35:31 GET /robots.txt - 216.244.66.230 HTTP/1.1 Mozilla/5.0+(compatible;+DotBot/1.1;+http://www.opensiteexplorer.org/dotbot,+help@moz.com) - 404 1405 226
+2019-07-10 22:41:11 GET /robots.txt - 141.8.132.37 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - 404 1405 202
+2019-07-10 22:41:12 GET /robots.txt - 5.45.207.33 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - 404 1405 206
+2019-07-10 22:41:16 GET / - 5.45.207.33 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - 200 6996 284
+2019-07-10 22:41:16 GET / - 5.45.207.33 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - 200 5626 288
+2019-07-10 22:44:52 GET / - 216.244.66.230 HTTP/1.1 Mozilla/5.0+(compatible;+DotBot/1.1;+http://www.opensiteexplorer.org/dotbot,+help@moz.com) - 200 23501 216
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2019-07-10 23:20:44
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2019-07-10 23:20:43 GET / - 216.244.66.230 HTTP/1.1 Mozilla/5.0+(compatible;+DotBot/1.1;+http://www.opensiteexplorer.org/dotbot,+help@moz.com) - 200 23501 216

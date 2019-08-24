@@ -1,0 +1,16 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2019-08-20 13:39:49
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2019-08-20 13:39:49 GET / - 54.68.254.122 HTTP/1.1 Go-http-client/1.1 - 200 8794 98
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2019-08-20 21:20:18
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2019-08-20 21:20:17 GET /robots.txt - 35.232.218.182 HTTP/1.1 python-requests/2.22.0 - 404 1405 158
+2019-08-20 21:20:18 GET / - 35.232.218.182 HTTP/1.1 python-requests/2.22.0 - 200 8794 148
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2019-08-21 02:57:41
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2019-08-21 02:57:40 GET /robots.txt - 185.6.9.208 HTTP/1.1 (info@domaincrawler.com;+http://www.domaincrawler.com/ngateapizza.co.nz) - 404 1424 158

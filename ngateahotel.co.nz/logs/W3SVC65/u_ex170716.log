@@ -1,0 +1,70 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2017-07-16 09:51:44
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2017-07-16 09:51:44 GET / - 180.76.15.26 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - 200 837 223
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2017-07-16 12:21:05
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2017-07-16 12:21:05 GET /robots.txt - 64.246.165.170 HTTP/1.0 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en;+rv:1.9.0.13)+Gecko/2009073022+Firefox/3.5.2+(.NET+CLR+3.5.30729)+SurveyBot/2.3+(DomainTools) - 404 1424 294
+2017-07-16 12:21:05 GET / - 64.246.165.170 HTTP/1.1 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en;+rv:1.9.0.13)+Gecko/2009073022+Firefox/3.5.2+(.NET+CLR+3.5.30729)+SurveyBot/2.3+(DomainTools) http://whois.domaintools.com/ngateahotel.co.nz 200 959 491
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2017-07-16 18:04:03
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2017-07-16 18:04:03 GET /robots.txt - 159.203.110.210 HTTP/1.1 Mozilla/5.0+(compatible;+spbot/5.0.3;++http://OpenLinkProfiler.org/bot+) - 404 1405 276
+2017-07-16 18:04:04 GET /robots.txt - 159.203.110.210 HTTP/1.1 Mozilla/5.0+(compatible;+spbot/5.0.3;++http://OpenLinkProfiler.org/bot+) - 404 1405 280
+2017-07-16 18:04:08 GET / - 159.203.110.210 HTTP/1.1 Mozilla/5.0+(compatible;+spbot/5.0.3;++http://OpenLinkProfiler.org/bot+) - 200 818 270
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2017-07-16 18:42:19
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2017-07-16 18:42:18 GET /robots.txt - 66.249.79.23 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 404 1405 231
+2017-07-16 18:42:19 GET /webapps/site/89914/230892/info/galleryExpose3x10.html - 66.249.79.23 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 404 1405 380
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2017-07-16 19:28:18
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2017-07-16 19:28:18 GET /webapps/site/89914/0/search/sitemap.html - 66.249.79.23 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 404 1405 338
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2017-07-16 22:58:59
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2017-07-16 22:58:58 POST / - 173.208.221.194 HTTP/1.1 Mozilla/5.0+(Windows;+Windows+NT+5.1;+en-US)+Firefox/3.5.0 http://ngateahotel.co.nz/wp-admin/ 200 978 661
+2017-07-16 22:58:58 GET /wp-content/uploads/8d4ccaefcff8937.php - 173.208.221.194 HTTP/1.1 Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.1;+Trident/5.0) - 404 1405 230
+2017-07-16 22:58:59 GET /static/js/tiny_mce/plugins/tinybrowser/upload.php - 173.208.221.194 HTTP/1.1 Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.1;+Trident/5.0) - 404 1405 264
+2017-07-16 22:58:59 GET /admin/lib/tiny_mce/plugins/tinybrowser/upload.php - 173.208.221.194 HTTP/1.1 Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.1;+Trident/5.0) - 404 1405 264
+2017-07-16 22:58:59 GET /tiny_mce/plugins/tinybrowser/upload.php - 173.208.221.194 HTTP/1.1 Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.1;+Trident/5.0) - 404 1405 254
+2017-07-16 22:58:59 GET /editors/tinymce/jscripts/tiny_mce/plugins/tinybrowser/upload.php - 173.208.221.194 HTTP/1.1 Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.1;+Trident/5.0) - 404 1405 279
+2017-07-16 22:58:59 POST /uploadify/uploadify.php - 173.208.221.194 HTTP/1.1 Mozilla/5.0+(Windows;+Windows+NT+5.1;+en-US)+Firefox/3.5.0 http://ngateahotel.co.nz/wp-admin/ 404 1424 308
+2017-07-16 22:59:01 POST /wp-admin/admin-ajax.php - 173.208.221.194 HTTP/1.1 Mozilla/5.0+(Windows;+Windows+NT+5.1;+en-US)+Firefox/3.5.0 http://ngateahotel.co.nz/wp-admin/ 404 1424 299
+2017-07-16 22:59:01 POST /license.php - 173.208.221.194 HTTP/1.1 Mozilla/5.0+(Windows;+Windows+NT+5.1;+en-US)+Firefox/3.5.0 http://ngateahotel.co.nz/wp-admin/ 404 1424 287
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2017-07-17 01:34:43
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2017-07-17 01:34:42 GET /en/admin/elfinder/elfinder.html - 182.138.214.237 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+9_1+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Version/9.0+Mobile/13B143+Safari/601.1 - 404 1405 375
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2017-07-17 02:29:02
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2017-07-17 02:29:02 GET /robots.txt - 35.184.189.105 HTTP/1.1 ltx71+-+(http://ltx71.com/) - 404 1424 241
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2017-07-17 04:04:47
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2017-07-17 04:04:47 GET /wp-login.php - 122.237.72.167 HTTP/1.1 Mozilla/5.0+(Linux;+U;+Android+2.2)+AppleWebKit/533.1+(KHTML,+like+Gecko)+Version/4.0+Mobile+Safari/533.1 - 404 1405 4320
+2017-07-17 04:04:52 GET /administrator/index.php - 122.237.72.167 HTTP/1.1 Mozilla/5.0+(Linux;+U;+Android+2.2)+AppleWebKit/533.1+(KHTML,+like+Gecko)+Version/4.0+Mobile+Safari/533.1 - 404 1405 1974
+2017-07-17 04:04:52 GET /admin.php - 122.237.72.167 HTTP/1.1 Mozilla/5.0+(Linux;+U;+Android+2.2)+AppleWebKit/533.1+(KHTML,+like+Gecko)+Version/4.0+Mobile+Safari/533.1 - 404 1405 1960
+2017-07-17 04:04:54 GET /bitrix/admin/index.php - 122.237.72.167 HTTP/1.1 Mozilla/5.0+(Linux;+U;+Android+2.2)+AppleWebKit/533.1+(KHTML,+like+Gecko)+Version/4.0+Mobile+Safari/533.1 - 404 1405 1981
+2017-07-17 04:04:54 GET /admin/login.php - 122.237.72.167 HTTP/1.1 Mozilla/5.0+(Linux;+U;+Android+2.2)+AppleWebKit/533.1+(KHTML,+like+Gecko)+Version/4.0+Mobile+Safari/533.1 - 404 1405 1440
+2017-07-17 04:04:56 GET /admin/ - 122.237.72.167 HTTP/1.1 Mozilla/5.0+(Linux;+U;+Android+2.2)+AppleWebKit/533.1+(KHTML,+like+Gecko)+Version/4.0+Mobile+Safari/533.1 - 404 1405 1957
+2017-07-17 04:04:56 GET /user/ - 122.237.72.167 HTTP/1.1 Mozilla/5.0+(Linux;+U;+Android+2.2)+AppleWebKit/533.1+(KHTML,+like+Gecko)+Version/4.0+Mobile+Safari/533.1 - 404 1405 1956
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2017-07-17 04:32:00
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2017-07-17 04:32:00 GET / - 212.47.228.39 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/56.0.2924.87+Safari/537.36 - 200 837 287
+2017-07-17 04:32:00 GET / - 163.172.191.240 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/53.0.2785.101+Safari/537.36 - 200 818 287
+2017-07-17 04:32:00 GET / - 163.172.191.240 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/53.0.2785.101+Safari/537.36 - 200 818 291

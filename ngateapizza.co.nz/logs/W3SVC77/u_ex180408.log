@@ -1,0 +1,17 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-04-08 09:12:47
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-04-08 09:12:47 GET /robots.txt - 64.246.161.30 HTTP/1.0 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10.10;+rv:59.0)+Gecko/20100101+Firefox/59.0 - 404 1424 239
+2018-04-08 09:12:47 GET / - 64.246.161.30 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10.10;+rv:59.0)+Gecko/20100101+Firefox/59.0 - 200 8794 379
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-04-08 12:57:03
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-04-08 12:57:03 GET / - 54.67.59.131 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_12_6)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/61.0.3163.100+Safari/537.36 - 200 8794 205
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-04-08 19:00:28
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-04-08 19:00:27 GET /robots.txt - 5.45.207.33 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - 404 1405 200
+2018-04-08 19:00:31 GET /images/1.jpg - 5.45.207.33 HTTP/1.1 Mozilla/5.0+(compatible;+YandexImages/3.0;++http://yandex.com/bots) - 304 211 286

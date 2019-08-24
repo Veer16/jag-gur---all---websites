@@ -1,0 +1,17 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2019-03-05 11:50:25
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2019-03-05 11:50:24 GET / - 34.217.103.235 HTTP/1.1 Go-http-client/1.1 - 200 8794 98
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2019-03-05 12:20:42
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2019-03-05 12:20:41 GET /images/s4.jpg - 156.205.163.107 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/72.0.3626.119+Safari/537.36 https://www.google.com.eg/ 200 27363 360
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2019-03-06 01:29:08
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2019-03-06 01:29:07 GET /robots.txt - 66.249.64.215 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 404 1405 231
+2019-03-06 01:30:10 GET / - 66.249.64.215 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 37853 294
+2019-03-06 01:30:27 GET /js/jquery.magnific-popup.js - 66.249.64.217 HTTP/1.1 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+compatible;+Googlebot/2.1;++http://www.google.com/bot.html)+Safari/537.36 http://ngateapizza.co.nz/ 200 45995 373

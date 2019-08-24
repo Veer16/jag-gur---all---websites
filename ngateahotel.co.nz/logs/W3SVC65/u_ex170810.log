@@ -1,0 +1,33 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2017-08-10 09:00:14
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2017-08-10 09:00:14 GET / - 66.102.6.12 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/49.0.2623.75+Safari/537.36+Google+Favicon - 200 818 365
+2017-08-10 09:00:14 GET /favicon.ico - 66.102.6.14 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/49.0.2623.75+Safari/537.36+Google+Favicon - 404 1405 320
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2017-08-10 09:19:46
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2017-08-10 09:19:46 GET / - 130.211.102.243 HTTP/1.1 - - 200 959 71
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2017-08-10 17:17:01
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2017-08-10 17:17:01 GET / - 216.19.222.229 HTTP/1.1 =Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US)+AppleWebKit/534.16+(KHTML,+like+Gecko)+Chrome/10.0.648.204+Safari/534.16 - 200 959 215
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2017-08-10 19:23:34
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2017-08-10 19:23:34 GET /favicon.ico - 66.102.6.12 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/49.0.2623.75+Safari/537.36+Google+Favicon - 404 1405 320
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2017-08-10 23:20:33
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2017-08-10 23:20:33 GET /robots.txt - 46.229.164.98 HTTP/1.1 Mozilla/5.0+(compatible;+SemrushBot/1.2~bl;++http://www.semrush.com/bot.html) - 404 1424 211
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2017-08-11 05:29:12
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2017-08-11 05:29:12 GET / - 66.102.6.10 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/49.0.2623.75+Safari/537.36+Google+Favicon - 200 818 365
+2017-08-11 05:29:16 GET / - 47.72.38.202 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/60.0.3112.90+Safari/537.36 - 200 818 394
+2017-08-11 05:29:16 GET /favicon.ico - 47.72.38.202 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/60.0.3112.90+Safari/537.36 http://ngateahotel.co.nz/ 404 1405 365

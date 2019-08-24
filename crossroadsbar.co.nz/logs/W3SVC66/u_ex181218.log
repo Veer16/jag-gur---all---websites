@@ -1,0 +1,101 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-12-18 07:30:29
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-12-18 07:30:28 GET /robots.txt - 141.8.132.37 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - 404 1405 206
+2018-12-18 07:30:32 GET / - 141.8.132.37 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - 200 7018 288
+2018-12-18 07:30:36 GET /index.html - 5.45.207.33 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - 200 5621 298
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-12-18 08:49:26
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-12-18 08:49:26 GET /robots.txt - 173.252.95.1 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 404 1424 229
+2018-12-18 08:50:31 GET / - 173.252.95.13 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.98+Safari/537.36 https://www.facebook.com/ 200 7018 483
+2018-12-18 08:50:31 GET /css/animate.css - 173.252.95.13 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.98+Safari/537.36 http://crossroadsbar.co.nz/?fbclid=IwAR2bH4ZWyLGPRFECMrs-T9uhJadh7tS-eDAOULYpC2aHR7_o5JCoyTpPtuI 200 8279 403
+2018-12-18 08:50:31 GET /css/swipebox.css - 173.252.95.36 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.98+Safari/537.36 http://crossroadsbar.co.nz/?fbclid=IwAR2bH4ZWyLGPRFECMrs-T9uhJadh7tS-eDAOULYpC2aHR7_o5JCoyTpPtuI 200 1525 404
+2018-12-18 08:50:31 GET /js/move-top.js - 173.252.95.13 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.98+Safari/537.36 http://crossroadsbar.co.nz/?fbclid=IwAR2bH4ZWyLGPRFECMrs-T9uhJadh7tS-eDAOULYpC2aHR7_o5JCoyTpPtuI 200 1080 387
+2018-12-18 08:50:31 GET /js/easing.js - 173.252.95.36 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.98+Safari/537.36 http://crossroadsbar.co.nz/?fbclid=IwAR2bH4ZWyLGPRFECMrs-T9uhJadh7tS-eDAOULYpC2aHR7_o5JCoyTpPtuI 200 1740 385
+2018-12-18 08:50:31 GET /js/jquery.swipebox.min.js - 173.252.95.13 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.98+Safari/537.36 http://crossroadsbar.co.nz/?fbclid=IwAR2bH4ZWyLGPRFECMrs-T9uhJadh7tS-eDAOULYpC2aHR7_o5JCoyTpPtuI 200 2872 398
+2018-12-18 08:50:31 GET /js/wow.min.js - 173.252.95.36 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.98+Safari/537.36 http://crossroadsbar.co.nz/?fbclid=IwAR2bH4ZWyLGPRFECMrs-T9uhJadh7tS-eDAOULYpC2aHR7_o5JCoyTpPtuI 200 2376 386
+2018-12-18 08:50:32 GET /css/iconeffects.css - 173.252.95.16 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.98+Safari/537.36 http://crossroadsbar.co.nz/?fbclid=IwAR2bH4ZWyLGPRFECMrs-T9uhJadh7tS-eDAOULYpC2aHR7_o5JCoyTpPtuI 200 3470 407
+2018-12-18 08:50:32 GET /css/style.css - 173.252.95.4 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.98+Safari/537.36 http://crossroadsbar.co.nz/?fbclid=IwAR2bH4ZWyLGPRFECMrs-T9uhJadh7tS-eDAOULYpC2aHR7_o5JCoyTpPtuI 200 15962 401
+2018-12-18 08:50:32 GET /js/jquery-1.11.1.min.js - 173.252.95.22 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.98+Safari/537.36 http://crossroadsbar.co.nz/?fbclid=IwAR2bH4ZWyLGPRFECMrs-T9uhJadh7tS-eDAOULYpC2aHR7_o5JCoyTpPtuI 200 43072 396
+2018-12-18 08:50:32 GET /css/bootstrap.css - 173.252.95.11 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.98+Safari/537.36 http://crossroadsbar.co.nz/?fbclid=IwAR2bH4ZWyLGPRFECMrs-T9uhJadh7tS-eDAOULYpC2aHR7_o5JCoyTpPtuI 200 27109 405
+2018-12-18 08:50:32 GET /pagead2.googlesyndication.com/pagead/js/f.txt - 173.252.95.36 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.98+Safari/537.36 http://crossroadsbar.co.nz/?fbclid=IwAR2bH4ZWyLGPRFECMrs-T9uhJadh7tS-eDAOULYpC2aHR7_o5JCoyTpPtuI 404 1405 418
+2018-12-18 08:50:32 GET /js/responsiveslides.min.js - 173.252.95.22 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.98+Safari/537.36 http://crossroadsbar.co.nz/?fbclid=IwAR2bH4ZWyLGPRFECMrs-T9uhJadh7tS-eDAOULYpC2aHR7_o5JCoyTpPtuI 200 2127 399
+2018-12-18 08:50:32 GET /cdn.fancybar.net/ac/fancybar6a2f.js - 173.252.95.11 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.98+Safari/537.36 http://crossroadsbar.co.nz/?fbclid=IwAR2bH4ZWyLGPRFECMrs-T9uhJadh7tS-eDAOULYpC2aHR7_o5JCoyTpPtuI 404 1405 454
+2018-12-18 08:50:32 GET /images/border.png - 173.252.95.4 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.98+Safari/537.36 http://crossroadsbar.co.nz/?fbclid=IwAR2bH4ZWyLGPRFECMrs-T9uhJadh7tS-eDAOULYpC2aHR7_o5JCoyTpPtuI 200 3286 426
+2018-12-18 08:50:32 GET /images/down.png - 173.252.95.16 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.98+Safari/537.36 http://crossroadsbar.co.nz/?fbclid=IwAR2bH4ZWyLGPRFECMrs-T9uhJadh7tS-eDAOULYpC2aHR7_o5JCoyTpPtuI 200 4972 424
+2018-12-18 08:50:34 GET /images/serve1.png - 173.252.95.16 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.98+Safari/537.36 http://crossroadsbar.co.nz/?fbclid=IwAR2bH4ZWyLGPRFECMrs-T9uhJadh7tS-eDAOULYpC2aHR7_o5JCoyTpPtuI 200 1714 426
+2018-12-18 08:50:34 GET /images/serve2.png - 173.252.95.16 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.98+Safari/537.36 http://crossroadsbar.co.nz/?fbclid=IwAR2bH4ZWyLGPRFECMrs-T9uhJadh7tS-eDAOULYpC2aHR7_o5JCoyTpPtuI 200 4431 426
+2018-12-18 08:50:34 GET /images/move-top.png - 173.252.95.16 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.98+Safari/537.36 http://crossroadsbar.co.nz/css/style.css 200 3488 372
+2018-12-18 08:50:34 GET /images/s1.jpg - 173.252.95.13 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.98+Safari/537.36 http://crossroadsbar.co.nz/?fbclid=IwAR2bH4ZWyLGPRFECMrs-T9uhJadh7tS-eDAOULYpC2aHR7_o5JCoyTpPtuI 200 692503 422
+2018-12-18 08:50:34 GET /images/serve3.png - 173.252.95.16 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.98+Safari/537.36 http://crossroadsbar.co.nz/?fbclid=IwAR2bH4ZWyLGPRFECMrs-T9uhJadh7tS-eDAOULYpC2aHR7_o5JCoyTpPtuI 200 7307 426
+2018-12-18 08:50:35 GET /images/s2.jpg - 173.252.95.22 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.98+Safari/537.36 http://crossroadsbar.co.nz/?fbclid=IwAR2bH4ZWyLGPRFECMrs-T9uhJadh7tS-eDAOULYpC2aHR7_o5JCoyTpPtuI 200 863576 422
+2018-12-18 08:50:35 GET /images/serve4.png - 173.252.95.13 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.98+Safari/537.36 http://crossroadsbar.co.nz/?fbclid=IwAR2bH4ZWyLGPRFECMrs-T9uhJadh7tS-eDAOULYpC2aHR7_o5JCoyTpPtuI 200 4415 426
+2018-12-18 08:50:35 GET /images/s3.jpg - 173.252.95.4 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.98+Safari/537.36 http://crossroadsbar.co.nz/?fbclid=IwAR2bH4ZWyLGPRFECMrs-T9uhJadh7tS-eDAOULYpC2aHR7_o5JCoyTpPtuI 200 914588 422
+2018-12-18 08:50:35 GET /images/c1.jpg - 173.252.95.13 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.98+Safari/537.36 http://crossroadsbar.co.nz/?fbclid=IwAR2bH4ZWyLGPRFECMrs-T9uhJadh7tS-eDAOULYpC2aHR7_o5JCoyTpPtuI 200 33007 422
+2018-12-18 08:50:35 GET /images/g2.jpg - 173.252.95.22 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.98+Safari/537.36 http://crossroadsbar.co.nz/?fbclid=IwAR2bH4ZWyLGPRFECMrs-T9uhJadh7tS-eDAOULYpC2aHR7_o5JCoyTpPtuI 200 64370 422
+2018-12-18 08:50:35 GET /images/s4.jpg - 173.252.95.16 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.98+Safari/537.36 http://crossroadsbar.co.nz/?fbclid=IwAR2bH4ZWyLGPRFECMrs-T9uhJadh7tS-eDAOULYpC2aHR7_o5JCoyTpPtuI 200 882157 422
+2018-12-18 08:50:35 GET /images/c2.jpg - 173.252.95.4 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.98+Safari/537.36 http://crossroadsbar.co.nz/?fbclid=IwAR2bH4ZWyLGPRFECMrs-T9uhJadh7tS-eDAOULYpC2aHR7_o5JCoyTpPtuI 200 30984 422
+2018-12-18 08:50:35 GET /images/g1.jpg - 173.252.95.16 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.98+Safari/537.36 http://crossroadsbar.co.nz/?fbclid=IwAR2bH4ZWyLGPRFECMrs-T9uhJadh7tS-eDAOULYpC2aHR7_o5JCoyTpPtuI 200 48831 422
+2018-12-18 08:50:35 GET /images/c3.jpg - 173.252.95.22 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.98+Safari/537.36 http://crossroadsbar.co.nz/?fbclid=IwAR2bH4ZWyLGPRFECMrs-T9uhJadh7tS-eDAOULYpC2aHR7_o5JCoyTpPtuI 200 39200 422
+2018-12-18 08:50:35 GET /images/c4.jpg - 173.252.95.13 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.98+Safari/537.36 http://crossroadsbar.co.nz/?fbclid=IwAR2bH4ZWyLGPRFECMrs-T9uhJadh7tS-eDAOULYpC2aHR7_o5JCoyTpPtuI 200 42204 422
+2018-12-18 08:50:35 GET /images/g7.jpg - 173.252.95.16 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.98+Safari/537.36 http://crossroadsbar.co.nz/?fbclid=IwAR2bH4ZWyLGPRFECMrs-T9uhJadh7tS-eDAOULYpC2aHR7_o5JCoyTpPtuI 200 59529 422
+2018-12-18 08:50:35 GET /images/g8.jpg - 173.252.95.4 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.98+Safari/537.36 http://crossroadsbar.co.nz/?fbclid=IwAR2bH4ZWyLGPRFECMrs-T9uhJadh7tS-eDAOULYpC2aHR7_o5JCoyTpPtuI 200 48224 422
+2018-12-18 08:50:35 GET /www.google-analytics.com/analytics.js - 173.252.95.16 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.98+Safari/537.36 http://crossroadsbar.co.nz/?fbclid=IwAR2bH4ZWyLGPRFECMrs-T9uhJadh7tS-eDAOULYpC2aHR7_o5JCoyTpPtuI 404 1405 410
+2018-12-18 08:50:35 GET /images/tw.png - 173.252.95.22 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.98+Safari/537.36 http://crossroadsbar.co.nz/css/style.css 200 7323 366
+2018-12-18 08:50:36 GET /images/fb.png - 173.252.95.13 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.98+Safari/537.36 http://crossroadsbar.co.nz/css/style.css 200 7384 366
+2018-12-18 08:50:36 GET /images/gg.png - 173.252.95.16 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.98+Safari/537.36 http://crossroadsbar.co.nz/css/style.css 200 7753 366
+2018-12-18 08:50:36 GET /images/banner.jpg - 173.252.95.16 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.98+Safari/537.36 http://crossroadsbar.co.nz/css/style.css 200 339923 370
+2018-12-18 08:50:36 GET /images/db.png - 173.252.95.4 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.98+Safari/537.36 http://crossroadsbar.co.nz/css/style.css 200 7998 366
+2018-12-18 08:50:36 GET /favicon.ico - 173.252.95.4 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.98+Safari/537.36 http://crossroadsbar.co.nz/?fbclid=IwAR2bH4ZWyLGPRFECMrs-T9uhJadh7tS-eDAOULYpC2aHR7_o5JCoyTpPtuI 404 1405 420
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-12-18 13:43:55
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-12-18 13:43:55 GET /robots.txt - 180.76.15.24 HTTP/1.1 Mozilla/5.0+(Windows+NT+5.1;+rv:6.0.2)+Gecko/20100101+Firefox/6.0.2 - 404 1424 221
+2018-12-18 13:45:30 GET / - 180.76.15.145 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - 200 7037 221
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-12-18 14:47:59
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-12-18 14:47:59 GET /robots.txt - 54.36.149.12 HTTP/1.1 Mozilla/5.0+(compatible;+AhrefsBot/5.2;++http://ahrefs.com/robot/) - 404 1405 180
+2018-12-18 14:48:00 GET /images/g7.jpg - 54.36.148.101 HTTP/1.1 Mozilla/5.0+(compatible;+AhrefsBot/5.2;++http://ahrefs.com/robot/) - 200 0 183
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-12-18 18:15:02
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-12-18 18:15:02 GET /robots.txt - 66.249.64.78 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 404 1405 237
+2018-12-18 18:15:36 GET / - 66.249.64.80 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 7018 300
+2018-12-18 18:15:47 GET /pagead2.googlesyndication.com/pagead/js/f.txt - 66.249.64.78 HTTP/1.1 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+compatible;+Googlebot/2.1;++http://www.google.com/bot.html)+Safari/537.36 http://www.crossroadsbar.co.nz/ 404 1405 403
+2018-12-18 18:15:49 GET /robots.txt - 66.249.64.78 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 404 1405 233
+2018-12-18 18:15:58 GET /www.google-analytics.com/analytics.js - 66.249.64.82 HTTP/1.1 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+compatible;+Googlebot/2.1;++http://www.google.com/bot.html)+Safari/537.36 http://www.crossroadsbar.co.nz/ 404 1405 395
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-12-18 19:53:05
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-12-18 19:53:05 GET /images/c3.jpg - 54.36.148.60 HTTP/1.1 Mozilla/5.0+(compatible;+AhrefsBot/5.2;++http://ahrefs.com/robot/) - 200 0 187
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-12-18 20:41:37
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-12-18 20:41:37 GET /index.html - 207.46.13.208 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - 200 23480 288
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-12-18 23:43:57
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-12-18 23:43:57 GET / - 157.55.39.200 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - 200 23480 278
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-12-19 03:04:30
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-12-19 03:04:29 GET /robots.txt - 199.47.87.143 HTTP/1.1 TurnitinBot+(https://turnitin.com/robot/crawlerinfo.html) - 404 1405 179
+2018-12-19 03:04:31 GET /robots.txt - 199.47.87.143 HTTP/1.1 TurnitinBot+(https://turnitin.com/robot/crawlerinfo.html) - 404 1405 183
+2018-12-19 03:04:31 GET / - 199.47.87.143 HTTP/1.1 TurnitinBot+(https://turnitin.com/robot/crawlerinfo.html) - 304 211 223
+2018-12-19 03:04:32 GET /index.html - 199.47.87.143 HTTP/1.1 TurnitinBot+(https://turnitin.com/robot/crawlerinfo.html) - 304 210 233
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-12-19 04:05:16
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-12-19 04:05:15 GET / - 180.76.15.162 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - 200 23499 221

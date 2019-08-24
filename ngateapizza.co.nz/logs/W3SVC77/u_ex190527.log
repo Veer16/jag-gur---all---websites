@@ -1,0 +1,43 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2019-05-27 10:48:58
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2019-05-27 10:48:58 GET / - 54.149.248.141 HTTP/1.1 Go-http-client/1.1 - 200 0 98
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2019-05-28 01:56:46
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2019-05-28 01:56:45 GET /robots.txt - 66.249.69.55 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 404 1405 231
+2019-05-28 01:56:46 GET / - 66.249.69.59 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 8794 294
+2019-05-28 01:56:50 GET /favicon.ico - 66.249.69.57 HTTP/1.1 Googlebot-Image/1.0 - 404 1405 192
+2019-05-28 02:04:30 GET /helpers/scrollreveal/anijs-helper-scrollreveal-min.js - 203.144.40.153 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+Trident/7.0;+rv:11.0)+like+Gecko http://ngateapizza.co.nz/ 404 1405 424
+2019-05-28 02:04:30 GET /js/jquery.contact-buttons.js - 203.144.40.153 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+Trident/7.0;+rv:11.0)+like+Gecko http://ngateapizza.co.nz/ 404 1405 399
+2019-05-28 02:04:31 GET / - 52.64.156.81 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+Trident/7.0;+rv:11.0)+like+Gecko - 200 37853 197
+2019-05-28 02:04:31 GET / - 52.64.156.81 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+Trident/7.0;+rv:11.0)+like+Gecko - 200 37853 197
+2019-05-28 02:04:32 GET /anijs-min.js - 203.144.40.153 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+Trident/7.0;+rv:11.0)+like+Gecko http://ngateapizza.co.nz/ 404 1405 383
+2019-05-28 02:04:32 GET /css/contact-buttons.css - 203.144.40.153 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+Trident/7.0;+rv:11.0)+like+Gecko http://ngateapizza.co.nz/ 404 1405 374
+2019-05-28 02:04:32 GET /css/contact-buttons.css - 52.64.156.81 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+Trident/7.0;+rv:11.0)+like+Gecko - 404 1405 220
+2019-05-28 02:04:34 GET /fonts/glyphicons-halflings-regular.eot - 203.144.40.153 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+Trident/7.0;+rv:11.0)+like+Gecko http://ngateapizza.co.nz/ 200 14342 414
+2019-05-28 02:04:35 GET /fonts/glyphicons-halflings-regular.eot - 52.64.156.81 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+Trident/7.0;+rv:11.0)+like+Gecko - 200 2896 236
+2019-05-28 02:04:35 GET /favicon.ico - 203.144.40.153 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+Trident/7.0;+rv:11.0)+like+Gecko - 404 1405 292
+2019-05-28 02:04:35 GET /favicon.ico - 52.64.156.81 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+Trident/7.0;+rv:11.0)+like+Gecko - 404 1405 208
+2019-05-28 02:04:43 GET /css/contact-buttons.css - 203.144.40.153 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.169+Safari/537.36 http://ngateapizza.co.nz/ 404 1405 375
+2019-05-28 02:04:43 GET /helpers/scrollreveal/anijs-helper-scrollreveal-min.js - 203.144.40.153 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.169+Safari/537.36 http://ngateapizza.co.nz/ 404 1405 390
+2019-05-28 02:04:43 GET /anijs-min.js - 203.144.40.153 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.169+Safari/537.36 http://ngateapizza.co.nz/ 404 1405 349
+2019-05-28 02:04:43 GET /js/jquery.contact-buttons.js - 203.144.40.153 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.169+Safari/537.36 http://ngateapizza.co.nz/ 404 1405 365
+2019-05-28 02:04:44 GET /anijs-min.js - 203.144.40.153 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.169+Safari/537.36 http://ngateapizza.co.nz/ 404 1405 349
+2019-05-28 02:04:44 GET /helpers/scrollreveal/anijs-helper-scrollreveal-min.js - 203.144.40.153 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.169+Safari/537.36 http://ngateapizza.co.nz/ 404 1405 390
+2019-05-28 02:04:45 GET /js/jquery.contact-buttons.js - 203.144.40.153 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.169+Safari/537.36 http://ngateapizza.co.nz/ 404 1405 365
+2019-05-28 02:04:45 GET /fonts/glyphicons-halflings-regular.woff - 203.144.40.153 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.169+Safari/537.36 http://ngateapizza.co.nz/css/bootstrap.min.css 404 1405 431
+2019-05-28 02:04:45 GET /fonts/glyphicons-halflings-regular.woff - 52.64.156.81 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.169+Safari/537.36 - 404 1405 277
+2019-05-28 02:04:48 GET /favicon.ico - 203.144.40.153 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.169+Safari/537.36 http://ngateapizza.co.nz/ 404 1405 384
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2019-05-28 03:07:48
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2019-05-28 03:07:48 GET / - 66.249.69.59 HTTP/1.1 Mozilla/5.0+(Linux;+Android+6.0.1;+Nexus+5X+Build/MMB29P)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2272.96+Mobile+Safari/537.36+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 8794 552
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2019-05-28 04:55:48
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2019-05-28 04:55:47 GET /images/logo.png - 64.233.173.140 HTTP/1.1 Mozilla/5.0+(Windows+NT+5.1;+rv:11.0)+Gecko+Firefox/11.0+(via+ggpht.com+GoogleImageProxy) - 200 96088 219

@@ -1,0 +1,261 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-02-23 09:25:43
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-02-23 09:25:43 GET / - 101.53.219.241 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 https://www.google.com/ 200 8209 366
+2018-02-23 09:25:43 GET /css/font-awesome.min.css - 101.53.219.241 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 http://www.kaiparatavern.co.nz/ 200 8118 323
+2018-02-23 09:25:43 GET /css/jQuery.lightninBox.css - 101.53.219.241 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 http://www.kaiparatavern.co.nz/ 200 1481 325
+2018-02-23 09:25:43 GET /css/team.css - 101.53.219.241 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 http://www.kaiparatavern.co.nz/ 200 1027 311
+2018-02-23 09:25:43 GET /js/SmoothScroll.min.js - 101.53.219.241 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 http://www.kaiparatavern.co.nz/ 200 3749 306
+2018-02-23 09:25:43 GET /js/modernizr.custom.js - 101.53.219.241 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 http://www.kaiparatavern.co.nz/ 200 4923 306
+2018-02-23 09:25:44 GET /js/jquery.min.js - 101.53.219.241 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 http://www.kaiparatavern.co.nz/ 200 43185 300
+2018-02-23 09:25:44 GET /js/main.js - 101.53.219.241 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 http://www.kaiparatavern.co.nz/ 200 871 294
+2018-02-23 09:25:44 GET /css/style.css - 101.53.219.241 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 http://www.kaiparatavern.co.nz/ 200 11722 312
+2018-02-23 09:25:44 GET /css/bootstrap.min.css - 101.53.219.241 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 http://www.kaiparatavern.co.nz/ 200 27990 320
+2018-02-23 09:25:44 GET /js/jQuery.lightninBox.js - 101.53.219.241 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 http://www.kaiparatavern.co.nz/ 200 3081 308
+2018-02-23 09:25:44 GET /js/boot_slider.js - 101.53.219.241 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 http://www.kaiparatavern.co.nz/ 200 2045 301
+2018-02-23 09:25:44 GET /js/cbpFWTabs.js - 101.53.219.241 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 http://www.kaiparatavern.co.nz/ 200 1208 299
+2018-02-23 09:25:44 GET /js/bootstrap.min.js - 101.53.219.241 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 http://www.kaiparatavern.co.nz/ 200 13266 303
+2018-02-23 09:25:47 GET /css/images/cd-top-arrow.svg - 101.53.219.241 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 http://www.kaiparatavern.co.nz/css/style.css 404 1405 324
+2018-02-23 09:25:47 GET /fonts/fontawesome-webfont.woff2 - 101.53.219.241 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 http://www.kaiparatavern.co.nz/css/font-awesome.min.css 404 1405 405
+2018-02-23 09:25:47 GET /fonts/fontawesome-webfont.woff - 101.53.219.241 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 http://www.kaiparatavern.co.nz/css/font-awesome.min.css 404 1405 404
+2018-02-23 09:25:48 GET /images/logo.png - 101.53.219.241 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 http://www.kaiparatavern.co.nz/ 200 9464 299
+2018-02-23 09:25:52 GET /images/banner2.jpg - 101.53.219.241 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 http://www.kaiparatavern.co.nz/ 200 46855 302
+2018-02-23 09:25:52 GET /fonts/fontawesome-webfont.ttf - 101.53.219.241 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 http://www.kaiparatavern.co.nz/css/font-awesome.min.css 200 152629 408
+2018-02-23 09:25:52 GET /images/banner1.jpg - 101.53.219.241 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 http://www.kaiparatavern.co.nz/ 200 553071 302
+2018-02-23 09:25:59 GET /images/banner3.jpg - 101.53.219.241 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 http://www.kaiparatavern.co.nz/ 200 448536 302
+2018-02-23 09:25:59 GET /images/team2.jpg - 101.53.219.241 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 http://www.kaiparatavern.co.nz/ 200 920251 300
+2018-02-23 09:25:59 GET /images/team1.jpg - 101.53.219.241 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 http://www.kaiparatavern.co.nz/ 200 982372 300
+2018-02-23 09:26:01 GET /images/team3.jpg - 101.53.219.241 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 http://www.kaiparatavern.co.nz/ 200 843003 300
+2018-02-23 09:26:01 GET /images/xtra_logo.png - 101.53.219.241 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 http://www.kaiparatavern.co.nz/ 200 26596 304
+2018-02-23 09:26:01 GET /images/info.jpg - 101.53.219.241 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 http://www.kaiparatavern.co.nz/css/style.css 200 729150 312
+2018-02-23 09:26:08 GET /images/work-img2.jpg - 101.53.219.241 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 http://www.kaiparatavern.co.nz/ 200 1001601 304
+2018-02-23 09:26:08 GET /images/work-img1.jpg - 101.53.219.241 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 http://www.kaiparatavern.co.nz/ 200 889310 304
+2018-02-23 09:26:08 GET /images/banner4.jpg - 101.53.219.241 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 http://www.kaiparatavern.co.nz/ 200 747680 302
+2018-02-23 09:26:10 GET /images/team4.jpg - 101.53.219.241 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 http://www.kaiparatavern.co.nz/ 200 957546 300
+2018-02-23 09:26:14 GET /images/work-img5.jpg - 101.53.219.241 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 http://www.kaiparatavern.co.nz/ 200 869467 304
+2018-02-23 09:26:14 GET /images/work-img3.jpg - 101.53.219.241 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 http://www.kaiparatavern.co.nz/ 200 943143 304
+2018-02-23 09:26:14 GET /images/banner5.jpg - 101.53.219.241 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 http://www.kaiparatavern.co.nz/ 200 680331 302
+2018-02-23 09:26:17 GET /images/work-img4.jpg - 101.53.219.241 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 http://www.kaiparatavern.co.nz/ 200 946466 304
+2018-02-23 09:26:20 GET /images/work-img6.jpg - 101.53.219.241 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 http://www.kaiparatavern.co.nz/ 200 1093416 304
+2018-02-23 09:26:20 GET /images/work-img8.jpg - 101.53.219.241 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 http://www.kaiparatavern.co.nz/ 200 915658 304
+2018-02-23 09:26:20 GET /images/work-img7.jpg - 101.53.219.241 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 http://www.kaiparatavern.co.nz/ 200 1067450 304
+2018-02-23 09:26:23 GET /images/work-img9.jpg - 101.53.219.241 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 http://www.kaiparatavern.co.nz/ 200 1018615 304
+2018-02-23 09:26:24 GET /images/work-img11.jpg - 101.53.219.241 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 http://www.kaiparatavern.co.nz/ 200 891396 305
+2018-02-23 09:26:28 GET /images/work-img10.jpg - 101.53.219.241 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 http://www.kaiparatavern.co.nz/ 200 968132 305
+2018-02-23 09:26:32 GET /images/work-img12.jpg - 101.53.219.241 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 http://www.kaiparatavern.co.nz/ 200 961465 305
+2018-02-23 09:26:32 GET /favicon.ico - 101.53.219.241 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 - 404 1405 313
+2018-02-23 09:34:00 GET / - 101.53.219.241 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 - 200 8209 375
+2018-02-23 09:34:00 GET /css/font-awesome.min.css - 101.53.219.241 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 http://www.kaiparatavern.co.nz/ 200 8118 366
+2018-02-23 09:34:00 GET /css/team.css - 101.53.219.241 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 http://www.kaiparatavern.co.nz/ 200 1027 354
+2018-02-23 09:34:00 GET /css/jQuery.lightninBox.css - 101.53.219.241 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 http://www.kaiparatavern.co.nz/ 200 1481 368
+2018-02-23 09:34:00 GET /js/SmoothScroll.min.js - 101.53.219.241 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 http://www.kaiparatavern.co.nz/ 200 3749 349
+2018-02-23 09:34:00 GET /js/modernizr.custom.js - 101.53.219.241 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 http://www.kaiparatavern.co.nz/ 200 4923 349
+2018-02-23 09:34:01 GET /js/jquery.min.js - 101.53.219.241 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 http://www.kaiparatavern.co.nz/ 200 43185 343
+2018-02-23 09:34:01 GET /js/main.js - 101.53.219.241 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 http://www.kaiparatavern.co.nz/ 200 871 337
+2018-02-23 09:34:01 GET /css/style.css - 101.53.219.241 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 http://www.kaiparatavern.co.nz/ 200 11722 355
+2018-02-23 09:34:01 GET /css/bootstrap.min.css - 101.53.219.241 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 http://www.kaiparatavern.co.nz/ 200 27990 363
+2018-02-23 09:34:01 GET /js/jQuery.lightninBox.js - 101.53.219.241 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 http://www.kaiparatavern.co.nz/ 200 3081 351
+2018-02-23 09:34:01 GET /js/cbpFWTabs.js - 101.53.219.241 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 http://www.kaiparatavern.co.nz/ 200 1208 342
+2018-02-23 09:34:01 GET /js/bootstrap.min.js - 101.53.219.241 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 http://www.kaiparatavern.co.nz/ 200 13266 346
+2018-02-23 09:34:01 GET /js/boot_slider.js - 101.53.219.241 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 http://www.kaiparatavern.co.nz/ 200 2045 344
+2018-02-23 09:34:01 GET /images/logo.png - 101.53.219.241 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 http://www.kaiparatavern.co.nz/ 200 9464 342
+2018-02-23 09:34:01 GET /css/images/cd-top-arrow.svg - 101.53.219.241 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 http://www.kaiparatavern.co.nz/css/style.css 404 1405 367
+2018-02-23 09:34:02 GET /fonts/fontawesome-webfont.woff2 - 101.53.219.241 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 http://www.kaiparatavern.co.nz/css/font-awesome.min.css 404 1405 448
+2018-02-23 09:34:02 GET /fonts/fontawesome-webfont.woff - 101.53.219.241 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 http://www.kaiparatavern.co.nz/css/font-awesome.min.css 404 1405 447
+2018-02-23 09:34:07 GET /images/banner2.jpg - 101.53.219.241 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 http://www.kaiparatavern.co.nz/ 200 46855 345
+2018-02-23 09:34:10 GET /images/team3.jpg - 101.53.219.241 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 http://www.kaiparatavern.co.nz/ 200 843003 343
+2018-02-23 09:34:10 GET /fonts/fontawesome-webfont.ttf - 101.53.219.241 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 http://www.kaiparatavern.co.nz/css/font-awesome.min.css 200 152629 451
+2018-02-23 09:34:10 GET /images/team2.jpg - 101.53.219.241 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 http://www.kaiparatavern.co.nz/ 200 920251 343
+2018-02-23 09:34:11 GET /images/team1.jpg - 101.53.219.241 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 http://www.kaiparatavern.co.nz/ 200 982372 343
+2018-02-23 09:34:12 GET /images/banner3.jpg - 101.53.219.241 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 http://www.kaiparatavern.co.nz/ 200 448536 345
+2018-02-23 09:34:13 GET /images/work-img2.jpg - 101.53.219.241 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 http://www.kaiparatavern.co.nz/ 200 1001601 347
+2018-02-23 09:34:13 GET /images/banner1.jpg - 101.53.219.241 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 http://www.kaiparatavern.co.nz/ 200 553071 345
+2018-02-23 09:34:13 GET /images/xtra_logo.png - 101.53.219.241 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 http://www.kaiparatavern.co.nz/ 200 26596 347
+2018-02-23 09:34:13 GET /images/team4.jpg - 101.53.219.241 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 http://www.kaiparatavern.co.nz/ 200 957546 343
+2018-02-23 09:34:17 GET /images/work-img1.jpg - 101.53.219.241 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 http://www.kaiparatavern.co.nz/ 200 889310 347
+2018-02-23 09:34:18 GET /images/info.jpg - 101.53.219.241 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 http://www.kaiparatavern.co.nz/css/style.css 200 729150 355
+2018-02-23 09:34:18 GET /images/banner4.jpg - 101.53.219.241 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 http://www.kaiparatavern.co.nz/ 200 747680 345
+2018-02-23 09:34:19 GET /images/banner5.jpg - 101.53.219.241 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 http://www.kaiparatavern.co.nz/ 200 680331 345
+2018-02-23 09:34:21 GET /images/work-img5.jpg - 101.53.219.241 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 http://www.kaiparatavern.co.nz/ 200 869467 347
+2018-02-23 09:34:25 GET /images/work-img4.jpg - 101.53.219.241 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 http://www.kaiparatavern.co.nz/ 200 946466 347
+2018-02-23 09:34:30 GET /images/work-img7.jpg - 101.53.219.241 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 http://www.kaiparatavern.co.nz/ 200 1067450 347
+2018-02-23 09:34:33 GET /images/work-img3.jpg - 101.53.219.241 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 http://www.kaiparatavern.co.nz/ 200 943143 347
+2018-02-23 09:34:36 GET /images/work-img8.jpg - 101.53.219.241 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 http://www.kaiparatavern.co.nz/ 200 915658 347
+2018-02-23 09:34:38 GET /images/work-img11.jpg - 101.53.219.241 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 http://www.kaiparatavern.co.nz/ 200 891396 348
+2018-02-23 09:34:38 GET /images/work-img10.jpg - 101.53.219.241 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 http://www.kaiparatavern.co.nz/ 200 968132 348
+2018-02-23 09:34:40 GET /images/work-img9.jpg - 101.53.219.241 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 http://www.kaiparatavern.co.nz/ 200 1018615 347
+2018-02-23 09:34:40 GET /images/work-img6.jpg - 101.53.219.241 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 http://www.kaiparatavern.co.nz/ 200 1093416 347
+2018-02-23 09:34:46 GET /images/work-img12.jpg - 101.53.219.241 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 http://www.kaiparatavern.co.nz/ 200 961465 348
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-02-23 11:17:55
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-02-23 11:17:54 GET / - 207.102.138.158 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/38.0.2125.101+Safari/537.36 - 200 34836 310
+2018-02-23 11:17:55 GET /css/jQuery.lightninBox.css - 207.102.138.158 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/38.0.2125.101+Safari/537.36 http://kaiparatavern.co.nz/ 200 5227 329
+2018-02-23 11:17:55 GET /css/team.css - 207.102.138.158 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/38.0.2125.101+Safari/537.36 http://kaiparatavern.co.nz/ 200 3537 315
+2018-02-23 11:17:55 GET /js/modernizr.custom.js - 207.102.138.158 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/38.0.2125.101+Safari/537.36 http://kaiparatavern.co.nz/ 200 8758 310
+2018-02-23 11:17:55 GET /css/font-awesome.min.css - 207.102.138.158 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/38.0.2125.101+Safari/537.36 http://kaiparatavern.co.nz/ 200 29179 327
+2018-02-23 11:17:55 GET /css/style.css - 207.102.138.158 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/38.0.2125.101+Safari/537.36 http://kaiparatavern.co.nz/ 200 46677 316
+2018-02-23 11:17:55 GET /js/SmoothScroll.min.js - 207.102.138.158 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/38.0.2125.101+Safari/537.36 http://kaiparatavern.co.nz/ 200 6852 310
+2018-02-23 11:17:55 GET /css/bootstrap.min.css - 207.102.138.158 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/38.0.2125.101+Safari/537.36 http://kaiparatavern.co.nz/ 200 121509 324
+2018-02-23 11:17:55 GET /js/main.js - 207.102.138.158 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/38.0.2125.101+Safari/537.36 http://kaiparatavern.co.nz/ 200 1141 298
+2018-02-23 11:17:56 GET /fonts/fontawesome-webfont.woff - 207.102.138.158 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/38.0.2125.101+Safari/537.36 http://kaiparatavern.co.nz/ 404 1405 326
+2018-02-23 11:17:56 GET /js/bootstrap.min.js - 207.102.138.158 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/38.0.2125.101+Safari/537.36 http://kaiparatavern.co.nz/ 200 37132 307
+2018-02-23 11:17:56 GET /js/cbpFWTabs.js - 207.102.138.158 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/38.0.2125.101+Safari/537.36 http://kaiparatavern.co.nz/ 200 1962 303
+2018-02-23 11:17:56 GET /js/jQuery.lightninBox.js - 207.102.138.158 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/38.0.2125.101+Safari/537.36 http://kaiparatavern.co.nz/ 200 11492 312
+2018-02-23 11:17:56 GET /js/jquery.min.js - 207.102.138.158 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/38.0.2125.101+Safari/537.36 http://kaiparatavern.co.nz/ 200 96256 304
+2018-02-23 11:17:56 GET /js/boot_slider.js - 207.102.138.158 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/38.0.2125.101+Safari/537.36 http://kaiparatavern.co.nz/ 200 5146 305
+2018-02-23 11:17:59 GET /fonts/fontawesome-webfont.ttf - 207.102.138.158 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/38.0.2125.101+Safari/537.36 http://kaiparatavern.co.nz/ 200 152629 325
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-02-23 12:19:06
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-02-23 12:19:06 GET /robots.txt - 207.46.13.199 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - 404 1405 252
+2018-02-23 12:19:33 GET / - 207.46.13.109 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - 200 34836 274
+2018-02-23 12:19:37 GET /robots.txt - 157.55.39.155 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - 404 1405 252
+2018-02-23 12:19:39 GET /css/bootstrap.min.css - 65.55.210.181 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b - 200 121509 268
+2018-02-23 12:19:40 GET /css/font-awesome.min.css - 199.30.25.153 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b - 200 29179 271
+2018-02-23 12:19:43 GET /css/jQuery.lightninBox.css - 65.55.210.191 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b - 200 5227 273
+2018-02-23 12:19:44 GET /css/team.css - 65.55.210.166 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b - 200 3537 259
+2018-02-23 12:19:46 GET /css/style.css - 199.30.24.204 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b - 200 46677 260
+2018-02-23 12:19:49 GET /js/modernizr.custom.js - 199.30.25.236 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b - 200 8758 269
+2018-02-23 12:20:00 GET /js/jquery.min.js - 199.30.24.135 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b - 200 96256 263
+2018-02-23 12:20:00 GET /images/logo.png - 65.55.210.95 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b - 200 9464 262
+2018-02-23 12:20:04 GET /js/bootstrap.min.js - 65.55.210.191 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b - 200 37132 266
+2018-02-23 12:20:04 GET /images/team1.jpg - 199.30.24.171 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b - 200 982372 263
+2018-02-23 12:20:07 GET /images/team2.jpg - 65.55.210.3 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b - 200 920251 263
+2018-02-23 12:20:10 GET /js/SmoothScroll.min.js - 199.30.24.91 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b - 200 6852 269
+2018-02-23 12:20:10 GET /images/team3.jpg - 199.30.24.84 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b - 200 843003 263
+2018-02-23 12:20:13 GET /images/team4.jpg - 199.30.25.5 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b - 200 957546 263
+2018-02-23 12:20:13 GET /images/work-img1.jpg - 199.30.25.39 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b - 200 889310 267
+2018-02-23 12:20:15 GET /js/main.js - 65.55.210.111 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b - 200 1141 257
+2018-02-23 12:20:20 GET /images/work-img2.jpg - 199.30.24.195 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b - 200 1001601 267
+2018-02-23 12:20:22 GET /js/jQuery.lightninBox.js - 65.55.210.191 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b - 200 11492 271
+2018-02-23 12:20:23 GET /images/work-img3.jpg - 199.30.24.53 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b - 200 943143 267
+2018-02-23 12:20:26 GET /images/work-img4.jpg - 199.30.25.25 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b - 200 946466 267
+2018-02-23 12:20:26 GET /images/work-img5.jpg - 65.55.210.222 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b - 200 869467 267
+2018-02-23 12:20:27 GET /js/cbpFWTabs.js - 65.55.210.95 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b - 200 1962 262
+2018-02-23 12:20:32 GET /images/work-img6.jpg - 199.30.24.198 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b - 200 1093416 267
+2018-02-23 12:21:28 GET /css/images/cd-top-arrow.svg - 157.55.39.155 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - 404 1405 269
+2018-02-23 12:21:28 GET /fonts/fontawesome-webfont.svg - 157.55.39.155 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - 404 1405 279
+2018-02-23 12:21:30 GET /fonts/fontawesome-webfont.ttf - 157.55.39.155 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - 200 152629 279
+2018-02-23 12:21:49 GET /js/boot_slider.js - 207.46.13.109 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - 200 5146 259
+2018-02-23 12:21:51 GET /images/info.jpg - 207.46.13.109 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - 200 729150 257
+2018-02-23 12:34:17 HEAD / - 188.165.200.217 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+5.01;+Windows+NT+5.0) - 200 249 124
+2018-02-23 12:44:52 GET / - 101.53.219.241 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 - 200 34836 375
+2018-02-23 12:44:52 GET /css/jQuery.lightninBox.css - 101.53.219.241 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 http://www.kaiparatavern.co.nz/ 200 5227 368
+2018-02-23 12:44:52 GET /css/team.css - 101.53.219.241 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 http://www.kaiparatavern.co.nz/ 200 3537 354
+2018-02-23 12:44:53 GET /js/main.js - 101.53.219.241 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 http://www.kaiparatavern.co.nz/ 200 1141 337
+2018-02-23 12:44:53 GET /js/modernizr.custom.js - 101.53.219.241 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 http://www.kaiparatavern.co.nz/ 200 8758 349
+2018-02-23 12:44:53 GET /css/font-awesome.min.css - 101.53.219.241 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 http://www.kaiparatavern.co.nz/ 200 29179 366
+2018-02-23 12:44:53 GET /js/SmoothScroll.min.js - 101.53.219.241 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 http://www.kaiparatavern.co.nz/ 200 6852 349
+2018-02-23 12:44:53 GET /css/style.css - 101.53.219.241 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 http://www.kaiparatavern.co.nz/ 200 46677 355
+2018-02-23 12:44:53 GET /css/bootstrap.min.css - 101.53.219.241 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 http://www.kaiparatavern.co.nz/ 200 121509 363
+2018-02-23 12:44:53 GET /js/bootstrap.min.js - 101.53.219.241 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 http://www.kaiparatavern.co.nz/ 200 37132 346
+2018-02-23 12:44:53 GET /js/cbpFWTabs.js - 101.53.219.241 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 http://www.kaiparatavern.co.nz/ 200 1962 342
+2018-02-23 12:44:53 GET /js/jQuery.lightninBox.js - 101.53.219.241 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 http://www.kaiparatavern.co.nz/ 200 11492 351
+2018-02-23 12:44:54 GET /js/boot_slider.js - 101.53.219.241 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 http://www.kaiparatavern.co.nz/ 200 5146 344
+2018-02-23 12:44:54 GET /js/jquery.min.js - 101.53.219.241 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 http://www.kaiparatavern.co.nz/ 200 96256 343
+2018-02-23 12:44:56 GET /fonts/fontawesome-webfont.woff2 - 101.53.219.241 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 http://www.kaiparatavern.co.nz/css/font-awesome.min.css 404 1405 448
+2018-02-23 12:44:56 GET /css/images/cd-top-arrow.svg - 101.53.219.241 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 http://www.kaiparatavern.co.nz/css/style.css 404 1405 367
+2018-02-23 12:44:56 GET /images/logo.png - 101.53.219.241 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 http://www.kaiparatavern.co.nz/ 200 9464 342
+2018-02-23 12:44:56 GET /fonts/fontawesome-webfont.woff - 101.53.219.241 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 http://www.kaiparatavern.co.nz/css/font-awesome.min.css 404 1405 447
+2018-02-23 12:44:58 GET /fonts/fontawesome-webfont.ttf - 101.53.219.241 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 http://www.kaiparatavern.co.nz/css/font-awesome.min.css 200 152629 451
+2018-02-23 12:44:59 GET /images/banner2.jpg - 101.53.219.241 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 http://www.kaiparatavern.co.nz/ 200 46855 345
+2018-02-23 12:45:01 GET /images/banner1.jpg - 101.53.219.241 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 http://www.kaiparatavern.co.nz/ 200 553071 345
+2018-02-23 12:45:04 GET /images/team1.jpg - 101.53.219.241 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 http://www.kaiparatavern.co.nz/ 200 982372 343
+2018-02-23 12:45:06 GET /images/banner3.jpg - 101.53.219.241 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 http://www.kaiparatavern.co.nz/ 200 448536 345
+2018-02-23 12:45:09 GET /images/team4.jpg - 101.53.219.241 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 http://www.kaiparatavern.co.nz/ 200 957546 343
+2018-02-23 12:45:10 GET /images/info.jpg - 101.53.219.241 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 http://www.kaiparatavern.co.nz/css/style.css 200 729150 355
+2018-02-23 12:45:10 GET /images/banner4.jpg - 101.53.219.241 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 http://www.kaiparatavern.co.nz/ 200 747680 345
+2018-02-23 12:45:11 GET /images/team3.jpg - 101.53.219.241 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 http://www.kaiparatavern.co.nz/ 200 843003 343
+2018-02-23 12:45:11 GET /images/xtra_logo.png - 101.53.219.241 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 http://www.kaiparatavern.co.nz/ 200 26596 347
+2018-02-23 12:45:11 GET /images/banner5.jpg - 101.53.219.241 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 http://www.kaiparatavern.co.nz/ 200 680331 345
+2018-02-23 12:45:13 GET /images/team2.jpg - 101.53.219.241 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 http://www.kaiparatavern.co.nz/ 200 920251 343
+2018-02-23 12:45:14 GET /images/work-img1.jpg - 101.53.219.241 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 http://www.kaiparatavern.co.nz/ 200 889310 347
+2018-02-23 12:45:16 GET /images/work-img3.jpg - 101.53.219.241 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 http://www.kaiparatavern.co.nz/ 200 196608 347
+2018-02-23 12:45:16 GET /images/work-img4.jpg - 101.53.219.241 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 http://www.kaiparatavern.co.nz/ 200 327680 347
+2018-02-23 12:45:16 GET /images/work-img7.jpg - 101.53.219.241 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 http://www.kaiparatavern.co.nz/ 200 65536 347
+2018-02-23 12:45:16 GET /images/work-img2.jpg - 101.53.219.241 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 http://www.kaiparatavern.co.nz/ 200 262144 347
+2018-02-23 12:45:16 GET /images/work-img6.jpg - 101.53.219.241 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 http://www.kaiparatavern.co.nz/ 200 196608 347
+2018-02-23 12:45:16 GET /images/work-img5.jpg - 101.53.219.241 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 http://www.kaiparatavern.co.nz/ 200 196608 347
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-02-23 13:55:25
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-02-23 13:55:25 GET /robots.txt - 5.45.207.33 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - 404 1405 206
+2018-02-23 13:55:29 GET /favicon.ico - 5.45.207.33 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - 404 1405 238
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-02-23 15:55:55
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-02-23 15:55:55 GET /robots.txt - 5.196.87.141 HTTP/1.1 Mozilla/5.0+(compatible;+AhrefsBot/5.2;++http://ahrefs.com/robot/) - 404 1405 184
+2018-02-23 15:55:57 GET / - 54.36.148.53 HTTP/1.1 Mozilla/5.0+(compatible;+AhrefsBot/5.2;++http://ahrefs.com/robot/) - 200 8209 174
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-02-23 18:11:50
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-02-23 18:11:50 GET / - 199.30.25.124 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b - 200 34836 247
+2018-02-23 18:12:27 GET /css/bootstrap.min.css - 199.30.24.52 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b - 200 121509 268
+2018-02-23 18:12:28 GET /css/font-awesome.min.css - 199.30.24.52 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b - 200 29179 271
+2018-02-23 18:12:28 GET /css/jQuery.lightninBox.css - 199.30.24.52 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b - 200 5227 273
+2018-02-23 18:12:30 GET /css/team.css - 199.30.24.52 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b - 200 3537 259
+2018-02-23 18:12:32 GET /js/modernizr.custom.js - 199.30.24.52 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b - 200 8758 269
+2018-02-23 18:12:41 GET /images/team1.jpg - 199.30.24.52 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b - 200 982372 263
+2018-02-23 18:12:45 GET /images/team2.jpg - 199.30.24.52 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b - 200 920251 263
+2018-02-23 18:12:45 GET /js/bootstrap.min.js - 199.30.24.52 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b - 200 37132 266
+2018-02-23 18:12:46 GET /images/team3.jpg - 199.30.24.52 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b - 200 843003 263
+2018-02-23 18:12:54 GET /js/SmoothScroll.min.js - 199.30.24.52 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b - 200 6852 269
+2018-02-23 18:13:00 GET /images/work-img3.jpg - 199.30.24.52 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b - 200 943143 267
+2018-02-23 18:13:06 GET /images/work-img7.jpg - 199.30.24.52 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b - 200 1067450 267
+2018-02-23 18:13:08 GET /images/work-img8.jpg - 199.30.24.52 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b - 200 915658 267
+2018-02-23 18:13:08 GET /images/work-img9.jpg - 199.30.24.52 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b - 200 1018615 267
+2018-02-23 18:13:11 GET /images/work-img10.jpg - 199.30.24.52 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b - 200 968132 268
+2018-02-23 18:13:12 GET /images/work-img11.jpg - 199.30.24.52 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b - 200 891396 268
+2018-02-23 18:13:14 GET /images/work-img12.jpg - 199.30.24.52 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b - 200 961465 268
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-02-23 18:29:16
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-02-23 18:29:16 GET /robots.txt - 66.249.79.83 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 404 1405 233
+2018-02-23 18:29:16 GET / - 66.249.79.83 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 8209 296
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-02-23 19:34:05
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-02-23 19:34:05 GET / - 13.56.229.65 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_12_6)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/61.0.3163.100+Safari/537.36 - 200 8209 207
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-02-23 23:17:10
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-02-23 23:17:09 GET /.ftpconfig - 82.118.242.19 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Trident/7.0;+rv:11.0)+like+Gecko - 404 1405 248
+2018-02-23 23:17:09 GET /sftp-config.json - 82.118.242.19 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Trident/7.0;+rv:11.0)+like+Gecko - 404 1405 254
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-02-24 00:09:46
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-02-24 00:09:46 GET /robots.txt - 178.62.225.147 HTTP/1.0 SafeDNSBot+(https://www.safedns.com/searchbot) - 404 1424 275
+2018-02-24 00:09:46 GET / - 178.62.225.147 HTTP/1.0 SafeDNSBot+(https://www.safedns.com/searchbot) - 200 34855 265
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-02-24 01:25:16
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-02-24 01:25:16 GET /robots.txt - 66.249.79.104 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 404 1405 237
+2018-02-24 01:25:16 GET / - 66.249.79.104 HTTP/1.1 Mozilla/5.0+(Linux;+Android+6.0.1;+Nexus+5X+Build/MMB29P)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2272.96+Mobile+Safari/537.36+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 8209 426
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-02-24 01:45:50
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-02-24 01:45:50 GET / - 66.249.79.108 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 8209 300
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-02-24 04:29:25
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-02-24 04:29:25 GET /robots.txt - 46.229.164.101 HTTP/1.1 Mozilla/5.0+(compatible;+SemrushBot/1.2~bl;++http://www.semrush.com/bot.html) - 404 1424 213
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-02-24 05:54:34
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-02-24 05:54:34 GET /robots.txt - 216.244.66.235 HTTP/1.1 Mozilla/5.0+(compatible;+DotBot/1.1;+http://www.opensiteexplorer.org/dotbot,+help@moz.com) - 404 1405 230
+2018-02-24 06:02:37 GET /images/12.jpg - 216.244.66.235 HTTP/1.1 Mozilla/5.0+(compatible;+DotBot/1.1;+http://www.opensiteexplorer.org/dotbot,+help@moz.com) - 200 856305 233

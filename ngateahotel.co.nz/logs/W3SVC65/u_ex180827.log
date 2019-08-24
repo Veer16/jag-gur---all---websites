@@ -1,0 +1,102 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-08-27 07:11:03
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-08-27 07:11:03 GET /images/logo-big.png - 66.220.149.11 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 200 16600 222
+2018-08-27 07:11:14 GET / - 47.72.202.5 HTTP/1.1 Mozilla/5.0+(Linux;+Android+5.1.1;+SM-J200Y+Build/LMY47X;+wv)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/66.0.3359.126+Mobile+Safari/537.36+[FB_IAB/FB4A;FBAV/183.0.0.57.75;] http://m.facebook.com/ 200 13729 538
+2018-08-27 07:11:14 GET /style.css - 47.72.202.5 HTTP/1.1 Mozilla/5.0+(Linux;+Android+5.1.1;+SM-J200Y+Build/LMY47X;+wv)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/66.0.3359.126+Mobile+Safari/537.36+[FB_IAB/FB4A;FBAV/183.0.0.57.75;] http://www.ngateahotel.co.nz/ 200 5866 457
+2018-08-27 07:11:14 GET /js/prettyphoto/css/prettyPhoto.css - 47.72.202.5 HTTP/1.1 Mozilla/5.0+(Linux;+Android+5.1.1;+SM-J200Y+Build/LMY47X;+wv)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/66.0.3359.126+Mobile+Safari/537.36+[FB_IAB/FB4A;FBAV/183.0.0.57.75;] http://www.ngateahotel.co.nz/ 200 4101 482
+2018-08-27 07:11:14 GET /css/colors.css - 47.72.202.5 HTTP/1.1 Mozilla/5.0+(Linux;+Android+5.1.1;+SM-J200Y+Build/LMY47X;+wv)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/66.0.3359.126+Mobile+Safari/537.36+[FB_IAB/FB4A;FBAV/183.0.0.57.75;] http://www.ngateahotel.co.nz/ 200 3308 462
+2018-08-27 07:11:15 GET /css/bootstrap/css/bootstrap.min.css - 47.72.202.5 HTTP/1.1 Mozilla/5.0+(Linux;+Android+5.1.1;+SM-J200Y+Build/LMY47X;+wv)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/66.0.3359.126+Mobile+Safari/537.36+[FB_IAB/FB4A;FBAV/183.0.0.57.75;] http://www.ngateahotel.co.nz/ 200 22905 483
+2018-08-27 07:11:15 GET /images/logo-big.png - 47.72.202.5 HTTP/1.1 Mozilla/5.0+(Linux;+Android+5.1.1;+SM-J200Y+Build/LMY47X;+wv)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/66.0.3359.126+Mobile+Safari/537.36+[FB_IAB/FB4A;FBAV/183.0.0.57.75;] http://www.ngateahotel.co.nz/ 200 16600 488
+2018-08-27 07:11:15 GET /js/jquery.easing.min.js - 47.72.202.5 HTTP/1.1 Mozilla/5.0+(Linux;+Android+5.1.1;+SM-J200Y+Build/LMY47X;+wv)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/66.0.3359.126+Mobile+Safari/537.36+[FB_IAB/FB4A;FBAV/183.0.0.57.75;] http://www.ngateahotel.co.nz/ 200 0 456
+2018-08-27 07:11:15 GET /css/bootstrap/js/bootstrap.min.js - 47.72.202.5 HTTP/1.1 Mozilla/5.0+(Linux;+Android+5.1.1;+SM-J200Y+Build/LMY47X;+wv)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/66.0.3359.126+Mobile+Safari/537.36+[FB_IAB/FB4A;FBAV/183.0.0.57.75;] http://www.ngateahotel.co.nz/ 200 0 466
+2018-08-27 07:11:16 GET /images/bkgs/home-bkg.jpg - 47.72.202.5 HTTP/1.1 Mozilla/5.0+(Linux;+Android+5.1.1;+SM-J200Y+Build/LMY47X;+wv)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/66.0.3359.126+Mobile+Safari/537.36+[FB_IAB/FB4A;FBAV/183.0.0.57.75;] http://www.ngateahotel.co.nz/ 200 0 493
+2018-08-27 07:11:16 GET /js/prettyphoto/js/jquery.prettyPhoto.js - 47.72.202.5 HTTP/1.1 Mozilla/5.0+(Linux;+Android+5.1.1;+SM-J200Y+Build/LMY47X;+wv)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/66.0.3359.126+Mobile+Safari/537.36+[FB_IAB/FB4A;FBAV/183.0.0.57.75;] http://www.ngateahotel.co.nz/ 200 0 472
+2018-08-27 07:11:16 GET /js/jquery.flexslider-min.js - 47.72.202.5 HTTP/1.1 Mozilla/5.0+(Linux;+Android+5.1.1;+SM-J200Y+Build/LMY47X;+wv)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/66.0.3359.126+Mobile+Safari/537.36+[FB_IAB/FB4A;FBAV/183.0.0.57.75;] http://www.ngateahotel.co.nz/ 200 0 460
+2018-08-27 07:11:16 GET /js/jquery.isotope.min.js - 47.72.202.5 HTTP/1.1 Mozilla/5.0+(Linux;+Android+5.1.1;+SM-J200Y+Build/LMY47X;+wv)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Version/4.0+Chrome/66.0.3359.126+Mobile+Safari/537.36+[FB_IAB/FB4A;FBAV/183.0.0.57.75;] http://www.ngateahotel.co.nz/ 200 0 457
+2018-08-27 07:22:07 GET /images/logo-big.png - 173.252.127.2 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 200 16600 222
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-08-27 08:04:48
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-08-27 08:04:48 GET /robots.txt - 66.249.79.117 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 404 1405 235
+2018-08-27 08:04:48 GET / - 66.249.79.119 HTTP/1.1 Mozilla/5.0+(Linux;+Android+6.0.1;+Nexus+5X+Build/MMB29P)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2272.96+Mobile+Safari/537.36+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 13729 424
+2018-08-27 08:04:53 GET /js/prettyphoto/js/jquery.prettyPhoto.js - 66.249.79.117 HTTP/1.1 Mozilla/5.0+(Linux;+Android+6.0.1;+Nexus+5X+Build/MMB29P)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2272.96+Mobile+Safari/537.36+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) http://www.ngateahotel.co.nz/ 200 8007 467
+2018-08-27 08:04:53 GET /js/prettyphoto/css/prettyPhoto.css - 66.249.79.117 HTTP/1.1 Mozilla/5.0+(Linux;+Android+6.0.1;+Nexus+5X+Build/MMB29P)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2272.96+Mobile+Safari/537.36+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) http://www.ngateahotel.co.nz/ 200 4101 477
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-08-27 10:34:41
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-08-27 10:34:41 GET /images/favicon.ico - 66.249.79.121 HTTP/1.1 Googlebot-Image/1.0 - 404 1405 203
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-08-27 12:37:57
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-08-27 12:37:57 GET /robots.txt - 216.244.66.244 HTTP/1.1 Mozilla/5.0+(compatible;+DotBot/1.1;+http://www.opensiteexplorer.org/dotbot,+help@moz.com) - 404 1405 228
+2018-08-27 12:48:17 GET /'no-bull-rodeo-2012'.html - 216.244.66.244 HTTP/1.1 Mozilla/5.0+(compatible;+DotBot/1.1;+http://www.opensiteexplorer.org/dotbot,+help@moz.com) - 404 1405 243
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-08-27 15:02:49
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-08-27 15:02:49 GET /robots.txt - 216.244.66.244 HTTP/1.1 Mozilla/5.0+(compatible;+DotBot/1.1;+http://www.opensiteexplorer.org/dotbot,+help@moz.com) - 404 1405 228
+2018-08-27 15:11:34 GET /images/gallery/gallery-4.jpg - 216.244.66.244 HTTP/1.1 Mozilla/5.0+(compatible;+DotBot/1.1;+http://www.opensiteexplorer.org/dotbot,+help@moz.com) - 200 14402 246
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-08-27 15:50:53
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-08-27 15:50:53 GET /robots.txt - 216.244.66.244 HTTP/1.1 Mozilla/5.0+(compatible;+DotBot/1.1;+http://www.opensiteexplorer.org/dotbot,+help@moz.com) - 404 1405 224
+2018-08-27 16:02:21 GET /images/gallery/gallery-3.jpg - 216.244.66.244 HTTP/1.1 Mozilla/5.0+(compatible;+DotBot/1.1;+http://www.opensiteexplorer.org/dotbot,+help@moz.com) - 200 14699 242
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-08-27 16:28:27
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-08-27 16:28:27 GET / - 163.172.4.153 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://ngateahotel.co.nz/ 200 13729 282
+2018-08-27 16:38:06 GET /robots.txt - 216.244.66.244 HTTP/1.1 Mozilla/5.0+(compatible;+DotBot/1.1;+http://www.opensiteexplorer.org/dotbot,+help@moz.com) - 404 1405 228
+2018-08-27 16:48:13 GET /webapps/i/89914/230899/336944 - 216.244.66.244 HTTP/1.1 Mozilla/5.0+(compatible;+DotBot/1.1;+http://www.opensiteexplorer.org/dotbot,+help@moz.com) - 404 1405 247
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-08-27 19:45:45
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-08-27 19:45:45 GET / - 66.249.79.121 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 13729 298
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-08-27 20:35:49
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-08-27 20:35:49 GET /robots.txt - 216.244.66.244 HTTP/1.1 Mozilla/5.0+(compatible;+DotBot/1.1;+http://www.opensiteexplorer.org/dotbot,+help@moz.com) - 404 1405 228
+2018-08-27 20:47:04 GET /webapps/i/89914/230899/336963 - 216.244.66.244 HTTP/1.1 Mozilla/5.0+(compatible;+DotBot/1.1;+http://www.opensiteexplorer.org/dotbot,+help@moz.com) - 404 1405 247
+2018-08-27 21:00:40 GET /robots.txt - 5.45.207.33 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - 404 1405 204
+2018-08-27 21:00:43 GET /images/favicon.ico - 5.45.207.33 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - 404 1405 243
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-08-27 23:34:06
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-08-27 23:34:06 GET /robots.txt - 216.244.66.244 HTTP/1.1 Mozilla/5.0+(compatible;+DotBot/1.1;+http://www.opensiteexplorer.org/dotbot,+help@moz.com) - 404 1405 224
+2018-08-27 23:45:31 GET /images/gallery/gallery-1.jpg - 216.244.66.244 HTTP/1.1 Mozilla/5.0+(compatible;+DotBot/1.1;+http://www.opensiteexplorer.org/dotbot,+help@moz.com) - 200 16100 242
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-08-28 00:21:42
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-08-28 00:21:42 GET /robots.txt - 216.244.66.244 HTTP/1.1 Mozilla/5.0+(compatible;+DotBot/1.1;+http://www.opensiteexplorer.org/dotbot,+help@moz.com) - 404 1405 228
+2018-08-28 00:32:29 GET /webapps/i/89914/230892/447646 - 216.244.66.244 HTTP/1.1 Mozilla/5.0+(compatible;+DotBot/1.1;+http://www.opensiteexplorer.org/dotbot,+help@moz.com) - 404 1405 247
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-08-28 01:01:22
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-08-28 01:01:22 GET /robots.txt - 92.156.249.83 HTTP/1.1 Mozilla/5.0+(compatible;+MJ12bot/v1.4.8;+http://mj12bot.com/) - 404 1405 169
+2018-08-28 01:01:27 GET / - 92.156.249.83 HTTP/1.1 Mozilla/5.0+(compatible;+MJ12bot/v1.4.8;+http://mj12bot.com/) - 200 103142 346
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-08-28 05:02:53
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-08-28 05:02:53 GET /images/logo-big.png - 173.252.124.199 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 200 16600 222
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-08-28 06:10:35
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-08-28 06:10:35 GET /images/logo-big.png - 31.13.127.16 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 200 16600 222
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-08-28 06:56:36
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-08-28 06:56:36 GET / - 209.17.96.90 HTTP/1.1 Mozilla/5.0+(compatible;+Nimbostratus-Bot/v1.3.2;+http://cloudsystemnetworks.com) - 200 103142 138

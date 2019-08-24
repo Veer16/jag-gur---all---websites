@@ -1,0 +1,100 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2019-06-04 07:40:39
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2019-06-04 07:40:39 GET / - 173.252.127.37 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.169+Safari/537.36 - 200 23480 490
+2019-06-04 07:40:41 GET /css/iconeffects.css - 173.252.127.20 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.169+Safari/537.36 - 200 16091 310
+2019-06-04 07:40:41 GET /css/bootstrap.css - 173.252.127.39 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.169+Safari/537.36 - 200 121515 308
+2019-06-04 07:40:41 GET /css/swipebox.css - 173.252.127.39 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.169+Safari/537.36 - 200 4352 307
+2019-06-04 07:40:41 GET /css/style.css - 173.252.127.20 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.169+Safari/537.36 - 200 62590 304
+2019-06-04 07:40:41 GET /css/animate.css - 173.252.127.39 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.169+Safari/537.36 - 200 72506 306
+2019-06-04 07:40:42 GET /js/jquery-1.11.1.min.js - 173.252.127.20 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.169+Safari/537.36 - 200 96050 299
+2019-06-04 07:40:42 GET /js/easing.js - 173.252.127.20 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.169+Safari/537.36 - 200 5020 288
+2019-06-04 07:40:42 GET /js/jquery.swipebox.min.js - 173.252.127.20 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.169+Safari/537.36 - 200 7468 301
+2019-06-04 07:40:42 GET /js/move-top.js - 173.252.127.6 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.169+Safari/537.36 - 200 1592 290
+2019-06-04 07:40:42 GET /js/wow.min.js - 173.252.127.20 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.169+Safari/537.36 - 200 5039 289
+2019-06-04 07:40:42 GET /js/responsiveslides.min.js - 173.252.127.6 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.169+Safari/537.36 - 200 3659 302
+2019-06-04 07:40:43 GET /cdn.fancybar.net/ac/fancybar6a2f.js - 173.252.127.20 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.169+Safari/537.36 - 404 1405 357
+2019-06-04 07:40:43 GET /images/down.png - 173.252.127.6 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.169+Safari/537.36 - 200 4972 327
+2019-06-04 07:40:43 GET /images/move-top.png - 173.252.127.20 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.169+Safari/537.36 - 200 3488 331
+2019-06-04 07:40:43 GET /images/border.png - 173.252.127.31 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.169+Safari/537.36 - 200 3286 329
+2019-06-04 07:40:43 GET /images/s1.jpg - 173.252.127.20 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.169+Safari/537.36 - 200 692503 325
+2019-06-04 07:40:44 GET /images/banner.jpg - 173.252.127.6 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.169+Safari/537.36 - 200 339923 329
+2019-06-04 07:40:44 GET /images/serve1.png - 173.252.127.20 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.169+Safari/537.36 - 200 1714 329
+2019-06-04 07:40:44 GET /images/serve2.png - 173.252.127.6 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.169+Safari/537.36 - 200 4431 329
+2019-06-04 07:40:44 GET /images/serve3.png - 173.252.127.20 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.169+Safari/537.36 - 200 7307 329
+2019-06-04 07:40:44 GET /pagead2.googlesyndication.com/pagead/js/f.txt - 173.252.127.18 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.169+Safari/537.36 - 404 1405 321
+2019-06-04 07:40:44 GET /images/serve4.png - 173.252.127.6 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.169+Safari/537.36 - 200 4415 329
+2019-06-04 07:40:44 GET /images/g1.jpg - 173.252.127.20 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.169+Safari/537.36 - 200 48831 325
+2019-06-04 07:40:44 GET /images/c1.jpg - 173.252.127.6 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.169+Safari/537.36 - 200 33007 325
+2019-06-04 07:40:44 GET /images/c2.jpg - 173.252.127.20 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.169+Safari/537.36 - 200 30984 325
+2019-06-04 07:40:45 GET /images/c3.jpg - 173.252.127.6 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.169+Safari/537.36 - 200 39200 325
+2019-06-04 07:40:45 GET /images/c4.jpg - 173.252.127.20 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.169+Safari/537.36 - 200 42204 325
+2019-06-04 07:40:45 GET /images/g7.jpg - 173.252.127.6 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.169+Safari/537.36 - 200 59529 325
+2019-06-04 07:40:45 GET /images/s2.jpg - 173.252.127.31 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.169+Safari/537.36 - 200 863576 325
+2019-06-04 07:40:45 GET /images/g8.jpg - 173.252.127.20 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.169+Safari/537.36 - 200 48224 325
+2019-06-04 07:40:45 GET /www.google-analytics.com/analytics.js - 173.252.127.6 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.169+Safari/537.36 - 404 1405 313
+2019-06-04 07:40:45 GET /images/tw.png - 173.252.127.31 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.169+Safari/537.36 - 200 7323 325
+2019-06-04 07:40:45 GET /images/fb.png - 173.252.127.20 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.169+Safari/537.36 - 200 7384 325
+2019-06-04 07:40:45 GET /images/g2.jpg - 173.252.127.18 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.169+Safari/537.36 - 200 64370 325
+2019-06-04 07:40:45 GET /images/gg.png - 173.252.127.6 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.169+Safari/537.36 - 200 7753 325
+2019-06-04 07:40:45 GET /images/db.png - 173.252.127.31 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.169+Safari/537.36 - 200 7998 325
+2019-06-04 07:40:45 GET /images/s4.jpg - 173.252.127.20 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.169+Safari/537.36 - 200 882157 325
+2019-06-04 07:40:46 GET /images/s3.jpg - 173.252.127.17 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.169+Safari/537.36 - 200 914588 325
+2019-06-04 07:40:46 GET /favicon.ico - 173.252.127.17 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.169+Safari/537.36 - 404 1405 323
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2019-06-04 08:42:20
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2019-06-04 08:42:20 GET /robots.txt - 157.55.39.41 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - 404 1405 256
+2019-06-04 08:42:24 GET / - 207.46.13.175 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - 200 7018 278
+2019-06-04 08:48:39 GET /robots.txt - 54.36.148.240 HTTP/1.1 Mozilla/5.0+(compatible;+AhrefsBot/6.1;++http://ahrefs.com/robot/) - 404 1405 184
+2019-06-04 08:48:40 GET / - 54.36.150.39 HTTP/1.1 Mozilla/5.0+(compatible;+AhrefsBot/6.1;++http://ahrefs.com/robot/) - 200 23480 174
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2019-06-04 20:07:51
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2019-06-04 20:07:51 GET /robots.txt - 180.76.15.12 HTTP/1.1 Mozilla/5.0+(Windows+NT+5.1;+rv:6.0.2)+Gecko/20100101+Firefox/6.0.2 - 404 1424 225
+2019-06-04 20:07:51 GET /robots.txt - 180.76.15.5 HTTP/1.1 Mozilla/5.0+(Windows+NT+5.1;+rv:6.0.2)+Gecko/20100101+Firefox/6.0.2 - 404 1424 225
+2019-06-04 20:09:50 GET /js/jquery.swipebox.min.js - 180.76.15.163 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - 200 7487 250
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2019-06-04 21:53:41
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2019-06-04 21:53:40 GET / - 72.79.13.98 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1) - 200 23499 210
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2019-06-04 23:07:23
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2019-06-04 23:07:23 GET / - 54.162.236.74 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.131+Safari/537.36 - 200 7037 347
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2019-06-05 00:03:41
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2019-06-05 00:03:41 GET /robots.txt - 5.45.207.33 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - 404 1405 206
+2019-06-05 00:03:41 GET /robots.txt - 5.45.207.33 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - 404 1405 202
+2019-06-05 00:03:46 GET / - 5.45.207.21 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - 200 5621 284
+2019-06-05 00:03:46 GET / - 141.8.132.37 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - 200 23480 288
+2019-06-05 00:11:53 GET /robots.txt - 66.249.73.202 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 404 1405 237
+2019-06-05 00:11:55 GET / - 66.249.73.204 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 23480 300
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2019-06-05 02:45:23
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2019-06-05 02:45:22 GET /css/animate.css - 180.76.15.21 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - 200 72525 240
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2019-06-05 03:52:03
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2019-06-05 03:52:02 GET /js/wow.min.js - 180.76.15.9 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - 200 2395 238
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2019-06-05 04:23:04
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2019-06-05 04:23:04 GET /,182.50.142.90 - 18.237.11.145 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_8_3)+AppleWebKit/537.31+(KHTML,+like+Gecko)+Chrome/26.0.1410.65+Safari/537.31 - 404 1424 243
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2019-06-05 05:02:45
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2019-06-05 05:02:45 GET /robots.txt - 180.76.15.5 HTTP/1.1 Mozilla/5.0+(Windows+NT+5.1;+rv:6.0.2)+Gecko/20100101+Firefox/6.0.2 - 404 1424 221
+2019-06-05 05:04:57 GET / - 180.76.15.134 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - 200 23499 221

@@ -1,0 +1,110 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2016-12-02 09:50:01
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2016-12-02 09:50:01 GET /images/g1.jpg - 163.172.66.132 HTTP/1.1 Mozilla/5.0+(compatible;+AhrefsBot/5.1;++http://ahrefs.com/robot/) - 200 0 187
+2016-12-02 10:01:21 GET /images/g2.jpg - 163.172.66.10 HTTP/1.1 Mozilla/5.0+(compatible;+AhrefsBot/5.1;++http://ahrefs.com/robot/) - 200 0 187
+2016-12-02 10:16:11 GET /robots.txt - 178.137.83.166 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/49.0.2623.75+Safari/537.36+OPR/36.0.2130.32 - 404 1405 236
+2016-12-02 10:16:11 GET /robots.txt - 178.137.83.166 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/49.0.2623.75+Safari/537.36+OPR/36.0.2130.32 - 404 1405 240
+2016-12-02 10:16:13 GET / - 178.137.83.166 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/49.0.2623.75+Safari/537.36+OPR/36.0.2130.32 - 200 23397 226
+2016-12-02 10:16:13 GET / - 178.137.83.166 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/49.0.2623.75+Safari/537.36+OPR/36.0.2130.32 - 200 23397 230
+2016-12-02 10:16:13 GET /xmlrpc.php - 178.137.83.166 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/49.0.2623.75+Safari/537.36+OPR/36.0.2130.32 - 404 1405 240
+2016-12-02 10:16:13 GET /xmlrpc.php - 178.137.83.166 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/49.0.2623.75+Safari/537.36+OPR/36.0.2130.32 - 404 1405 244
+2016-12-02 10:16:13 GET /blog/robots.txt - 178.137.83.166 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/49.0.2623.75+Safari/537.36+OPR/36.0.2130.32 - 404 1405 241
+2016-12-02 10:16:13 GET /blog/robots.txt - 178.137.83.166 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/49.0.2623.75+Safari/537.36+OPR/36.0.2130.32 - 404 1405 245
+2016-12-02 10:16:13 GET /blog/ - 178.137.83.166 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/49.0.2623.75+Safari/537.36+OPR/36.0.2130.32 - 404 1405 231
+2016-12-02 10:16:14 GET /wordpress/ - 178.137.83.166 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/49.0.2623.75+Safari/537.36+OPR/36.0.2130.32 - 404 1405 236
+2016-12-02 10:16:14 GET /blog/ - 178.137.83.166 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/49.0.2623.75+Safari/537.36+OPR/36.0.2130.32 - 404 1405 235
+2016-12-02 10:16:14 GET /wp/ - 178.137.83.166 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/49.0.2623.75+Safari/537.36+OPR/36.0.2130.32 - 404 1405 229
+2016-12-02 10:16:14 GET /wordpress/ - 178.137.83.166 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/49.0.2623.75+Safari/537.36+OPR/36.0.2130.32 - 404 1405 240
+2016-12-02 10:16:14 GET /wp/ - 178.137.83.166 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/49.0.2623.75+Safari/537.36+OPR/36.0.2130.32 - 404 1405 233
+2016-12-02 10:24:42 GET /robots.txt - 66.249.79.94 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 404 1405 229
+2016-12-02 10:24:43 GET / - 66.249.79.94 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 23397 296
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2016-12-02 11:42:39
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2016-12-02 11:42:38 GET /robots.txt - 54.162.222.2 HTTP/1.1 - - 404 1424 74
+2016-12-02 11:42:40 GET / - 54.162.222.2 HTTP/1.1 CheckMarkNetwork/1.0+(+http://www.checkmarknetwork.com/spider.html) - 200 23416 145
+2016-12-02 11:42:42 GET /css/bootstrap.css - 54.162.222.2 HTTP/1.1 roboto - 200 121534 101
+2016-12-02 11:42:43 GET /css/iconeffects.css - 54.162.222.2 HTTP/1.1 roboto - 200 16110 103
+2016-12-02 11:42:45 GET /css/style.css - 54.162.222.2 HTTP/1.1 roboto - 200 62609 97
+2016-12-02 11:42:46 GET /css/swipebox.css - 54.162.222.2 HTTP/1.1 roboto - 200 4371 100
+2016-12-02 11:42:48 GET /css/animate.css - 54.162.222.2 HTTP/1.1 roboto - 200 72525 99
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2016-12-02 12:58:43
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2016-12-02 12:58:43 GET / - 66.249.79.94 HTTP/1.1 Mozilla/5.0+(Linux;+Android+6.0.1;+Nexus+5X+Build/MMB29P)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2272.96+Mobile+Safari/537.36+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 23397 422
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2016-12-02 13:45:26
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2016-12-02 13:45:25 GET / - 66.249.79.86 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 23397 296
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2016-12-02 17:04:38
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2016-12-02 17:04:38 GET / - 180.76.15.21 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - 304 230 307
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2016-12-02 17:20:09
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2016-12-02 17:20:09 GET /robots.txt - 141.8.142.13 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - 404 1405 189
+2016-12-02 17:20:12 GET / - 178.154.189.33 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - 200 7016 284
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2016-12-02 17:45:54
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2016-12-02 17:45:54 GET / - 66.249.79.86 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 7016 296
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2016-12-02 22:58:17
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2016-12-02 22:58:17 GET /robots.txt - 66.249.79.98 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 404 1405 233
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2016-12-02 23:55:36
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2016-12-02 23:55:36 GET /robots.txt - 151.80.31.104 HTTP/1.1 Mozilla/5.0+(compatible;+AhrefsBot/5.1;++http://ahrefs.com/robot/) - 404 1405 184
+2016-12-02 23:55:36 GET /images/g8.jpg - 163.172.65.34 HTTP/1.1 Mozilla/5.0+(compatible;+AhrefsBot/5.1;++http://ahrefs.com/robot/) - 200 0 187
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2016-12-03 00:25:22
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2016-12-03 00:25:22 GET /robots.txt - 66.249.79.94 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 404 1405 229
+2016-12-03 00:25:22 GET / - 66.249.79.86 HTTP/1.1 Mozilla/5.0+(Linux;+Android+6.0.1;+Nexus+5X+Build/MMB29P)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2272.96+Mobile+Safari/537.36+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 7016 422
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2016-12-03 03:40:57
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2016-12-03 03:40:56 GET / - 66.249.79.102 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 7016 300
+2016-12-03 03:41:02 GET /pagead2.googlesyndication.com/pagead/js/f.txt - 66.249.79.98 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) http://www.crossroadsbar.co.nz/ 404 1405 355
+2016-12-03 03:41:02 GET /cdn.fancybar.net/ac/fancybar6a2f.js - 66.249.79.98 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) http://www.crossroadsbar.co.nz/ 404 1405 391
+2016-12-03 03:41:03 GET /js/responsiveslides.min.js - 66.249.79.94 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) http://www.crossroadsbar.co.nz/ 200 2127 336
+2016-12-03 03:41:03 GET /js/jquery.swipebox.min.js - 66.249.79.94 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) http://www.crossroadsbar.co.nz/ 200 2872 335
+2016-12-03 03:41:04 GET /js/move-top.js - 66.249.79.98 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) http://www.crossroadsbar.co.nz/ 200 1080 324
+2016-12-03 03:41:04 GET /js/easing.js - 66.249.79.98 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) http://www.crossroadsbar.co.nz/ 200 1740 322
+2016-12-03 03:41:05 GET /css/iconeffects.css - 66.249.79.102 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) http://www.crossroadsbar.co.nz/ 200 3470 344
+2016-12-03 03:41:05 GET /css/swipebox.css - 66.249.79.102 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) http://www.crossroadsbar.co.nz/ 200 1525 341
+2016-12-03 03:41:07 GET /css/style.css - 66.249.79.98 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) http://www.crossroadsbar.co.nz/ 200 15962 338
+2016-12-03 03:41:07 GET /js/wow.min.js - 66.249.79.98 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) http://www.crossroadsbar.co.nz/ 200 2376 323
+2016-12-03 03:41:07 GET /js/jquery-1.11.1.min.js - 66.249.79.98 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) http://www.crossroadsbar.co.nz/ 200 43072 333
+2016-12-03 03:41:08 GET /css/animate.css - 66.249.79.98 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) http://www.crossroadsbar.co.nz/ 200 8279 340
+2016-12-03 03:41:08 GET /css/bootstrap.css - 66.249.79.94 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) http://www.crossroadsbar.co.nz/ 200 27109 342
+2016-12-03 03:41:09 GET /www.google-analytics.com/analytics.js - 66.249.79.94 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) http://www.crossroadsbar.co.nz/ 404 1405 347
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2016-12-03 03:59:02
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2016-12-03 03:59:02 GET / - 66.249.79.94 HTTP/1.1 Mozilla/5.0+(Linux;+Android+6.0.1;+Nexus+5X+Build/MMB29P)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2272.96+Mobile+Safari/537.36+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 7016 426
+2016-12-03 04:02:37 GET /css/swipebox.css - 66.249.79.98 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 1525 256
+2016-12-03 04:02:38 GET /css/style.css - 66.249.79.98 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 15962 253
+2016-12-03 04:02:38 GET /css/bootstrap.css - 66.249.79.102 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 27109 257
+2016-12-03 04:02:39 GET /css/iconeffects.css - 66.249.79.94 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 3470 259
+2016-12-03 04:02:39 GET /css/animate.css - 66.249.79.94 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 8279 255
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2016-12-03 05:30:27
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2016-12-03 05:30:26 GET /index.php - 66.249.79.94 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 404 1405 364

@@ -1,0 +1,17 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2019-08-08 12:59:30
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2019-08-08 12:59:30 GET / - 191.96.241.194 HTTP/1.1 Go-http-client/1.1 - 200 8794 122
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2019-08-08 14:38:12
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2019-08-08 14:38:11 GET / - 128.199.124.86 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64;+rv:33.0)+Gecko/20100101+Firefox/33.0 https://www.google.fi 200 8813 302
+2019-08-08 14:38:13 GET /images/3.jpg - 94.200.15.66 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+12_1_2+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/12.0+Mobile/15E148+Safari/604.1 https://www.google.fi/ 200 1379212 390
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2019-08-09 05:56:40
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2019-08-09 05:56:39 GET /robots.txt - 5.45.207.33 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - 404 1405 200
+2019-08-09 05:56:43 GET /favicon.ico - 5.45.207.33 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - 404 1405 232

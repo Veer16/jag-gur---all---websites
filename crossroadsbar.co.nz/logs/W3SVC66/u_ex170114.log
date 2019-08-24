@@ -1,0 +1,18 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2017-01-14 13:18:29
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2017-01-14 13:18:29 GET / - 213.61.149.100 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/52.0.2743.116+Safari/537.36 - 200 23416 341
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2017-01-14 15:31:02
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2017-01-14 15:31:02 GET /blog/wp-admin/setup-config.php - 195.154.183.187 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Trident/7.0;+rv:11.0)+like+Gecko - 404 1405 272
+2017-01-14 15:31:02 GET /wp/wp-admin/setup-config.php - 195.154.183.187 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Trident/7.0;+rv:11.0)+like+Gecko - 404 1405 246
+2017-01-14 15:31:04 GET /wordpress/wp-admin/setup-config.php - 195.154.183.187 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Trident/7.0;+rv:11.0)+like+Gecko - 404 1405 253
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2017-01-14 23:18:37
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2017-01-14 23:18:36 GET /robots.txt - 162.210.196.129 HTTP/1.1 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - 404 1405 167
+2017-01-14 23:18:40 GET / - 162.210.196.129 HTTP/1.1 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - 200 23397 344

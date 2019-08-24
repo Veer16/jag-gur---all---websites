@@ -1,0 +1,127 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2017-04-05 11:45:12
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2017-04-05 11:45:12 GET /xxx.htm - 124.206.180.130 HTTP/1.1 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US)+AppleWebKit/532.5+(KHTML,+like+Gecko)+Chrome/4.0.249.0+Safari/532.5 - 404 1405 250
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2017-04-05 14:43:45
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2017-04-05 14:43:45 GET /robots.txt - 178.154.189.33 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - 404 1405 189
+2017-04-05 14:43:49 GET /favicon.ico - 93.158.152.7 HTTP/1.1 Mozilla/5.0+(compatible;+YandexImages/3.0;++http://yandex.com/bots) - 404 1405 237
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2017-04-05 15:53:55
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2017-04-05 15:53:55 GET /robots.txt - 66.249.79.166 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 404 1405 233
+2017-04-05 15:57:01 GET / - 66.249.79.170 HTTP/1.1 Mozilla/5.0+(Linux;+Android+6.0.1;+Nexus+5X+Build/MMB29P)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2272.96+Mobile+Safari/537.36+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 7018 426
+2017-04-05 15:57:04 GET /pagead2.googlesyndication.com/pagead/js/f.txt - 66.249.79.166 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) http://www.crossroadsbar.co.nz/ 404 1405 355
+2017-04-05 15:57:04 GET /css/swipebox.css - 66.249.79.170 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) http://www.crossroadsbar.co.nz/ 200 1525 341
+2017-04-05 15:57:06 GET /css/style.css - 66.249.79.173 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) http://www.crossroadsbar.co.nz/ 200 15962 338
+2017-04-05 15:57:06 GET /css/iconeffects.css - 66.249.79.166 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) http://www.crossroadsbar.co.nz/ 200 3470 344
+2017-04-05 15:57:06 GET /css/bootstrap.css - 66.249.79.166 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) http://www.crossroadsbar.co.nz/ 200 27109 342
+2017-04-05 15:57:07 GET /css/animate.css - 66.249.79.166 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) http://www.crossroadsbar.co.nz/ 200 8279 340
+2017-04-05 15:57:07 GET /cdn.fancybar.net/ac/fancybar6a2f.js - 66.249.79.170 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) http://www.crossroadsbar.co.nz/ 404 1405 391
+2017-04-05 15:57:09 GET /www.google-analytics.com/analytics.js - 66.249.79.170 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) http://www.crossroadsbar.co.nz/ 404 1405 347
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2017-04-05 18:36:50
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2017-04-05 18:36:50 GET /robots.txt - 46.229.164.98 HTTP/1.1 Mozilla/5.0+(compatible;+SemrushBot/1.2~bl;++http://www.semrush.com/bot.html) - 404 1424 213
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2017-04-05 20:54:42
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2017-04-05 20:54:42 GET /robots.txt - 207.241.231.103 HTTP/1.0 Mozilla/5.0+(compatible;+NLNZ_IAHarvester2017/3.3.0++https://natlib.govt.nz/publishers-and-authors/web-harvesting/domain-harvest) - 404 1424 401
+2017-04-05 20:54:44 GET / - 207.241.231.103 HTTP/1.0 Mozilla/5.0+(compatible;+NLNZ_IAHarvester2017/3.3.0++https://natlib.govt.nz/publishers-and-authors/web-harvesting/domain-harvest) - 200 23499 391
+2017-04-05 20:54:46 GET /favicon.ico - 207.241.231.103 HTTP/1.0 Mozilla/5.0+(compatible;+NLNZ_IAHarvester2017/3.3.0++https://natlib.govt.nz/publishers-and-authors/web-harvesting/domain-harvest) http://crossroadsbar.co.nz/ 404 1424 440
+2017-04-05 20:54:48 GET /css/bootstrap.css - 207.241.231.103 HTTP/1.0 Mozilla/5.0+(compatible;+NLNZ_IAHarvester2017/3.3.0++https://natlib.govt.nz/publishers-and-authors/web-harvesting/domain-harvest) http://crossroadsbar.co.nz/ 200 121534 446
+2017-04-05 20:54:50 GET /css/iconeffects.css - 207.241.231.103 HTTP/1.0 Mozilla/5.0+(compatible;+NLNZ_IAHarvester2017/3.3.0++https://natlib.govt.nz/publishers-and-authors/web-harvesting/domain-harvest) http://crossroadsbar.co.nz/ 200 16110 448
+2017-04-05 20:54:52 GET /css/style.css - 207.241.231.103 HTTP/1.0 Mozilla/5.0+(compatible;+NLNZ_IAHarvester2017/3.3.0++https://natlib.govt.nz/publishers-and-authors/web-harvesting/domain-harvest) http://crossroadsbar.co.nz/ 200 62609 442
+2017-04-05 20:54:54 GET /css/swipebox.css - 207.241.231.103 HTTP/1.0 Mozilla/5.0+(compatible;+NLNZ_IAHarvester2017/3.3.0++https://natlib.govt.nz/publishers-and-authors/web-harvesting/domain-harvest) http://crossroadsbar.co.nz/ 200 4371 445
+2017-04-05 20:54:57 GET /js/jquery-1.11.1.min.js - 207.241.231.103 HTTP/1.0 Mozilla/5.0+(compatible;+NLNZ_IAHarvester2017/3.3.0++https://natlib.govt.nz/publishers-and-authors/web-harvesting/domain-harvest) http://crossroadsbar.co.nz/ 200 96069 452
+2017-04-05 20:54:59 GET /js/move-top.js - 207.241.231.103 HTTP/1.0 Mozilla/5.0+(compatible;+NLNZ_IAHarvester2017/3.3.0++https://natlib.govt.nz/publishers-and-authors/web-harvesting/domain-harvest) http://crossroadsbar.co.nz/ 200 1611 443
+2017-04-05 20:55:01 GET /js/easing.js - 207.241.231.103 HTTP/1.0 Mozilla/5.0+(compatible;+NLNZ_IAHarvester2017/3.3.0++https://natlib.govt.nz/publishers-and-authors/web-harvesting/domain-harvest) http://crossroadsbar.co.nz/ 200 5039 441
+2017-04-05 20:55:02 GET /js/jquery.swipebox.min.js - 207.241.231.103 HTTP/1.0 Mozilla/5.0+(compatible;+NLNZ_IAHarvester2017/3.3.0++https://natlib.govt.nz/publishers-and-authors/web-harvesting/domain-harvest) http://crossroadsbar.co.nz/ 200 7487 454
+2017-04-05 20:55:05 GET /css/animate.css - 207.241.231.103 HTTP/1.0 Mozilla/5.0+(compatible;+NLNZ_IAHarvester2017/3.3.0++https://natlib.govt.nz/publishers-and-authors/web-harvesting/domain-harvest) http://crossroadsbar.co.nz/ 200 72525 444
+2017-04-05 20:55:07 GET /js/wow.min.js - 207.241.231.103 HTTP/1.0 Mozilla/5.0+(compatible;+NLNZ_IAHarvester2017/3.3.0++https://natlib.govt.nz/publishers-and-authors/web-harvesting/domain-harvest) http://crossroadsbar.co.nz/ 200 5058 442
+2017-04-05 20:55:08 GET /cdn.fancybar.net/ac/fancybar6a2f.js - 207.241.231.103 HTTP/1.0 Mozilla/5.0+(compatible;+NLNZ_IAHarvester2017/3.3.0++https://natlib.govt.nz/publishers-and-authors/web-harvesting/domain-harvest) http://crossroadsbar.co.nz/ 404 1424 510
+2017-04-05 20:55:10 GET /images/border.png - 207.241.231.103 HTTP/1.0 Mozilla/5.0+(compatible;+NLNZ_IAHarvester2017/3.3.0++https://natlib.govt.nz/publishers-and-authors/web-harvesting/domain-harvest) http://crossroadsbar.co.nz/ 200 3305 446
+2017-04-05 20:55:11 GET /js/responsiveslides.min.js - 207.241.231.103 HTTP/1.0 Mozilla/5.0+(compatible;+NLNZ_IAHarvester2017/3.3.0++https://natlib.govt.nz/publishers-and-authors/web-harvesting/domain-harvest) http://crossroadsbar.co.nz/ 200 3678 455
+2017-04-05 20:55:13 GET /images/down.png - 207.241.231.103 HTTP/1.0 Mozilla/5.0+(compatible;+NLNZ_IAHarvester2017/3.3.0++https://natlib.govt.nz/publishers-and-authors/web-harvesting/domain-harvest) http://crossroadsbar.co.nz/ 200 4991 444
+2017-04-05 20:55:14 GET /pagead2.googlesyndication.com/pagead/js/f.txt - 207.241.231.103 HTTP/1.0 Mozilla/5.0+(compatible;+NLNZ_IAHarvester2017/3.3.0++https://natlib.govt.nz/publishers-and-authors/web-harvesting/domain-harvest) http://crossroadsbar.co.nz/ 404 1424 474
+2017-04-05 20:55:16 GET /images/s1.jpg - 207.241.231.103 HTTP/1.0 Mozilla/5.0+(compatible;+NLNZ_IAHarvester2017/3.3.0++https://natlib.govt.nz/publishers-and-authors/web-harvesting/domain-harvest) http://crossroadsbar.co.nz/ 200 692522 442
+2017-04-05 20:55:20 GET /images/s2.jpg - 207.241.231.103 HTTP/1.0 Mozilla/5.0+(compatible;+NLNZ_IAHarvester2017/3.3.0++https://natlib.govt.nz/publishers-and-authors/web-harvesting/domain-harvest) http://crossroadsbar.co.nz/ 200 863595 442
+2017-04-05 20:55:24 GET /images/s4.jpg - 207.241.231.103 HTTP/1.0 Mozilla/5.0+(compatible;+NLNZ_IAHarvester2017/3.3.0++https://natlib.govt.nz/publishers-and-authors/web-harvesting/domain-harvest) http://crossroadsbar.co.nz/ 200 882176 442
+2017-04-05 20:55:27 GET /images/s3.jpg - 207.241.231.103 HTTP/1.0 Mozilla/5.0+(compatible;+NLNZ_IAHarvester2017/3.3.0++https://natlib.govt.nz/publishers-and-authors/web-harvesting/domain-harvest) http://crossroadsbar.co.nz/ 200 914607 442
+2017-04-05 20:55:29 GET /images/serve1.png - 207.241.231.103 HTTP/1.0 Mozilla/5.0+(compatible;+NLNZ_IAHarvester2017/3.3.0++https://natlib.govt.nz/publishers-and-authors/web-harvesting/domain-harvest) http://crossroadsbar.co.nz/ 200 1733 446
+2017-04-05 20:55:31 GET /images/serve2.png - 207.241.231.103 HTTP/1.0 Mozilla/5.0+(compatible;+NLNZ_IAHarvester2017/3.3.0++https://natlib.govt.nz/publishers-and-authors/web-harvesting/domain-harvest) http://crossroadsbar.co.nz/ 200 4450 446
+2017-04-05 20:55:32 GET /images/serve3.png - 207.241.231.103 HTTP/1.0 Mozilla/5.0+(compatible;+NLNZ_IAHarvester2017/3.3.0++https://natlib.govt.nz/publishers-and-authors/web-harvesting/domain-harvest) http://crossroadsbar.co.nz/ 200 7326 446
+2017-04-05 20:55:35 GET /images/serve4.png - 207.241.231.103 HTTP/1.0 Mozilla/5.0+(compatible;+NLNZ_IAHarvester2017/3.3.0++https://natlib.govt.nz/publishers-and-authors/web-harvesting/domain-harvest) http://crossroadsbar.co.nz/ 200 4434 446
+2017-04-05 20:55:36 GET /index.html - 207.241.231.103 HTTP/1.0 Mozilla/5.0+(compatible;+NLNZ_IAHarvester2017/3.3.0++https://natlib.govt.nz/publishers-and-authors/web-harvesting/domain-harvest) http://crossroadsbar.co.nz/ 200 23499 439
+2017-04-05 20:55:39 GET /images/g1.jpg - 207.241.231.103 HTTP/1.0 Mozilla/5.0+(compatible;+NLNZ_IAHarvester2017/3.3.0++https://natlib.govt.nz/publishers-and-authors/web-harvesting/domain-harvest) http://crossroadsbar.co.nz/ 200 48850 442
+2017-04-05 20:55:41 GET /images/g2.jpg - 207.241.231.103 HTTP/1.0 Mozilla/5.0+(compatible;+NLNZ_IAHarvester2017/3.3.0++https://natlib.govt.nz/publishers-and-authors/web-harvesting/domain-harvest) http://crossroadsbar.co.nz/ 200 64389 442
+2017-04-05 20:55:43 GET /images/c1.jpg - 207.241.231.103 HTTP/1.0 Mozilla/5.0+(compatible;+NLNZ_IAHarvester2017/3.3.0++https://natlib.govt.nz/publishers-and-authors/web-harvesting/domain-harvest) http://crossroadsbar.co.nz/ 200 33026 442
+2017-04-05 20:55:46 GET /images/c2.jpg - 207.241.231.103 HTTP/1.0 Mozilla/5.0+(compatible;+NLNZ_IAHarvester2017/3.3.0++https://natlib.govt.nz/publishers-and-authors/web-harvesting/domain-harvest) http://crossroadsbar.co.nz/ 200 31003 442
+2017-04-05 20:55:48 GET /images/c3.jpg - 207.241.231.103 HTTP/1.0 Mozilla/5.0+(compatible;+NLNZ_IAHarvester2017/3.3.0++https://natlib.govt.nz/publishers-and-authors/web-harvesting/domain-harvest) http://crossroadsbar.co.nz/ 200 39219 442
+2017-04-05 20:55:50 GET /images/c4.jpg - 207.241.231.103 HTTP/1.0 Mozilla/5.0+(compatible;+NLNZ_IAHarvester2017/3.3.0++https://natlib.govt.nz/publishers-and-authors/web-harvesting/domain-harvest) http://crossroadsbar.co.nz/ 200 42223 442
+2017-04-05 20:55:52 GET /images/g7.jpg - 207.241.231.103 HTTP/1.0 Mozilla/5.0+(compatible;+NLNZ_IAHarvester2017/3.3.0++https://natlib.govt.nz/publishers-and-authors/web-harvesting/domain-harvest) http://crossroadsbar.co.nz/ 200 59548 442
+2017-04-05 20:55:54 GET /images/g8.jpg - 207.241.231.103 HTTP/1.0 Mozilla/5.0+(compatible;+NLNZ_IAHarvester2017/3.3.0++https://natlib.govt.nz/publishers-and-authors/web-harvesting/domain-harvest) http://crossroadsbar.co.nz/ 200 48243 442
+2017-04-05 20:55:56 GET /single.html - 207.241.231.103 HTTP/1.0 Mozilla/5.0+(compatible;+NLNZ_IAHarvester2017/3.3.0++https://natlib.govt.nz/publishers-and-authors/web-harvesting/domain-harvest) http://crossroadsbar.co.nz/ 404 1424 440
+2017-04-05 20:55:59 GET /fonts/glyphicons-halflings-regular.eot - 207.241.231.103 HTTP/1.0 Mozilla/5.0+(compatible;+NLNZ_IAHarvester2017/3.3.0++https://natlib.govt.nz/publishers-and-authors/web-harvesting/domain-harvest) http://crossroadsbar.co.nz/css/bootstrap.css 200 20410 484
+2017-04-05 20:56:01 GET /fonts/glyphicons-halflings-regulard41d.eot - 207.241.231.103 HTTP/1.0 Mozilla/5.0+(compatible;+NLNZ_IAHarvester2017/3.3.0++https://natlib.govt.nz/publishers-and-authors/web-harvesting/domain-harvest) http://crossroadsbar.co.nz/css/bootstrap.css 200 20410 488
+2017-04-05 20:56:03 GET /fonts/glyphicons-halflings-regular.woff - 207.241.231.103 HTTP/1.0 Mozilla/5.0+(compatible;+NLNZ_IAHarvester2017/3.3.0++https://natlib.govt.nz/publishers-and-authors/web-harvesting/domain-harvest) http://crossroadsbar.co.nz/css/bootstrap.css 404 1424 485
+2017-04-05 20:56:05 GET /fonts/glyphicons-halflings-regular.ttf - 207.241.231.103 HTTP/1.0 Mozilla/5.0+(compatible;+NLNZ_IAHarvester2017/3.3.0++https://natlib.govt.nz/publishers-and-authors/web-harvesting/domain-harvest) http://crossroadsbar.co.nz/css/bootstrap.css 200 45686 484
+2017-04-05 20:56:07 GET /fonts/glyphicons-halflings-regular.html - 207.241.231.103 HTTP/1.0 Mozilla/5.0+(compatible;+NLNZ_IAHarvester2017/3.3.0++https://natlib.govt.nz/publishers-and-authors/web-harvesting/domain-harvest) http://crossroadsbar.co.nz/css/bootstrap.css 200 662 485
+2017-04-05 20:56:08 GET /images/pagenate.html - 207.241.231.103 HTTP/1.0 Mozilla/5.0+(compatible;+NLNZ_IAHarvester2017/3.3.0++https://natlib.govt.nz/publishers-and-authors/web-harvesting/domain-harvest) http://crossroadsbar.co.nz/css/bootstrap.css 200 643 466
+2017-04-05 20:56:10 GET /fonts/ecoicons/ecoicon.html - 207.241.231.103 HTTP/1.0 Mozilla/5.0+(compatible;+NLNZ_IAHarvester2017/3.3.0++https://natlib.govt.nz/publishers-and-authors/web-harvesting/domain-harvest) http://crossroadsbar.co.nz/css/iconeffects.css 200 650 475
+2017-04-05 20:56:12 GET /fonts/ecoicons/ecoicond41d.html - 207.241.231.103 HTTP/1.0 Mozilla/5.0+(compatible;+NLNZ_IAHarvester2017/3.3.0++https://natlib.govt.nz/publishers-and-authors/web-harvesting/domain-harvest) http://crossroadsbar.co.nz/css/iconeffects.css 200 650 479
+2017-04-05 20:56:13 GET /fonts/ecoicons/ecoicon-2.html - 207.241.231.103 HTTP/1.0 Mozilla/5.0+(compatible;+NLNZ_IAHarvester2017/3.3.0++https://natlib.govt.nz/publishers-and-authors/web-harvesting/domain-harvest) http://crossroadsbar.co.nz/css/iconeffects.css 200 651 477
+2017-04-05 20:56:15 GET /fonts/ecoicons/ecoicon-3.html - 207.241.231.103 HTTP/1.0 Mozilla/5.0+(compatible;+NLNZ_IAHarvester2017/3.3.0++https://natlib.govt.nz/publishers-and-authors/web-harvesting/domain-harvest) http://crossroadsbar.co.nz/css/iconeffects.css 200 650 477
+2017-04-05 20:56:17 GET /fonts/ecoicons/ecoicon-4.html - 207.241.231.103 HTTP/1.0 Mozilla/5.0+(compatible;+NLNZ_IAHarvester2017/3.3.0++https://natlib.govt.nz/publishers-and-authors/web-harvesting/domain-harvest) http://crossroadsbar.co.nz/css/iconeffects.css 200 650 477
+2017-04-05 20:56:18 GET /fonts/PoiretOne-Regular.html - 207.241.231.103 HTTP/1.0 Mozilla/5.0+(compatible;+NLNZ_IAHarvester2017/3.3.0++https://natlib.govt.nz/publishers-and-authors/web-harvesting/domain-harvest) http://crossroadsbar.co.nz/css/style.css 200 651 470
+2017-04-05 20:56:21 GET /images/banner.jpg - 207.241.231.103 HTTP/1.0 Mozilla/5.0+(compatible;+NLNZ_IAHarvester2017/3.3.0++https://natlib.govt.nz/publishers-and-authors/web-harvesting/domain-harvest) http://crossroadsbar.co.nz/css/style.css 200 339942 459
+2017-04-05 20:56:23 GET /images/nav.png - 207.241.231.103 HTTP/1.0 Mozilla/5.0+(compatible;+NLNZ_IAHarvester2017/3.3.0++https://natlib.govt.nz/publishers-and-authors/web-harvesting/domain-harvest) http://crossroadsbar.co.nz/css/style.css 200 3334 456
+2017-04-05 20:56:24 GET /images/arrows.html - 207.241.231.103 HTTP/1.0 Mozilla/5.0+(compatible;+NLNZ_IAHarvester2017/3.3.0++https://natlib.govt.nz/publishers-and-authors/web-harvesting/domain-harvest) http://crossroadsbar.co.nz/css/style.css 200 641 460
+2017-04-05 20:56:27 GET /images/bottom.jpg - 207.241.231.103 HTTP/1.0 Mozilla/5.0+(compatible;+NLNZ_IAHarvester2017/3.3.0++https://natlib.govt.nz/publishers-and-authors/web-harvesting/domain-harvest) http://crossroadsbar.co.nz/css/style.css 200 117992 459
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2017-04-05 22:52:11
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2017-04-05 22:52:11 GET / - 180.76.15.12 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - 304 230 307
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2017-04-06 00:51:30
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2017-04-06 00:51:30 GET /images/s1.jpg - 173.252.88.87 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 200 692503 218
+2017-04-06 00:51:33 GET /images/s1.jpg - 173.252.88.94 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 200 692503 218
+2017-04-06 00:51:36 GET /images/s1.jpg - 173.252.88.87 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 200 692503 218
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2017-04-06 01:11:38
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2017-04-06 01:11:38 GET /images/reservation.jpg - 207.241.231.103 HTTP/1.0 Mozilla/5.0+(compatible;+NLNZ_IAHarvester2017/3.3.0++https://natlib.govt.nz/publishers-and-authors/web-harvesting/domain-harvest) http://crossroadsbar.co.nz/css/style.css 200 127672 1188
+2017-04-06 01:11:40 GET /images/img-sprite.html - 207.241.231.103 HTTP/1.0 Mozilla/5.0+(compatible;+NLNZ_IAHarvester2017/3.3.0++https://natlib.govt.nz/publishers-and-authors/web-harvesting/domain-harvest) http://crossroadsbar.co.nz/css/style.css 200 645 1188
+2017-04-06 01:11:43 GET /images/tw.png - 207.241.231.103 HTTP/1.0 Mozilla/5.0+(compatible;+NLNZ_IAHarvester2017/3.3.0++https://natlib.govt.nz/publishers-and-authors/web-harvesting/domain-harvest) http://crossroadsbar.co.nz/css/style.css 200 7342 1179
+2017-04-06 01:11:46 GET /images/fb.png - 207.241.231.103 HTTP/1.0 Mozilla/5.0+(compatible;+NLNZ_IAHarvester2017/3.3.0++https://natlib.govt.nz/publishers-and-authors/web-harvesting/domain-harvest) http://crossroadsbar.co.nz/css/style.css 200 7403 1179
+2017-04-06 01:11:48 GET /images/gg.png - 207.241.231.103 HTTP/1.0 Mozilla/5.0+(compatible;+NLNZ_IAHarvester2017/3.3.0++https://natlib.govt.nz/publishers-and-authors/web-harvesting/domain-harvest) http://crossroadsbar.co.nz/css/style.css 200 7772 1179
+2017-04-06 01:11:51 GET /images/db.png - 207.241.231.103 HTTP/1.0 Mozilla/5.0+(compatible;+NLNZ_IAHarvester2017/3.3.0++https://natlib.govt.nz/publishers-and-authors/web-harvesting/domain-harvest) http://crossroadsbar.co.nz/css/style.css 200 8017 1179
+2017-04-06 01:11:53 GET /images/move-top.png - 207.241.231.103 HTTP/1.0 Mozilla/5.0+(compatible;+NLNZ_IAHarvester2017/3.3.0++https://natlib.govt.nz/publishers-and-authors/web-harvesting/domain-harvest) http://crossroadsbar.co.nz/css/style.css 200 3507 1185
+2017-04-06 01:11:55 GET /images/loader.html - 207.241.231.103 HTTP/1.0 Mozilla/5.0+(compatible;+NLNZ_IAHarvester2017/3.3.0++https://natlib.govt.nz/publishers-and-authors/web-harvesting/domain-harvest) http://crossroadsbar.co.nz/css/swipebox.css 200 641 1187
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2017-04-06 04:19:39
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2017-04-06 04:19:39 GET /images/icons.html - 207.241.231.103 HTTP/1.0 Mozilla/5.0+(compatible;+NLNZ_IAHarvester2017/3.3.0++https://natlib.govt.nz/publishers-and-authors/web-harvesting/domain-harvest) http://crossroadsbar.co.nz/css/swipebox.css 200 640 1263
+2017-04-06 04:19:41 GET /a - 207.241.231.103 HTTP/1.0 Mozilla/5.0+(compatible;+NLNZ_IAHarvester2017/3.3.0++https://natlib.govt.nz/publishers-and-authors/web-harvesting/domain-harvest) http://crossroadsbar.co.nz/js/jquery-1.11.1.min.js 404 1424 1254
+2017-04-06 04:19:42 GET /submit._submit - 207.241.231.103 HTTP/1.0 Mozilla/5.0+(compatible;+NLNZ_IAHarvester2017/3.3.0++https://natlib.govt.nz/publishers-and-authors/web-harvesting/domain-harvest) http://crossroadsbar.co.nz/js/jquery-1.11.1.min.js 404 1424 1267
+2017-04-06 04:19:44 GET /propertychange._change - 207.241.231.103 HTTP/1.0 Mozilla/5.0+(compatible;+NLNZ_IAHarvester2017/3.3.0++https://natlib.govt.nz/publishers-and-authors/web-harvesting/domain-harvest) http://crossroadsbar.co.nz/js/jquery-1.11.1.min.js 404 1424 1275
+2017-04-06 04:19:45 GET /click._change - 207.241.231.103 HTTP/1.0 Mozilla/5.0+(compatible;+NLNZ_IAHarvester2017/3.3.0++https://natlib.govt.nz/publishers-and-authors/web-harvesting/domain-harvest) http://crossroadsbar.co.nz/js/jquery-1.11.1.min.js 404 1424 1266
+2017-04-06 04:19:48 GET /beforeactivate._change - 207.241.231.103 HTTP/1.0 Mozilla/5.0+(compatible;+NLNZ_IAHarvester2017/3.3.0++https://natlib.govt.nz/publishers-and-authors/web-harvesting/domain-harvest) http://crossroadsbar.co.nz/js/jquery-1.11.1.min.js 404 1424 1275
+2017-04-06 04:19:50 GET /change._change - 207.241.231.103 HTTP/1.0 Mozilla/5.0+(compatible;+NLNZ_IAHarvester2017/3.3.0++https://natlib.govt.nz/publishers-and-authors/web-harvesting/domain-harvest) http://crossroadsbar.co.nz/js/jquery-1.11.1.min.js 404 1424 1267
+2017-04-06 04:19:51 GET /Microsoft.XMLDOM - 207.241.231.103 HTTP/1.0 Mozilla/5.0+(compatible;+NLNZ_IAHarvester2017/3.3.0++https://natlib.govt.nz/publishers-and-authors/web-harvesting/domain-harvest) http://crossroadsbar.co.nz/js/jquery-1.11.1.min.js 404 1424 1269
+2017-04-06 04:19:53 GET /Microsoft.XMLHTTP - 207.241.231.103 HTTP/1.0 Mozilla/5.0+(compatible;+NLNZ_IAHarvester2017/3.3.0++https://natlib.govt.nz/publishers-and-authors/web-harvesting/domain-harvest) http://crossroadsbar.co.nz/js/jquery-1.11.1.min.js 404 1424 1270
+2017-04-06 04:19:55 GET /click.UItoTop - 207.241.231.103 HTTP/1.0 Mozilla/5.0+(compatible;+NLNZ_IAHarvester2017/3.3.0++https://natlib.govt.nz/publishers-and-authors/web-harvesting/domain-harvest) http://crossroadsbar.co.nz/js/move-top.js 404 1424 1257
+2017-04-06 04:19:57 GET /0.5s - 207.241.231.103 HTTP/1.0 Mozilla/5.0+(compatible;+NLNZ_IAHarvester2017/3.3.0++https://natlib.govt.nz/publishers-and-authors/web-harvesting/domain-harvest) http://crossroadsbar.co.nz/js/jquery.swipebox.min.js 404 1424 1259
+2017-04-06 04:29:44 GET / - 180.76.15.147 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - 200 1460 185
+2017-04-06 04:30:24 GET / - 180.76.15.6 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - 200 1460 185

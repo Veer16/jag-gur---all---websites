@@ -1,0 +1,12 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2017-01-07 09:04:59
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2017-01-07 09:04:59 GET / - 207.46.13.42 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - 200 8209 274
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2017-01-07 10:27:14
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2017-01-07 10:27:13 GET / - 120.76.146.29 HTTP/1.1 - - 200 34836 69
+2017-01-07 10:27:14 GET /xmlrpc.php - 120.76.146.29 HTTP/1.1 - - 404 1405 55
+2017-01-07 10:27:14 HEAD /wp-login.php - 120.76.146.29 HTTP/1.1 - - 404 160 58

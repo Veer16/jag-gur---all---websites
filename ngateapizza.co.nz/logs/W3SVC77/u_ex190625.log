@@ -1,0 +1,131 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2019-06-25 07:26:37
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2019-06-25 07:26:36 GET / - 54.70.140.148 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:65.0)+Gecko/20100101+Firefox/65.0 - 200 8794 169
+2019-06-25 07:26:38 GET /favicon.ico - 54.70.140.148 HTTP/1.1 Go-http-client/1.1 - 404 1405 109
+2019-06-25 07:26:38 GET /robots.txt - 54.70.140.148 HTTP/1.1 Go-http-client/1.1 - 404 1405 108
+2019-06-25 07:32:24 GET / - 173.252.127.12 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.169+Safari/537.36 - 200 8794 488
+2019-06-25 07:32:24 GET /font-awesome/css/font-awesome.min.css - 173.252.127.18 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.169+Safari/537.36 - 200 4992 326
+2019-06-25 07:32:24 GET /css/style.css - 173.252.127.18 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.169+Safari/537.36 - 200 6262 302
+2019-06-25 07:32:25 GET /css/popuo-box.css - 173.252.127.18 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.169+Safari/537.36 - 200 1990 306
+2019-06-25 07:32:25 GET /css/bootstrap.min.css - 173.252.127.4 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.169+Safari/537.36 - 200 23841 310
+2019-06-25 07:32:25 GET /css/contact-buttons.css - 173.252.127.18 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.169+Safari/537.36 - 404 1405 312
+2019-06-25 07:32:25 GET /js/modernizr.custom.min.js - 173.252.127.4 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.169+Safari/537.36 - 200 1456 300
+2019-06-25 07:32:25 GET /js/jquery.min.js - 173.252.127.18 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.169+Safari/537.36 - 200 42005 290
+2019-06-25 07:32:26 GET /js/jquery.magnific-popup.js - 173.252.127.4 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.169+Safari/537.36 - 200 18396 301
+2019-06-25 07:32:26 GET /js/scrollReveal.js - 173.252.127.18 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.169+Safari/537.36 - 200 4186 292
+2019-06-25 07:32:26 GET /anijs-min.js - 173.252.127.4 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.169+Safari/537.36 - 404 1405 286
+2019-06-25 07:32:26 GET /helpers/scrollreveal/anijs-helper-scrollreveal-min.js - 173.252.127.18 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.169+Safari/537.36 - 404 1405 327
+2019-06-25 07:32:26 GET /js/bootstrap.min.js - 173.252.127.4 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.169+Safari/537.36 - 200 10255 293
+2019-06-25 07:32:26 GET /anijs-min.js - 173.252.127.18 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.169+Safari/537.36 - 404 1405 286
+2019-06-25 07:32:26 GET /js/jquery.backTop.min.js - 173.252.127.4 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.169+Safari/537.36 - 200 769 298
+2019-06-25 07:32:26 GET /js/jquery.contact-buttons.js - 173.252.127.18 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.169+Safari/537.36 - 404 1405 302
+2019-06-25 07:32:27 GET /helpers/scrollreveal/anijs-helper-scrollreveal-min.js - 173.252.127.4 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.169+Safari/537.36 - 404 1405 327
+2019-06-25 07:32:27 GET /js/demo.js - 173.252.127.18 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.169+Safari/537.36 - 200 1183 284
+2019-06-25 07:32:27 GET /js/app.js - 173.252.127.12 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.169+Safari/537.36 - 200 471 283
+2019-06-25 07:32:27 GET /js/anijs.js - 173.252.127.4 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.169+Safari/537.36 - 200 9102 285
+2019-06-25 07:32:27 GET /js/jquery.contact-buttons.js - 173.252.127.18 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.169+Safari/537.36 - 404 1405 302
+2019-06-25 07:32:27 GET /images/1.jpg - 173.252.127.4 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.169+Safari/537.36 - 200 58300 322
+2019-06-25 07:32:27 GET /fonts/PIZZAHUT-FONT.TTF - 173.252.127.4 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.169+Safari/537.36 - 200 19512 331
+2019-06-25 07:32:28 GET /fonts/glyphicons-halflings-regular.woff - 173.252.127.4 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.169+Safari/537.36 - 404 1405 347
+2019-06-25 07:32:28 GET /images/logo.png - 173.252.127.12 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.169+Safari/537.36 - 200 96088 325
+2019-06-25 07:32:28 GET /images/2.jpg - 173.252.127.18 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.169+Safari/537.36 - 200 569632 322
+2019-06-25 07:32:28 GET /fonts/glyphicons-halflings-regular.ttf - 173.252.127.4 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.169+Safari/537.36 - 200 29775 346
+2019-06-25 07:32:28 GET /images/icon1.png - 173.252.127.12 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.169+Safari/537.36 - 200 1492 326
+2019-06-25 07:32:28 GET /images/icon3.png - 173.252.127.18 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.169+Safari/537.36 - 200 1534 326
+2019-06-25 07:32:28 GET /images/menu.png - 173.252.127.12 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.169+Safari/537.36 - 200 18287 325
+2019-06-25 07:32:28 GET /images/icon2.png - 173.252.127.4 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.169+Safari/537.36 - 200 1295 326
+2019-06-25 07:32:28 GET /images/1-thumb.jpg - 173.252.127.18 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.169+Safari/537.36 - 200 91374 328
+2019-06-25 07:32:28 GET /images/3-thumb.jpg - 173.252.127.4 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.169+Safari/537.36 - 200 102350 328
+2019-06-25 07:32:28 GET /images/2-thumb.jpg - 173.252.127.12 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.169+Safari/537.36 - 200 108334 328
+2019-06-25 07:32:28 GET /images/4-thumb.jpg - 173.252.127.18 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.169+Safari/537.36 - 200 150284 328
+2019-06-25 07:32:28 GET /images/gallery.png - 173.252.127.12 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.169+Safari/537.36 - 200 21002 328
+2019-06-25 07:32:28 GET /images/s7.jpg - 173.252.127.4 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.169+Safari/537.36 - 200 30366 323
+2019-06-25 07:32:29 GET /images/s1.jpg - 173.252.127.18 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.169+Safari/537.36 - 200 27980 323
+2019-06-25 07:32:29 GET /images/s3.jpg - 173.252.127.12 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.169+Safari/537.36 - 200 27171 323
+2019-06-25 07:32:29 GET /images/s2.jpg - 173.252.127.4 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.169+Safari/537.36 - 200 26686 323
+2019-06-25 07:32:29 GET /images/s4.jpg - 173.252.127.18 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.169+Safari/537.36 - 200 27363 323
+2019-06-25 07:32:29 GET /images/s5.jpg - 173.252.127.12 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.169+Safari/537.36 - 200 25942 323
+2019-06-25 07:32:29 GET /images/contact.png - 173.252.127.18 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.169+Safari/537.36 - 200 18652 328
+2019-06-25 07:32:29 GET /images/7days.png - 173.252.127.12 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.169+Safari/537.36 - 200 14496 326
+2019-06-25 07:32:29 GET /images/uparr-48-w.png - 173.252.127.18 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.169+Safari/537.36 - 200 704 331
+2019-06-25 07:32:30 GET /images/3.jpg - 173.252.127.4 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.169+Safari/537.36 - 200 1379212 322
+2019-06-25 07:32:30 GET /favicon.ico - 173.252.127.4 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.169+Safari/537.36 - 404 1405 321
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2019-06-25 08:43:40
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2019-06-25 08:43:40 GET / - 210.48.190.46 HTTP/1.1 Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N960F+Build/PPR1.180610.011)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/9.2+Chrome/67.0.3396.87+Mobile+Safari/537.36 https://www.google.com/ 200 8794 495
+2019-06-25 08:43:40 GET /css/contact-buttons.css - 210.48.190.46 HTTP/1.1 Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N960F+Build/PPR1.180610.011)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/9.2+Chrome/67.0.3396.87+Mobile+Safari/537.36 http://ngateapizza.co.nz/ 404 1405 423
+2019-06-25 08:43:40 GET /css/popuo-box.css - 210.48.190.46 HTTP/1.1 Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N960F+Build/PPR1.180610.011)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/9.2+Chrome/67.0.3396.87+Mobile+Safari/537.36 http://ngateapizza.co.nz/ 200 1990 417
+2019-06-25 08:43:40 GET /css/style.css - 210.48.190.46 HTTP/1.1 Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N960F+Build/PPR1.180610.011)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/9.2+Chrome/67.0.3396.87+Mobile+Safari/537.36 http://ngateapizza.co.nz/ 200 6262 413
+2019-06-25 08:43:40 GET /font-awesome/css/font-awesome.min.css - 210.48.190.46 HTTP/1.1 Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N960F+Build/PPR1.180610.011)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/9.2+Chrome/67.0.3396.87+Mobile+Safari/537.36 http://ngateapizza.co.nz/ 200 4992 437
+2019-06-25 08:43:41 GET /js/modernizr.custom.min.js - 210.48.190.46 HTTP/1.1 Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N960F+Build/PPR1.180610.011)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/9.2+Chrome/67.0.3396.87+Mobile+Safari/537.36 http://ngateapizza.co.nz/ 200 1456 411
+2019-06-25 08:43:41 GET /css/bootstrap.min.css - 210.48.190.46 HTTP/1.1 Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N960F+Build/PPR1.180610.011)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/9.2+Chrome/67.0.3396.87+Mobile+Safari/537.36 http://ngateapizza.co.nz/ 200 23841 421
+2019-06-25 08:43:41 GET /js/jquery.min.js - 210.48.190.46 HTTP/1.1 Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N960F+Build/PPR1.180610.011)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/9.2+Chrome/67.0.3396.87+Mobile+Safari/537.36 http://ngateapizza.co.nz/ 200 42005 401
+2019-06-25 08:43:41 GET /helpers/scrollreveal/anijs-helper-scrollreveal-min.js - 210.48.190.46 HTTP/1.1 Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N960F+Build/PPR1.180610.011)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/9.2+Chrome/67.0.3396.87+Mobile+Safari/537.36 http://ngateapizza.co.nz/ 404 1405 438
+2019-06-25 08:43:41 GET /anijs-min.js - 210.48.190.46 HTTP/1.1 Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N960F+Build/PPR1.180610.011)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/9.2+Chrome/67.0.3396.87+Mobile+Safari/537.36 http://ngateapizza.co.nz/ 404 1405 397
+2019-06-25 08:43:41 GET /js/scrollReveal.js - 210.48.190.46 HTTP/1.1 Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N960F+Build/PPR1.180610.011)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/9.2+Chrome/67.0.3396.87+Mobile+Safari/537.36 http://ngateapizza.co.nz/ 200 4186 403
+2019-06-25 08:43:41 GET /js/jquery.magnific-popup.js - 210.48.190.46 HTTP/1.1 Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N960F+Build/PPR1.180610.011)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/9.2+Chrome/67.0.3396.87+Mobile+Safari/537.36 http://ngateapizza.co.nz/ 200 18396 412
+2019-06-25 08:43:42 GET /anijs-min.js - 210.48.190.46 HTTP/1.1 Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N960F+Build/PPR1.180610.011)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/9.2+Chrome/67.0.3396.87+Mobile+Safari/537.36 http://ngateapizza.co.nz/ 404 1405 397
+2019-06-25 08:43:42 GET /helpers/scrollreveal/anijs-helper-scrollreveal-min.js - 210.48.190.46 HTTP/1.1 Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N960F+Build/PPR1.180610.011)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/9.2+Chrome/67.0.3396.87+Mobile+Safari/537.36 http://ngateapizza.co.nz/ 404 1405 438
+2019-06-25 08:43:43 GET /js/bootstrap.min.js - 210.48.190.46 HTTP/1.1 Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N960F+Build/PPR1.180610.011)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/9.2+Chrome/67.0.3396.87+Mobile+Safari/537.36 http://ngateapizza.co.nz/ 200 10255 404
+2019-06-25 08:43:43 GET /js/jquery.contact-buttons.js - 210.48.190.46 HTTP/1.1 Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N960F+Build/PPR1.180610.011)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/9.2+Chrome/67.0.3396.87+Mobile+Safari/537.36 http://ngateapizza.co.nz/ 404 1405 413
+2019-06-25 08:43:43 GET /js/demo.js - 210.48.190.46 HTTP/1.1 Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N960F+Build/PPR1.180610.011)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/9.2+Chrome/67.0.3396.87+Mobile+Safari/537.36 http://ngateapizza.co.nz/ 200 1183 395
+2019-06-25 08:43:43 GET /js/jquery.backTop.min.js - 210.48.190.46 HTTP/1.1 Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N960F+Build/PPR1.180610.011)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/9.2+Chrome/67.0.3396.87+Mobile+Safari/537.36 http://ngateapizza.co.nz/ 200 769 409
+2019-06-25 08:43:43 GET /js/app.js - 210.48.190.46 HTTP/1.1 Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N960F+Build/PPR1.180610.011)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/9.2+Chrome/67.0.3396.87+Mobile+Safari/537.36 http://ngateapizza.co.nz/ 200 471 394
+2019-06-25 08:43:44 GET /fonts/glyphicons-halflings-regular.woff - 210.48.190.46 HTTP/1.1 Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N960F+Build/PPR1.180610.011)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/9.2+Chrome/67.0.3396.87+Mobile+Safari/537.36 http://ngateapizza.co.nz/css/bootstrap.min.css 404 1405 479
+2019-06-25 08:43:44 GET /js/anijs.js - 210.48.190.46 HTTP/1.1 Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N960F+Build/PPR1.180610.011)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/9.2+Chrome/67.0.3396.87+Mobile+Safari/537.36 http://ngateapizza.co.nz/ 200 9102 396
+2019-06-25 08:43:44 GET /fonts/PIZZAHUT-FONT.TTF - 210.48.190.46 HTTP/1.1 Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N960F+Build/PPR1.180610.011)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/9.2+Chrome/67.0.3396.87+Mobile+Safari/537.36 http://ngateapizza.co.nz/ 200 19512 442
+2019-06-25 08:43:44 GET /images/icon1.png - 210.48.190.46 HTTP/1.1 Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N960F+Build/PPR1.180610.011)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/9.2+Chrome/67.0.3396.87+Mobile+Safari/537.36 http://ngateapizza.co.nz/ 200 1492 437
+2019-06-25 08:43:44 GET /images/icon3.png - 210.48.190.46 HTTP/1.1 Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N960F+Build/PPR1.180610.011)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/9.2+Chrome/67.0.3396.87+Mobile+Safari/537.36 http://ngateapizza.co.nz/ 200 1534 437
+2019-06-25 08:43:44 GET /images/logo.png - 210.48.190.46 HTTP/1.1 Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N960F+Build/PPR1.180610.011)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/9.2+Chrome/67.0.3396.87+Mobile+Safari/537.36 http://ngateapizza.co.nz/ 200 96088 436
+2019-06-25 08:43:44 GET /js/jquery.contact-buttons.js - 210.48.190.46 HTTP/1.1 Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N960F+Build/PPR1.180610.011)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/9.2+Chrome/67.0.3396.87+Mobile+Safari/537.36 http://ngateapizza.co.nz/ 404 1405 413
+2019-06-25 08:43:44 GET /images/icon2.png - 210.48.190.46 HTTP/1.1 Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N960F+Build/PPR1.180610.011)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/9.2+Chrome/67.0.3396.87+Mobile+Safari/537.36 http://ngateapizza.co.nz/ 200 1295 437
+2019-06-25 08:43:44 GET /fonts/glyphicons-halflings-regular.ttf - 210.48.190.46 HTTP/1.1 Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N960F+Build/PPR1.180610.011)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/9.2+Chrome/67.0.3396.87+Mobile+Safari/537.36 http://ngateapizza.co.nz/css/bootstrap.min.css 200 29775 478
+2019-06-25 08:43:45 GET /images/1.jpg - 210.48.190.46 HTTP/1.1 Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N960F+Build/PPR1.180610.011)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/9.2+Chrome/67.0.3396.87+Mobile+Safari/537.36 http://ngateapizza.co.nz/ 200 58300 433
+2019-06-25 08:43:45 GET /images/menu.png - 210.48.190.46 HTTP/1.1 Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N960F+Build/PPR1.180610.011)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/9.2+Chrome/67.0.3396.87+Mobile+Safari/537.36 http://ngateapizza.co.nz/ 200 18287 436
+2019-06-25 08:43:45 GET /images/1-thumb.jpg - 210.48.190.46 HTTP/1.1 Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N960F+Build/PPR1.180610.011)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/9.2+Chrome/67.0.3396.87+Mobile+Safari/537.36 http://ngateapizza.co.nz/ 200 91374 439
+2019-06-25 08:43:45 GET /images/2-thumb.jpg - 210.48.190.46 HTTP/1.1 Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N960F+Build/PPR1.180610.011)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/9.2+Chrome/67.0.3396.87+Mobile+Safari/537.36 http://ngateapizza.co.nz/ 200 108334 439
+2019-06-25 08:43:45 GET /images/2.jpg - 210.48.190.46 HTTP/1.1 Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N960F+Build/PPR1.180610.011)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/9.2+Chrome/67.0.3396.87+Mobile+Safari/537.36 http://ngateapizza.co.nz/ 200 569632 433
+2019-06-25 08:43:45 GET /images/gallery.png - 210.48.190.46 HTTP/1.1 Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N960F+Build/PPR1.180610.011)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/9.2+Chrome/67.0.3396.87+Mobile+Safari/537.36 http://ngateapizza.co.nz/ 200 21002 439
+2019-06-25 08:43:46 GET /images/3-thumb.jpg - 210.48.190.46 HTTP/1.1 Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N960F+Build/PPR1.180610.011)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/9.2+Chrome/67.0.3396.87+Mobile+Safari/537.36 http://ngateapizza.co.nz/ 200 102350 439
+2019-06-25 08:43:46 GET /images/s7.jpg - 210.48.190.46 HTTP/1.1 Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N960F+Build/PPR1.180610.011)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/9.2+Chrome/67.0.3396.87+Mobile+Safari/537.36 http://ngateapizza.co.nz/ 200 30366 434
+2019-06-25 08:43:46 GET /images/3.jpg - 210.48.190.46 HTTP/1.1 Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N960F+Build/PPR1.180610.011)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/9.2+Chrome/67.0.3396.87+Mobile+Safari/537.36 http://ngateapizza.co.nz/ 200 1379212 433
+2019-06-25 08:43:46 GET /images/s1.jpg - 210.48.190.46 HTTP/1.1 Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N960F+Build/PPR1.180610.011)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/9.2+Chrome/67.0.3396.87+Mobile+Safari/537.36 http://ngateapizza.co.nz/ 200 27980 434
+2019-06-25 08:43:46 GET /images/s2.jpg - 210.48.190.46 HTTP/1.1 Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N960F+Build/PPR1.180610.011)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/9.2+Chrome/67.0.3396.87+Mobile+Safari/537.36 http://ngateapizza.co.nz/ 200 26686 434
+2019-06-25 08:43:46 GET /images/s3.jpg - 210.48.190.46 HTTP/1.1 Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N960F+Build/PPR1.180610.011)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/9.2+Chrome/67.0.3396.87+Mobile+Safari/537.36 http://ngateapizza.co.nz/ 200 27171 434
+2019-06-25 08:43:46 GET /images/s4.jpg - 210.48.190.46 HTTP/1.1 Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N960F+Build/PPR1.180610.011)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/9.2+Chrome/67.0.3396.87+Mobile+Safari/537.36 http://ngateapizza.co.nz/ 200 27363 434
+2019-06-25 08:43:46 GET /images/uparr-48-w.png - 210.48.190.46 HTTP/1.1 Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N960F+Build/PPR1.180610.011)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/9.2+Chrome/67.0.3396.87+Mobile+Safari/537.36 http://ngateapizza.co.nz/css/style.css 200 704 455
+2019-06-25 08:43:46 GET /images/4-thumb.jpg - 210.48.190.46 HTTP/1.1 Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N960F+Build/PPR1.180610.011)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/9.2+Chrome/67.0.3396.87+Mobile+Safari/537.36 http://ngateapizza.co.nz/ 200 150284 439
+2019-06-25 08:43:47 GET /images/s5.jpg - 210.48.190.46 HTTP/1.1 Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N960F+Build/PPR1.180610.011)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/9.2+Chrome/67.0.3396.87+Mobile+Safari/537.36 http://ngateapizza.co.nz/ 200 25942 434
+2019-06-25 08:43:47 GET /images/contact.png - 210.48.190.46 HTTP/1.1 Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N960F+Build/PPR1.180610.011)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/9.2+Chrome/67.0.3396.87+Mobile+Safari/537.36 http://ngateapizza.co.nz/ 200 18652 439
+2019-06-25 08:43:47 GET /images/7days.png - 210.48.190.46 HTTP/1.1 Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N960F+Build/PPR1.180610.011)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/9.2+Chrome/67.0.3396.87+Mobile+Safari/537.36 http://ngateapizza.co.nz/ 200 14496 437
+2019-06-25 08:43:47 GET /favicon.ico - 210.48.190.46 HTTP/1.1 Mozilla/5.0+(Linux;+Android+9;+SAMSUNG+SM-N960F+Build/PPR1.180610.011)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/9.2+Chrome/67.0.3396.87+Mobile+Safari/537.36 http://ngateapizza.co.nz/ 404 1405 432
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2019-06-25 11:19:40
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2019-06-25 11:19:39 GET /favicon.ico - 121.98.145.157 HTTP/1.1 Mozilla/5.0+(Linux;+Android+8.0.0;+SM-G950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.101+Mobile+Safari/537.36 http://ngateapizza.co.nz/ 404 1405 391
+2019-06-25 11:28:38 GET /favicon.ico - 121.98.145.157 HTTP/1.1 Mozilla/5.0+(Linux;+Android+8.0.0;+SM-G950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/75.0.3770.101+Mobile+Safari/537.36 http://ngateapizza.co.nz/ 404 1405 391
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2019-06-25 13:26:03
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2019-06-25 13:26:02 GET / - 34.219.89.75 HTTP/1.1 Go-http-client/1.1 - 200 0 98
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2019-06-25 16:04:03
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2019-06-25 16:04:02 GET /images/1.jpg - 172.58.11.149 HTTP/1.1 Mozilla/5.0+(Linux;+Android+8.1.0;+SM-J727T1)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/70.0.3538.80+Mobile+Safari/537.36 https://www.google.com/ 200 0 366
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2019-06-25 16:45:01
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2019-06-25 16:45:01 GET /robots.txt - 185.6.8.9 HTTP/1.1 (info@domaincrawler.com;+http://www.domaincrawler.com/ngateapizza.co.nz) - 404 1405 139
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2019-06-26 06:06:26
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2019-06-26 06:06:26 GET /robots.txt - 185.6.8.7 HTTP/1.1 (info@domaincrawler.com;+http://www.domaincrawler.com/ngateapizza.co.nz) - 404 1405 139

@@ -1,0 +1,104 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2019-05-10 09:58:26
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2019-05-10 09:58:26 GET / - 46.101.80.192 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.0)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/34.0.1847.116+Safari/537.36 - 200 13748 326
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2019-05-10 10:15:04
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2019-05-10 10:15:04 POST /beta/wp-content/themes/AdvanceImage5/functions.php - 39.100.40.131 HTTP/1.1 - - 404 1424 316
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2019-05-10 10:31:26
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2019-05-10 10:31:26 GET / - 65.60.27.157 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 - 200 103142 221
+2019-05-10 10:31:26 GET /wp - 65.60.27.157 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 - 404 1405 223
+2019-05-10 10:31:27 GET /wordpress - 65.60.27.157 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 - 404 1405 230
+2019-05-10 10:31:27 GET /wp-admin - 65.60.27.157 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 - 404 1405 229
+2019-05-10 10:31:27 GET /blog - 65.60.27.157 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 - 404 1405 225
+2019-05-10 10:31:28 GET /administrator/index.php - 65.60.27.157 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 - 404 1405 244
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2019-05-10 10:59:16
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2019-05-10 10:59:15 GET /favicon.ico - 66.249.79.181 HTTP/1.1 Googlebot-Image/1.0 - 404 1405 196
+2019-05-10 11:03:55 GET / - 185.17.149.187 HTTP/1.0 Mozilla/5.0+(Windows+NT+6.3;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/68.0.3440.106+Safari/537.36 http://ngateahotel.co.nz/ 200 103161 310
+2019-05-10 11:04:02 POST /include/reservation-process.php - 185.17.149.187 HTTP/1.0 Mozilla/5.0+(Windows+NT+6.3;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/68.0.3440.106+Safari/537.36 http://ngateahotel.co.nz/ 200 305 686
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2019-05-10 11:32:23
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2019-05-10 11:32:22 GET /wp-login.php - 3.15.12.181 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64;+rv:31.0)+Gecko/20100101+Firefox/31.0 https://google.com 404 1405 225
+2019-05-10 11:40:01 GET /favicon.ico - 66.249.79.181 HTTP/1.1 Googlebot-Image/1.0 - 404 1405 196
+2019-05-10 11:40:01 GET /images/favicon.ico - 66.249.79.179 HTTP/1.1 Googlebot-Image/1.0 - 404 1405 203
+2019-05-10 11:40:04 GET /images/favicon.ico - 66.249.79.181 HTTP/1.1 Googlebot-Image/1.0 - 404 1405 203
+2019-05-10 11:40:07 GET /images/favicon.ico - 66.249.79.181 HTTP/1.1 Googlebot-Image/1.0 - 404 1405 203
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2019-05-10 16:57:00
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2019-05-10 16:56:59 GET /robots.txt - 66.249.79.90 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 404 1405 231
+2019-05-10 16:57:01 GET / - 66.249.79.88 HTTP/1.1 Mozilla/5.0+(Linux;+Android+6.0.1;+Nexus+5X+Build/MMB29P)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2272.96+Mobile+Safari/537.36+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 13729 552
+2019-05-10 16:57:12 GET /css/colors.css - 66.249.79.90 HTTP/1.1 Mozilla/5.0+(Linux;+Android+6.0.1;+Nexus+5X+Build/MMB29P)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2272.96+Mobile+Safari/537.36+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) http://ngateahotel.co.nz/ 200 3308 449
+2019-05-10 16:57:15 GET /robots.txt - 66.249.79.181 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 404 1405 235
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2019-05-10 18:38:29
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2019-05-10 18:38:28 HEAD /inc/Check_Sql.asp - 115.150.208.171 HTTP/1.1 - - 404 160 89
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2019-05-10 18:55:31
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2019-05-10 18:55:30 HEAD / - 46.166.188.248 HTTP/1.1 Mozilla/5.0+(compatible;+Uptimebot/1.0;++http://www.uptime.com/uptimebot) https://uptime.com/ngateahotel.co.nz 200 268 210
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2019-05-10 19:16:35
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2019-05-10 19:16:34 GET / - 66.249.64.4 HTTP/1.1 Mozilla/5.0+(Linux;+Android+6.0.1;+Nexus+5X+Build/MMB29P)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2272.96+Mobile+Safari/537.36+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 13729 556
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2019-05-10 20:11:52
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2019-05-10 20:11:51 HEAD / - 109.201.154.215 HTTP/1.1 Mozilla/5.0+(compatible;+Uptimebot/1.0;++http://www.uptime.com/uptimebot) https://uptime.com/ngateahotel.co.nz 200 268 210
+2019-05-10 20:11:54 GET / - 46.166.186.209 HTTP/1.1 Mozilla/5.0+(compatible;+Uptimebot/1.0;++http://www.uptime.com/uptimebot) https://uptime.com/ngateahotel.co.nz 200 8688 232
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2019-05-10 21:12:41
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2019-05-10 21:12:40 GET / - 207.189.0.86 HTTP/1.0 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/67.0.3396.99+Safari/537.36 http://ngateahotel.co.nz/ 200 103161 309
+2019-05-10 21:12:50 POST /include/reservation-process.php - 207.189.0.86 HTTP/1.0 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/67.0.3396.99+Safari/537.36 http://ngateahotel.co.nz/ 200 305 688
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2019-05-10 22:22:50
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2019-05-10 22:22:49 GET / - 185.130.184.204 HTTP/1.0 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.170+Safari/537.36+OPR/53.0.2907.68 http://ngateahotel.co.nz/ 200 103161 328
+2019-05-10 22:23:00 POST /include/reservation-process.php - 185.130.184.204 HTTP/1.0 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.170+Safari/537.36+OPR/53.0.2907.68 http://ngateahotel.co.nz/ 200 305 711
+2019-05-10 22:23:35 GET / - 65.60.27.157 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 - 200 103142 221
+2019-05-10 22:23:36 GET /wp - 65.60.27.157 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 - 404 1405 223
+2019-05-10 22:23:36 GET /wordpress - 65.60.27.157 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 - 404 1405 230
+2019-05-10 22:23:36 GET /wp-admin - 65.60.27.157 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 - 404 1405 229
+2019-05-10 22:23:37 GET /blog - 65.60.27.157 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 - 404 1405 225
+2019-05-10 22:23:37 GET /administrator/index.php - 65.60.27.157 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 - 404 1405 244
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2019-05-11 00:33:40
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2019-05-11 00:33:40 HEAD / - 46.166.190.144 HTTP/1.1 Mozilla/5.0+(compatible;+Uptimebot/1.0;++http://www.uptime.com/uptimebot) https://uptime.com/ngateahotel.co.nz 200 268 210
+2019-05-11 00:33:48 GET / - 46.166.137.197 HTTP/1.1 Mozilla/5.0+(compatible;+Uptimebot/1.0;++http://www.uptime.com/uptimebot) https://uptime.com/ngateahotel.co.nz 200 8688 232
+2019-05-11 00:42:29 HEAD / - 173.252.87.21 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 416 323 222
+2019-05-11 00:42:36 GET / - 173.252.87.22 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2019-05-11 02:34:43
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2019-05-11 02:34:43 GET /robots.txt - 148.251.120.201 HTTP/1.1 Mozilla/5.0+(compatible;+MJ12bot/v1.4.8;+http://mj12bot.com/) - 404 1405 169
+2019-05-11 02:34:45 GET / - 148.251.120.201 HTTP/1.1 Mozilla/5.0+(compatible;+MJ12bot/v1.4.8;+http://mj12bot.com/) - 200 103142 346
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2019-05-11 05:49:01
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2019-05-11 05:49:00 GET /images/gallery/gallery-2.jpg - 64.233.173.47 HTTP/1.1 Mozilla/5.0+(Windows+NT+5.1;+rv:11.0)+Gecko+Firefox/11.0+(via+ggpht.com+GoogleImageProxy) - 200 16758 236
+2019-05-11 05:50:15 GET /images/gallery/gallery-2.jpg - 64.233.173.49 HTTP/1.1 Mozilla/5.0+(Windows+NT+5.1;+rv:11.0)+Gecko+Firefox/11.0+(via+ggpht.com+GoogleImageProxy) - 200 16758 236
+2019-05-11 05:50:15 GET /images/gallery/gallery-2.jpg - 64.233.173.47 HTTP/1.1 Mozilla/5.0+(Windows+NT+5.1;+rv:11.0)+Gecko+Firefox/11.0+(via+ggpht.com+GoogleImageProxy) - 200 16758 236

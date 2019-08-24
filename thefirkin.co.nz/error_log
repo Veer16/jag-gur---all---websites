@@ -1,0 +1,4 @@
+[03-Jan-2019 22:28:36 UTC] PHP Warning:  include(app/Mage.php): failed to open stream: No such file or directory in Command line code on line 1
+[03-Jan-2019 22:28:36 UTC] PHP Warning:  include(app/Mage.php): failed to open stream: No such file or directory in Command line code on line 1
+[03-Jan-2019 22:28:36 UTC] PHP Warning:  include(): Failed opening 'app/Mage.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in Command line code on line 1
+[03-Jan-2019 22:28:36 UTC] PHP Fatal error:  Class 'Mage' not found in Command line code on line 1

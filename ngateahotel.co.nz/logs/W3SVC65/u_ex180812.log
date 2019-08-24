@@ -1,0 +1,98 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-08-12 08:05:59
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-08-12 08:05:58 GET /robots.txt - 64.246.165.10 HTTP/1.0 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10.10;+rv:59.0)+Gecko/20100101+Firefox/59.0 - 404 1424 239
+2018-08-12 08:05:59 GET / - 64.246.165.10 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10.10;+rv:59.0)+Gecko/20100101+Firefox/59.0 - 200 13729 379
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-08-12 09:11:41
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-08-12 09:11:41 GET /robots.txt - 66.249.79.130 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 404 1405 231
+2018-08-12 09:11:41 GET / - 66.249.79.130 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 13729 294
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-08-12 10:28:35
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-08-12 10:28:35 GET /xxx.htm - 66.249.79.130 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 404 1405 301
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-08-12 11:39:27
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-08-12 11:39:27 GET /images/logo-big.png - 66.220.152.97 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 200 16600 222
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-08-12 12:41:36
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-08-12 12:41:36 GET / - 199.195.250.77 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/37.0.2062.120+Safari/537.36 http://burger-imperia.com/ 200 103142 243
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-08-12 13:56:53
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-08-12 13:56:52 GET /robots.txt - 5.45.207.33 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - 404 1405 204
+2018-08-12 13:56:56 GET /images/favicon.ico - 5.45.207.33 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - 404 1405 243
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-08-12 22:38:20
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-08-12 22:38:20 GET / - 157.55.39.238 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - 200 13729 272
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-08-13 00:37:20
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-08-13 00:37:19 GET /images/logo-big.png - 66.220.156.176 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 200 16600 222
+2018-08-13 00:41:09 GET / - 203.109.200.206 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+11_4_1+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Mobile/15G77+[FBAN/FBIOS;FBAV/184.0.0.40.79;FBBV/119872175;FBDV/iPhone7,2;FBMD/iPhone;FBSN/iOS;FBSV/11.4.1;FBSS/2;FBCR/SparkNZ;FBID/phone;FBLC/en_GB;FBOP/5;FBRV/120295285] http://m.facebook.com 200 13729 541
+2018-08-13 00:41:10 GET /images/logo-small.png - 203.109.200.206 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+11_4_1+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Mobile/15G77+[FBAN/FBIOS;FBAV/184.0.0.40.79;FBBV/119872175;FBDV/iPhone7,2;FBMD/iPhone;FBSN/iOS;FBSV/11.4.1;FBSS/2;FBCR/SparkNZ;FBID/phone;FBLC/en_GB;FBOP/5;FBRV/120295285] - 200 6018 510
+2018-08-13 00:41:10 GET /images/logo-big.png - 203.109.200.206 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+11_4_1+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Mobile/15G77+[FBAN/FBIOS;FBAV/184.0.0.40.79;FBBV/119872175;FBDV/iPhone7,2;FBMD/iPhone;FBSN/iOS;FBSV/11.4.1;FBSS/2;FBCR/SparkNZ;FBID/phone;FBLC/en_GB;FBOP/5;FBRV/120295285] - 200 16600 508
+2018-08-13 00:41:10 GET /images/logo-big.png - 69.63.188.209 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 200 16600 222
+2018-08-13 00:41:10 GET /images/menu/menu-1.jpg - 203.109.200.206 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+11_4_1+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Mobile/15G77+[FBAN/FBIOS;FBAV/184.0.0.40.79;FBBV/119872175;FBDV/iPhone7,2;FBMD/iPhone;FBSN/iOS;FBSV/11.4.1;FBSS/2;FBCR/SparkNZ;FBID/phone;FBLC/en_GB;FBOP/5;FBRV/120295285] - 200 4045 511
+2018-08-13 00:41:11 GET /images/blog/blog-1.jpg - 203.109.200.206 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+11_4_1+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Mobile/15G77+[FBAN/FBIOS;FBAV/184.0.0.40.79;FBBV/119872175;FBDV/iPhone7,2;FBMD/iPhone;FBSN/iOS;FBSV/11.4.1;FBSS/2;FBCR/SparkNZ;FBID/phone;FBLC/en_GB;FBOP/5;FBRV/120295285] - 200 14403 511
+2018-08-13 00:41:15 GET /images/events/event-1.jpg - 203.109.200.206 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+11_4_1+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Mobile/15G77+[FBAN/FBIOS;FBAV/184.0.0.40.79;FBBV/119872175;FBDV/iPhone7,2;FBMD/iPhone;FBSN/iOS;FBSV/11.4.1;FBSS/2;FBCR/SparkNZ;FBID/phone;FBLC/en_GB;FBOP/5;FBRV/120295285] - 200 608557 514
+2018-08-13 00:41:43 GET /images/events/event-2.jpg - 203.109.200.206 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+11_4_1+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Mobile/15G77+[FBAN/FBIOS;FBAV/184.0.0.40.79;FBBV/119872175;FBDV/iPhone7,2;FBMD/iPhone;FBSN/iOS;FBSV/11.4.1;FBSS/2;FBCR/SparkNZ;FBID/phone;FBLC/en_GB;FBOP/5;FBRV/120295285] - 200 595360 514
+2018-08-13 00:42:23 GET /images/events/event-3.jpg - 203.109.200.206 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+11_4_1+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Mobile/15G77+[FBAN/FBIOS;FBAV/184.0.0.40.79;FBBV/119872175;FBDV/iPhone7,2;FBMD/iPhone;FBSN/iOS;FBSV/11.4.1;FBSS/2;FBCR/SparkNZ;FBID/phone;FBLC/en_GB;FBOP/5;FBRV/120295285] - 200 598125 514
+2018-08-13 00:42:24 GET /images/events/event-4.jpg - 203.109.200.206 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+11_4_1+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Mobile/15G77+[FBAN/FBIOS;FBAV/184.0.0.40.79;FBBV/119872175;FBDV/iPhone7,2;FBMD/iPhone;FBSN/iOS;FBSV/11.4.1;FBSS/2;FBCR/SparkNZ;FBID/phone;FBLC/en_GB;FBOP/5;FBRV/120295285] - 200 16101 514
+2018-08-13 00:42:56 GET /images/team/member-1.jpg - 203.109.200.206 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+11_4_1+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Mobile/15G77+[FBAN/FBIOS;FBAV/184.0.0.40.79;FBBV/119872175;FBDV/iPhone7,2;FBMD/iPhone;FBSN/iOS;FBSV/11.4.1;FBSS/2;FBCR/SparkNZ;FBID/phone;FBLC/en_GB;FBOP/5;FBRV/120295285] - 200 593475 513
+2018-08-13 00:43:31 GET /images/team/member-2.jpg - 203.109.200.206 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+11_4_1+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Mobile/15G77+[FBAN/FBIOS;FBAV/184.0.0.40.79;FBBV/119872175;FBDV/iPhone7,2;FBMD/iPhone;FBSN/iOS;FBSV/11.4.1;FBSS/2;FBCR/SparkNZ;FBID/phone;FBLC/en_GB;FBOP/5;FBRV/120295285] - 200 594701 513
+2018-08-13 00:44:15 GET /images/team/member-3.jpg - 203.109.200.206 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+11_4_1+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Mobile/15G77+[FBAN/FBIOS;FBAV/184.0.0.40.79;FBBV/119872175;FBDV/iPhone7,2;FBMD/iPhone;FBSN/iOS;FBSV/11.4.1;FBSS/2;FBCR/SparkNZ;FBID/phone;FBLC/en_GB;FBOP/5;FBRV/120295285] - 200 587295 513
+2018-08-13 00:45:02 GET /images/gallery/gallery-1.jpg - 203.109.200.206 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+11_4_1+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Mobile/15G77+[FBAN/FBIOS;FBAV/184.0.0.40.79;FBBV/119872175;FBDV/iPhone7,2;FBMD/iPhone;FBSN/iOS;FBSV/11.4.1;FBSS/2;FBCR/SparkNZ;FBID/phone;FBLC/en_GB;FBOP/5;FBRV/120295285] - 200 16100 517
+2018-08-13 00:45:02 GET /images/gallery/gallery-2.jpg - 203.109.200.206 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+11_4_1+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Mobile/15G77+[FBAN/FBIOS;FBAV/184.0.0.40.79;FBBV/119872175;FBDV/iPhone7,2;FBMD/iPhone;FBSN/iOS;FBSV/11.4.1;FBSS/2;FBCR/SparkNZ;FBID/phone;FBLC/en_GB;FBOP/5;FBRV/120295285] - 200 16758 517
+2018-08-13 00:45:03 GET /images/gallery/gallery-3.jpg - 203.109.200.206 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+11_4_1+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Mobile/15G77+[FBAN/FBIOS;FBAV/184.0.0.40.79;FBBV/119872175;FBDV/iPhone7,2;FBMD/iPhone;FBSN/iOS;FBSV/11.4.1;FBSS/2;FBCR/SparkNZ;FBID/phone;FBLC/en_GB;FBOP/5;FBRV/120295285] - 200 14699 517
+2018-08-13 00:45:03 GET /images/gallery/gallery-4.jpg - 203.109.200.206 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+11_4_1+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Mobile/15G77+[FBAN/FBIOS;FBAV/184.0.0.40.79;FBBV/119872175;FBDV/iPhone7,2;FBMD/iPhone;FBSN/iOS;FBSV/11.4.1;FBSS/2;FBCR/SparkNZ;FBID/phone;FBLC/en_GB;FBOP/5;FBRV/120295285] - 200 14402 517
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-08-13 05:15:58
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-08-13 05:15:58 GET /user/register/ - 218.75.230.8 HTTP/1.1 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+de;+rv:1.9)+Gecko/2008052906+Firefox/3.0 - 404 1424 209
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-08-13 05:44:05
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-08-13 05:44:05 GET /robots.txt - 5.45.207.33 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - 404 1405 204
+2018-08-13 05:44:09 GET /images/favicon.ico - 5.45.207.33 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - 404 1405 243
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-08-13 06:29:33
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-08-13 06:29:33 GET /robots.txt - 109.169.29.30 HTTP/1.1 Mozilla/5.0+(compatible;+aiHitBot/2.9;++https://www.aihitdata.com/about) - 404 1405 308
+2018-08-13 06:29:35 GET / - 109.169.29.30 HTTP/1.1 Mozilla/5.0+(compatible;+aiHitBot/2.9;++https://www.aihitdata.com/about) - 200 103142 298
+2018-08-13 06:29:38 GET /css/bootstrap/css/bootstrap.min.css - 109.169.29.30 HTTP/1.1 Mozilla/5.0+(compatible;+aiHitBot/2.9;++https://www.aihitdata.com/about) - 200 97587 333
+2018-08-13 06:29:39 GET /style.css - 109.169.29.30 HTTP/1.1 Mozilla/5.0+(compatible;+aiHitBot/2.9;++https://www.aihitdata.com/about) - 200 17822 307
+2018-08-13 06:29:41 GET /css/colors.css - 109.169.29.30 HTTP/1.1 Mozilla/5.0+(compatible;+aiHitBot/2.9;++https://www.aihitdata.com/about) - 200 10501 312
+2018-08-13 06:29:48 GET /css/bootstrap/js/bootstrap.min.js - 109.169.29.30 HTTP/1.1 Mozilla/5.0+(compatible;+aiHitBot/2.9;++https://www.aihitdata.com/about) - 200 27990 331
+2018-08-13 06:29:50 GET /js/jquery.easing.min.js - 109.169.29.30 HTTP/1.1 Mozilla/5.0+(compatible;+aiHitBot/2.9;++https://www.aihitdata.com/about) - 200 7308 321
+2018-08-13 06:29:52 GET /js/jquery.isotope.min.js - 109.169.29.30 HTTP/1.1 Mozilla/5.0+(compatible;+aiHitBot/2.9;++https://www.aihitdata.com/about) - 200 16218 322
+2018-08-13 06:29:54 GET /js/jquery.flexslider-min.js - 109.169.29.30 HTTP/1.1 Mozilla/5.0+(compatible;+aiHitBot/2.9;++https://www.aihitdata.com/about) - 200 21685 325
+2018-08-13 06:29:55 GET /js/jquery.form.min.js - 109.169.29.30 HTTP/1.1 Mozilla/5.0+(compatible;+aiHitBot/2.9;++https://www.aihitdata.com/about) - 200 11390 319
+2018-08-13 06:29:56 GET /js/contactform.js - 109.169.29.30 HTTP/1.1 Mozilla/5.0+(compatible;+aiHitBot/2.9;++https://www.aihitdata.com/about) - 200 4238 315
+2018-08-13 06:29:58 GET /js/jquery.nicescroll.min.js - 109.169.29.30 HTTP/1.1 Mozilla/5.0+(compatible;+aiHitBot/2.9;++https://www.aihitdata.com/about) - 200 57934 325
+2018-08-13 06:29:59 GET /js/init.js - 109.169.29.30 HTTP/1.1 Mozilla/5.0+(compatible;+aiHitBot/2.9;++https://www.aihitdata.com/about) - 200 3636 308
+2018-08-13 06:32:49 GET /robots.txt - 66.249.79.155 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 404 1405 235
+2018-08-13 06:32:49 GET / - 66.249.79.156 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 13729 298
+2018-08-13 06:42:55 GET /robots.txt - 54.36.150.125 HTTP/1.1 Mozilla/5.0+(compatible;+AhrefsBot/5.2;++http://ahrefs.com/robot/) - 404 1405 182
+2018-08-13 06:42:57 GET /events---specials.html - 54.36.149.96 HTTP/1.1 Mozilla/5.0+(compatible;+AhrefsBot/5.2;++http://ahrefs.com/robot/) - 404 1405 194
+2018-08-13 06:56:51 GET /js/prettyphoto/js/jquery.prettyPhoto.js - 66.249.79.153 HTTP/1.1 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+compatible;+Googlebot/2.1;++http://www.google.com/bot.html)+Safari/537.36 http://www.ngateahotel.co.nz/ 200 8007 393
+2018-08-13 06:56:51 GET /js/jquery.nicescroll.min.js - 66.249.79.153 HTTP/1.1 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+compatible;+Googlebot/2.1;++http://www.google.com/bot.html)+Safari/537.36 http://www.ngateahotel.co.nz/ 200 21445 381
+2018-08-13 06:56:52 GET /js/jquery.isotope.min.js - 66.249.79.153 HTTP/1.1 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+compatible;+Googlebot/2.1;++http://www.google.com/bot.html)+Safari/537.36 http://www.ngateahotel.co.nz/ 200 6559 378
+2018-08-13 06:56:52 GET /css/bootstrap/css/bootstrap.min.css - 66.249.79.153 HTTP/1.1 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+compatible;+Googlebot/2.1;++http://www.google.com/bot.html)+Safari/537.36 http://www.ngateahotel.co.nz/ 200 22905 404
+2018-08-13 06:56:56 GET /images/favicon.ico - 66.249.79.153 HTTP/1.1 Googlebot-Image/1.0 - 404 1405 203
+2018-08-13 06:56:56 GET /favicon.ico - 66.249.79.153 HTTP/1.1 Googlebot-Image/1.0 - 404 1405 196

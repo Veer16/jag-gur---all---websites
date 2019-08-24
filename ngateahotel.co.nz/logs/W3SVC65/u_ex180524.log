@@ -1,0 +1,259 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-05-24 07:09:07
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-05-24 07:09:06 GET / - 202.9.117.230 HTTP/1.1 Mozilla/5.0+(Linux;+Android+8.0.0;+SAMSUNG+SM-G955F+Build/R16NW)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/7.0+Chrome/59.0.3071.125+Mobile+Safari/537.36 - 200 13729 448
+2018-05-24 07:09:07 GET /style.css - 202.9.117.230 HTTP/1.1 Mozilla/5.0+(Linux;+Android+8.0.0;+SAMSUNG+SM-G955F+Build/R16NW)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/7.0+Chrome/59.0.3071.125+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/ 200 5866 409
+2018-05-24 07:09:07 GET /js/prettyphoto/css/prettyPhoto.css - 202.9.117.230 HTTP/1.1 Mozilla/5.0+(Linux;+Android+8.0.0;+SAMSUNG+SM-G955F+Build/R16NW)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/7.0+Chrome/59.0.3071.125+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/ 200 4101 434
+2018-05-24 07:09:07 GET /css/colors.css - 202.9.117.230 HTTP/1.1 Mozilla/5.0+(Linux;+Android+8.0.0;+SAMSUNG+SM-G955F+Build/R16NW)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/7.0+Chrome/59.0.3071.125+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/ 200 3308 414
+2018-05-24 07:09:09 GET /css/bootstrap/css/bootstrap.min.css - 202.9.117.230 HTTP/1.1 Mozilla/5.0+(Linux;+Android+8.0.0;+SAMSUNG+SM-G955F+Build/R16NW)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/7.0+Chrome/59.0.3071.125+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/ 200 22905 435
+2018-05-24 07:09:09 GET /css/bootstrap/js/bootstrap.min.js - 202.9.117.230 HTTP/1.1 Mozilla/5.0+(Linux;+Android+8.0.0;+SAMSUNG+SM-G955F+Build/R16NW)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/7.0+Chrome/59.0.3071.125+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/ 200 9762 418
+2018-05-24 07:09:09 GET /js/jquery.isotope.min.js - 202.9.117.230 HTTP/1.1 Mozilla/5.0+(Linux;+Android+8.0.0;+SAMSUNG+SM-G955F+Build/R16NW)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/7.0+Chrome/59.0.3071.125+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/ 200 6559 409
+2018-05-24 07:09:09 GET /js/jquery.easing.min.js - 202.9.117.230 HTTP/1.1 Mozilla/5.0+(Linux;+Android+8.0.0;+SAMSUNG+SM-G955F+Build/R16NW)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/7.0+Chrome/59.0.3071.125+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/ 200 2644 408
+2018-05-24 07:09:09 GET /css/bootstrap/fonts/glyphicons-halflings-regular.woff - 202.9.117.230 HTTP/1.1 Mozilla/5.0+(Linux;+Android+8.0.0;+SAMSUNG+SM-G955F+Build/R16NW)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/7.0+Chrome/59.0.3071.125+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/css/bootstrap/css/bootstrap.min.css 404 1405 511
+2018-05-24 07:09:09 GET /js/jquery.flexslider-min.js - 202.9.117.230 HTTP/1.1 Mozilla/5.0+(Linux;+Android+8.0.0;+SAMSUNG+SM-G955F+Build/R16NW)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/7.0+Chrome/59.0.3071.125+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/ 200 8289 412
+2018-05-24 07:09:09 GET /js/prettyphoto/js/jquery.prettyPhoto.js - 202.9.117.230 HTTP/1.1 Mozilla/5.0+(Linux;+Android+8.0.0;+SAMSUNG+SM-G955F+Build/R16NW)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/7.0+Chrome/59.0.3071.125+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/ 200 8007 424
+2018-05-24 07:09:09 GET /js/jquery.form.min.js - 202.9.117.230 HTTP/1.1 Mozilla/5.0+(Linux;+Android+8.0.0;+SAMSUNG+SM-G955F+Build/R16NW)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/7.0+Chrome/59.0.3071.125+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/ 200 5510 406
+2018-05-24 07:09:10 GET /js/contactform.js - 202.9.117.230 HTTP/1.1 Mozilla/5.0+(Linux;+Android+8.0.0;+SAMSUNG+SM-G955F+Build/R16NW)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/7.0+Chrome/59.0.3071.125+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/ 200 1385 402
+2018-05-24 07:09:10 GET /images/logo-big.png - 202.9.117.230 HTTP/1.1 Mozilla/5.0+(Linux;+Android+8.0.0;+SAMSUNG+SM-G955F+Build/R16NW)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/7.0+Chrome/59.0.3071.125+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/ 200 16600 440
+2018-05-24 07:09:10 GET /js/init.js - 202.9.117.230 HTTP/1.1 Mozilla/5.0+(Linux;+Android+8.0.0;+SAMSUNG+SM-G955F+Build/R16NW)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/7.0+Chrome/59.0.3071.125+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/ 200 1800 395
+2018-05-24 07:09:10 GET /css/bootstrap/fonts/glyphicons-halflings-regular.ttf - 202.9.117.230 HTTP/1.1 Mozilla/5.0+(Linux;+Android+8.0.0;+SAMSUNG+SM-G955F+Build/R16NW)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/7.0+Chrome/59.0.3071.125+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/css/bootstrap/css/bootstrap.min.css 200 29775 510
+2018-05-24 07:09:10 GET /js/jquery.nicescroll.min.js - 202.9.117.230 HTTP/1.1 Mozilla/5.0+(Linux;+Android+8.0.0;+SAMSUNG+SM-G955F+Build/R16NW)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/7.0+Chrome/59.0.3071.125+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/ 200 21445 412
+2018-05-24 07:09:10 GET /images/bkgs/home-bkg.jpg - 202.9.117.230 HTTP/1.1 Mozilla/5.0+(Linux;+Android+8.0.0;+SAMSUNG+SM-G955F+Build/R16NW)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/7.0+Chrome/59.0.3071.125+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/ 200 275939 445
+2018-05-24 07:09:11 GET /images/events/event-4.jpg - 202.9.117.230 HTTP/1.1 Mozilla/5.0+(Linux;+Android+8.0.0;+SAMSUNG+SM-G955F+Build/R16NW)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/7.0+Chrome/59.0.3071.125+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/ 200 16101 446
+2018-05-24 07:09:11 GET /images/blog/blog-1.jpg - 202.9.117.230 HTTP/1.1 Mozilla/5.0+(Linux;+Android+8.0.0;+SAMSUNG+SM-G955F+Build/R16NW)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/7.0+Chrome/59.0.3071.125+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/ 200 14403 443
+2018-05-24 07:09:12 GET /images/events/event-1.jpg - 202.9.117.230 HTTP/1.1 Mozilla/5.0+(Linux;+Android+8.0.0;+SAMSUNG+SM-G955F+Build/R16NW)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/7.0+Chrome/59.0.3071.125+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/ 200 608557 446
+2018-05-24 07:09:13 GET /images/gallery/gallery-1.jpg - 202.9.117.230 HTTP/1.1 Mozilla/5.0+(Linux;+Android+8.0.0;+SAMSUNG+SM-G955F+Build/R16NW)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/7.0+Chrome/59.0.3071.125+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/ 200 16100 449
+2018-05-24 07:09:13 GET /images/events/event-2.jpg - 202.9.117.230 HTTP/1.1 Mozilla/5.0+(Linux;+Android+8.0.0;+SAMSUNG+SM-G955F+Build/R16NW)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/7.0+Chrome/59.0.3071.125+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/ 200 595360 446
+2018-05-24 07:09:13 GET /images/events/event-3.jpg - 202.9.117.230 HTTP/1.1 Mozilla/5.0+(Linux;+Android+8.0.0;+SAMSUNG+SM-G955F+Build/R16NW)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/7.0+Chrome/59.0.3071.125+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/ 200 598125 446
+2018-05-24 07:09:13 GET /images/gallery/gallery-2.jpg - 202.9.117.230 HTTP/1.1 Mozilla/5.0+(Linux;+Android+8.0.0;+SAMSUNG+SM-G955F+Build/R16NW)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/7.0+Chrome/59.0.3071.125+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/ 200 16758 449
+2018-05-24 07:09:13 GET /images/gallery/gallery-3.jpg - 202.9.117.230 HTTP/1.1 Mozilla/5.0+(Linux;+Android+8.0.0;+SAMSUNG+SM-G955F+Build/R16NW)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/7.0+Chrome/59.0.3071.125+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/ 200 14699 449
+2018-05-24 07:09:13 GET /images/team/member-2.jpg - 202.9.117.230 HTTP/1.1 Mozilla/5.0+(Linux;+Android+8.0.0;+SAMSUNG+SM-G955F+Build/R16NW)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/7.0+Chrome/59.0.3071.125+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/ 200 594701 445
+2018-05-24 07:09:13 GET /images/gallery/gallery-4.jpg - 202.9.117.230 HTTP/1.1 Mozilla/5.0+(Linux;+Android+8.0.0;+SAMSUNG+SM-G955F+Build/R16NW)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/7.0+Chrome/59.0.3071.125+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/ 200 14402 449
+2018-05-24 07:09:13 GET /images/gallery/gallery-5.jpg - 202.9.117.230 HTTP/1.1 Mozilla/5.0+(Linux;+Android+8.0.0;+SAMSUNG+SM-G955F+Build/R16NW)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/7.0+Chrome/59.0.3071.125+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/ 200 18116 449
+2018-05-24 07:09:13 GET /images/gallery/gallery-6.jpg - 202.9.117.230 HTTP/1.1 Mozilla/5.0+(Linux;+Android+8.0.0;+SAMSUNG+SM-G955F+Build/R16NW)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/7.0+Chrome/59.0.3071.125+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/ 200 20196 449
+2018-05-24 07:09:14 GET /images/toggle-plus.png - 202.9.117.230 HTTP/1.1 Mozilla/5.0+(Linux;+Android+8.0.0;+SAMSUNG+SM-G955F+Build/R16NW)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/7.0+Chrome/59.0.3071.125+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/style.css 200 1206 452
+2018-05-24 07:09:14 GET /images/icon-facebook.png - 202.9.117.230 HTTP/1.1 Mozilla/5.0+(Linux;+Android+8.0.0;+SAMSUNG+SM-G955F+Build/R16NW)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/7.0+Chrome/59.0.3071.125+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/style.css 200 1874 454
+2018-05-24 07:09:14 GET /images/bkgs/section-bkg.jpg - 202.9.117.230 HTTP/1.1 Mozilla/5.0+(Linux;+Android+8.0.0;+SAMSUNG+SM-G955F+Build/R16NW)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/7.0+Chrome/59.0.3071.125+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/ 200 130166 448
+2018-05-24 07:09:14 GET /images/toggle-minus.png - 202.9.117.230 HTTP/1.1 Mozilla/5.0+(Linux;+Android+8.0.0;+SAMSUNG+SM-G955F+Build/R16NW)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/7.0+Chrome/59.0.3071.125+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/style.css 200 1196 453
+2018-05-24 07:09:14 GET /images/team/member-1.jpg - 202.9.117.230 HTTP/1.1 Mozilla/5.0+(Linux;+Android+8.0.0;+SAMSUNG+SM-G955F+Build/R16NW)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/7.0+Chrome/59.0.3071.125+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/ 200 593475 445
+2018-05-24 07:09:14 GET /images/flexslider-arrows.png - 202.9.117.230 HTTP/1.1 Mozilla/5.0+(Linux;+Android+8.0.0;+SAMSUNG+SM-G955F+Build/R16NW)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/7.0+Chrome/59.0.3071.125+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/style.css 200 1827 458
+2018-05-24 07:09:32 GET /images/team/member-3.jpg - 202.9.117.230 HTTP/1.1 Mozilla/5.0+(Linux;+Android+8.0.0;+SAMSUNG+SM-G955F+Build/R16NW)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/7.0+Chrome/59.0.3071.125+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/ 200 587295 445
+2018-05-24 07:09:32 GET /images/favicon.ico - 202.9.117.230 HTTP/1.1 Mozilla/5.0+(Linux;+Android+8.0.0;+SAMSUNG+SM-G955F+Build/R16NW)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/7.0+Chrome/59.0.3071.125+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/ 404 1405 439
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-05-24 07:25:52
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-05-24 07:25:51 GET /robots.txt - 188.165.233.228 HTTP/1.0 - - 404 1424 71
+2018-05-24 07:25:53 GET / - 188.165.233.228 HTTP/1.1 Mozilla/5.0+(X11;+U;+Linux+x86_64;+en-US;+rv:1.9.2.4)+Gecko/20100614+Ubuntu/10.04+(lucid)+Firefox/3.6.4 - 206 103193 200
+2018-05-24 07:31:06 GET / - 185.220.33.146 HTTP/1.0 Mozilla/5.0+(Windows;+U;+MSIE+9.0;+Windows+NT+9.0;+en-US) - 206 103217 179
+2018-05-24 07:31:08 GET / - 185.220.33.146 HTTP/1.0 Mozilla/5.0+(Windows;+U;+MSIE+9.0;+Windows+NT+9.0;+en-US) - 206 103217 179
+2018-05-24 07:31:11 GET /images/gallery/gallery-5.jpg - 185.220.33.146 HTTP/1.0 Mozilla/5.0+(Windows;+U;+MSIE+9.0;+Windows+NT+9.0;+en-US) - 206 18189 207
+2018-05-24 07:31:12 GET /images/gallery/gallery-5.jpg - 185.220.33.146 HTTP/1.0 Mozilla/5.0+(Windows;+U;+MSIE+9.0;+Windows+NT+9.0;+en-US) - 206 18189 207
+2018-05-24 07:31:14 GET /images/gallery/gallery-4.jpg - 185.220.33.146 HTTP/1.0 Mozilla/5.0+(Windows;+U;+MSIE+9.0;+Windows+NT+9.0;+en-US) - 206 14475 207
+2018-05-24 07:31:14 GET /images/gallery/gallery-4.jpg - 185.220.33.146 HTTP/1.0 Mozilla/5.0+(Windows;+U;+MSIE+9.0;+Windows+NT+9.0;+en-US) - 206 14475 207
+2018-05-24 07:31:17 GET /images/gallery/gallery-6.jpg - 185.220.33.146 HTTP/1.0 Mozilla/5.0+(Windows;+U;+MSIE+9.0;+Windows+NT+9.0;+en-US) - 206 20269 207
+2018-05-24 07:31:18 GET /images/gallery/gallery-6.jpg - 185.220.33.146 HTTP/1.0 Mozilla/5.0+(Windows;+U;+MSIE+9.0;+Windows+NT+9.0;+en-US) - 206 20269 207
+2018-05-24 07:31:21 GET /images/gallery/gallery-2.jpg - 185.220.33.146 HTTP/1.0 Mozilla/5.0+(Windows;+U;+MSIE+9.0;+Windows+NT+9.0;+en-US) - 206 16831 207
+2018-05-24 07:31:21 GET /images/gallery/gallery-2.jpg - 185.220.33.146 HTTP/1.0 Mozilla/5.0+(Windows;+U;+MSIE+9.0;+Windows+NT+9.0;+en-US) - 206 16831 207
+2018-05-24 07:31:25 GET /images/events/event-1.jpg - 185.220.33.146 HTTP/1.0 Mozilla/5.0+(Windows;+U;+MSIE+9.0;+Windows+NT+9.0;+en-US) - 206 608632 204
+2018-05-24 07:31:27 GET /images/events/event-1.jpg - 185.220.33.146 HTTP/1.0 Mozilla/5.0+(Windows;+U;+MSIE+9.0;+Windows+NT+9.0;+en-US) - 206 608632 204
+2018-05-24 07:31:29 GET /images/gallery/gallery-3.jpg - 185.220.33.146 HTTP/1.0 Mozilla/5.0+(Windows;+U;+MSIE+9.0;+Windows+NT+9.0;+en-US) - 206 14772 207
+2018-05-24 07:31:30 GET /images/gallery/gallery-3.jpg - 185.220.33.146 HTTP/1.0 Mozilla/5.0+(Windows;+U;+MSIE+9.0;+Windows+NT+9.0;+en-US) - 206 14772 207
+2018-05-24 07:31:32 GET /images/gallery/gallery-1.jpg - 185.220.33.146 HTTP/1.0 Mozilla/5.0+(Windows;+U;+MSIE+9.0;+Windows+NT+9.0;+en-US) - 206 16173 207
+2018-05-24 07:31:34 GET /images/gallery/gallery-1.jpg - 185.220.33.146 HTTP/1.0 Mozilla/5.0+(Windows;+U;+MSIE+9.0;+Windows+NT+9.0;+en-US) - 206 16173 207
+2018-05-24 07:31:36 GET /images/menu/menu-1-big.jpg - 185.220.33.146 HTTP/1.0 Mozilla/5.0+(Windows;+U;+MSIE+9.0;+Windows+NT+9.0;+en-US) - 206 23035 205
+2018-05-24 07:31:37 GET /images/menu/menu-1-big.jpg - 185.220.33.146 HTTP/1.0 Mozilla/5.0+(Windows;+U;+MSIE+9.0;+Windows+NT+9.0;+en-US) - 206 23035 205
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-05-24 10:11:59
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-05-24 10:11:59 GET / - 146.252.102.143 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_12_5)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/58.0.3029.110+Safari/537.36 - 200 103142 238
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-05-24 11:00:54
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-05-24 11:00:54 GET /robots.txt - 162.210.196.98 HTTP/1.1 Mozilla/5.0+(compatible;+MJ12bot/v1.4.8;+http://mj12bot.com/) - 404 1405 169
+2018-05-24 11:01:00 GET / - 162.210.196.98 HTTP/1.1 Mozilla/5.0+(compatible;+MJ12bot/v1.4.8;+http://mj12bot.com/) - 200 103142 346
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-05-24 13:24:18
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-05-24 13:24:18 GET /robots.txt - 5.45.207.33 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - 404 1405 204
+2018-05-24 13:24:21 GET / - 5.45.207.33 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - 200 103142 225
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-05-24 14:07:57
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-05-24 14:07:57 GET / - 202.36.76.21 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.3;+WOW64;+rv:49.0)+Gecko/20100101+Firefox/49.0+-+nzsearch.co.nz - 200 103142 303
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-05-24 15:17:18
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-05-24 15:17:18 GET /js/jquery.isotope.min.js - 180.76.15.141 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - 200 6578 247
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-05-24 16:00:28
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-05-24 16:00:28 GET / - 66.249.79.153 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 13729 298
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-05-24 17:18:17
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-05-24 17:18:17 GET /style.css - 66.249.79.156 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) http://www.ngateahotel.co.nz/ 200 5866 330
+2018-05-24 17:18:17 GET /css/colors.css - 66.249.79.156 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) http://www.ngateahotel.co.nz/ 200 3308 335
+2018-05-24 17:18:17 GET /css/bootstrap/css/bootstrap.min.css - 66.249.79.156 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) http://www.ngateahotel.co.nz/ 200 22905 356
+2018-05-24 17:18:18 GET /js/prettyphoto/css/prettyPhoto.css - 66.249.79.155 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) http://www.ngateahotel.co.nz/ 200 4101 355
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-05-24 19:31:30
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-05-24 19:31:30 GET / - 158.69.225.35 HTTP/1.1 Mozilla/5.0+(compatible;+Dataprovider.com;) - 200 103161 123
+2018-05-24 19:31:33 GET /robots.txt - 158.69.225.35 HTTP/1.1 Mozilla/5.0+(compatible;+Dataprovider.com;) - 404 1424 133
+2018-05-24 19:31:33 GET /sitemap.xml - 158.69.225.35 HTTP/1.1 Mozilla/5.0+(compatible;+Dataprovider.com;) - 404 1424 134
+2018-05-24 19:31:36 GET / - 158.69.225.35 HTTP/1.1 Mozilla/5.0+(compatible;+Dataprovider.com;) - 200 103161 123
+2018-05-24 19:31:37 GET /ads.txt - 158.69.225.35 HTTP/1.1 Mozilla/5.0+(compatible;+Dataprovider.com;) - 404 1424 130
+2018-05-24 19:31:39 GET / - 158.69.225.35 HTTP/1.1 Mozilla/5.0+(Linux;+Android+5.1.1;+SM-G925F+Build/LMY47X)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/45.0.2454.94+Mobile+Safari/537.36 - 200 103161 217
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-05-24 22:35:34
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-05-24 22:35:34 GET /robots.txt - 46.229.168.78 HTTP/1.1 Mozilla/5.0+(compatible;+SemrushBot/2~bl;++http://www.semrush.com/bot.html) - 404 1424 216
+2018-05-24 22:35:37 GET / - 46.229.168.76 HTTP/1.1 Mozilla/5.0+(compatible;+SemrushBot/2~bl;++http://www.semrush.com/bot.html) - 200 13748 205
+2018-05-24 22:35:42 GET / - 46.229.168.76 HTTP/1.1 Mozilla/5.0+(compatible;+SemrushBot/2~bl;++http://www.semrush.com/bot.html) - 200 8932 205
+2018-05-24 22:35:51 GET / - 46.229.168.76 HTTP/1.1 Mozilla/5.0+(compatible;+SemrushBot/2~bl;++http://www.semrush.com/bot.html) - 200 8932 205
+2018-05-24 22:36:11 GET / - 46.229.168.76 HTTP/1.1 Mozilla/5.0+(compatible;+SemrushBot/2~bl;++http://www.semrush.com/bot.html) - 200 8932 205
+2018-05-24 22:36:19 GET / - 46.229.168.76 HTTP/1.1 Mozilla/5.0+(compatible;+SemrushBot/2~bl;++http://www.semrush.com/bot.html) - 200 8932 205
+2018-05-24 22:36:40 GET / - 46.229.168.76 HTTP/1.1 Mozilla/5.0+(compatible;+SemrushBot/2~bl;++http://www.semrush.com/bot.html) - 200 8932 205
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-05-24 23:39:43
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-05-24 23:39:43 GET /robots.txt - 157.55.39.6 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - 404 1405 250
+2018-05-24 23:39:48 GET / - 207.46.13.24 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - 200 13729 272
+2018-05-24 23:39:51 GET /css/bootstrap/css/bootstrap.min.css - 40.77.189.237 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b - 200 97587 280
+2018-05-24 23:39:52 GET /style.css - 40.77.189.149 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b - 200 17822 254
+2018-05-24 23:39:52 GET /css/colors.css - 40.77.189.149 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b - 200 10501 259
+2018-05-24 23:39:54 GET /js/prettyphoto/css/prettyPhoto.css - 40.77.188.26 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b - 200 20163 279
+2018-05-24 23:39:55 GET /css/bootstrap/fonts/glyphicons-halflings-regular.ttf - 40.77.188.61 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b - 200 29775 297
+2018-05-24 23:39:55 GET /robots.txt - 40.77.167.82 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - 404 1405 250
+2018-05-24 23:39:57 GET /css/bootstrap/js/bootstrap.min.js - 40.77.189.142 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b - 200 27990 278
+2018-05-24 23:39:57 GET /js/jquery.easing.min.js - 40.77.190.106 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b - 200 7308 268
+2018-05-24 23:39:58 GET /js/prettyphoto/js/jquery.prettyPhoto.js - 40.77.190.15 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b - 200 22334 284
+2018-05-24 23:39:58 GET /js/jquery.isotope.min.js - 40.77.190.106 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b - 200 16218 269
+2018-05-24 23:40:00 GET /js/jquery.flexslider-min.js - 40.77.190.100 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b - 200 21685 272
+2018-05-24 23:40:01 GET /js/jquery.form.min.js - 40.77.190.65 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b - 200 11390 266
+2018-05-24 23:40:01 GET /js/contactform.js - 40.77.190.15 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b - 200 4238 262
+2018-05-24 23:40:01 GET /js/jquery.nicescroll.min.js - 40.77.190.15 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b - 200 57934 272
+2018-05-24 23:40:01 GET /js/init.js - 40.77.188.26 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b - 200 3636 255
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-05-25 00:42:13
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-05-25 00:42:12 GET /user/password - 37.187.148.221 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+rv:32.0)+Gecko/20100101+Firefox/32.0 - 404 1405 148
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-05-25 01:08:22
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-05-25 01:08:22 GET / - 27.123.22.208 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 https://www.google.co.nz/ 200 13729 426
+2018-05-25 01:08:22 GET /style.css - 27.123.22.208 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://www.ngateahotel.co.nz/ 200 5866 342
+2018-05-25 01:08:22 GET /css/colors.css - 27.123.22.208 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://www.ngateahotel.co.nz/ 200 3308 347
+2018-05-25 01:08:22 GET /js/prettyphoto/css/prettyPhoto.css - 27.123.22.208 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://www.ngateahotel.co.nz/ 200 4101 367
+2018-05-25 01:08:22 GET /css/bootstrap/css/bootstrap.min.css - 27.123.22.208 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://www.ngateahotel.co.nz/ 200 22905 368
+2018-05-25 01:08:23 GET /css/bootstrap/js/bootstrap.min.js - 27.123.22.208 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://www.ngateahotel.co.nz/ 200 9762 351
+2018-05-25 01:08:23 GET /js/jquery.easing.min.js - 27.123.22.208 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://www.ngateahotel.co.nz/ 200 2644 341
+2018-05-25 01:08:23 GET /js/jquery.flexslider-min.js - 27.123.22.208 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://www.ngateahotel.co.nz/ 200 8289 345
+2018-05-25 01:08:23 GET /js/jquery.isotope.min.js - 27.123.22.208 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://www.ngateahotel.co.nz/ 200 6559 342
+2018-05-25 01:08:23 GET /js/jquery.form.min.js - 27.123.22.208 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://www.ngateahotel.co.nz/ 200 5510 339
+2018-05-25 01:08:23 GET /js/contactform.js - 27.123.22.208 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://www.ngateahotel.co.nz/ 200 1385 335
+2018-05-25 01:08:23 GET /js/prettyphoto/js/jquery.prettyPhoto.js - 27.123.22.208 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://www.ngateahotel.co.nz/ 200 8007 357
+2018-05-25 01:08:23 GET /css/bootstrap/fonts/glyphicons-halflings-regular.woff - 27.123.22.208 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://www.ngateahotel.co.nz/css/bootstrap/css/bootstrap.min.css 404 1405 444
+2018-05-25 01:08:23 GET /js/init.js - 27.123.22.208 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://www.ngateahotel.co.nz/ 200 1800 328
+2018-05-25 01:08:23 GET /js/jquery.nicescroll.min.js - 27.123.22.208 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://www.ngateahotel.co.nz/ 200 21445 345
+2018-05-25 01:08:23 GET /images/logo-big.png - 27.123.22.208 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://www.ngateahotel.co.nz/ 200 16600 373
+2018-05-25 01:08:23 GET /css/bootstrap/fonts/glyphicons-halflings-regular.ttf - 27.123.22.208 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://www.ngateahotel.co.nz/css/bootstrap/css/bootstrap.min.css 200 29775 443
+2018-05-25 01:08:23 GET /images/blog/blog-1.jpg - 27.123.22.208 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://www.ngateahotel.co.nz/ 200 14403 376
+2018-05-25 01:08:23 GET /images/events/event-4.jpg - 27.123.22.208 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://www.ngateahotel.co.nz/ 200 16101 379
+2018-05-25 01:08:30 GET /images/bkgs/home-bkg.jpg - 27.123.22.208 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://www.ngateahotel.co.nz/ 200 275939 378
+2018-05-25 01:08:33 GET /images/events/event-1.jpg - 27.123.22.208 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://www.ngateahotel.co.nz/ 200 608557 379
+2018-05-25 01:08:33 GET /images/toggle-minus.png - 27.123.22.208 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://www.ngateahotel.co.nz/style.css 200 1196 386
+2018-05-25 01:08:33 GET /images/toggle-plus.png - 27.123.22.208 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://www.ngateahotel.co.nz/style.css 200 1206 385
+2018-05-25 01:08:36 GET /images/team/member-2.jpg - 27.123.22.208 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://www.ngateahotel.co.nz/ 200 594701 378
+2018-05-25 01:08:38 GET /images/gallery/gallery-1.jpg - 27.123.22.208 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://www.ngateahotel.co.nz/ 200 16100 382
+2018-05-25 01:08:38 GET /images/gallery/gallery-2.jpg - 27.123.22.208 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://www.ngateahotel.co.nz/ 200 16758 382
+2018-05-25 01:08:39 GET /images/gallery/gallery-3.jpg - 27.123.22.208 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://www.ngateahotel.co.nz/ 200 14699 382
+2018-05-25 01:08:39 GET /images/gallery/gallery-4.jpg - 27.123.22.208 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://www.ngateahotel.co.nz/ 200 14402 382
+2018-05-25 01:08:39 GET /images/bkgs/section-bkg.jpg - 27.123.22.208 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://www.ngateahotel.co.nz/ 200 130166 381
+2018-05-25 01:08:39 GET /images/gallery/gallery-6.jpg - 27.123.22.208 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://www.ngateahotel.co.nz/ 200 20196 382
+2018-05-25 01:08:40 GET /images/team/member-1.jpg - 27.123.22.208 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://www.ngateahotel.co.nz/ 200 593475 378
+2018-05-25 01:08:40 GET /images/gallery/gallery-5.jpg - 27.123.22.208 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://www.ngateahotel.co.nz/ 200 18116 382
+2018-05-25 01:08:40 GET /images/icon-facebook.png - 27.123.22.208 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://www.ngateahotel.co.nz/style.css 200 1874 387
+2018-05-25 01:08:40 GET /images/flexslider-arrows.png - 27.123.22.208 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://www.ngateahotel.co.nz/style.css 200 1827 391
+2018-05-25 01:08:40 GET /images/events/event-3.jpg - 27.123.22.208 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://www.ngateahotel.co.nz/ 200 598125 379
+2018-05-25 01:08:41 GET /images/events/event-2.jpg - 27.123.22.208 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://www.ngateahotel.co.nz/ 200 595360 379
+2018-05-25 01:08:45 GET /images/team/member-3.jpg - 27.123.22.208 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://www.ngateahotel.co.nz/ 200 587295 378
+2018-05-25 01:08:45 GET /images/favicon.ico - 27.123.22.208 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://www.ngateahotel.co.nz/ 404 1405 372
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-05-25 01:53:08
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-05-25 01:53:08 GET / - 101.98.114.81 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 - 200 13729 382
+2018-05-25 01:53:08 GET /style.css - 101.98.114.81 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://ngateahotel.co.nz/ 200 5866 330
+2018-05-25 01:53:08 GET /images/logo-big.png - 101.98.114.81 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://ngateahotel.co.nz/ 200 16600 361
+2018-05-25 01:53:08 GET /js/prettyphoto/css/prettyPhoto.css - 101.98.114.81 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://ngateahotel.co.nz/ 200 4101 355
+2018-05-25 01:53:08 GET /css/colors.css - 101.98.114.81 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://ngateahotel.co.nz/ 200 3308 335
+2018-05-25 01:53:08 GET /css/bootstrap/css/bootstrap.min.css - 101.98.114.81 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://ngateahotel.co.nz/ 200 22905 356
+2018-05-25 01:53:09 GET /js/jquery.easing.min.js - 101.98.114.81 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://ngateahotel.co.nz/ 200 2644 329
+2018-05-25 01:53:09 GET /js/jquery.isotope.min.js - 101.98.114.81 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://ngateahotel.co.nz/ 200 6559 330
+2018-05-25 01:53:09 GET /css/bootstrap/js/bootstrap.min.js - 101.98.114.81 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://ngateahotel.co.nz/ 200 9762 339
+2018-05-25 01:53:09 GET /js/jquery.flexslider-min.js - 101.98.114.81 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://ngateahotel.co.nz/ 200 8289 333
+2018-05-25 01:53:09 GET /js/prettyphoto/js/jquery.prettyPhoto.js - 101.98.114.81 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://ngateahotel.co.nz/ 200 8007 345
+2018-05-25 01:53:09 GET /js/jquery.form.min.js - 101.98.114.81 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://ngateahotel.co.nz/ 200 5510 327
+2018-05-25 01:53:09 GET /css/bootstrap/fonts/glyphicons-halflings-regular.woff - 101.98.114.81 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://ngateahotel.co.nz/css/bootstrap/css/bootstrap.min.css 404 1405 428
+2018-05-25 01:53:09 GET /js/jquery.nicescroll.min.js - 101.98.114.81 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://ngateahotel.co.nz/ 200 21445 333
+2018-05-25 01:53:09 GET /js/contactform.js - 101.98.114.81 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://ngateahotel.co.nz/ 200 1385 323
+2018-05-25 01:53:09 GET /js/init.js - 101.98.114.81 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://ngateahotel.co.nz/ 200 1800 316
+2018-05-25 01:53:09 GET /images/blog/blog-1.jpg - 101.98.114.81 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://ngateahotel.co.nz/ 200 14403 364
+2018-05-25 01:53:09 GET /css/bootstrap/fonts/glyphicons-halflings-regular.ttf - 101.98.114.81 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://ngateahotel.co.nz/css/bootstrap/css/bootstrap.min.css 200 29775 427
+2018-05-25 01:53:09 GET /images/events/event-4.jpg - 101.98.114.81 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://ngateahotel.co.nz/ 200 16101 367
+2018-05-25 01:53:10 GET /images/bkgs/home-bkg.jpg - 101.98.114.81 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://ngateahotel.co.nz/ 200 275939 366
+2018-05-25 01:53:10 GET /images/events/event-2.jpg - 101.98.114.81 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://ngateahotel.co.nz/ 200 595360 367
+2018-05-25 01:53:10 GET /images/events/event-1.jpg - 101.98.114.81 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://ngateahotel.co.nz/ 200 608557 367
+2018-05-25 01:53:11 GET /images/team/member-3.jpg - 101.98.114.81 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://ngateahotel.co.nz/ 200 587295 366
+2018-05-25 01:53:11 GET /images/gallery/gallery-1.jpg - 101.98.114.81 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://ngateahotel.co.nz/ 200 16100 370
+2018-05-25 01:53:11 GET /images/team/member-1.jpg - 101.98.114.81 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://ngateahotel.co.nz/ 200 593475 366
+2018-05-25 01:53:11 GET /images/team/member-2.jpg - 101.98.114.81 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://ngateahotel.co.nz/ 200 594701 366
+2018-05-25 01:53:11 GET /images/gallery/gallery-2.jpg - 101.98.114.81 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://ngateahotel.co.nz/ 200 16758 370
+2018-05-25 01:53:11 GET /images/gallery/gallery-3.jpg - 101.98.114.81 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://ngateahotel.co.nz/ 200 14699 370
+2018-05-25 01:53:11 GET /images/gallery/gallery-4.jpg - 101.98.114.81 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://ngateahotel.co.nz/ 200 14402 370
+2018-05-25 01:53:11 GET /images/gallery/gallery-5.jpg - 101.98.114.81 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://ngateahotel.co.nz/ 200 18116 370
+2018-05-25 01:53:11 GET /images/events/event-3.jpg - 101.98.114.81 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://ngateahotel.co.nz/ 200 598125 367
+2018-05-25 01:53:11 GET /images/gallery/gallery-6.jpg - 101.98.114.81 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://ngateahotel.co.nz/ 200 20196 370
+2018-05-25 01:53:11 GET /images/icon-facebook.png - 101.98.114.81 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://ngateahotel.co.nz/style.css 200 1874 375
+2018-05-25 01:53:11 GET /images/bkgs/section-bkg.jpg - 101.98.114.81 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://ngateahotel.co.nz/ 200 130166 369
+2018-05-25 01:53:11 GET /images/flexslider-arrows.png - 101.98.114.81 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://ngateahotel.co.nz/style.css 200 1827 379
+2018-05-25 01:53:11 GET /images/toggle-minus.png - 101.98.114.81 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://ngateahotel.co.nz/style.css 200 1196 374
+2018-05-25 01:53:11 GET /images/toggle-plus.png - 101.98.114.81 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://ngateahotel.co.nz/style.css 200 1206 373
+2018-05-25 01:53:12 GET /images/favicon.ico - 101.98.114.81 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 http://ngateahotel.co.nz/ 404 1405 360
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-05-25 02:31:30
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-05-25 02:31:30 GET /downloader/ - 138.197.26.255 HTTP/1.1 Mozilla/5.0+(Windows+NT+5.1;+rv:32.0)+Gecko/20100101+Firefox/32.0 - 404 1405 648
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-05-25 04:07:49
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-05-25 04:07:49 GET /robots.txt - 66.249.79.156 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 404 1405 235
+2018-05-25 04:07:49 GET / - 66.249.79.153 HTTP/1.1 Mozilla/5.0+(Linux;+Android+6.0.1;+Nexus+5X+Build/MMB29P)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2272.96+Mobile+Safari/537.36+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 13729 424
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-05-25 05:16:29
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-05-25 05:16:29 GET /robots.txt - 5.9.79.42 HTTP/1.1 Mozilla/5.0+(compatible;+MJ12bot/v1.4.8;+http://mj12bot.com/) - 404 1405 165
+2018-05-25 05:16:31 GET / - 5.9.79.42 HTTP/1.1 Mozilla/5.0+(compatible;+MJ12bot/v1.4.8;+http://mj12bot.com/) - 200 103142 342
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-05-25 06:25:21
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-05-25 06:25:20 GET /webapps/i/89914/230892/401766 - 66.249.79.153 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 404 1405 327

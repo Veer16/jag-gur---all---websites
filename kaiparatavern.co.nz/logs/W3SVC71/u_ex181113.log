@@ -1,0 +1,35 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-11-13 09:39:23
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-11-13 09:39:23 GET /robots.txt - 66.249.73.217 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 404 1405 237
+2018-11-13 09:42:19 GET / - 66.249.73.217 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 34836 240
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-11-13 13:18:17
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-11-13 13:18:17 GET /robots.txt - 64.246.165.150 HTTP/1.0 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10.10;+rv:59.0)+Gecko/20100101+Firefox/59.0 - 404 1424 241
+2018-11-13 13:18:19 GET / - 64.246.165.150 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10.10;+rv:59.0)+Gecko/20100101+Firefox/59.0 - 200 34836 383
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-11-14 03:03:07
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-11-14 03:03:07 GET / - 66.102.6.147 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/49.0.2623.75+Safari/537.36+Google+Favicon - 200 34836 347
+2018-11-14 03:03:07 GET /favicon.ico - 66.102.6.147 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/49.0.2623.75+Safari/537.36+Google+Favicon - 404 1405 302
+2018-11-14 03:11:02 GET / - 42.236.10.100 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/50.0.2661.102+Safari/537.36;+360Spider http://kaiparatavern.co.nz/ 200 34836 319
+2018-11-14 03:14:08 GET / - 42.236.99.86 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/50.0.2661.102+Safari/537.36;+360Spider http://www.kaiparatavern.co.nz/ 200 0 327
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-11-14 05:05:57
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-11-14 05:05:56 GET / - 42.236.10.77 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_9_2)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/38.0.2125.111+Safari/537.36 - 200 8209 376
+2018-11-14 05:05:58 GET /css/font-awesome.min.css - 42.236.10.77 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_9_2)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/38.0.2125.111+Safari/537.36 http://www.kaiparatavern.co.nz/ 200 8118 386
+2018-11-14 05:05:58 GET /js/modernizr.custom.js - 42.236.10.77 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_9_2)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/38.0.2125.111+Safari/537.36 http://www.kaiparatavern.co.nz/ 200 0 369
+2018-11-14 05:05:59 GET /css/style.css - 42.236.10.77 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_9_2)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/38.0.2125.111+Safari/537.36 http://www.kaiparatavern.co.nz/ 200 0 375
+2018-11-14 05:05:59 GET /css/bootstrap.min.css - 42.236.10.81 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_9_2)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/38.0.2125.111+Safari/537.36 http://www.kaiparatavern.co.nz/ 200 0 383
+2018-11-14 05:06:01 GET /css/jQuery.lightninBox.css - 42.236.10.73 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_9_2)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/38.0.2125.111+Safari/537.36 http://www.kaiparatavern.co.nz/ 200 0 388
+2018-11-14 05:06:01 GET /js/bootstrap.min.js - 42.236.10.71 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_9_2)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/38.0.2125.111+Safari/537.36 http://www.kaiparatavern.co.nz/ 200 0 366
+2018-11-14 05:06:01 GET /js/jQuery.lightninBox.js - 42.236.10.73 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_9_2)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/38.0.2125.111+Safari/537.36 http://www.kaiparatavern.co.nz/ 200 0 371
+2018-11-14 05:06:02 GET /js/SmoothScroll.min.js - 42.236.10.81 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_9_2)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/38.0.2125.111+Safari/537.36 http://www.kaiparatavern.co.nz/ 200 0 369
+2018-11-14 05:06:09 GET /css/team.css - 42.236.10.82 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_9_2)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/38.0.2125.111+Safari/537.36 http://www.kaiparatavern.co.nz/ 200 0 374
+2018-11-14 05:07:18 GET /js/jquery.min.js - 42.236.10.83 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_9_2)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/38.0.2125.111+Safari/537.36 http://www.kaiparatavern.co.nz/ 200 0 363

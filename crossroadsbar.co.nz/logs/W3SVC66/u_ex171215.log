@@ -1,0 +1,93 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2017-12-15 08:16:25
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2017-12-15 08:16:25 HEAD / - 188.165.200.217 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+5.01;+Windows+NT+5.0) - 200 249 124
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2017-12-15 09:56:08
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2017-12-15 09:56:07 GET /single.html - 46.229.168.66 HTTP/1.1 Mozilla/5.0+(compatible;+SemrushBot/1.2~bl;++http://www.semrush.com/bot.html) - 404 1424 214
+2017-12-15 09:56:42 GET /index.html - 46.229.168.77 HTTP/1.1 Mozilla/5.0+(compatible;+SemrushBot/1.2~bl;++http://www.semrush.com/bot.html) - 200 7048 213
+2017-12-15 09:56:50 GET / - 46.229.168.77 HTTP/1.1 Mozilla/5.0+(compatible;+SemrushBot/1.2~bl;++http://www.semrush.com/bot.html) - 200 5640 203
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2017-12-15 12:53:23
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2017-12-15 12:53:22 GET /robots.txt - 180.76.15.8 HTTP/1.1 Mozilla/5.0+(Windows+NT+5.1;+rv:6.0.2)+Gecko/20100101+Firefox/6.0.2 - 404 1424 221
+2017-12-15 12:53:22 GET /robots.txt - 180.76.15.148 HTTP/1.1 Mozilla/5.0+(Windows+NT+5.1;+rv:6.0.2)+Gecko/20100101+Firefox/6.0.2 - 404 1424 221
+2017-12-15 12:56:07 GET / - 180.76.15.26 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - 200 23499 221
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2017-12-15 13:55:31
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2017-12-15 13:55:31 GET /robots.txt - 5.45.207.33 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - 404 1405 189
+2017-12-15 13:55:36 GET / - 5.45.207.33 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - 200 23480 223
+2017-12-15 14:06:49 GET / - 157.39.184.155 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+9_0_2+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Version/9.0+Mobile/13A452+Safari/601.1 - 200 23480 347
+2017-12-15 14:06:49 GET /css/swipebox.css - 157.39.184.155 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+9_0_2+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Version/9.0+Mobile/13A452+Safari/601.1 http://crossroadsbar.co.nz/ 200 4352 356
+2017-12-15 14:06:49 GET /css/iconeffects.css - 157.39.184.155 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+9_0_2+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Version/9.0+Mobile/13A452+Safari/601.1 http://crossroadsbar.co.nz/ 200 16091 359
+2017-12-15 14:06:49 GET /css/animate.css - 157.39.184.155 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+9_0_2+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Version/9.0+Mobile/13A452+Safari/601.1 http://crossroadsbar.co.nz/ 200 72506 355
+2017-12-15 14:06:49 GET /js/move-top.js - 157.39.184.155 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+9_0_2+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Version/9.0+Mobile/13A452+Safari/601.1 http://crossroadsbar.co.nz/ 200 1592 339
+2017-12-15 14:06:49 GET /js/wow.min.js - 157.39.184.155 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+9_0_2+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Version/9.0+Mobile/13A452+Safari/601.1 http://crossroadsbar.co.nz/ 200 5039 338
+2017-12-15 14:06:49 GET /cdn.fancybar.net/ac/fancybar6a2f.js - 157.39.184.155 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+9_0_2+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Version/9.0+Mobile/13A452+Safari/601.1 http://crossroadsbar.co.nz/ 404 1405 406
+2017-12-15 14:06:49 GET /js/easing.js - 157.39.184.155 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+9_0_2+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Version/9.0+Mobile/13A452+Safari/601.1 http://crossroadsbar.co.nz/ 200 5020 337
+2017-12-15 14:06:49 GET /images/border.png - 157.39.184.155 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+9_0_2+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Version/9.0+Mobile/13A452+Safari/601.1 http://crossroadsbar.co.nz/ 200 3286 342
+2017-12-15 14:06:49 GET /images/down.png - 157.39.184.155 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+9_0_2+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Version/9.0+Mobile/13A452+Safari/601.1 http://crossroadsbar.co.nz/ 200 4972 340
+2017-12-15 14:06:51 GET /js/jquery.swipebox.min.js - 157.39.184.155 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+9_0_2+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Version/9.0+Mobile/13A452+Safari/601.1 http://crossroadsbar.co.nz/ 200 7468 350
+2017-12-15 14:06:51 GET /pagead2.googlesyndication.com/pagead/js/f.txt - 157.39.184.155 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+9_0_2+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Version/9.0+Mobile/13A452+Safari/601.1 http://crossroadsbar.co.nz/ 404 1405 370
+2017-12-15 14:06:51 GET /js/responsiveslides.min.js - 157.39.184.155 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+9_0_2+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Version/9.0+Mobile/13A452+Safari/601.1 http://crossroadsbar.co.nz/ 200 3659 351
+2017-12-15 14:06:51 GET /images/serve1.png - 157.39.184.155 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+9_0_2+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Version/9.0+Mobile/13A452+Safari/601.1 http://crossroadsbar.co.nz/ 200 1714 342
+2017-12-15 14:06:52 GET /images/serve2.png - 157.39.184.155 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+9_0_2+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Version/9.0+Mobile/13A452+Safari/601.1 http://crossroadsbar.co.nz/ 200 4431 342
+2017-12-15 14:06:52 GET /css/bootstrap.css - 157.39.184.155 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+9_0_2+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Version/9.0+Mobile/13A452+Safari/601.1 http://crossroadsbar.co.nz/ 200 121515 357
+2017-12-15 14:06:52 GET /css/style.css - 157.39.184.155 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+9_0_2+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Version/9.0+Mobile/13A452+Safari/601.1 http://crossroadsbar.co.nz/ 200 62590 353
+2017-12-15 14:06:53 GET /js/jquery-1.11.1.min.js - 157.39.184.155 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+9_0_2+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Version/9.0+Mobile/13A452+Safari/601.1 http://crossroadsbar.co.nz/ 200 96050 348
+2017-12-15 14:06:53 GET /images/c1.jpg - 157.39.184.155 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+9_0_2+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Version/9.0+Mobile/13A452+Safari/601.1 http://crossroadsbar.co.nz/ 200 33007 338
+2017-12-15 14:06:53 GET /images/g7.jpg - 157.39.184.155 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+9_0_2+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Version/9.0+Mobile/13A452+Safari/601.1 http://crossroadsbar.co.nz/ 200 59529 338
+2017-12-15 14:06:53 GET /images/g8.jpg - 157.39.184.155 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+9_0_2+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Version/9.0+Mobile/13A452+Safari/601.1 http://crossroadsbar.co.nz/ 200 48224 338
+2017-12-15 14:06:54 GET /images/c2.jpg - 157.39.184.155 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+9_0_2+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Version/9.0+Mobile/13A452+Safari/601.1 http://crossroadsbar.co.nz/ 200 30984 338
+2017-12-15 14:06:54 GET /images/c3.jpg - 157.39.184.155 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+9_0_2+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Version/9.0+Mobile/13A452+Safari/601.1 http://crossroadsbar.co.nz/ 200 39200 338
+2017-12-15 14:06:54 GET /www.google-analytics.com/analytics.js - 157.39.184.155 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+9_0_2+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Version/9.0+Mobile/13A452+Safari/601.1 http://crossroadsbar.co.nz/ 404 1405 362
+2017-12-15 14:06:54 GET /images/nav.png - 157.39.184.155 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+9_0_2+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Version/9.0+Mobile/13A452+Safari/601.1 http://crossroadsbar.co.nz/ 200 3315 339
+2017-12-15 14:06:54 GET /images/fb.png - 157.39.184.155 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+9_0_2+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Version/9.0+Mobile/13A452+Safari/601.1 http://crossroadsbar.co.nz/ 200 7384 338
+2017-12-15 14:06:54 GET /images/gg.png - 157.39.184.155 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+9_0_2+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Version/9.0+Mobile/13A452+Safari/601.1 http://crossroadsbar.co.nz/ 200 7753 338
+2017-12-15 14:06:54 GET /images/move-top.png - 157.39.184.155 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+9_0_2+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Version/9.0+Mobile/13A452+Safari/601.1 http://crossroadsbar.co.nz/ 200 3488 344
+2017-12-15 14:06:56 GET /images/c4.jpg - 157.39.184.155 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+9_0_2+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Version/9.0+Mobile/13A452+Safari/601.1 http://crossroadsbar.co.nz/ 200 42204 338
+2017-12-15 14:06:59 GET /images/banner.jpg - 157.39.184.155 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+9_0_2+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Version/9.0+Mobile/13A452+Safari/601.1 http://crossroadsbar.co.nz/ 200 339923 342
+2017-12-15 14:06:59 GET /images/tw.png - 157.39.184.155 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+9_0_2+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Version/9.0+Mobile/13A452+Safari/601.1 http://crossroadsbar.co.nz/ 200 7323 338
+2017-12-15 14:06:59 GET /images/db.png - 157.39.184.155 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+9_0_2+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Version/9.0+Mobile/13A452+Safari/601.1 http://crossroadsbar.co.nz/ 200 7998 338
+2017-12-15 14:07:01 GET /images/s2.jpg - 157.39.184.155 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+9_0_2+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Version/9.0+Mobile/13A452+Safari/601.1 http://crossroadsbar.co.nz/ 200 863576 338
+2017-12-15 14:07:05 GET /images/s4.jpg - 157.39.184.155 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+9_0_2+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Version/9.0+Mobile/13A452+Safari/601.1 http://crossroadsbar.co.nz/ 200 882157 338
+2017-12-15 14:07:05 GET /images/s1.jpg - 157.39.184.155 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+9_0_2+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Version/9.0+Mobile/13A452+Safari/601.1 http://crossroadsbar.co.nz/ 200 692503 338
+2017-12-15 14:07:05 GET /images/serve4.png - 157.39.184.155 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+9_0_2+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Version/9.0+Mobile/13A452+Safari/601.1 http://crossroadsbar.co.nz/ 200 4415 342
+2017-12-15 14:07:05 GET /images/g1.jpg - 157.39.184.155 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+9_0_2+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Version/9.0+Mobile/13A452+Safari/601.1 http://crossroadsbar.co.nz/ 200 48831 338
+2017-12-15 14:07:06 GET /images/s3.jpg - 157.39.184.155 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+9_0_2+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Version/9.0+Mobile/13A452+Safari/601.1 http://crossroadsbar.co.nz/ 200 914588 338
+2017-12-15 14:07:06 GET /images/serve3.png - 157.39.184.155 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+9_0_2+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Version/9.0+Mobile/13A452+Safari/601.1 http://crossroadsbar.co.nz/ 200 7307 342
+2017-12-15 14:07:06 GET /images/g2.jpg - 157.39.184.155 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+9_0_2+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Version/9.0+Mobile/13A452+Safari/601.1 http://crossroadsbar.co.nz/ 200 64370 338
+2017-12-15 14:07:15 GET /index.html - 157.39.184.155 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+9_0_2+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Version/9.0+Mobile/13A452+Safari/601.1 http://crossroadsbar.co.nz/ 200 23480 395
+2017-12-15 14:07:15 GET /www.google-analytics.com/analytics.js - 157.39.184.155 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+9_0_2+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Version/9.0+Mobile/13A452+Safari/601.1 http://crossroadsbar.co.nz/index.html 404 1405 372
+2017-12-15 14:07:15 GET /cdn.fancybar.net/ac/fancybar6a2f.js - 157.39.184.155 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+9_0_2+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Version/9.0+Mobile/13A452+Safari/601.1 http://crossroadsbar.co.nz/index.html 404 1405 416
+2017-12-15 14:07:15 GET /pagead2.googlesyndication.com/pagead/js/f.txt - 157.39.184.155 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+9_0_2+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Version/9.0+Mobile/13A452+Safari/601.1 http://crossroadsbar.co.nz/index.html 404 1405 380
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2017-12-15 21:09:49
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2017-12-15 21:09:49 GET / - 180.76.15.162 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - 200 7037 221
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2017-12-15 23:31:42
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2017-12-15 23:31:42 GET / - 13.56.229.65 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_12_6)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/61.0.3163.100+Safari/537.36 - 200 7018 207
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2017-12-16 04:40:26
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2017-12-16 04:40:26 GET /robots.txt - 151.80.39.106 HTTP/1.1 Mozilla/5.0+(compatible;+AhrefsBot/5.2;++http://ahrefs.com/robot/) - 404 1405 184
+2017-12-16 04:40:27 GET /images/c2.jpg - 164.132.161.18 HTTP/1.1 Mozilla/5.0+(compatible;+AhrefsBot/5.2;++http://ahrefs.com/robot/) - 200 30984 187
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2017-12-16 06:10:28
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2017-12-16 06:10:28 GET /robots.txt - 64.120.56.210 HTTP/1.1 Mozilla/5.0+(compatible;+MJ12bot/v1.4.8;+http://mj12bot.com/) - 404 1405 171
+2017-12-16 06:10:33 GET / - 64.120.56.210 HTTP/1.1 Mozilla/5.0+(compatible;+MJ12bot/v1.4.8;+http://mj12bot.com/) - 200 23480 348
+2017-12-16 06:11:10 GET /robots.txt - 173.234.153.122 HTTP/1.1 Mozilla/5.0+(compatible;+MJ12bot/v1.4.8;+http://mj12bot.com/) - 404 1405 171
+2017-12-16 06:11:12 GET / - 173.234.153.122 HTTP/1.1 Mozilla/5.0+(compatible;+MJ12bot/v1.4.8;+http://mj12bot.com/) - 200 23480 348

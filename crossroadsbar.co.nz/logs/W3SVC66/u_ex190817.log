@@ -1,0 +1,88 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2019-08-17 09:32:59
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2019-08-17 09:32:59 GET /update.php - 193.70.34.209 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/63.0.3239.132+Safari/537.36 - 404 1405 362
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2019-08-17 11:41:00
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2019-08-17 11:41:00 HEAD / - 35.205.124.12 HTTP/1.1 - - 200 248 63
+2019-08-17 11:41:01 GET / - 35.205.124.12 HTTP/1.1 - - 200 23501 62
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2019-08-17 19:20:34
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2019-08-17 19:20:33 GET / - 89.187.168.77 HTTP/1.0 Mozilla/5.0+(Windows+NT+6.3;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/67.0.3396.79+Safari/537.36 http://crossroadsbar.co.nz/ 200 23520 313
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2019-08-18 02:16:26
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2019-08-18 02:16:26 GET /robots.txt - 5.45.207.33 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - 404 1405 206
+2019-08-18 02:16:26 GET /robots.txt - 5.45.207.21 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - 404 1405 202
+2019-08-18 02:16:30 GET / - 5.45.207.33 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - 200 6996 288
+2019-08-18 02:16:30 GET / - 5.45.207.21 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - 200 5626 284
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2019-08-18 03:15:36
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2019-08-18 03:15:35 GET /robots.txt - 78.46.176.21 HTTP/1.1 Mozilla/5.0+(compatible;+MJ12bot/v1.4.8;+http://mj12bot.com/) - 404 1405 167
+2019-08-18 03:15:37 GET / - 78.46.176.21 HTTP/1.1 Mozilla/5.0+(compatible;+MJ12bot/v1.4.8;+http://mj12bot.com/) - 200 6996 370
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2019-08-18 03:47:47
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2019-08-18 03:47:46 GET /robots.txt - 157.55.39.17 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - 404 1405 256
+2019-08-18 03:47:51 GET /index.html - 207.46.13.195 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - 304 210 306
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2019-08-18 04:14:07
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2019-08-18 04:14:06 GET / - 60.234.104.83 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_14_3)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/76.0.3809.100+Safari/537.36 - 200 6996 451
+2019-08-18 04:14:06 GET /css/swipebox.css - 60.234.104.83 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_14_3)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/76.0.3809.100+Safari/537.36 http://crossroadsbar.co.nz/ 200 1525 375
+2019-08-18 04:14:06 GET /css/iconeffects.css - 60.234.104.83 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_14_3)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/76.0.3809.100+Safari/537.36 http://crossroadsbar.co.nz/ 200 3470 378
+2019-08-18 04:14:06 GET /js/move-top.js - 60.234.104.83 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_14_3)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/76.0.3809.100+Safari/537.36 http://crossroadsbar.co.nz/ 200 1080 358
+2019-08-18 04:14:06 GET /js/easing.js - 60.234.104.83 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_14_3)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/76.0.3809.100+Safari/537.36 http://crossroadsbar.co.nz/ 200 1740 356
+2019-08-18 04:14:06 GET /css/animate.css - 60.234.104.83 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_14_3)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/76.0.3809.100+Safari/537.36 http://crossroadsbar.co.nz/ 200 8279 374
+2019-08-18 04:14:07 GET /css/bootstrap.css - 60.234.104.83 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_14_3)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/76.0.3809.100+Safari/537.36 http://crossroadsbar.co.nz/ 200 27109 376
+2019-08-18 04:14:07 GET /cdn.fancybar.net/ac/fancybar6a2f.js - 60.234.104.83 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_14_3)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/76.0.3809.100+Safari/537.36 http://crossroadsbar.co.nz/ 404 1405 425
+2019-08-18 04:14:07 GET /js/jquery.swipebox.min.js - 60.234.104.83 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_14_3)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/76.0.3809.100+Safari/537.36 http://crossroadsbar.co.nz/ 200 2872 369
+2019-08-18 04:14:07 GET /js/wow.min.js - 60.234.104.83 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_14_3)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/76.0.3809.100+Safari/537.36 http://crossroadsbar.co.nz/ 200 2376 357
+2019-08-18 04:14:07 GET /images/border.png - 60.234.104.83 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_14_3)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/76.0.3809.100+Safari/537.36 http://crossroadsbar.co.nz/ 200 3286 397
+2019-08-18 04:14:07 GET /js/responsiveslides.min.js - 60.234.104.83 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_14_3)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/76.0.3809.100+Safari/537.36 http://crossroadsbar.co.nz/ 200 2127 370
+2019-08-18 04:14:07 GET /js/jquery-1.11.1.min.js - 60.234.104.83 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_14_3)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/76.0.3809.100+Safari/537.36 http://crossroadsbar.co.nz/ 200 43072 367
+2019-08-18 04:14:07 GET /images/down.png - 60.234.104.83 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_14_3)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/76.0.3809.100+Safari/537.36 http://crossroadsbar.co.nz/ 200 4972 395
+2019-08-18 04:14:07 GET /pagead2.googlesyndication.com/pagead/js/f.txt - 60.234.104.83 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_14_3)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/76.0.3809.100+Safari/537.36 http://crossroadsbar.co.nz/ 404 1405 389
+2019-08-18 04:14:07 GET /css/style.css - 60.234.104.83 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_14_3)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/76.0.3809.100+Safari/537.36 http://crossroadsbar.co.nz/ 200 15962 372
+2019-08-18 04:14:09 GET /images/serve2.png - 60.234.104.83 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_14_3)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/76.0.3809.100+Safari/537.36 http://crossroadsbar.co.nz/ 200 4431 397
+2019-08-18 04:14:09 GET /images/serve1.png - 60.234.104.83 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_14_3)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/76.0.3809.100+Safari/537.36 http://crossroadsbar.co.nz/ 200 1714 397
+2019-08-18 04:14:09 GET /images/move-top.png - 60.234.104.83 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_14_3)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/76.0.3809.100+Safari/537.36 http://crossroadsbar.co.nz/css/style.css 200 3488 412
+2019-08-18 04:14:09 GET /images/serve3.png - 60.234.104.83 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_14_3)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/76.0.3809.100+Safari/537.36 http://crossroadsbar.co.nz/ 200 7307 397
+2019-08-18 04:14:09 GET /images/serve4.png - 60.234.104.83 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_14_3)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/76.0.3809.100+Safari/537.36 http://crossroadsbar.co.nz/ 200 4415 397
+2019-08-18 04:14:10 GET /images/g1.jpg - 60.234.104.83 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_14_3)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/76.0.3809.100+Safari/537.36 http://crossroadsbar.co.nz/ 200 48831 393
+2019-08-18 04:14:10 GET /images/banner.jpg - 60.234.104.83 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_14_3)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/76.0.3809.100+Safari/537.36 http://crossroadsbar.co.nz/css/style.css 200 339923 410
+2019-08-18 04:14:11 GET /images/c1.jpg - 60.234.104.83 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_14_3)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/76.0.3809.100+Safari/537.36 http://crossroadsbar.co.nz/ 200 33007 393
+2019-08-18 04:14:11 GET /images/c2.jpg - 60.234.104.83 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_14_3)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/76.0.3809.100+Safari/537.36 http://crossroadsbar.co.nz/ 200 30984 393
+2019-08-18 04:14:11 GET /images/c3.jpg - 60.234.104.83 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_14_3)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/76.0.3809.100+Safari/537.36 http://crossroadsbar.co.nz/ 200 39200 393
+2019-08-18 04:14:11 GET /images/c4.jpg - 60.234.104.83 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_14_3)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/76.0.3809.100+Safari/537.36 http://crossroadsbar.co.nz/ 200 42204 393
+2019-08-18 04:14:11 GET /images/g2.jpg - 60.234.104.83 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_14_3)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/76.0.3809.100+Safari/537.36 http://crossroadsbar.co.nz/ 200 64370 393
+2019-08-18 04:14:12 GET /images/s1.jpg - 60.234.104.83 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_14_3)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/76.0.3809.100+Safari/537.36 http://crossroadsbar.co.nz/ 200 692503 393
+2019-08-18 04:14:12 GET /www.google-analytics.com/analytics.js - 60.234.104.83 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_14_3)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/76.0.3809.100+Safari/537.36 http://crossroadsbar.co.nz/ 404 1405 381
+2019-08-18 04:14:12 GET /cdn.fancybar.net/ac/fancybar6a2f.js - 60.234.104.83 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_14_3)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/76.0.3809.100+Safari/537.36 http://crossroadsbar.co.nz/ 404 1405 425
+2019-08-18 04:14:12 GET /images/g7.jpg - 60.234.104.83 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_14_3)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/76.0.3809.100+Safari/537.36 http://crossroadsbar.co.nz/ 200 59529 393
+2019-08-18 04:14:12 GET /pagead2.googlesyndication.com/pagead/js/f.txt - 60.234.104.83 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_14_3)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/76.0.3809.100+Safari/537.36 http://crossroadsbar.co.nz/ 404 1405 389
+2019-08-18 04:14:12 GET /images/s3.jpg - 60.234.104.83 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_14_3)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/76.0.3809.100+Safari/537.36 http://crossroadsbar.co.nz/ 200 914588 393
+2019-08-18 04:14:12 GET /images/tw.png - 60.234.104.83 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_14_3)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/76.0.3809.100+Safari/537.36 http://crossroadsbar.co.nz/css/style.css 200 7323 406
+2019-08-18 04:14:12 GET /images/fb.png - 60.234.104.83 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_14_3)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/76.0.3809.100+Safari/537.36 http://crossroadsbar.co.nz/css/style.css 200 7384 406
+2019-08-18 04:14:12 GET /images/gg.png - 60.234.104.83 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_14_3)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/76.0.3809.100+Safari/537.36 http://crossroadsbar.co.nz/css/style.css 200 7753 406
+2019-08-18 04:14:12 GET /images/db.png - 60.234.104.83 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_14_3)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/76.0.3809.100+Safari/537.36 http://crossroadsbar.co.nz/css/style.css 200 7998 406
+2019-08-18 04:14:13 GET /images/s2.jpg - 60.234.104.83 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_14_3)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/76.0.3809.100+Safari/537.36 http://crossroadsbar.co.nz/ 200 863576 393
+2019-08-18 04:14:13 GET /images/g8.jpg - 60.234.104.83 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_14_3)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/76.0.3809.100+Safari/537.36 http://crossroadsbar.co.nz/ 200 48224 393
+2019-08-18 04:14:14 GET /images/s4.jpg - 60.234.104.83 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_14_3)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/76.0.3809.100+Safari/537.36 http://crossroadsbar.co.nz/ 200 882157 393
+2019-08-18 04:14:14 GET /favicon.ico - 60.234.104.83 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_14_3)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/76.0.3809.100+Safari/537.36 http://crossroadsbar.co.nz/ 404 1405 391
+2019-08-18 04:14:28 GET /css/bootstrap.css.map - 60.234.104.83 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_14_3)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/76.0.3809.100+Safari/537.36 - 404 1405 314
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2019-08-18 06:49:05
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2019-08-18 06:49:05 GET / - 35.247.80.163 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:56.0)+Gecko/20100101+Firefox/56.0 - 200 23520 203

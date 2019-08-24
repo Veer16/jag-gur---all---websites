@@ -1,0 +1,7 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-01-10 16:04:59
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-01-10 16:04:58 GET /xxx.htm - 58.135.78.16 HTTP/1.1 Mozilla/5.0+(Linux;+U;+Android+2.0.1;+de-de;+Milestone+Build/SHOLS_U2_01.14.0)+AppleWebKit/530.17+(KHTML,+like+Gecko)+Version/4.0+Mobile+Safari/530.17 https://www.baidu.com 404 1405 450
+2018-01-10 16:05:09 GET /xxx.htm - 58.135.78.16 HTTP/1.1 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+tr;+rv:1.9.2.8)+Gecko/20100722+Firefox/3.6.8+(+.NET+CLR+3.5.30729;+.NET4.0E) https://www.baidu.com 404 1405 417
+2018-01-10 16:05:15 GET /xxx.htm - 58.135.78.16 HTTP/1.1 Mozilla/5.0+(Windows;+U;+Windows+NT+6.0;+en-US;+rv:1.9.1.6)+Gecko/20091201+Firefox/3.5.6+GTB5 https://www.baidu.com 404 1405 393

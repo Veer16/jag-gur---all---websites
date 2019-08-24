@@ -1,0 +1,125 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2016-11-11 07:42:50
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2016-11-11 07:42:50 GET / - 150.107.172.41 HTTP/1.1 Mozilla/5.0+(Linux;+Android+4.4.2;+GT-I9195+Build/KOT49H)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/54.0.2840.85+Mobile+Safari/537.36 android-app://com.google.android.googlequicksearchbox 200 3376 483
+2016-11-11 07:42:50 GET /css/style.css - 150.107.172.41 HTTP/1.1 Mozilla/5.0+(Linux;+Android+4.4.2;+GT-I9195+Build/KOT49H)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/54.0.2840.85+Mobile+Safari/537.36 http://www.palacehotel.co.nz/ 200 5918 386
+2016-11-11 07:42:50 GET /ionicons/css/ionicons.min.css - 150.107.172.41 HTTP/1.1 Mozilla/5.0+(Linux;+Android+4.4.2;+GT-I9195+Build/KOT49H)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/54.0.2840.85+Mobile+Safari/537.36 http://www.palacehotel.co.nz/ 200 10932 402
+2016-11-11 07:42:51 GET /js/modernizr.js - 150.107.172.41 HTTP/1.1 Mozilla/5.0+(Linux;+Android+4.4.2;+GT-I9195+Build/KOT49H)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/54.0.2840.85+Mobile+Safari/537.36 http://www.palacehotel.co.nz/ 200 19903 373
+2016-11-11 07:42:51 GET /css/bootstrap.min.css - 150.107.172.41 HTTP/1.1 Mozilla/5.0+(Linux;+Android+4.4.2;+GT-I9195+Build/KOT49H)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/54.0.2840.85+Mobile+Safari/537.36 http://www.palacehotel.co.nz/ 200 27806 394
+2016-11-11 07:42:53 GET /img/logo.png - 150.107.172.41 HTTP/1.1 Mozilla/5.0+(Linux;+Android+4.4.2;+GT-I9195+Build/KOT49H)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/54.0.2840.85+Mobile+Safari/537.36 http://www.palacehotel.co.nz/ 200 22564 395
+2016-11-11 07:42:53 GET /js/jquery-2.1.1.js - 150.107.172.41 HTTP/1.1 Mozilla/5.0+(Linux;+Android+4.4.2;+GT-I9195+Build/KOT49H)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/54.0.2840.85+Mobile+Safari/537.36 http://www.palacehotel.co.nz/ 200 97203 376
+2016-11-11 07:42:54 GET /img/bg.jpg - 150.107.172.41 HTTP/1.1 Mozilla/5.0+(Linux;+Android+4.4.2;+GT-I9195+Build/KOT49H)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/54.0.2840.85+Mobile+Safari/537.36 http://www.palacehotel.co.nz/css/style.css 200 95902 406
+2016-11-11 07:42:58 GET /ionicons/fonts/ionicons.ttf - 150.107.172.41 HTTP/1.1 Mozilla/5.0+(Linux;+Android+4.4.2;+GT-I9195+Build/KOT49H)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/54.0.2840.85+Mobile+Safari/537.36 http://www.palacehotel.co.nz/ionicons/css/ionicons.min.css 200 188773 460
+2016-11-11 07:43:02 GET /img/img5.jpg - 150.107.172.41 HTTP/1.1 Mozilla/5.0+(Linux;+Android+4.4.2;+GT-I9195+Build/KOT49H)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/54.0.2840.85+Mobile+Safari/537.36 http://www.palacehotel.co.nz/ 200 1134136 395
+2016-11-11 07:43:05 GET /img/img4.jpg - 150.107.172.41 HTTP/1.1 Mozilla/5.0+(Linux;+Android+4.4.2;+GT-I9195+Build/KOT49H)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/54.0.2840.85+Mobile+Safari/537.36 http://www.palacehotel.co.nz/ 200 1243133 395
+2016-11-11 07:43:05 GET /img/img6.jpg - 150.107.172.41 HTTP/1.1 Mozilla/5.0+(Linux;+Android+4.4.2;+GT-I9195+Build/KOT49H)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/54.0.2840.85+Mobile+Safari/537.36 http://www.palacehotel.co.nz/ 200 1235277 395
+2016-11-11 07:43:07 GET /img/img3.jpg - 150.107.172.41 HTTP/1.1 Mozilla/5.0+(Linux;+Android+4.4.2;+GT-I9195+Build/KOT49H)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/54.0.2840.85+Mobile+Safari/537.36 http://www.palacehotel.co.nz/ 200 1188783 395
+2016-11-11 07:43:09 GET /img/img9.jpg - 150.107.172.41 HTTP/1.1 Mozilla/5.0+(Linux;+Android+4.4.2;+GT-I9195+Build/KOT49H)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/54.0.2840.85+Mobile+Safari/537.36 http://www.palacehotel.co.nz/ 200 1089855 395
+2016-11-11 07:43:09 GET /js/bootstrap.min.js - 150.107.172.41 HTTP/1.1 Mozilla/5.0+(Linux;+Android+4.4.2;+GT-I9195+Build/KOT49H)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/54.0.2840.85+Mobile+Safari/537.36 http://www.palacehotel.co.nz/ 200 13266 377
+2016-11-11 07:43:10 GET /js/menu.js - 150.107.172.41 HTTP/1.1 Mozilla/5.0+(Linux;+Android+4.4.2;+GT-I9195+Build/KOT49H)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/54.0.2840.85+Mobile+Safari/537.36 http://www.palacehotel.co.nz/ 200 1168 368
+2016-11-11 07:43:10 GET /js/animated-headline.js - 150.107.172.41 HTTP/1.1 Mozilla/5.0+(Linux;+Android+4.4.2;+GT-I9195+Build/KOT49H)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/54.0.2840.85+Mobile+Safari/537.36 http://www.palacehotel.co.nz/ 200 2209 381
+2016-11-11 07:43:10 GET /js/isotope.pkgd.min.js - 150.107.172.41 HTTP/1.1 Mozilla/5.0+(Linux;+Android+4.4.2;+GT-I9195+Build/KOT49H)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/54.0.2840.85+Mobile+Safari/537.36 http://www.palacehotel.co.nz/ 200 13789 380
+2016-11-11 07:43:11 GET /js/custom.js - 150.107.172.41 HTTP/1.1 Mozilla/5.0+(Linux;+Android+4.4.2;+GT-I9195+Build/KOT49H)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/54.0.2840.85+Mobile+Safari/537.36 http://www.palacehotel.co.nz/ 200 1191 370
+2016-11-11 07:43:12 GET /img/img8.jpg - 150.107.172.41 HTTP/1.1 Mozilla/5.0+(Linux;+Android+4.4.2;+GT-I9195+Build/KOT49H)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/54.0.2840.85+Mobile+Safari/537.36 http://www.palacehotel.co.nz/ 200 1146016 395
+2016-11-11 07:43:14 GET /img/img7.jpg - 150.107.172.41 HTTP/1.1 Mozilla/5.0+(Linux;+Android+4.4.2;+GT-I9195+Build/KOT49H)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/54.0.2840.85+Mobile+Safari/537.36 http://www.palacehotel.co.nz/ 200 1155627 395
+2016-11-11 07:43:14 GET /img/img3_1.jpg - 150.107.172.41 HTTP/1.1 Mozilla/5.0+(Linux;+Android+4.4.2;+GT-I9195+Build/KOT49H)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/54.0.2840.85+Mobile+Safari/537.36 http://www.palacehotel.co.nz/ 200 1125686 397
+2016-11-11 07:43:15 GET /img/img2.jpg - 150.107.172.41 HTTP/1.1 Mozilla/5.0+(Linux;+Android+4.4.2;+GT-I9195+Build/KOT49H)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/54.0.2840.85+Mobile+Safari/537.36 http://www.palacehotel.co.nz/ 200 1266298 395
+2016-11-11 07:43:17 GET /img/img10.jpg - 150.107.172.41 HTTP/1.1 Mozilla/5.0+(Linux;+Android+4.4.2;+GT-I9195+Build/KOT49H)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/54.0.2840.85+Mobile+Safari/537.36 http://www.palacehotel.co.nz/ 200 1018686 396
+2016-11-11 07:43:19 GET /favicon.ico - 150.107.172.41 HTTP/1.1 Mozilla/5.0+(Linux;+Android+4.4.2;+GT-I9195+Build/KOT49H)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/54.0.2840.85+Mobile+Safari/537.36 http://www.palacehotel.co.nz/ 404 1405 369
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2016-11-11 08:56:29
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2016-11-11 08:56:28 GET / - 195.154.255.203 HTTP/1.0 Mozilla/5.0+(Windows+NT+6.3;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/34.0.1847.137+Safari/537.36 - 200 13762 307
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2016-11-11 09:24:58
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2016-11-11 09:24:58 GET /robots.txt - 178.255.215.91 HTTP/1.1 Mozilla/5.0+(compatible;+Exabot/3.0;++http://www.exabot.com/go/robot) - 404 1424 277
+2016-11-11 09:24:59 GET / - 178.255.215.91 HTTP/1.1 Mozilla/5.0+(compatible;+Exabot/3.0;++http://www.exabot.com/go/robot) - 200 3395 353
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2016-11-11 09:45:05
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2016-11-11 09:45:04 GET / - 115.188.199.160 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+10_1_1+like+Mac+OS+X)+AppleWebKit/602.2.14+(KHTML,+like+Gecko)+Version/10.0+Mobile/14B100+Safari/602.1 - 200 0 381
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2016-11-11 10:29:08
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2016-11-11 10:29:08 GET / - 185.11.180.67 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/52.0.2743.116+Safari/537.36 - 200 13757 339
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2016-11-11 12:47:04
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2016-11-11 12:47:04 GET /robots.txt - 5.39.85.81 HTTP/1.0 - - 404 1424 71
+2016-11-11 12:47:05 GET / - 5.39.85.81 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/534.24+(KHTML,+like+Gecko)+Chrome/11.0.696.3+Safari/534.24 - 206 13787 199
+2016-11-11 12:47:08 GET /index.html - 5.39.85.81 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/534.24+(KHTML,+like+Gecko)+Chrome/11.0.696.3+Safari/534.24 - 206 13787 209
+2016-11-11 12:47:10 GET /about.html - 5.39.85.81 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/534.24+(KHTML,+like+Gecko)+Chrome/11.0.696.3+Safari/534.24 - 206 5756 209
+2016-11-11 12:47:13 GET /services.html - 5.39.85.81 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/534.24+(KHTML,+like+Gecko)+Chrome/11.0.696.3+Safari/534.24 - 206 7416 212
+2016-11-11 12:47:14 GET /portfolio.html - 5.39.85.81 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/534.24+(KHTML,+like+Gecko)+Chrome/11.0.696.3+Safari/534.24 - 206 12671 213
+2016-11-11 12:47:17 GET /contact.html - 5.39.85.81 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/534.24+(KHTML,+like+Gecko)+Chrome/11.0.696.3+Safari/534.24 - 206 6438 211
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2016-11-11 14:17:55
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2016-11-11 14:17:54 GET /robots.txt - 66.249.69.145 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 404 1405 231
+2016-11-11 14:17:56 GET / - 66.249.69.142 HTTP/1.1 Mozilla/5.0+(Linux;+Android+6.0.1;+Nexus+5X+Build/MMB29P)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2272.96+Mobile+Safari/537.36+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 13738 424
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2016-11-11 15:51:09
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2016-11-11 15:51:09 GET / - 180.76.15.136 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - 304 229 304
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2016-11-11 23:53:41
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2016-11-11 23:53:40 GET / - 180.76.15.7 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - 304 229 304
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2016-11-12 01:39:10
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2016-11-12 01:39:10 GET / - 66.220.146.27 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 304 229 267
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2016-11-12 02:20:03
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2016-11-12 02:20:02 GET /robots.txt - 66.249.75.170 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 404 1405 227
+2016-11-12 02:20:04 GET / - 66.249.75.170 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 3376 294
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2016-11-12 04:35:24
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2016-11-12 04:35:24 GET / - 164.132.104.166 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/52.0.2743.116+Safari/537.36 - 200 3395 339
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2016-11-12 04:58:17
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2016-11-12 04:58:17 GET / - 207.46.13.184 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+7_0+like+Mac+OS+X)+AppleWebKit/537.51.1+(KHTML,+like+Gecko)+Version/7.0+Mobile/11A465+Safari/9537.53+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - 200 13738 396
+2016-11-12 04:58:31 GET /css/bootstrap.min.css - 207.46.13.184 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+7_0+like+Mac+OS+X)+AppleWebKit/537.51.1+(KHTML,+like+Gecko)+Version/7.0+Mobile/11A465+Safari/9537.53+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - 200 120748 385
+2016-11-12 04:58:31 GET /css/style.css - 207.46.13.184 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+7_0+like+Mac+OS+X)+AppleWebKit/537.51.1+(KHTML,+like+Gecko)+Version/7.0+Mobile/11A465+Safari/9537.53+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - 200 23669 377
+2016-11-12 04:58:32 GET /ionicons/css/ionicons.min.css - 207.46.13.184 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+7_0+like+Mac+OS+X)+AppleWebKit/537.51.1+(KHTML,+like+Gecko)+Version/7.0+Mobile/11A465+Safari/9537.53+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - 200 51532 393
+2016-11-12 04:58:50 GET /js/bootstrap.min.js - 157.55.39.106 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+7_0+like+Mac+OS+X)+AppleWebKit/537.51.1+(KHTML,+like+Gecko)+Version/7.0+Mobile/11A465+Safari/9537.53+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - 200 37132 383
+2016-11-12 04:58:50 GET /js/isotope.pkgd.min.js - 157.55.39.106 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+7_0+like+Mac+OS+X)+AppleWebKit/537.51.1+(KHTML,+like+Gecko)+Version/7.0+Mobile/11A465+Safari/9537.53+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - 200 38008 386
+2016-11-12 04:58:50 GET /js/jquery-2.1.1.js - 157.55.39.106 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+7_0+like+Mac+OS+X)+AppleWebKit/537.51.1+(KHTML,+like+Gecko)+Version/7.0+Mobile/11A465+Safari/9537.53+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - 200 247616 382
+2016-11-12 04:58:51 GET /js/modernizr.js - 157.55.39.106 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+7_0+like+Mac+OS+X)+AppleWebKit/537.51.1+(KHTML,+like+Gecko)+Version/7.0+Mobile/11A465+Safari/9537.53+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - 200 51615 379
+2016-11-12 04:58:59 GET /js/animated-headline.js - 207.46.13.91 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+7_0+like+Mac+OS+X)+AppleWebKit/537.51.1+(KHTML,+like+Gecko)+Version/7.0+Mobile/11A465+Safari/9537.53+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - 200 5815 387
+2016-11-12 04:59:10 GET /js/custom.js - 207.46.13.26 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+7_0+like+Mac+OS+X)+AppleWebKit/537.51.1+(KHTML,+like+Gecko)+Version/7.0+Mobile/11A465+Safari/9537.53+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - 200 1191 376
+2016-11-12 04:59:10 GET /js/menu.js - 207.46.13.26 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+7_0+like+Mac+OS+X)+AppleWebKit/537.51.1+(KHTML,+like+Gecko)+Version/7.0+Mobile/11A465+Safari/9537.53+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - 200 1168 374
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2016-11-12 05:40:44
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2016-11-12 05:40:44 GET /robots.txt - 208.43.225.85 HTTP/1.1 Mozilla/5.0+(compatible;+SiteExplorer/1.0b;++http://siteexplorer.info/) - 404 1405 185
+2016-11-12 05:40:47 GET / - 208.43.225.85 HTTP/1.1 Mozilla/5.0+(compatible;+SiteExplorer/1.0b;++http://siteexplorer.info/) - 200 0 175
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2016-11-12 05:59:45
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2016-11-12 05:59:45 GET /ionicons/fonts/ionicons.svg - 207.46.13.73 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+7_0+like+Mac+OS+X)+AppleWebKit/537.51.1+(KHTML,+like+Gecko)+Version/7.0+Mobile/11A465+Safari/9537.53+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - 404 1405 399
+2016-11-12 05:59:47 GET /ionicons/fonts/ionicons.ttf - 207.46.13.73 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+7_0+like+Mac+OS+X)+AppleWebKit/537.51.1+(KHTML,+like+Gecko)+Version/7.0+Mobile/11A465+Safari/9537.53+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - 200 188773 399
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2016-11-12 06:51:33
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2016-11-12 06:51:33 GET / - 66.249.79.162 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 3376 294

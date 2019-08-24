@@ -1,0 +1,336 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 201810 will be lost/reset.
+# Last config file used to build this data file was /home/thefi694/tmp/awstats/awstats.thefirkin.co.nz.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2012                
+POS_TIME 2683                
+POS_VISITOR 7952                
+POS_DAY 8809                
+POS_DOMAIN 3352                
+POS_LOGIN 3654                
+POS_ROBOT 3809                
+POS_WORMS 4213                
+POS_EMAILSENDER 4344                
+POS_EMAILRECEIVER 4487                
+POS_SESSION 9134                
+POS_SIDER 9297                
+POS_FILETYPES 4622                
+POS_DOWNLOADS 4834                
+POS_OS 4882                
+POS_BROWSER 5102                
+POS_SCREENSIZE 5536                
+POS_UNKNOWNREFERER 5610                
+POS_UNKNOWNREFERERBROWSER 5697                
+POS_ORIGIN 5779                
+POS_SEREFERRALS 5914                
+POS_PAGEREFS 6058                
+POS_SEARCHWORDS 6206                
+POS_KEYWORDS 6358                
+POS_MISC 2347                
+POS_ERRORS 6417                
+POS_CLUSTER 3510                
+POS_SIDER_404 6523                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20181101003838 1 0 9904699068691
+FirstTime 20181019013558
+LastTime 20181031201642
+LastUpdate 20181101231332 1 0 0 0 0
+TotalVisits 32                  
+TotalUnique 19                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 20                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+TotalMisc 0 0 0
+FlashSupport 0 0 0
+JavascriptDisabled 0 0 0
+DirectorSupport 0 0 0
+PDFSupport 0 0 0
+AddToFavourites 0 0 0
+QuickTimeSupport 0 0 0
+RealPlayerSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+JavaEnabled 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 1 2 20168
+1 1 1 26583 1 2 14566
+2 2 2 8966 0 3 20178
+3 0 0 0 1 2 20192
+4 0 0 0 0 1 0
+5 0 0 0 1 1 4483
+6 0 0 0 27 28 158849
+7 1 1 4483 23 23 158535
+8 5 13 1787509 8 8 35864
+9 0 0 0 21 33 277967
+10 7 11 50238 14 29 255385
+11 37 59 11240432 42 58 554288
+12 14 46 11199358 10 18 122151
+13 30 72 32395930 12 20 146063
+14 2 3 12387 1 14 135485
+15 0 0 0 7 9 41475
+16 8 50 32225012 10 20 96511
+17 1 9 8660 5 9 53843
+18 1 1 4483 1 11 125370
+19 1 1 4483 1 4 14565
+20 2 2 8966 3 7 58538
+21 0 0 0 1 3 14580
+22 0 0 0 10 15 54912
+23 0 0 0 1 1 4483
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 6
+nz 78 208 67302527
+us 29 43 10903923
+ph 2 16 10738535
+lu 2 2 22405
+ua 1 1 4483
+sv 0 1 5617
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 7
+facebookexternalhit/ 86 451838 20181031225415 0
+Googlebot/ 29 379790 20181030203723 0
+Python\-urllib/ 27 121041 20181027094728 0
+bingbot/ 2 8966 20181026170945 0
+YandexBot/ 1 4483 20181023065852 0
+bot[\s_+:,\.\;\/\\-] 1 4483 20181030160800 0
+robot 1 4259 20181019120136 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 8
+png 22 19618336 0 0
+js 47 789185 0 0
+ico 1 851647 0 0
+svg 6 33702 0 0
+jpg 44 65585912 0 0
+html 97 506563 0 0
+css 39 434745 0 0
+woff2 15 1157400 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 13
+winxp 4 4
+macosx9 1 1
+macosx 149 69
+linux 17 17
+win8.1 16 2
+unix 2 2
+macosx7 1 1
+win8 2 2
+win7 17 2
+linuxandroid 9 2
+macosx12 1 1
+win10 51 8
+macosx10 1 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 18
+firefox59.0 1 1
+chrome29.0.1547.2 1 1
+msie10.0 1 1
+chrome49.0.2623.75 12 12
+firefox44.0 2 2
+chrome68.0.3440.91 9 2
+chrome69.0.3497.100 201 77
+chrome29.0.1547.57 2 2
+chrome60.0.3112.101 2 2
+chrome61.0.3163.100 1 1
+chrome41.0.2227.0 2 2
+firefox42.0 1 1
+firefox62.0 16 2
+chrome36.0.1944.0 1 1
+chrome70.0.3538.67 16 2
+chrome36.0.1985.67 1 1
+chrome34.0.1847.116 1 1
+chrome32.0.1667.0 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 0
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 91 91
+From1 0 0
+From2 0 0
+From3 0 0
+From4 21 180
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+404 124 1252615
+403 16 160976
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 27
+/img/res04.jpg 2 http://thefirkin.co.nz/
+/img/res05.jpg 2 http://thefirkin.co.nz/
+/contactform/contactform.js 20 http://thefirkin.co.nz/
+/js/jquery.min.js 2 http://thefirkin.co.nz/
+/js/bootstrap.min.js 2 http://thefirkin.co.nz/
+/fonts/fontawesome-webfont.woff 1 http://thefirkin.co.nz/css/font-awesome.min.css
+/js/custom.js 2 http://thefirkin.co.nz/
+/res05.jpg 1 http://thefirkin.co.nz/
+/img/banner-bg.png 1 http://thefirkin.co.nz/css/style.css
+/img/res02.jpg 1 http://thefirkin.co.nz/css/style.css
+/css/style.css 1 http://thefirkin.co.nz/
+/ 12 -
+/robots.txt 19 -
+/img/logo.png 2 http://thefirkin.co.nz/
+/css/font-awesome.min.css 1 http://thefirkin.co.nz/
+/fonts/fontawesome-webfont.ttf 7 http://thefirkin.co.nz/css/font-awesome.min.css
+/fonts/fontawesome-webfont.woff2 7 http://thefirkin.co.nz/css/font-awesome.min.css
+/wp-login.php 4 -
+/contact.php 3 -
+/menu.php 2 -
+/CONTACT.php 3 -
+/img/res01.jpg 2 http://thefirkin.co.nz/
+/js/jquery.easing.min.js 2 http://thefirkin.co.nz/
+//wp-login.php 1 -
+/img/res03.jpg 2 http://thefirkin.co.nz/
+/css/bootstrap.min.css 1 http://thefirkin.co.nz/
+/css/bootstrap.min.css.map 21 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 20
+115.188.136.204 46 110 32987352 20181025160749
+118.93.177.24 25 48 10921681 20181019174607
+64.185.235.234 10 10 44830 20181024113213
+66.102.6.238 5 5 22415 20181031201642
+118.93.181.150 4 25 10920774 20181020160354
+66.102.6.242 3 3 13449 20181030143155
+118.93.177.220 3 25 12472720 20181020132123
+182.18.238.253 2 16 10738535 20181019115719
+66.96.228.163 2 16 10738682 20181019163801
+66.102.6.141 2 2 8966 20181023100055
+94.242.228.158 2 2 22405 20181028080517
+66.102.6.79 1 1 4483 20181025134639
+91.90.192.198 1 1 4483 20181023025008
+52.53.201.78 1 1 26583 20181019013558
+34.216.10.245 1 1 4483 20181029123354
+66.102.8.94 1 1 26583 20181019083842
+66.102.6.80 1 1 4483 20181024160527
+13.57.192.131 1 1 4483 20181030180731
+64.246.165.180 1 1 4483 20181030025258
+179.5.103.52 0 1 5617 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 12
+20181019 73 162 35140634 9
+20181020 4 32 21477364 2
+20181022 1 1 4483 1
+20181023 4 18 10747648 3
+20181024 11 11 49313 2
+20181025 6 34 21486330 3
+20181026 1 1 4483 1
+20181027 1 1 4483 1
+20181028 3 3 26888 2
+20181029 3 3 13449 3
+20181030 3 3 13449 3
+20181031 2 2 8966 2
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 3
+30s-2mn 1
+1h+ 2
+0s-30s 29
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 3
+/ 89 470699 32 24
+/fonts/fontawesome-webfont.woff2 15 1157400 0 7
+// 8 35864 0 1
+END_SIDER

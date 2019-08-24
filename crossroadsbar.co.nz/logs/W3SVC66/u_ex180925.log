@@ -1,0 +1,76 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-09-25 09:07:24
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-09-25 09:07:24 GET / - 42.236.99.2 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/50.0.2661.102+Safari/537.36;+360Spider http://www.crossroadsbar.co.nz/ 200 7018 327
+2018-09-25 09:17:16 GET / - 42.236.10.70 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/50.0.2661.102+Safari/537.36;+360Spider http://www.crossroadsbar.co.nz/ 200 0 327
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-09-25 11:30:22
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-09-25 11:30:22 GET / - 180.153.232.170 HTTP/1.1 Mozilla/5.0(compatible;MSIE9.0;WindowsNT6.1;Trident/5.0) http://www.crossroadsbar.co.nz/ 200 23480 263
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-09-25 11:57:51
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-09-25 11:57:51 GET / - 52.53.201.78 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_12_6)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/61.0.3163.100+Safari/537.36 - 200 23480 220
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-09-25 12:57:32
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-09-25 12:57:32 GET / - 180.76.15.152 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - 200 23499 221
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-09-25 14:17:19
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-09-25 14:17:19 GET /robots.txt - 66.249.79.202 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 404 1405 233
+2018-09-25 14:17:19 GET /pagead2.googlesyndication.com/pagead/js/f.txt - 66.249.79.206 HTTP/1.1 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+compatible;+Googlebot/2.1;++http://www.google.com/bot.html)+Safari/537.36 http://crossroadsbar.co.nz/index.html 404 1405 405
+2018-09-25 14:17:19 GET /cdn.fancybar.net/ac/fancybar6a2f.js - 66.249.79.204 HTTP/1.1 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+compatible;+Googlebot/2.1;++http://www.google.com/bot.html)+Safari/537.36 http://crossroadsbar.co.nz/index.html 404 1405 441
+2018-09-25 14:17:20 GET /www.google-analytics.com/analytics.js - 66.249.79.206 HTTP/1.1 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+compatible;+Googlebot/2.1;++http://www.google.com/bot.html)+Safari/537.36 http://crossroadsbar.co.nz/index.html 404 1405 397
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-09-25 15:50:28
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-09-25 15:50:28 GET / - 95.37.52.44 HTTP/1.1 - - 200 23480 58
+2018-09-25 15:50:28 GET /cms/editor/filemanager/connectors/uploadtest404.html - 95.37.52.44 HTTP/1.1 - - 404 1405 110
+2018-09-25 15:50:28 GET /cms/editor/filemanager/connectors/uploadtest.html - 95.37.52.44 HTTP/1.1 - - 404 1405 107
+2018-09-25 15:50:30 GET /fckeditor/editor/filemanager/connectors/uploadtest.html - 95.37.52.44 HTTP/1.1 - - 404 1405 113
+2018-09-25 15:50:30 GET /plugins/p_fckeditor/fckeditor/editor/filemanager/connectors/uploadtest.html - 95.37.52.44 HTTP/1.1 - - 404 1405 133
+2018-09-25 15:50:30 GET /js/fckeditor/editor/filemanager/connectors/uploadtest.html - 95.37.52.44 HTTP/1.1 - - 404 1405 116
+2018-09-25 15:50:31 GET /cms/fckeditor/editor/filemanager/connectors/uploadtest.html - 95.37.52.44 HTTP/1.1 - - 404 1405 117
+2018-09-25 15:50:31 GET /editor/editor/filemanager/upload/test.html - 95.37.52.44 HTTP/1.1 - - 404 1405 100
+2018-09-25 15:50:31 GET /admin/FCKeditor/editor/filemanager/connectors/uploadtest.html - 95.37.52.44 HTTP/1.1 - - 404 1405 119
+2018-09-25 15:50:32 GET /editor/filemanager/connectors/uploadtest.html - 95.37.52.44 HTTP/1.1 - - 404 1405 103
+2018-09-25 15:50:32 GET /sites/all/modules/fckeditor/fckeditor/editor/filemanager/connectors/uploadtest.html - 95.37.52.44 HTTP/1.1 - - 404 1405 141
+2018-09-25 15:50:32 GET /HTMLEditor/editor/filemanager/connectors/uploadtest.html - 95.37.52.44 HTTP/1.1 - - 404 1405 114
+2018-09-25 15:50:34 GET /ckeditor/filemanager/connectors/uploadtest.html - 95.37.52.44 HTTP/1.1 - - 404 1405 105
+2018-09-25 15:50:34 GET /wysiwyg/fckeditor/editor/filemanager/connectors/uploadtest.html - 95.37.52.44 HTTP/1.1 - - 404 1405 121
+2018-09-25 15:50:35 GET /editor/editor/filemanager/connectors/uploadtest.html - 95.37.52.44 HTTP/1.1 - - 404 1405 110
+2018-09-25 15:50:35 GET /admin/editor/filemanager/connectors/uploadtest.html - 95.37.52.44 HTTP/1.1 - - 404 1405 109
+2018-09-25 15:50:35 GET /modules/fckeditor/fckeditor/editor/filemanager/connectors/uploadtest.html - 95.37.52.44 HTTP/1.1 - - 404 1405 131
+2018-09-25 15:50:36 GET /administrator/fckeditor/editor/filemanager/connectors/uploadtest.html - 95.37.52.44 HTTP/1.1 - - 404 1405 127
+2018-09-25 15:50:36 GET /admin/editor/editor/filemanager/connectors/uploadtest.html - 95.37.52.44 HTTP/1.1 - - 404 1405 116
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-09-25 20:46:47
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-09-25 20:46:47 GET / - 112.111.162.170 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/64.0.3251.0+Safari/537.36 http://crossroadsbar.co.nz 200 23480 469
+2018-09-25 20:46:47 GET / - 112.111.162.170 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/64.0.3251.0+Safari/537.36 http://crossroadsbar.co.nz 200 23480 447
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-09-25 23:44:09
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-09-25 23:44:09 GET /console - 101.230.211.162 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:57.0)+Gecko/20100101+Firefox/57.0 - 404 1405 157
+2018-09-25 23:44:09 GET /phpmyadmin/scripts/setup.php - 101.230.211.162 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:57.0)+Gecko/20100101+Firefox/57.0 - 404 1405 178
+2018-09-25 23:44:09 GET /STRUTS_STRU - 101.230.211.162 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:57.0)+Gecko/20100101+Firefox/57.0 - 404 1405 161
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-09-26 04:36:53
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-09-26 04:36:53 GET /robots.txt - 54.36.150.125 HTTP/1.1 Mozilla/5.0+(compatible;+AhrefsBot/5.2;++http://ahrefs.com/robot/) - 404 1405 184
+2018-09-26 04:36:54 GET / - 54.36.149.100 HTTP/1.1 Mozilla/5.0+(compatible;+AhrefsBot/5.2;++http://ahrefs.com/robot/) - 200 7018 174
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-09-26 05:47:33
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-09-26 05:47:33 GET /wp-content/plugins/wpstorecart/readme.txt - 209.90.225.227 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/42.0.2311.152+Safari/537.36 http://www.crossroadsbar.co.nz/wp-content/plugins/wpstorecart/readme.txt 404 1424 453

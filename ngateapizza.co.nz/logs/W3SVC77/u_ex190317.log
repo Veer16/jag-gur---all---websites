@@ -1,0 +1,63 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2019-03-17 14:37:38
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2019-03-17 14:37:37 GET / - 163.172.251.250 HTTP/1.1 curl/7.58.0 - 200 37853 81
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2019-03-17 20:04:47
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2019-03-17 20:04:46 GET /robots.txt - 66.249.70.27 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 404 1405 231
+2019-03-17 20:06:33 GET / - 66.249.70.25 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 37853 234
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2019-03-18 04:02:25
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2019-03-18 04:02:25 GET /images/logo.png - 115.189.132.51 HTTP/1.1 com.google.GoogleMobile/38.0.0+iPhone/12.1.2+hw/iPhone9_3 - 200 96088 222
+2019-03-18 04:02:25 GET /images/1.jpg - 115.189.132.51 HTTP/1.1 com.google.GoogleMobile/38.0.0+iPhone/12.1.2+hw/iPhone9_3 - 200 58300 219
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2019-03-18 05:25:52
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2019-03-18 05:25:52 GET /font-awesome/css/font-awesome.min.css - 122.59.69.146 HTTP/1.1 Mozilla/5.0+(X11;+CrOS+x86_64+11316.165.0)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/72.0.3626.122+Safari/537.36 http://ngateapizza.co.nz/ 200 4992 375
+2019-03-18 05:25:52 GET /css/style.css - 122.59.69.146 HTTP/1.1 Mozilla/5.0+(X11;+CrOS+x86_64+11316.165.0)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/72.0.3626.122+Safari/537.36 http://ngateapizza.co.nz/ 200 6262 351
+2019-03-18 05:25:52 GET /css/popuo-box.css - 122.59.69.146 HTTP/1.1 Mozilla/5.0+(X11;+CrOS+x86_64+11316.165.0)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/72.0.3626.122+Safari/537.36 http://ngateapizza.co.nz/ 200 1990 355
+2019-03-18 05:25:52 GET /css/contact-buttons.css - 122.59.69.146 HTTP/1.1 Mozilla/5.0+(X11;+CrOS+x86_64+11316.165.0)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/72.0.3626.122+Safari/537.36 http://ngateapizza.co.nz/ 404 1405 361
+2019-03-18 05:25:54 GET /js/modernizr.custom.min.js - 122.59.69.146 HTTP/1.1 Mozilla/5.0+(X11;+CrOS+x86_64+11316.165.0)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/72.0.3626.122+Safari/537.36 http://ngateapizza.co.nz/ 200 1456 349
+2019-03-18 05:25:55 GET / - 122.59.69.146 HTTP/1.1 Mozilla/5.0+(X11;+CrOS+x86_64+11316.165.0)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/72.0.3626.122+Safari/537.36 https://www.google.com/ 200 8794 433
+2019-03-18 05:25:57 GET /js/jquery.magnific-popup.js - 122.59.69.146 HTTP/1.1 Mozilla/5.0+(X11;+CrOS+x86_64+11316.165.0)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/72.0.3626.122+Safari/537.36 http://ngateapizza.co.nz/ 200 18396 350
+2019-03-18 05:25:57 GET /anijs-min.js - 122.59.69.146 HTTP/1.1 Mozilla/5.0+(X11;+CrOS+x86_64+11316.165.0)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/72.0.3626.122+Safari/537.36 http://ngateapizza.co.nz/ 404 1400 335
+2019-03-18 05:25:57 GET /js/scrollReveal.js - 122.59.69.146 HTTP/1.1 Mozilla/5.0+(X11;+CrOS+x86_64+11316.165.0)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/72.0.3626.122+Safari/537.36 http://ngateapizza.co.nz/ 200 4186 341
+2019-03-18 05:25:57 GET /helpers/scrollreveal/anijs-helper-scrollreveal-min.js - 122.59.69.146 HTTP/1.1 Mozilla/5.0+(X11;+CrOS+x86_64+11316.165.0)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/72.0.3626.122+Safari/537.36 http://ngateapizza.co.nz/ 404 1400 376
+2019-03-18 05:25:59 GET /js/jquery.min.js - 122.59.69.146 HTTP/1.1 Mozilla/5.0+(X11;+CrOS+x86_64+11316.165.0)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/72.0.3626.122+Safari/537.36 http://ngateapizza.co.nz/ 200 42005 339
+2019-03-18 05:26:00 GET /css/bootstrap.min.css - 122.59.69.146 HTTP/1.1 Mozilla/5.0+(X11;+CrOS+x86_64+11316.165.0)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/72.0.3626.122+Safari/537.36 http://ngateapizza.co.nz/ 200 23841 359
+2019-03-18 05:26:01 GET /anijs-min.js - 122.59.69.146 HTTP/1.1 Mozilla/5.0+(X11;+CrOS+x86_64+11316.165.0)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/72.0.3626.122+Safari/537.36 http://ngateapizza.co.nz/ 404 1405 335
+2019-03-18 05:26:01 GET /helpers/scrollreveal/anijs-helper-scrollreveal-min.js - 122.59.69.146 HTTP/1.1 Mozilla/5.0+(X11;+CrOS+x86_64+11316.165.0)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/72.0.3626.122+Safari/537.36 http://ngateapizza.co.nz/ 404 1405 376
+2019-03-18 05:26:02 GET /js/jquery.contact-buttons.js - 122.59.69.146 HTTP/1.1 Mozilla/5.0+(X11;+CrOS+x86_64+11316.165.0)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/72.0.3626.122+Safari/537.36 http://ngateapizza.co.nz/ 404 1405 351
+2019-03-18 05:26:02 GET /js/jquery.backTop.min.js - 122.59.69.146 HTTP/1.1 Mozilla/5.0+(X11;+CrOS+x86_64+11316.165.0)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/72.0.3626.122+Safari/537.36 http://ngateapizza.co.nz/ 200 769 347
+2019-03-18 05:26:02 GET /images/icon3.png - 122.59.69.146 HTTP/1.1 Mozilla/5.0+(X11;+CrOS+x86_64+11316.165.0)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/72.0.3626.122+Safari/537.36 http://ngateapizza.co.nz/ 200 1534 375
+2019-03-18 05:26:02 GET /images/icon2.png - 122.59.69.146 HTTP/1.1 Mozilla/5.0+(X11;+CrOS+x86_64+11316.165.0)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/72.0.3626.122+Safari/537.36 http://ngateapizza.co.nz/ 200 1295 375
+2019-03-18 05:26:02 GET /images/icon1.png - 122.59.69.146 HTTP/1.1 Mozilla/5.0+(X11;+CrOS+x86_64+11316.165.0)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/72.0.3626.122+Safari/537.36 http://ngateapizza.co.nz/ 200 1492 375
+2019-03-18 05:26:02 GET /js/demo.js - 122.59.69.146 HTTP/1.1 Mozilla/5.0+(X11;+CrOS+x86_64+11316.165.0)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/72.0.3626.122+Safari/537.36 http://ngateapizza.co.nz/ 200 1183 333
+2019-03-18 05:26:03 GET /js/app.js - 122.59.69.146 HTTP/1.1 Mozilla/5.0+(X11;+CrOS+x86_64+11316.165.0)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/72.0.3626.122+Safari/537.36 http://ngateapizza.co.nz/ 200 471 332
+2019-03-18 05:26:04 GET /js/anijs.js - 122.59.69.146 HTTP/1.1 Mozilla/5.0+(X11;+CrOS+x86_64+11316.165.0)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/72.0.3626.122+Safari/537.36 http://ngateapizza.co.nz/ 200 9102 334
+2019-03-18 05:26:04 GET /js/bootstrap.min.js - 122.59.69.146 HTTP/1.1 Mozilla/5.0+(X11;+CrOS+x86_64+11316.165.0)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/72.0.3626.122+Safari/537.36 http://ngateapizza.co.nz/ 200 10255 342
+2019-03-18 05:26:07 GET /images/contact.png - 122.59.69.146 HTTP/1.1 Mozilla/5.0+(X11;+CrOS+x86_64+11316.165.0)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/72.0.3626.122+Safari/537.36 http://ngateapizza.co.nz/ 200 18652 377
+2019-03-18 05:26:07 GET /js/jquery.contact-buttons.js - 122.59.69.146 HTTP/1.1 Mozilla/5.0+(X11;+CrOS+x86_64+11316.165.0)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/72.0.3626.122+Safari/537.36 http://ngateapizza.co.nz/ 404 1405 351
+2019-03-18 05:26:10 GET /images/menu.png - 122.59.69.146 HTTP/1.1 Mozilla/5.0+(X11;+CrOS+x86_64+11316.165.0)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/72.0.3626.122+Safari/537.36 http://ngateapizza.co.nz/ 200 18287 374
+2019-03-18 05:26:10 GET /images/uparr-48-w.png - 122.59.69.146 HTTP/1.1 Mozilla/5.0+(X11;+CrOS+x86_64+11316.165.0)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/72.0.3626.122+Safari/537.36 http://ngateapizza.co.nz/css/style.css 200 704 393
+2019-03-18 05:26:16 GET /images/logo.png - 122.59.69.146 HTTP/1.1 Mozilla/5.0+(X11;+CrOS+x86_64+11316.165.0)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/72.0.3626.122+Safari/537.36 http://ngateapizza.co.nz/ 200 96088 374
+2019-03-18 05:26:17 GET /images/7days.png - 122.59.69.146 HTTP/1.1 Mozilla/5.0+(X11;+CrOS+x86_64+11316.165.0)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/72.0.3626.122+Safari/537.36 http://ngateapizza.co.nz/ 200 14496 375
+2019-03-18 05:26:18 GET /images/1.jpg - 122.59.69.146 HTTP/1.1 Mozilla/5.0+(X11;+CrOS+x86_64+11316.165.0)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/72.0.3626.122+Safari/537.36 http://ngateapizza.co.nz/ 200 58300 371
+2019-03-18 05:26:18 GET /images/1-thumb.jpg - 122.59.69.146 HTTP/1.1 Mozilla/5.0+(X11;+CrOS+x86_64+11316.165.0)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/72.0.3626.122+Safari/537.36 http://ngateapizza.co.nz/ 200 91374 377
+2019-03-18 05:26:21 GET /images/gallery.png - 122.59.69.146 HTTP/1.1 Mozilla/5.0+(X11;+CrOS+x86_64+11316.165.0)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/72.0.3626.122+Safari/537.36 http://ngateapizza.co.nz/ 200 0 377
+2019-03-18 05:26:21 GET /images/2-thumb.jpg - 122.59.69.146 HTTP/1.1 Mozilla/5.0+(X11;+CrOS+x86_64+11316.165.0)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/72.0.3626.122+Safari/537.36 http://ngateapizza.co.nz/ 200 65536 377
+2019-03-18 05:26:21 GET /images/3.jpg - 122.59.69.146 HTTP/1.1 Mozilla/5.0+(X11;+CrOS+x86_64+11316.165.0)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/72.0.3626.122+Safari/537.36 http://ngateapizza.co.nz/ 200 65536 371
+2019-03-18 05:26:21 GET /images/3-thumb.jpg - 122.59.69.146 HTTP/1.1 Mozilla/5.0+(X11;+CrOS+x86_64+11316.165.0)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/72.0.3626.122+Safari/537.36 http://ngateapizza.co.nz/ 200 0 377
+2019-03-18 05:26:21 GET /images/4-thumb.jpg - 122.59.69.146 HTTP/1.1 Mozilla/5.0+(X11;+CrOS+x86_64+11316.165.0)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/72.0.3626.122+Safari/537.36 http://ngateapizza.co.nz/ 200 0 377
+2019-03-18 05:26:21 GET /images/2.jpg - 122.59.69.146 HTTP/1.1 Mozilla/5.0+(X11;+CrOS+x86_64+11316.165.0)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/72.0.3626.122+Safari/537.36 http://ngateapizza.co.nz/ 200 65536 371
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2019-03-18 05:46:40
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2019-03-18 05:46:40 GET / - 66.249.70.25 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 37853 234

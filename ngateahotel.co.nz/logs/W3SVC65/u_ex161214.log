@@ -1,0 +1,102 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2016-12-14 07:24:01
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2016-12-14 07:24:00 HEAD / - 111.74.15.33 HTTP/1.1 Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.1;+Trident/5.0) - 200 220 342
+2016-12-14 07:24:01 GET / - 111.74.15.33 HTTP/1.1 Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.1;+Trident/5.0) - 200 959 341
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2016-12-14 09:36:28
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2016-12-14 09:36:28 GET /robots.txt - 203.109.192.76 HTTP/1.1 Scrapy/1.1.1+(+http://scrapy.org) - 404 1405 229
+2016-12-14 09:36:28 GET / - 203.109.192.76 HTTP/1.1 Scrapy/1.1.1+(+http://scrapy.org) - 200 818 219
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2016-12-14 12:34:38
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2016-12-14 12:34:38 GET /robots.txt - 207.46.13.96 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - 404 1405 273
+2016-12-14 12:34:45 GET / - 207.46.13.96 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+7_0+like+Mac+OS+X)+AppleWebKit/537.51.1+(KHTML,+like+Gecko)+Version/7.0+Mobile/11A465+Safari/9537.53+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - 200 959 400
+2016-12-14 12:34:50 GET /robots.txt - 207.46.13.97 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - 404 1405 254
+2016-12-14 12:49:19 GET /index.html - 203.109.192.76 HTTP/1.1 Scrapy/1.1.1+(+http://scrapy.org) - 404 1405 229
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2016-12-14 13:09:26
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2016-12-14 13:09:25 GET / - 167.114.209.38 HTTP/1.1 Mozilla/5.0+(compatible;+Dataprovider;+https://www.dataprovider.com/spider/) - 200 959 161
+2016-12-14 13:09:29 GET /robots.txt - 167.114.209.38 HTTP/1.1 Mozilla/5.0+(compatible;+Dataprovider;+https://www.dataprovider.com/spider/) - 404 1405 147
+2016-12-14 13:09:29 GET /sitemap.xml - 167.114.209.38 HTTP/1.1 Mozilla/5.0+(compatible;+Dataprovider;+https://www.dataprovider.com/spider/) - 404 1405 148
+2016-12-14 13:09:31 GET / - 167.114.209.38 HTTP/1.1 Mozilla/5.0+(compatible;+Dataprovider;+https://www.dataprovider.com/spider/) - 200 959 137
+2016-12-14 13:09:32 GET / - 167.114.209.38 HTTP/1.1 Mozilla/5.0+(Linux;+Android+4.05;+Galaxy+Nexus+Build/IMM76B)+AppleWebKit/535.25+(KHTML,+like+Gecko)+Chrome/17.0.1025.133+Mobile+Safari/536.19 - 200 959 202
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2016-12-14 14:08:27
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2016-12-14 14:08:27 GET /robots.txt - 88.198.94.196 HTTP/1.1 Mozilla/5.0+(compatible;+BLEXBot/1.0;++http://webmeup-crawler.com/) - 404 1405 262
+2016-12-14 14:08:28 GET /robots.txt - 88.198.94.196 HTTP/1.1 Mozilla/5.0+(compatible;+BLEXBot/1.0;++http://webmeup-crawler.com/) - 404 1405 266
+2016-12-14 14:08:28 GET / - 88.198.94.196 HTTP/1.1 Mozilla/5.0+(compatible;+BLEXBot/1.0;++http://webmeup-crawler.com/) - 200 959 256
+2016-12-14 14:09:03 GET /sitemap.xml - 88.198.94.196 HTTP/1.1 Mozilla/5.0+(compatible;+BLEXBot/1.0;++http://webmeup-crawler.com/) - 404 1405 263
+2016-12-14 14:09:13 GET /sitemap.xml - 88.198.94.196 HTTP/1.1 Mozilla/5.0+(compatible;+BLEXBot/1.0;++http://webmeup-crawler.com/) - 404 1405 267
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2016-12-14 16:19:32
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2016-12-14 16:19:32 HEAD /uploadify/uploadify.swf - 46.118.127.120 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1) http://ngateahotel.co.nz/uploadify/uploadify.swf 404 179 246
+2016-12-14 16:19:32 HEAD /cms/uploadify/uploadify.swf - 46.118.127.120 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1) http://ngateahotel.co.nz/cms/uploadify/uploadify.swf 404 179 254
+2016-12-14 16:19:32 HEAD /lib/uploadify/uploadify.swf - 46.118.127.120 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1) http://ngateahotel.co.nz/lib/uploadify/uploadify.swf 404 179 254
+2016-12-14 16:19:32 HEAD /js/uploadify/uploadify.swf - 46.118.127.120 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1) http://ngateahotel.co.nz/js/uploadify/uploadify.swf 404 179 252
+2016-12-14 16:19:32 HEAD /inc/uploadify/uploadify.swf - 46.118.127.120 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1) http://ngateahotel.co.nz/inc/uploadify/uploadify.swf 404 179 254
+2016-12-14 16:19:32 HEAD /plugins/uploadify/uploadify.swf - 46.118.127.120 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1) http://ngateahotel.co.nz/plugins/uploadify/uploadify.swf 404 179 262
+2016-12-14 16:19:32 HEAD /admin/uploadify/uploadify.swf - 46.118.127.120 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1) http://ngateahotel.co.nz/admin/uploadify/uploadify.swf 404 179 258
+2016-12-14 16:19:32 HEAD /includes/uploadify/uploadify.swf - 46.118.127.120 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1;+SV1) http://ngateahotel.co.nz/includes/uploadify/uploadify.swf 404 179 264
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2016-12-14 18:09:36
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2016-12-14 18:09:35 GET /index.htm - 203.109.192.76 HTTP/1.1 Scrapy/1.1.1+(+http://scrapy.org) - 404 1405 228
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2016-12-14 20:06:31
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2016-12-14 20:06:31 HEAD / - 106.4.212.234 HTTP/1.1 Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.1;+Trident/5.0) - 200 220 342
+2016-12-14 20:06:31 GET / - 106.4.212.234 HTTP/1.1 Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.1;+Trident/5.0) - 200 959 341
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2016-12-14 21:24:23
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2016-12-14 21:24:23 HEAD / - 67.198.175.38 HTTP/1.1 Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.1;+Trident/5.0) - 200 220 342
+2016-12-14 21:24:23 GET / - 67.198.175.38 HTTP/1.1 Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.1;+Trident/5.0) - 200 959 341
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2016-12-14 21:58:29
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2016-12-14 21:58:29 GET / - 165.120.196.131 HTTP/1.1 Mozilla/5.0+(iPad;+CPU+OS+9_3_2+like+Mac+OS+X)+AppleWebKit/601.1.46+(KHTML,+like+Gecko)+Mobile/13F69+[FBAN/FBIOS;FBAV/74.2.0.56.139;FBBV/45657593;FBRV/0;FBDV/iPad3,4;FBMD/iPad;FBSN/iPhone+OS;FBSV/9.3.2;FBSS/2;FBCR/;FBID/tablet;FBLC/en_GB;FBOP/5] http://m.facebook.com 200 818 491
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2016-12-15 00:20:17
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2016-12-15 00:20:17 GET /robots.txt - 108.59.8.70 HTTP/1.1 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - 404 1405 165
+2016-12-15 00:20:21 GET / - 108.59.8.70 HTTP/1.1 Mozilla/5.0+(compatible;+MJ12bot/v1.4.7;+http://mj12bot.com/) - 200 959 342
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2016-12-15 02:09:43
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2016-12-15 02:09:43 GET / - 61.174.162.4 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE8.0;+Windows+NT+6.0)+.NET+CLR+2.0.50727) - 200 818 250
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2016-12-15 02:31:41
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2016-12-15 02:31:41 GET / - 122.244.56.156 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE8.0;+Windows+NT+6.0)+.NET+CLR+2.0.50727) - 200 818 190
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2016-12-15 02:53:52
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2016-12-15 02:53:52 GET /blog/wp-admin/setup-config.php - 62.210.181.123 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Trident/7.0;+rv:11.0)+like+Gecko - 404 1405 270
+2016-12-15 02:53:52 GET /wp/wp-admin/setup-config.php - 62.210.181.123 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Trident/7.0;+rv:11.0)+like+Gecko - 404 1405 244
+2016-12-15 02:53:52 GET /backup/wp-admin/setup-config.php - 62.210.181.123 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Trident/7.0;+rv:11.0)+like+Gecko - 404 1405 248
+2016-12-15 02:53:52 GET /wordpress/wp-admin/setup-config.php - 62.210.181.123 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Trident/7.0;+rv:11.0)+like+Gecko - 404 1405 251
+2016-12-15 02:56:01 GET /wp-content/upgrade/theme-compat/popup-pomo.php - 195.154.194.192 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Trident/7.0;+rv:11.0)+like+Gecko - 404 1405 286
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2016-12-15 06:04:37
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2016-12-15 06:04:36 GET /webapps/i/89914/283440/406383 - 157.55.39.50 HTTP/1.1 msnbot-media/1.1+(+http://search.msn.com/msnbot.htm) - 404 1405 286

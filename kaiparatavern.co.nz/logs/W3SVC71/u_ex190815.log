@@ -1,0 +1,78 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2019-08-15 16:32:02
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2019-08-15 16:32:01 GET / - 54.237.114.41 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/74.0.3729.131+Safari/537.36 - 200 8228 347
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2019-08-15 18:23:55
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2019-08-15 18:23:54 GET / - 35.185.249.244 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:56.0)+Gecko/20100101+Firefox/56.0 - 200 34855 203
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2019-08-15 21:01:45
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2019-08-15 21:01:45 GET / - 88.198.25.244 HTTP/1.1 Mozilla/5.0+(compatible;+MegaIndex.ru/2.0;++http://megaindex.com/crawler) - 200 8209 177
+2019-08-15 21:16:46 GET /robots.txt - 35.188.214.211 HTTP/1.1 python-requests/2.22.0 - 404 1405 160
+2019-08-15 21:16:47 GET / - 35.188.214.211 HTTP/1.1 python-requests/2.22.0 - 200 8209 150
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2019-08-15 22:17:26
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2019-08-15 22:17:25 GET /robots.txt - 66.249.79.241 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 404 1405 237
+2019-08-15 22:17:26 GET /images/work-img6.jpg - 66.249.79.245 HTTP/1.1 Googlebot-Image/1.0 - 304 211 257
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2019-08-15 23:29:07
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2019-08-15 23:29:06 GET / - 42.236.99.194 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/50.0.2661.102+Safari/537.36;+360Spider http://www.kaiparatavern.co.nz/ 200 8209 327
+2019-08-15 23:33:30 GET / - 42.236.10.88 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/50.0.2661.102+Safari/537.36;+360Spider http://kaiparatavern.co.nz/ 200 8209 319
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2019-08-16 00:09:23
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2019-08-16 00:09:22 GET /robots.txt - 17.58.97.127 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_10_1)+AppleWebKit/600.2.5+(KHTML,+like+Gecko)+Version/8.0.2+Safari/600.2.5+(Applebot/0.1;++http://www.apple.com/go/applebot) - 404 1405 285
+2019-08-16 00:09:24 GET / - 17.58.101.102 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_10_1)+AppleWebKit/600.2.5+(KHTML,+like+Gecko)+Version/8.0.2+Safari/600.2.5+(Applebot/0.1;++http://www.apple.com/go/applebot) - 200 8209 275
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2019-08-16 01:45:17
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2019-08-16 01:45:17 GET / - 64.233.172.212 HTTP/1.1 Mozilla/5.0+(Linux;+Android+4.2.1;+en-us;+Nexus+5+Build/JOP40D)+AppleWebKit/535.19+(KHTML,+like+Gecko;+googleweblight)+Chrome/38.0.1025.166+Mobile+Safari/535.19 - 200 8209 428
+2019-08-16 01:45:17 GET /css/team.css - 64.233.172.212 HTTP/1.1 Mozilla/5.0+(Linux;+Android+4.2.1;+en-us;+Nexus+5+Build/JOP40D)+AppleWebKit/535.19+(KHTML,+like+Gecko;+googleweblight)+Chrome/38.0.1025.166+Mobile+Safari/535.19 http://www.kaiparatavern.co.nz/ 200 1027 437
+2019-08-16 01:45:17 GET /css/jQuery.lightninBox.css - 64.233.172.212 HTTP/1.1 Mozilla/5.0+(Linux;+Android+4.2.1;+en-us;+Nexus+5+Build/JOP40D)+AppleWebKit/535.19+(KHTML,+like+Gecko;+googleweblight)+Chrome/38.0.1025.166+Mobile+Safari/535.19 http://www.kaiparatavern.co.nz/ 200 1481 451
+2019-08-16 01:45:17 GET /js/main.js - 64.233.172.212 HTTP/1.1 Mozilla/5.0+(Linux;+Android+4.2.1;+en-us;+Nexus+5+Build/JOP40D)+AppleWebKit/535.19+(KHTML,+like+Gecko;+googleweblight)+Chrome/38.0.1025.166+Mobile+Safari/535.19 http://www.kaiparatavern.co.nz/ 200 871 420
+2019-08-16 01:45:17 GET /js/boot_slider.js - 64.233.172.212 HTTP/1.1 Mozilla/5.0+(Linux;+Android+4.2.1;+en-us;+Nexus+5+Build/JOP40D)+AppleWebKit/535.19+(KHTML,+like+Gecko;+googleweblight)+Chrome/38.0.1025.166+Mobile+Safari/535.19 http://www.kaiparatavern.co.nz/ 200 2045 427
+2019-08-16 01:45:17 GET /js/cbpFWTabs.js - 64.233.172.210 HTTP/1.1 Mozilla/5.0+(Linux;+Android+4.2.1;+en-us;+Nexus+5+Build/JOP40D)+AppleWebKit/535.19+(KHTML,+like+Gecko;+googleweblight)+Chrome/38.0.1025.166+Mobile+Safari/535.19 http://www.kaiparatavern.co.nz/ 200 1208 425
+2019-08-16 01:45:17 GET /js/SmoothScroll.min.js - 64.233.172.210 HTTP/1.1 Mozilla/5.0+(Linux;+Android+4.2.1;+en-us;+Nexus+5+Build/JOP40D)+AppleWebKit/535.19+(KHTML,+like+Gecko;+googleweblight)+Chrome/38.0.1025.166+Mobile+Safari/535.19 http://www.kaiparatavern.co.nz/ 200 3749 432
+2019-08-16 01:45:17 GET /js/modernizr.custom.js - 64.233.172.212 HTTP/1.1 Mozilla/5.0+(Linux;+Android+4.2.1;+en-us;+Nexus+5+Build/JOP40D)+AppleWebKit/535.19+(KHTML,+like+Gecko;+googleweblight)+Chrome/38.0.1025.166+Mobile+Safari/535.19 http://www.kaiparatavern.co.nz/ 200 4923 432
+2019-08-16 01:45:17 GET /js/jQuery.lightninBox.js - 64.233.172.214 HTTP/1.1 Mozilla/5.0+(Linux;+Android+4.2.1;+en-us;+Nexus+5+Build/JOP40D)+AppleWebKit/535.19+(KHTML,+like+Gecko;+googleweblight)+Chrome/38.0.1025.166+Mobile+Safari/535.19 http://www.kaiparatavern.co.nz/ 200 3081 434
+2019-08-16 01:45:17 GET /images/logo.png - 64.233.172.214 HTTP/1.1 Mozilla/5.0+(Linux;+Android+4.2.1;+en-us;+Nexus+5+Build/JOP40D)+AppleWebKit/535.19+(KHTML,+like+Gecko;+googleweblight)+Chrome/38.0.1025.166+Mobile+Safari/535.19 http://www.kaiparatavern.co.nz/ 200 9464 442
+2019-08-16 01:45:17 GET /css/font-awesome.min.css - 64.233.172.210 HTTP/1.1 Mozilla/5.0+(Linux;+Android+4.2.1;+en-us;+Nexus+5+Build/JOP40D)+AppleWebKit/535.19+(KHTML,+like+Gecko;+googleweblight)+Chrome/38.0.1025.166+Mobile+Safari/535.19 http://www.kaiparatavern.co.nz/ 200 8118 449
+2019-08-16 01:45:17 GET /css/style.css - 64.233.172.210 HTTP/1.1 Mozilla/5.0+(Linux;+Android+4.2.1;+en-us;+Nexus+5+Build/JOP40D)+AppleWebKit/535.19+(KHTML,+like+Gecko;+googleweblight)+Chrome/38.0.1025.166+Mobile+Safari/535.19 http://www.kaiparatavern.co.nz/ 200 11722 438
+2019-08-16 01:45:17 GET /css/images/cd-top-arrow.svg - 64.233.172.212 HTTP/1.1 Mozilla/5.0+(Linux;+Android+4.2.1;+en-us;+Nexus+5+Build/JOP40D)+AppleWebKit/535.19+(KHTML,+like+Gecko;+googleweblight)+Chrome/38.0.1025.166+Mobile+Safari/535.19 http://www.kaiparatavern.co.nz/css/style.css 404 1405 467
+2019-08-16 01:45:18 GET /js/bootstrap.min.js - 64.233.172.210 HTTP/1.1 Mozilla/5.0+(Linux;+Android+4.2.1;+en-us;+Nexus+5+Build/JOP40D)+AppleWebKit/535.19+(KHTML,+like+Gecko;+googleweblight)+Chrome/38.0.1025.166+Mobile+Safari/535.19 http://www.kaiparatavern.co.nz/ 200 13266 429
+2019-08-16 01:45:18 GET /images/xtra_logo.png - 64.233.172.214 HTTP/1.1 Mozilla/5.0+(Linux;+Android+4.2.1;+en-us;+Nexus+5+Build/JOP40D)+AppleWebKit/535.19+(KHTML,+like+Gecko;+googleweblight)+Chrome/38.0.1025.166+Mobile+Safari/535.19 http://www.kaiparatavern.co.nz/ 200 26596 447
+2019-08-16 01:45:18 GET /css/bootstrap.min.css - 64.233.172.210 HTTP/1.1 Mozilla/5.0+(Linux;+Android+4.2.1;+en-us;+Nexus+5+Build/JOP40D)+AppleWebKit/535.19+(KHTML,+like+Gecko;+googleweblight)+Chrome/38.0.1025.166+Mobile+Safari/535.19 http://www.kaiparatavern.co.nz/ 200 27990 446
+2019-08-16 01:45:18 GET /js/jquery.min.js - 64.233.172.212 HTTP/1.1 Mozilla/5.0+(Linux;+Android+4.2.1;+en-us;+Nexus+5+Build/JOP40D)+AppleWebKit/535.19+(KHTML,+like+Gecko;+googleweblight)+Chrome/38.0.1025.166+Mobile+Safari/535.19 http://www.kaiparatavern.co.nz/ 200 43185 426
+2019-08-16 01:45:18 GET /images/work-img7.jpg - 64.233.172.212 HTTP/1.1 Mozilla/5.0+(Linux;+Android+4.2.1;+en-us;+Nexus+5+Build/JOP40D)+AppleWebKit/535.19+(KHTML,+like+Gecko;+googleweblight)+Chrome/38.0.1025.166+Mobile+Safari/535.19 http://www.kaiparatavern.co.nz/ 200 1067450 447
+2019-08-16 01:45:18 GET /images/team2.jpg - 64.233.172.212 HTTP/1.1 Mozilla/5.0+(Linux;+Android+4.2.1;+en-us;+Nexus+5+Build/JOP40D)+AppleWebKit/535.19+(KHTML,+like+Gecko;+googleweblight)+Chrome/38.0.1025.166+Mobile+Safari/535.19 http://www.kaiparatavern.co.nz/ 200 920251 443
+2019-08-16 01:45:19 GET /images/work-img1.jpg - 64.233.172.212 HTTP/1.1 Mozilla/5.0+(Linux;+Android+4.2.1;+en-us;+Nexus+5+Build/JOP40D)+AppleWebKit/535.19+(KHTML,+like+Gecko;+googleweblight)+Chrome/38.0.1025.166+Mobile+Safari/535.19 http://www.kaiparatavern.co.nz/ 200 889310 447
+2019-08-16 01:45:19 GET /images/work-img5.jpg - 64.233.172.210 HTTP/1.1 Mozilla/5.0+(Linux;+Android+4.2.1;+en-us;+Nexus+5+Build/JOP40D)+AppleWebKit/535.19+(KHTML,+like+Gecko;+googleweblight)+Chrome/38.0.1025.166+Mobile+Safari/535.19 http://www.kaiparatavern.co.nz/ 200 869467 447
+2019-08-16 01:45:19 GET /images/work-img8.jpg - 64.233.172.214 HTTP/1.1 Mozilla/5.0+(Linux;+Android+4.2.1;+en-us;+Nexus+5+Build/JOP40D)+AppleWebKit/535.19+(KHTML,+like+Gecko;+googleweblight)+Chrome/38.0.1025.166+Mobile+Safari/535.19 http://www.kaiparatavern.co.nz/ 200 915658 447
+2019-08-16 01:45:19 GET /images/team3.jpg - 64.233.172.212 HTTP/1.1 Mozilla/5.0+(Linux;+Android+4.2.1;+en-us;+Nexus+5+Build/JOP40D)+AppleWebKit/535.19+(KHTML,+like+Gecko;+googleweblight)+Chrome/38.0.1025.166+Mobile+Safari/535.19 http://www.kaiparatavern.co.nz/ 200 843003 443
+2019-08-16 01:45:19 GET /images/work-img2.jpg - 64.233.172.210 HTTP/1.1 Mozilla/5.0+(Linux;+Android+4.2.1;+en-us;+Nexus+5+Build/JOP40D)+AppleWebKit/535.19+(KHTML,+like+Gecko;+googleweblight)+Chrome/38.0.1025.166+Mobile+Safari/535.19 http://www.kaiparatavern.co.nz/ 200 1001601 447
+2019-08-16 01:45:19 GET /images/team1.jpg - 64.233.172.214 HTTP/1.1 Mozilla/5.0+(Linux;+Android+4.2.1;+en-us;+Nexus+5+Build/JOP40D)+AppleWebKit/535.19+(KHTML,+like+Gecko;+googleweblight)+Chrome/38.0.1025.166+Mobile+Safari/535.19 http://www.kaiparatavern.co.nz/ 200 982372 443
+2019-08-16 01:45:19 GET /images/work-img11.jpg - 64.233.172.212 HTTP/1.1 Mozilla/5.0+(Linux;+Android+4.2.1;+en-us;+Nexus+5+Build/JOP40D)+AppleWebKit/535.19+(KHTML,+like+Gecko;+googleweblight)+Chrome/38.0.1025.166+Mobile+Safari/535.19 http://www.kaiparatavern.co.nz/ 200 891396 448
+2019-08-16 01:45:19 GET /images/team4.jpg - 64.233.172.214 HTTP/1.1 Mozilla/5.0+(Linux;+Android+4.2.1;+en-us;+Nexus+5+Build/JOP40D)+AppleWebKit/535.19+(KHTML,+like+Gecko;+googleweblight)+Chrome/38.0.1025.166+Mobile+Safari/535.19 http://www.kaiparatavern.co.nz/ 200 957546 443
+2019-08-16 01:45:19 GET /images/work-img4.jpg - 64.233.172.212 HTTP/1.1 Mozilla/5.0+(Linux;+Android+4.2.1;+en-us;+Nexus+5+Build/JOP40D)+AppleWebKit/535.19+(KHTML,+like+Gecko;+googleweblight)+Chrome/38.0.1025.166+Mobile+Safari/535.19 http://www.kaiparatavern.co.nz/ 200 946466 447
+2019-08-16 01:45:19 GET /images/work-img12.jpg - 64.233.172.210 HTTP/1.1 Mozilla/5.0+(Linux;+Android+4.2.1;+en-us;+Nexus+5+Build/JOP40D)+AppleWebKit/535.19+(KHTML,+like+Gecko;+googleweblight)+Chrome/38.0.1025.166+Mobile+Safari/535.19 http://www.kaiparatavern.co.nz/ 200 961465 448
+2019-08-16 01:45:19 GET /images/work-img6.jpg - 64.233.172.212 HTTP/1.1 Mozilla/5.0+(Linux;+Android+4.2.1;+en-us;+Nexus+5+Build/JOP40D)+AppleWebKit/535.19+(KHTML,+like+Gecko;+googleweblight)+Chrome/38.0.1025.166+Mobile+Safari/535.19 http://www.kaiparatavern.co.nz/ 200 1093416 447
+2019-08-16 01:45:19 GET /images/work-img10.jpg - 64.233.172.214 HTTP/1.1 Mozilla/5.0+(Linux;+Android+4.2.1;+en-us;+Nexus+5+Build/JOP40D)+AppleWebKit/535.19+(KHTML,+like+Gecko;+googleweblight)+Chrome/38.0.1025.166+Mobile+Safari/535.19 http://www.kaiparatavern.co.nz/ 200 968132 448
+2019-08-16 01:45:19 GET /images/banner3.jpg - 64.233.172.212 HTTP/1.1 Mozilla/5.0+(Linux;+Android+4.2.1;+en-us;+Nexus+5+Build/JOP40D)+AppleWebKit/535.19+(KHTML,+like+Gecko;+googleweblight)+Chrome/38.0.1025.166+Mobile+Safari/535.19 http://www.kaiparatavern.co.nz/ 200 448536 445
+2019-08-16 01:45:19 GET /images/work-img9.jpg - 64.233.172.214 HTTP/1.1 Mozilla/5.0+(Linux;+Android+4.2.1;+en-us;+Nexus+5+Build/JOP40D)+AppleWebKit/535.19+(KHTML,+like+Gecko;+googleweblight)+Chrome/38.0.1025.166+Mobile+Safari/535.19 http://www.kaiparatavern.co.nz/ 200 1018615 447
+2019-08-16 01:45:19 GET /images/banner1.jpg - 64.233.172.210 HTTP/1.1 Mozilla/5.0+(Linux;+Android+4.2.1;+en-us;+Nexus+5+Build/JOP40D)+AppleWebKit/535.19+(KHTML,+like+Gecko;+googleweblight)+Chrome/38.0.1025.166+Mobile+Safari/535.19 http://www.kaiparatavern.co.nz/ 200 553071 445
+2019-08-16 01:45:19 GET /images/work-img3.jpg - 64.233.172.210 HTTP/1.1 Mozilla/5.0+(Linux;+Android+4.2.1;+en-us;+Nexus+5+Build/JOP40D)+AppleWebKit/535.19+(KHTML,+like+Gecko;+googleweblight)+Chrome/38.0.1025.166+Mobile+Safari/535.19 http://www.kaiparatavern.co.nz/ 200 943143 447
+2019-08-16 01:45:19 GET /images/info.jpg - 64.233.172.212 HTTP/1.1 Mozilla/5.0+(Linux;+Android+4.2.1;+en-us;+Nexus+5+Build/JOP40D)+AppleWebKit/535.19+(KHTML,+like+Gecko;+googleweblight)+Chrome/38.0.1025.166+Mobile+Safari/535.19 http://www.kaiparatavern.co.nz/css/style.css 200 729150 455
+2019-08-16 01:45:19 GET /images/banner2.jpg - 64.233.172.210 HTTP/1.1 Mozilla/5.0+(Linux;+Android+4.2.1;+en-us;+Nexus+5+Build/JOP40D)+AppleWebKit/535.19+(KHTML,+like+Gecko;+googleweblight)+Chrome/38.0.1025.166+Mobile+Safari/535.19 http://www.kaiparatavern.co.nz/ 200 46855 445
+2019-08-16 01:45:20 GET /images/banner5.jpg - 64.233.172.210 HTTP/1.1 Mozilla/5.0+(Linux;+Android+4.2.1;+en-us;+Nexus+5+Build/JOP40D)+AppleWebKit/535.19+(KHTML,+like+Gecko;+googleweblight)+Chrome/38.0.1025.166+Mobile+Safari/535.19 http://www.kaiparatavern.co.nz/ 200 680331 445
+2019-08-16 01:45:20 GET /images/banner4.jpg - 64.233.172.212 HTTP/1.1 Mozilla/5.0+(Linux;+Android+4.2.1;+en-us;+Nexus+5+Build/JOP40D)+AppleWebKit/535.19+(KHTML,+like+Gecko;+googleweblight)+Chrome/38.0.1025.166+Mobile+Safari/535.19 http://www.kaiparatavern.co.nz/ 200 747680 445

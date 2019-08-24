@@ -1,0 +1,97 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2017-06-29 10:51:31
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2017-06-29 10:51:31 GET / - 46.188.61.170 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.1;+WOW64;+Trident/4.0;+SLCC2;+.NET+CLR+2.0.50727;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30729;+Media+Center+PC+6.0) http://yandex.ru/clck/jsredir?from=yandex.ru%3Bsearch%3Bweb%3B%3B&text=&etext=1467.3tmasVjOdWUSUEXeNfNc5NhJT4WmEgVgBK5GRvqBap31tzSJR8ucwtWjbnJtowdF.1b027cde687b8a2d3ebeb339264774c54fec6ff5&uuid=&state=_BLhILn4SxNIvvL0W45KSic66uCIg23qh8iRG98qeIXmeppkgUc0YGHEttDsYq_w3pSJtejupWg&data=UlNrNmk5WktYejR0eWJFYk1LdmtxbFpUMnU5Z2tVbHR5WHJKLU16emtQaUNBeXRvSndDX2hKVzNjR3BPWnJOdU9fTkg1bURfczZPQng1MEZYX1VaVV9JbXEybHBHMEVXY3NzOG16TFhIWFNDZmdwT29Pd3AxUQ&b64e=2&sign=19eedeb1ec40604510444df0b276f417&keyno=0&cst=AiuY0DBWFJ7IXge4WdYJQULnoVAFacUfhpC9XOe6BXmit5JOkD1hWBwlSeYceft-RMxW9isJHC_bvOTbJV4q2dvdQjsMSu_aU5gXalewY37K9YHStNaQ6qe8nOGZ7uyTOUos224ZnTd9XhaO7TmTUKJuSB-lptWv&ref=orjY4mGPRjk5boDnW0uvlrrd71vZw9kp5uQozpMtKCXvzya1eNB8qpjqB9O-E_3WiH5reCcIGIrMKzC7gi8kp3-HSZFiQ4mln7X40y1nqPaJUgrzHduIPsvOm4Gay6eo&l10n=ru&cts=1498731822480&mc=2.92951866812 200 23499 1172
+2017-06-29 10:51:32 GET /css/swipebox.css - 46.188.61.170 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.1;+WOW64;+Trident/4.0;+SLCC2;+.NET+CLR+2.0.50727;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30729;+Media+Center+PC+6.0) http://www.crossroadsbar.co.nz/ 200 4371 385
+2017-06-29 10:51:33 GET /css/iconeffects.css - 46.188.61.170 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.1;+WOW64;+Trident/4.0;+SLCC2;+.NET+CLR+2.0.50727;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30729;+Media+Center+PC+6.0) http://www.crossroadsbar.co.nz/ 200 16110 388
+2017-06-29 10:51:33 GET /css/style.css - 46.188.61.170 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.1;+WOW64;+Trident/4.0;+SLCC2;+.NET+CLR+2.0.50727;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30729;+Media+Center+PC+6.0) http://www.crossroadsbar.co.nz/ 200 62609 382
+2017-06-29 10:51:33 GET /js/move-top.js - 46.188.61.170 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.1;+WOW64;+Trident/4.0;+SLCC2;+.NET+CLR+2.0.50727;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30729;+Media+Center+PC+6.0) http://www.crossroadsbar.co.nz/ 200 1611 383
+2017-06-29 10:51:33 GET /css/bootstrap.css - 46.188.61.170 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.1;+WOW64;+Trident/4.0;+SLCC2;+.NET+CLR+2.0.50727;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30729;+Media+Center+PC+6.0) http://www.crossroadsbar.co.nz/ 200 121534 386
+2017-06-29 10:51:34 GET /js/easing.js - 46.188.61.170 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.1;+WOW64;+Trident/4.0;+SLCC2;+.NET+CLR+2.0.50727;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30729;+Media+Center+PC+6.0) http://www.crossroadsbar.co.nz/ 200 5039 381
+2017-06-29 10:51:34 GET /js/jquery-1.11.1.min.js - 46.188.61.170 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.1;+WOW64;+Trident/4.0;+SLCC2;+.NET+CLR+2.0.50727;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30729;+Media+Center+PC+6.0) http://www.crossroadsbar.co.nz/ 200 96069 392
+2017-06-29 10:51:34 GET /js/jquery.swipebox.min.js - 46.188.61.170 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.1;+WOW64;+Trident/4.0;+SLCC2;+.NET+CLR+2.0.50727;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30729;+Media+Center+PC+6.0) http://www.crossroadsbar.co.nz/ 200 7487 394
+2017-06-29 10:51:34 GET /js/wow.min.js - 46.188.61.170 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.1;+WOW64;+Trident/4.0;+SLCC2;+.NET+CLR+2.0.50727;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30729;+Media+Center+PC+6.0) http://www.crossroadsbar.co.nz/ 200 5058 382
+2017-06-29 10:51:34 GET /cdn.fancybar.net/ac/fancybar6a2f.js - 46.188.61.170 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.1;+WOW64;+Trident/4.0;+SLCC2;+.NET+CLR+2.0.50727;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30729;+Media+Center+PC+6.0) http://www.crossroadsbar.co.nz/ 404 1424 450
+2017-06-29 10:51:35 GET /js/responsiveslides.min.js - 46.188.61.170 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.1;+WOW64;+Trident/4.0;+SLCC2;+.NET+CLR+2.0.50727;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30729;+Media+Center+PC+6.0) http://www.crossroadsbar.co.nz/ 200 3678 395
+2017-06-29 10:51:35 GET /pagead2.googlesyndication.com/pagead/js/f.txt - 46.188.61.170 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.1;+WOW64;+Trident/4.0;+SLCC2;+.NET+CLR+2.0.50727;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30729;+Media+Center+PC+6.0) http://www.crossroadsbar.co.nz/ 404 1424 414
+2017-06-29 10:51:35 GET /css/animate.css - 46.188.61.170 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.1;+WOW64;+Trident/4.0;+SLCC2;+.NET+CLR+2.0.50727;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30729;+Media+Center+PC+6.0) http://www.crossroadsbar.co.nz/ 200 72525 384
+2017-06-29 10:51:35 GET /fonts/ecoicons/ecoicond41d.html - 46.188.61.170 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.1;+WOW64;+Trident/4.0;+SLCC2;+.NET+CLR+2.0.50727;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30729;+Media+Center+PC+6.0) http://www.crossroadsbar.co.nz/ 200 650 401
+2017-06-29 10:51:35 GET /fonts/PoiretOne-Regular.html)format('truetype' - 46.188.61.170 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.1;+WOW64;+Trident/4.0;+SLCC2;+.NET+CLR+2.0.50727;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30729;+Media+Center+PC+6.0) http://www.crossroadsbar.co.nz/ 404 1424 415
+2017-06-29 10:51:35 GET /www.google-analytics.com/analytics.js - 46.188.61.170 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.1;+WOW64;+Trident/4.0;+SLCC2;+.NET+CLR+2.0.50727;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30729;+Media+Center+PC+6.0) http://www.crossroadsbar.co.nz/ 404 1424 406
+2017-06-29 10:51:37 GET /fonts/glyphicons-halflings-regulard41d.eot - 46.188.61.170 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+8.0;+Windows+NT+6.1;+WOW64;+Trident/4.0;+SLCC2;+.NET+CLR+2.0.50727;+.NET+CLR+3.5.30729;+.NET+CLR+3.0.30729;+Media+Center+PC+6.0) http://www.crossroadsbar.co.nz/ 200 20410 412
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2017-06-29 17:26:08
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2017-06-29 17:26:07 GET /robots.txt - 157.55.39.23 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - 404 1405 256
+2017-06-29 17:26:10 GET / - 207.46.13.168 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - 200 7018 278
+2017-06-29 17:27:15 GET / - 204.79.180.1 HTTP/1.1 Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.1;+Trident/5.0;++Trident/5.0) - 200 7018 251
+2017-06-29 17:27:16 GET /css/swipebox.css - 204.79.180.9 HTTP/1.1 Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.1;+Trident/5.0;++Trident/5.0) http://www.crossroadsbar.co.nz/ 200 1525 309
+2017-06-29 17:27:16 GET /css/bootstrap.css - 204.79.180.14 HTTP/1.1 Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.1;+Trident/5.0;++Trident/5.0) http://www.crossroadsbar.co.nz/ 200 27109 310
+2017-06-29 17:27:16 GET /css/iconeffects.css - 204.79.180.5 HTTP/1.1 Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.1;+Trident/5.0;++Trident/5.0) http://www.crossroadsbar.co.nz/ 200 3470 312
+2017-06-29 17:27:18 GET /css/style.css - 204.79.180.13 HTTP/1.1 Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.1;+Trident/5.0;++Trident/5.0) http://www.crossroadsbar.co.nz/ 200 15962 306
+2017-06-29 17:27:19 GET /js/move-top.js - 204.79.180.8 HTTP/1.1 Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.1;+Trident/5.0;++Trident/5.0) http://www.crossroadsbar.co.nz/ 200 1080 307
+2017-06-29 17:27:19 GET /js/jquery-1.11.1.min.js - 204.79.180.7 HTTP/1.1 Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.1;+Trident/5.0;++Trident/5.0) http://www.crossroadsbar.co.nz/ 200 43072 316
+2017-06-29 17:27:19 GET /js/easing.js - 204.79.180.17 HTTP/1.1 Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.1;+Trident/5.0;++Trident/5.0) http://www.crossroadsbar.co.nz/ 200 1740 305
+2017-06-29 17:27:19 GET /js/wow.min.js - 204.79.180.6 HTTP/1.1 Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.1;+Trident/5.0;++Trident/5.0) http://www.crossroadsbar.co.nz/ 200 2376 306
+2017-06-29 17:27:20 GET /js/responsiveslides.min.js - 204.79.180.12 HTTP/1.1 Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.1;+Trident/5.0;++Trident/5.0) http://www.crossroadsbar.co.nz/ 200 2127 319
+2017-06-29 17:27:20 GET /cdn.fancybar.net/ac/fancybar6a2f.js - 204.79.180.2 HTTP/1.1 Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.1;+Trident/5.0;++Trident/5.0) http://www.crossroadsbar.co.nz/ 404 1405 374
+2017-06-29 17:27:20 GET /pagead2.googlesyndication.com/pagead/js/f.txt - 204.79.180.18 HTTP/1.1 Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.1;+Trident/5.0;++Trident/5.0) http://www.crossroadsbar.co.nz/ 404 1405 338
+2017-06-29 17:27:22 GET /js/jquery.swipebox.min.js - 204.79.180.18 HTTP/1.1 Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.1;+Trident/5.0;++Trident/5.0) http://www.crossroadsbar.co.nz/ 200 2872 318
+2017-06-29 17:27:23 GET /css/animate.css - 204.79.180.8 HTTP/1.1 Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.1;+Trident/5.0;++Trident/5.0) http://www.crossroadsbar.co.nz/ 200 8279 308
+2017-06-29 17:27:24 GET /www.google-analytics.com/analytics.js - 204.79.180.0 HTTP/1.1 Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.1;+Trident/5.0;++Trident/5.0) http://www.crossroadsbar.co.nz/ 404 1405 330
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2017-06-29 19:00:32
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2017-06-29 19:00:32 GET /css/iconeffects.css - 199.30.25.180 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b http://www.crossroadsbar.co.nz/ 200 3470 273
+2017-06-29 19:00:32 GET /css/swipebox.css - 199.30.25.180 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b http://www.crossroadsbar.co.nz/ 200 1525 270
+2017-06-29 19:00:32 GET /css/style.css - 199.30.25.180 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b http://www.crossroadsbar.co.nz/ 200 15962 267
+2017-06-29 19:00:32 GET /css/bootstrap.css - 199.30.25.180 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b http://www.crossroadsbar.co.nz/ 200 27109 271
+2017-06-29 19:00:33 GET /js/jquery-1.11.1.min.js - 199.30.25.180 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b http://www.crossroadsbar.co.nz/ 200 43072 262
+2017-06-29 19:00:33 GET /robots.txt - 207.46.13.90 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - 404 1405 256
+2017-06-29 19:00:36 GET /js/move-top.js - 199.30.25.180 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b http://www.crossroadsbar.co.nz/ 200 1080 253
+2017-06-29 19:00:37 GET /js/easing.js - 199.30.25.180 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b http://www.crossroadsbar.co.nz/ 200 1740 251
+2017-06-29 19:00:38 GET /js/jquery.swipebox.min.js - 199.30.25.180 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b http://www.crossroadsbar.co.nz/ 200 2872 264
+2017-06-29 19:00:39 GET /js/wow.min.js - 199.30.25.180 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b http://www.crossroadsbar.co.nz/ 200 2376 252
+2017-06-29 19:00:39 GET /css/animate.css - 199.30.25.180 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b http://www.crossroadsbar.co.nz/ 200 8279 269
+2017-06-29 19:00:40 GET /js/responsiveslides.min.js - 199.30.25.180 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b http://www.crossroadsbar.co.nz/ 200 2127 265
+2017-06-29 19:00:40 GET /cdn.fancybar.net/ac/fancybar6a2f.js - 199.30.25.180 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b http://www.crossroadsbar.co.nz/ 404 1405 320
+2017-06-29 19:00:40 GET /www.google-analytics.com/analytics.js - 199.30.25.180 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b http://www.crossroadsbar.co.nz/ 404 1405 276
+2017-06-29 19:00:40 GET /images/border.png - 199.30.25.180 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b http://www.crossroadsbar.co.nz/ 200 3286 256
+2017-06-29 19:00:44 GET /pagead2.googlesyndication.com/pagead/js/f.txt - 199.30.25.180 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b http://www.crossroadsbar.co.nz/ 404 1405 284
+2017-06-29 19:00:46 GET /images/down.png - 199.30.25.180 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b http://www.crossroadsbar.co.nz/ 200 4972 254
+2017-06-29 19:00:52 GET /images/banner.jpg - 199.30.25.180 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b http://www.crossroadsbar.co.nz/ 200 339923 256
+2017-06-29 19:00:55 GET /images/s2.jpg - 199.30.25.180 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b http://www.crossroadsbar.co.nz/ 200 863576 252
+2017-06-29 19:01:02 GET /images/s1.jpg - 199.30.25.180 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b http://www.crossroadsbar.co.nz/ 200 692503 252
+2017-06-29 19:01:04 GET /images/s3.jpg - 199.30.25.180 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b http://www.crossroadsbar.co.nz/ 200 914588 252
+2017-06-29 19:01:05 GET /images/s4.jpg - 199.30.25.180 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b http://www.crossroadsbar.co.nz/ 200 882157 252
+2017-06-29 19:01:13 GET /images/serve1.png - 199.30.25.180 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b http://www.crossroadsbar.co.nz/ 200 1714 256
+2017-06-29 19:01:14 GET /images/serve3.png - 199.30.25.180 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b http://www.crossroadsbar.co.nz/ 200 7307 256
+2017-06-29 19:01:14 GET /images/serve2.png - 199.30.25.180 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b http://www.crossroadsbar.co.nz/ 200 4431 256
+2017-06-29 19:01:15 GET /images/serve4.png - 199.30.25.180 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b http://www.crossroadsbar.co.nz/ 200 4415 256
+2017-06-29 19:01:15 GET /images/g1.jpg - 199.30.25.180 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b http://www.crossroadsbar.co.nz/ 200 48831 252
+2017-06-29 19:01:16 GET /images/g2.jpg - 199.30.25.180 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b http://www.crossroadsbar.co.nz/ 200 64370 252
+2017-06-29 19:01:18 GET /images/c1.jpg - 199.30.25.180 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b http://www.crossroadsbar.co.nz/ 200 33007 252
+2017-06-29 19:01:18 GET /images/c2.jpg - 199.30.25.180 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b http://www.crossroadsbar.co.nz/ 200 30984 252
+2017-06-29 19:01:18 GET /images/c3.jpg - 199.30.25.180 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b http://www.crossroadsbar.co.nz/ 200 39200 252
+2017-06-29 19:01:19 GET /images/g7.jpg - 199.30.25.180 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b http://www.crossroadsbar.co.nz/ 200 59529 252
+2017-06-29 19:01:19 GET /images/c4.jpg - 199.30.25.180 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b http://www.crossroadsbar.co.nz/ 200 42204 252
+2017-06-29 19:01:19 GET /images/g8.jpg - 199.30.25.180 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b http://www.crossroadsbar.co.nz/ 200 48224 252
+2017-06-29 19:01:19 GET /images/tw.png - 199.30.25.180 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b http://www.crossroadsbar.co.nz/ 200 7323 252
+2017-06-29 19:01:20 GET /images/fb.png - 199.30.25.180 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b http://www.crossroadsbar.co.nz/ 200 7384 252
+2017-06-29 19:01:20 GET /images/db.png - 199.30.25.180 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b http://www.crossroadsbar.co.nz/ 200 7998 252
+2017-06-29 19:01:20 GET /images/gg.png - 199.30.25.180 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b http://www.crossroadsbar.co.nz/ 200 7753 252
+2017-06-29 19:01:20 GET /images/move-top.png - 199.30.25.180 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b http://www.crossroadsbar.co.nz/ 200 3488 258
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2017-06-30 04:25:37
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2017-06-30 04:25:37 GET /robots.txt - 151.80.39.106 HTTP/1.1 Mozilla/5.0+(compatible;+AhrefsBot/5.2;++http://ahrefs.com/robot/) - 404 1405 184
+2017-06-30 04:25:38 GET / - 217.182.132.54 HTTP/1.1 Mozilla/5.0+(compatible;+AhrefsBot/5.2;++http://ahrefs.com/robot/) - 200 7018 174
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2017-06-30 05:25:38
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2017-06-30 05:25:38 GET /images/g7.jpg - 217.182.132.64 HTTP/1.1 Mozilla/5.0+(compatible;+AhrefsBot/5.2;++http://ahrefs.com/robot/) - 200 59529 187

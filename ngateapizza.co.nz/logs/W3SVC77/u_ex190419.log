@@ -1,0 +1,27 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2019-04-19 15:53:15
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2019-04-19 15:53:15 GET / - 209.17.96.66 HTTP/1.1 Mozilla/5.0+(compatible;+Nimbostratus-Bot/v1.3.2;+http://cloudsystemnetworks.com) - 200 37853 142
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2019-04-19 16:23:37
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2019-04-19 16:23:37 GET / - 35.163.101.147 HTTP/1.1 Go-http-client/1.1 - 200 0 98
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2019-04-20 04:14:39
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2019-04-20 04:14:39 GET /robots.txt - 66.249.75.31 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 404 1405 231
+2019-04-20 04:14:40 GET / - 66.249.75.2 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 8794 294
+2019-04-20 04:14:43 GET /js/jquery.magnific-popup.js - 66.249.75.30 HTTP/1.1 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+compatible;+Googlebot/2.1;++http://www.google.com/bot.html)+Safari/537.36 http://ngateapizza.co.nz/ 200 18396 373
+2019-04-20 04:14:43 GET /css/contact-buttons.css - 66.249.75.31 HTTP/1.1 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+compatible;+Googlebot/2.1;++http://www.google.com/bot.html)+Safari/537.36 http://ngateapizza.co.nz/ 404 1405 384
+2019-04-20 04:14:45 GET /helpers/scrollreveal/anijs-helper-scrollreveal-min.js - 66.249.75.31 HTTP/1.1 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+compatible;+Googlebot/2.1;++http://www.google.com/bot.html)+Safari/537.36 http://ngateapizza.co.nz/ 404 1405 399
+2019-04-20 04:14:45 GET /anijs-min.js - 66.249.75.31 HTTP/1.1 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+compatible;+Googlebot/2.1;++http://www.google.com/bot.html)+Safari/537.36 http://ngateapizza.co.nz/ 404 1405 358
+2019-04-20 04:14:46 GET /js/jquery.contact-buttons.js - 66.249.75.31 HTTP/1.1 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+compatible;+Googlebot/2.1;++http://www.google.com/bot.html)+Safari/537.36 http://ngateapizza.co.nz/ 404 1405 374
+2019-04-20 04:15:02 GET /favicon.ico - 66.249.75.2 HTTP/1.1 Googlebot-Image/1.0 - 404 1405 192
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2019-04-20 06:06:56
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2019-04-20 06:06:56 GET /favicon.ico - 66.249.75.31 HTTP/1.1 Googlebot-Image/1.0 - 404 1405 192

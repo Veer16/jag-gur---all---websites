@@ -1,0 +1,439 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 201903 will be lost/reset.
+# Last config file used to build this data file was /home/thefi694/tmp/awstats/awstats.thefirkin.co.nz.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2012                
+POS_TIME 2683                
+POS_VISITOR 9521                
+POS_DAY 11437               
+POS_DOMAIN 3405                
+POS_LOGIN 3752                
+POS_ROBOT 3907                
+POS_WORMS 4336                
+POS_EMAILSENDER 4467                
+POS_EMAILRECEIVER 4610                
+POS_SESSION 12119               
+POS_SIDER 12276               
+POS_FILETYPES 4745                
+POS_DOWNLOADS 4937                
+POS_OS 4985                
+POS_BROWSER 5159                
+POS_SCREENSIZE 5674                
+POS_UNKNOWNREFERER 5748                
+POS_UNKNOWNREFERERBROWSER 6010                
+POS_ORIGIN 6164                
+POS_SEREFERRALS 6298                
+POS_PAGEREFS 6494                
+POS_SEARCHWORDS 6671                
+POS_KEYWORDS 6845                
+POS_MISC 2347                
+POS_ERRORS 6926                
+POS_CLUSTER 3608                
+POS_SIDER_404 7030                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20190401000844 1 0 5169109888616
+FirstTime 20190301015251
+LastTime 20190331021953
+LastUpdate 20190401231705 1 0 0 0 0
+TotalVisits 61                  
+TotalUnique 47                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 48                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+JavaEnabled 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+FlashSupport 0 0 0
+JavascriptDisabled 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+DirectorSupport 0 0 0
+TotalMisc 0 0 0
+PDFSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 1 1 4483 6 13 133331
+1 4 4 17932 12 12 115641
+2 6 6 26898 2 5 29176
+3 14 14 23083 3 5 44839
+4 4 4 31371 8 12 5556939
+5 2 2 8966 32 37 16575432
+6 5 5 35854 43 47 11177566
+7 6 6 26898 32 50 13426353
+8 5 19 10752131 14 19 11043200
+9 6 20 10756614 25 40 11243304
+10 5 5 22415 28 29 259864
+11 6 6 53776 7 9 5526637
+12 1 1 4483 6 7 5500852
+13 1 1 4483 9 11 60567
+14 0 0 0 11 30 287645
+15 0 0 0 12 16 84078
+16 1 1 4483 12 17 100881
+17 1 2 39203 9 21 5640784
+18 1 1 4483 12 12 53796
+19 5 19 10752131 17 30 5747471
+20 2 2 8966 4 6 38090
+21 0 0 0 9 30 249474
+22 1 1 4483 4 4 29138
+23 1 1 4483 6 9 63887
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 10
+us 61 89 21706655
+ru 4 4 44810
+cn 3 3 13449
+nz 2 16 10738682
+dk 2 2 22405
+gb 2 2 8966
+fr 2 2 8966
+ca 1 1 4483
+ua 1 1 4483
+ph 0 1 34720
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 8
+facebookexternalhit/ 216 90613495 20190331070119 0
+Googlebot/ 70 748255 20190330071320 0
+bot[\s_+:,\.\;\/\\-] 4 17932 20190326083914 0
+YandexBot/ 3 9965 20190331142150 0
+bingbot/ 2 8966 20190324065709 0
+curl 1 4483 20190318014358 0
+DotBot/ 1 4483 20190331205147 0
+BLEXBot/ 1 4483 20190316235902 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 7
+png 6 7074327 0 0
+js 12 186624 0 0
+jpg 16 24629437 0 0
+woff2 3 231480 0 0
+css 9 115449 0 0
+html 66 349634 0 0
+Unknown 9 668 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 9
+macosx10 2 2
+winxp 1 1
+win7 9 8
+linux 18 4
+macosx11 3 3
+macosx7 1 1
+macosx12 14 14
+Unknown 33 33
+win10 40 12
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 23
+chrome68.0.3440.106 2 2
+chrome64.0.3396.62 1 1
+chrome31.0.1650.16 1 1
+mozilla 4 4
+chrome35.0.1916.153 1 1
+chrome58.0.3029.110 1 1
+firefox64.0 1 1
+chrome72.0.3626.121 18 3
+Unknown 29 29
+chrome63.0.3239.132 1 1
+chrome67.0.3396.99 2 2
+firefox55.0 1 1
+msie9.0 2 2
+chrome73.0.3683.86 16 2
+firefox59.0 2 2
+chrome60.0.3112.101 2 2
+opera55.0.2994.44 2 2
+chrome42.0.2311.90 1 1
+firefox47.0 3 3
+firefox50.0 1 1
+msie10.0 1 1
+chrome61.0.3163.100 13 13
+chrome70.0.3538.77 16 2
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 3
+Cpanel-HTTP-Client/1.0 20190313034209
+Mozilla/5.0_(compatible;_Let's_Encrypt_validation_server;__https://www.letsencrypt.org) 20190313034212
+Go-http-client/1.1 20190331021953
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+Go-http-client/1.1 20190331021953
+Cpanel-HTTP-Client/1.0 20190313034209
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 64 64
+From1 0 0
+From2 2 3
+From3 1 1
+From4 11 53
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 3
+www_google_com 0 1
+aolcom 1 1
+www_google_com_hk 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+https://www.facebook.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 1
+www.thefirkin.co.nz 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 1
+www.thefirkin.co.nz 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+404 155 1566822
+403 1 10061
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 61
+/sitemap.xml 2 -
+/https://fonts.googleapis.com/css 1 -
+/templates/Vertigo/resources/js/browserify.build.js 2 http://thefirkin.co.nz/CONTACT.php
+/blog/robots.txt 1 -
+/wordpress1/wp-login.php 2 -
+/blog/wp-includes/wlwmanifest.xml 1 -
+/wp/wp-includes/wlwmanifest.xml 1 -
+/test/wp-includes/wlwmanifest.xml 1 -
+/site/wp-includes/wlwmanifest.xml 1 -
+/wp-includes/wlwmanifest.xml 1 -
+/blog1/wp-login.php 2 -
+/wp2/wp-login.php 2 -
+/2015/wp-includes/wlwmanifest.xml 1 -
+/wp-login.php 18 -
+/wordpress3/wp-login.php 3 -
+/2017/wp-includes/wlwmanifest.xml 1 -
+/libraries/sfn.php 1 -
+//admin/login.php 1 -
+/blog2/wp-login.php 4 -
+/wordpress2/wp-login.php 1 -
+/classes/commons/resources/global/global.css 2 http://thefirkin.co.nz/CONTACT.php
+/blog/wp-login.php 2 -
+/2018/wp-includes/wlwmanifest.xml 1 -
+/wp2/wp-includes/wlwmanifest.xml 1 -
+/wordpress/ 1 -
+/classes/components/GoogleMapV2/layouts/Default/Default.css 2 http://thefirkin.co.nz/CONTACT.php
+/sito/wp-includes/wlwmanifest.xml 1 -
+/wp1/wp-login.php 1 -
+/test2/wp-login.php 2 -
+/test1/wp-login.php 1 -
+/test/wp-login.php 2 -
+//admin/images/cal_date_over.gif 1 -
+/wp3/wp-login.php 1 -
+/wp/wp-login.php 3 -
+/contactform/contactform.js 19 http://thefirkin.co.nz/
+/blog3/wp-login.php 1 -
+/xmlrpc.php 2 -
+/shop/wp-includes/wlwmanifest.xml 1 -
+/media/wp-includes/wlwmanifest.xml 1 -
+/menu.php 3 -
+/ads.txt 1 -
+/templates/Vertigo/resources/css/typography.css 2 http://thefirkin.co.nz/CONTACT.php
+/wp/ 1 -
+/CONTACT.php 1 -
+/2016/wp-includes/wlwmanifest.xml 1 -
+/templates/Vertigo/resources/css/less.build.css 2 http://thefirkin.co.nz/CONTACT.php
+/blog/ 1 -
+/wp1/wp-includes/wlwmanifest.xml 1 -
+/classes/commons/resources/flyoutmenu/flyoutmenu.css 2 http://thefirkin.co.nz/CONTACT.php
+/wordpress/wp-login.php 2 -
+//wp-login.php 4 -
+/news/wp-includes/wlwmanifest.xml 1 -
+/cms/wp-includes/wlwmanifest.xml 1 -
+/wordpress/wp-includes/wlwmanifest.xml 1 -
+/robots.txt 31 -
+/web/wp-includes/wlwmanifest.xml 1 -
+//templates/system/css/system.css 1 -
+/https://www.facebook.com/theFirkinSportsBar/ 1 -
+/website/wp-includes/wlwmanifest.xml 1 -
+/test3/wp-login.php 2 -
+/classes/commons/resources/flyoutmenu/flyoutmenu.js 2 http://thefirkin.co.nz/CONTACT.php
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 48
+52.53.201.78 13 13 58279 20190330035512
+69.90.162.40 6 6 407 20190313034212
+60.191.38.77 3 3 13449 20190319114429
+65.35.94.236 3 17 10743165 20190319193504
+104.192.74.203 3 17 10743165 20190318082753
+66.133.109.36 3 3 261 20190313034212
+195.181.172.66 2 2 22405 20190312113910
+185.253.97.236 2 2 22405 20190308115434
+151.106.8.101 2 2 22405 20190311065917
+5.196.64.109 2 2 8966 20190312102323
+185.234.217.205 2 2 22405 20190317045633
+118.92.52.167 2 16 10738682 20190328095513
+34.220.51.81 1 1 4483 20190318031534
+54.202.181.130 1 1 4483 20190330042805
+34.219.82.107 1 1 4483 20190309072918
+54.218.95.144 1 1 4483 20190319065208
+54.245.182.61 1 1 4483 20190313060636
+34.220.167.123 1 1 4483 20190322092954
+64.246.187.42 1 1 4483 20190301195520
+145.239.209.12 1 1 4483 20190327110007
+51.15.62.55 1 1 4483 20190306072127
+107.174.148.239 1 1 4483 20190327100757
+34.221.86.2 1 1 4483 20190321022652
+54.201.43.5 1 1 4483 20190305232043
+54.254.139.28 1 1 4483 20190303120604
+180.190.183.125 0 1 34720 
+34.222.155.100 1 1 4483 20190325093736
+54.184.247.160 1 1 4483 20190317045651
+52.26.68.38 1 1 4483 20190308032122
+68.183.143.161 1 1 4483 20190302002901
+34.211.142.117 1 1 4483 20190331021953
+198.12.95.230 1 1 4483 20190326094527
+54.149.170.219 1 1 4483 20190305015032
+34.209.54.109 1 1 4483 20190310035012
+54.213.44.171 1 1 4483 20190326072919
+34.210.70.169 1 1 4483 20190314060604
+35.165.138.207 1 1 4483 20190311072646
+34.212.227.14 1 1 4483 20190303024325
+18.232.115.225 1 1 4483 20190305190737
+35.161.96.129 1 1 4483 20190320053306
+54.191.141.34 1 1 4483 20190327032244
+46.119.112.31 1 1 4483 20190312105323
+34.220.114.139 1 1 4483 20190323090138
+34.221.208.180 1 1 4483 20190315075120
+167.114.226.133 1 1 4483 20190324205732
+54.191.237.50 1 1 4483 20190301023438
+54.184.141.244 1 1 4483 20190307021531
+64.246.165.150 1 1 4483 20190323021856
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 30
+20190301 3 3 13449 3
+20190302 2 2 8966 2
+20190303 2 2 8966 2
+20190304 1 1 4483 1
+20190305 3 3 13449 3
+20190306 1 1 4483 1
+20190307 2 2 8966 2
+20190308 3 3 26888 2
+20190309 2 2 8966 2
+20190310 1 1 4483 1
+20190311 4 4 31371 3
+20190312 6 6 40337 4
+20190313 10 10 5151 3
+20190314 2 2 8966 2
+20190315 1 1 4483 1
+20190316 1 1 4483 1
+20190317 3 3 26888 2
+20190318 5 19 10752131 3
+20190319 5 20 10786851 3
+20190320 2 2 8966 2
+20190321 1 1 4483 1
+20190322 1 1 4483 1
+20190323 3 3 13449 3
+20190324 1 1 4483 1
+20190325 2 2 8966 2
+20190326 2 2 8966 2
+20190327 4 4 17932 4
+20190328 2 16 10738682 1
+20190330 2 2 8966 2
+20190331 1 1 4483 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 2
+2mn-5mn 1
+0s-30s 60
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 11
+/ 66 349634 59 57
+/fonts/fontawesome-webfont.woff2 3 231480 0 2
+/.well-known/acme-challenge/h_nKWGZQaScLTbx2mX_zGK5y9r3gt-3FgRdoPtc0D1g 1 87 0 0
+/.well-known/acme-challenge/k1yDWPAWkNdHTnj7qh7CNcBFxSuCQ86xwo1fAtZwVKE 1 87 0 1
+/.well-known/acme-challenge/iw2sXXMGvr5hwBIym26-Do6tAAU5Z4-GH-eV7Qq_h-A 1 87 1 0
+/.well-known/acme-challenge/Y73MYH3IHPNCHZ8JNGPU0T506X1K9JWK 1 64 1 0
+/.well-known/acme-challenge/7UCS-V-_D5UQJJ-G_NY27WB0T9R79Z02 1 64 0 0
+/.well-known/acme-challenge/KUJROLPFL8OOZY47J6JZ2SGREMWNPBQK 1 64 0 0
+/.well-known/acme-challenge/aSdGhCui45NzifBPi-ymuq-D03CaBuyiwzFGhO7D7m4 1 87 0 1
+/.well-known/acme-challenge/BD_AG1S46TRWSZM109J-EOX3-PZ0CTT9 1 64 0 0
+/.well-known/acme-challenge/WR9BZ1M7PHY9V6P34-YE58-9XCPXW783 1 64 0 0
+END_SIDER

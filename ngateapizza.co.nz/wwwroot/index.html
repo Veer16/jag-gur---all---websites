@@ -1,0 +1,719 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+   
+	<title>Ngatea Pizza</title>
+	
+	
+	 <!-- Bootstrap Core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css">
+    <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
+	
+	<!-- Custom Theme files -->
+	<link href="css/style.css" rel='stylesheet' type='text/css' />
+	<link href="css/popuo-box.css" rel="stylesheet" type="text/css" media="all"/>
+	<link href="css/contact-buttons.css" rel="stylesheet">
+	
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+	<script src="js/jquery.min.js"></script>
+	
+	<!---pop-up-box---->
+	<script type="text/javascript" src="js/modernizr.custom.min.js"></script>    
+	<script src="js/jquery.magnific-popup.js" type="text/javascript"></script>
+
+
+
+
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.css" media="screen">
+<script src="//cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.js"></script>
+
+	<!---//pop-up-box---->
+    <script src="js/scrollReveal.js"></script>
+	<script>
+			$(document).ready(function() {
+			$('.popup-with-zoom-anim').magnificPopup({
+				type: 'inline',
+				fixedContentPos: false,
+				fixedBgPos: true,
+				overflowY: 'auto',
+				closeBtnInside: true,
+				preloader: false,
+				midClick: true,
+				removalDelay: 300,
+				mainClass: 'my-mfp-zoom-in'
+			});
+																			
+			});
+	</script>
+
+	<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="js/html5shiv.js"></script>
+        <script src="js/respond.min.js"></script>
+    <![endif]-->
+<style>
+    
+@font-face{
+    font-family:custom_fonts;
+    src: url(./fonts/PIZZAHUT-FONT.TTF);
+}
+</style>
+
+
+<!-- AniJS Core File -->
+<script src="anijs-min.js"></script>
+
+<!-- ScrollReveal Helper -->
+<script src="helpers/scrollreveal/anijs-helper-scrollreveal-min.js"></script>
+ <link rel="stylesheet" href="http://anijs.github.io/lib/anicollection/anicollection.css">
+
+
+
+</head>
+<body>	
+	
+	<!-- /////////////////////////////////////////Navigation -->
+	<nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+		<div class="container">
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle" data-toggle="collapse"
+						data-target="#bs-example-navbar-collapse-1">
+					<span class="sr-only">Toggle navigation</span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+
+				</button>
+				<a class="navbar-brand" href="#">
+					<img src="images/logo.png" class="hidden-xs" alt="">
+					<h3 class="visible-xs" style="font-family:custom_fonts;color:red;">Ngatea Pizza</h3>
+				</a>
+			</div>
+			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+				<ul class="nav navbar-nav navbar-right">
+					<li>
+                        <a class="page-scroll" href="#intro">Home</a>
+                    </li>
+					<li>
+                        <a class="page-scroll" href="#gallery">Services</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#menu">Menu</a>
+                    </li>
+                   <!-- <li>
+                        <a class="page-scroll" href="#staff">Staff</a>
+                    </li>-->
+					<li>
+                        <a class="page-scroll" href="#portfolio">Gallery</a>
+                    </li>
+                    
+                    <li>
+                        <a class="page-scroll" href="#contact">Contact Us</a>
+                    </li>
+				</ul>
+			</div>
+		</div>
+	</nav>
+	
+	<header id="intro">
+		<!-- Carousel -->
+    	<div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+			<!-- Indicators -->
+			<ol class="carousel-indicators">
+			  	<li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+			    <li data-target="#carousel-example-generic" data-slide-to="1"></li>
+			    <li data-target="#carousel-example-generic" data-slide-to="2"></li>
+			</ol>
+			<!-- Wrapper for slides -->
+			<div class="carousel-inner">
+
+			    <div class="item active">
+			    	<img src="images/1.jpg" alt="First slide" style="opacity:0.5;">
+                    <!-- Static Header -->
+                    <div class="header-text hidden-xs">
+                        <div class="col-md-12 text-center">
+                            <h2>Welcome to <span style="font-family:custom_fonts;">N<span style="font-family:custom_fonts;text-transform: lowercase;">gatea</span> P<span style="font-family:custom_fonts;text-transform: lowercase;">izza</span></span></h2>
+                            <br>
+                            <h3>We Make Fresh Dough DAILY!!!.</h3>
+                            <br>
+                            <div class="">
+                                <a class="btn btn-1 btn-sm" href="#contact">CALL us</a><a class="btn btn-1 btn-sm" href="#menu">Full Menu</a>
+							</div>
+                        </div>
+                    </div><!-- /header-text -->
+			    </div>
+			    <div class="item">
+			    	<img src="images/2.jpg" alt="Second slide" style="opacity:0.5;">
+			    	<!-- Static Header -->
+                    <div class="header-text hidden-xs">
+                        <div class="col-md-12 text-center">
+                            <h2 style="background-color:#009933;">Best In Town</h2>
+                            <br>
+                            <h3>LOCAL PEOPLE - LOCAL FOOD</h3>
+                            <br>
+                            <div class="">
+                                  <a class="btn btn-1 btn-sm" href="#contact">CALL us</a><a class="btn btn-1 btn-sm" href="#menu">Full Menu</a>
+							</div>
+                        </div>
+                    </div><!-- /header-text -->
+			    </div>
+			    <div class="item">
+			    	<img src="images/3.jpg" alt="Third slide" style="opacity:0.5;">
+			    	
+                    <div class="header-text hidden-xs">
+                        <div class="col-md-12 text-center">
+                           
+                        </div>
+                    </div> 
+			    </div>
+
+			</div>
+			<!-- Controls -->
+			<a class="left carousel-control" href="#carousel-example-generic" data-slide="prev">
+		    	<span class="glyphicon glyphicon-chevron-left"></span>
+			</a>
+			<a class="right carousel-control" href="#carousel-example-generic" data-slide="next">
+		    	<span class="glyphicon glyphicon-chevron-right"></span>
+			</a>
+		</div><!-- /carousel -->
+	</header>
+	<!-- Header -->
+	
+	<a id='backTop'>Back To Top</a>
+	<!-- /Back To Top -->
+	
+	<!-- /////////////////////////////////////////Content -->
+	<div id="page-content" class="index-page">
+	
+		<!-- ////////////Content Box 01 -->
+		<div id="services"></div>
+		<section class="box-content box-1">
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-4 " data-anijs="if: scroll, on: window, do: swing animated, before: scrollReveal">
+						<div class="service" id="gallery">
+							<a href="#"><img src="images/icon1.png" title="icon-name"></a>
+							<h3>GALLERY</h3>
+							<p>PLease Check out large range of mouthwatering fresh baked pizzas. </p>
+							<a class="btn btn-2 btn-sm" href="#portfolio">Read More</a>
+						</div>
+			 		</div>
+			 		<div class="col-sm-4 " data-anijs="if: scroll, on: window, do: swing animated, before: scrollReveal">
+						<div class="service">
+							<a href="#"><img src="images/icon3.png" title="icon-name"></a>
+							<h3>OUR LOCATION</h3>
+							<p>We are located in heart of the ngatea town on 36 Orcard w rd. come and visit us for latest deals on pizza.</p>
+							<a class="btn btn-2 btn-sm" href="#contact">Read More</a>
+						</div>
+			 		</div>
+			 		<div class="col-sm-4 " data-anijs="if: scroll, on: window, do: swing animated, before: scrollReveal">
+						<div class="service">
+							<a href="#"><img src="images/icon2.png" title="icon-name"></a>
+							<h3>FULL MENU</h3>
+							<p>Please check here for large range of chicken Pizza, seafood Pizza, meat pizza and vegetarian options are also available. we make a special customized pizza as well.</p>
+							<a class="btn btn-2 btn-sm" href="#menu">Read More</a>
+						</div>
+			 		</div>		
+				</div>
+			</div>
+		</section>
+	
+		<!-- ////////////Content Box 02 -->
+		<section class="box-content box-2 box-style" id="menu">
+			<div class="container">
+				<div class="row heading">
+					<div class="col-lg-12">	
+						<div class="img-responsive">
+                            <img  src="images/menu.png" />
+
+						</div>
+
+
+						<div class="intro">Welcome to ngaeta pizza, local pizza shop for local people.</br>We always use best ingredients that makes best pizza and that gives you best taste. Here you can enjoy dine in or takeaway we make a pizza in very large range, Chicken, meat, seafood. We also take special orders as well.</div>
+	                </div>
+				</div>
+				<div class="row">
+					<div class="col-xs-12 col-lg-6">
+						<div class="box-item">
+							<div class="col-sm-12 col-lg-6">
+								<div class="media"><img class="media__image " src="images/1-thumb.jpg">
+								  <div class="media__body">
+									<h2>STARTS FROM $8.00</h2>
+									<p>Only</p>
+								  </div>
+								</div>
+							</div>
+							<div class="col-sm-12 col-lg-6">
+								<div class="wrapper">
+									<h3 style="color:red;">SPECIAL PIZZA</h3>
+									<p>you can customize your base, topping and extras...</p>
+									<a class="btn btn-3"  data-toggle="modal" data-target="#myModal">FULL MENU</a>
+								</div>
+							</div>
+
+                            <div class="row">
+                                <div class="col-xs-6 col-lg-12">
+                            <div id="myModal" class="modal fade" role="dialog">
+                                <div class="modal-dialog">
+
+                                    <!-- Modal content-->
+                                    <div class="modal-content">
+
+                                        <div class="modal-body" style="padding: 50px;">
+                                            <div class="row" style="padding: 0px;">
+
+                                                <div class="col-md-3">
+                                                    <div class="panel panel-danger">
+                                                        <div class="panel-heading" style="background-color:red;">
+                                                            <h3 class="text-center" style="padding: 5px;color:white;">CHICKEN PIZZA</h3>
+
+                                                        </div>
+
+                                                        <ul class="list-group list-group-flush text-center" style="color: black;">
+                                                            <li class="list-group-item"><span style="color:red;">Chicken & Bacon</span> <span style="font-size:small;">(Tomato base, onion, chicken, bacon, mozzarella) </span> at $12.00
+                                                            </li>
+                                                            <li class="list-group-item"><span style="color:red;">Apricot Chicken</span> <span style="font-size:small;">(Tomato base, onion, chicken, capsicum, mozzarella)</span> at $12.00
+                                                            </li>
+                                                             <li class="list-group-item"><span style="color:red;">Spicy Chicken</span> <span style="font-size:small;">(Tomato base, onion, capsicum, jalapenos, chicken, mozzarella)</span> at $12.00
+                                                            </li>
+                                                            <li class="list-group-item"><span style="color:red;">Tandoori Chicken</span> <span style="font-size:small;">(Tomato base, marinated tandoori chicken, mozzarella, onion)</span> at $15.00
+                                                            </li>
+                                                            <li class="list-group-item"><span style="color:red;">Lemon Chicken</span> <span style="font-size:small;">(Tomato base, capsicum, onion, mushroom, lemon chicken, mozzarella)</span> at $15.00
+                                                            </li>
+                                                             <li class="list-group-item"><span style="color:red;">Butter chicken</span> <span style="font-size:small;">(Tomato base, marinated butter chicken, mozzarella, onion)</span> at $15.00
+                                                            </li>
+
+                                                        </ul>
+                                                        <div class="panel-footer"><a class="btn btn-lg btn-block btn-danger" href="#contact">CALL us NOW at 07 867 7060</a> </div>
+                                                    </div>
+                                                </div>
+                                                <div class="col-md-3">
+                                                    <div class="panel panel-danger">
+                                                        <div class="panel-heading" style="background-color:green;" >
+                                                            <h3 class="text-center"  style="padding: 5px;color:white;">MEAT PIZZA</h3>
+                                                            
+                                                        </div>
+
+                                                      <ul class="list-group list-group-flush text-center" style="color: black;">
+                                                            <li class="list-group-item"><span style="color:red;">Ham & Cheese</span> <span style="font-size:small;">(Tomato base, ham, mozzarella)</span> at $8.00
+                                                            </li>
+                                                            <li class="list-group-item"><span style="color:red;">Hawaiian</span> <span style="font-size:small;">(Tomato base, ham, pineapple, mozzarella)</span> at $10.00
+                                                            </li>
+                                                             <li class="list-group-item"><span style="color:red;">Pepperoni</span> <span style="font-size:small;">(Tomato base, capsicum, mozzarella, pepperoni)</span> at $10.00
+                                                            </li>
+                                                            <li class="list-group-item"><span style="color:red;">Italian Special</span> <span style="font-size:small;">(Tomato base, onion, capsicum, mushrooms, pepperoni, mozzarella, olives, garlic & oregano)</span> at $12.00
+                                                            </li>
+                                                            <li class="list-group-item"><span style="color:red;">Meat mix</span> <span style="font-size:small;">(Tomato base, onion, pepperoni, ham, beef, bacon, mozzarella)</span> at $15.00
+                                                            </li>
+                                                             <li class="list-group-item"><span style="color:red;">BBQ meat Special</span> <span style="font-size:small;">(BBQ base, ham, beef, bacon, mozzarella)</span> at $15.00
+                                                            </li>
+                                                           <li class="list-group-item"><span style="color:red;">Beef & Onion</span> <span style="font-size:small;">(Tomato base, onion, beef, mozzarella)</span> at $12.00
+                                                            </li>
+
+                                                        </ul>
+                                                        <div class="panel-footer"><a class="btn btn-lg btn-block btn-danger" href="#contact">CALL us NOW at 07 867 7060</a> </div>
+                                                    </div>
+                                                </div>
+                                                <div class="col-md-3">
+                                                    <div class="panel panel-danger">
+                                                        <div class="panel-heading"style="background-color:red;" >
+                                                            <h3 class="text-center"  style="padding: 5px;color:white;">SPECIAL PIZZA</h3>
+                                                           
+                                                        </div>
+
+                                                         <ul class="list-group list-group-flush text-center" style="color: black;">
+                                                            <li class="list-group-item"><span style="color:red;">Create your own</span> <span style="font-size:small;">(Any 5 toppings of your choice)</span> at $17.00
+                                                            </li>
+                                                            <li class="list-group-item"><span style="color:red;">Ngatea Special</span> <span style="font-size:small;">(Tomato base, capsicum, mushroom, pineapple, chicken, ham, pepperoni, mozzarella, olives)</span> at $17.00
+                                                            </li>
+                                                             <li class="list-group-item"><span style="color:green;">Just Cheese</span> <span style="font-size:small;">(Fresh garlic base, cheese, herbs, mozzarella)</span> at $8.00
+                                                            </li>
+                                                            <li class="list-group-item"><span style="color:green;">Margarita</span> <span style="font-size:small;">(Tomato base, mozzarella, diced tomatoes)</span> at $8.00
+                                                            </li>
+                                                            <li class="list-group-item"><span style="color:green;">Vege Spicy</span> <span style="font-size:small;">(Tomato base, capsicum, tomato, mozzarella, jalapeno)</span> at $10.00
+                                                            </li>
+                                                             <li class="list-group-item"><span style="color:green;">Super Vege</span> <span style="font-size:small;">(Tomato base, onion, mushroom, capsicum, mozzarella, tomato, olives)</span> at $12.00
+                                                            </li>
+                                                          
+
+                                                        </ul>
+                                                        <div class="panel-footer"><a class="btn btn-lg btn-block btn-danger" href="#contact">CALL us NOW at 07 867 7060</a> </div>
+                                                    </div>
+                                                </div>
+                                                 <div class="col-md-3">
+                                                    <div class="panel panel-danger">
+                                                        <div class="panel-heading" style="background-color:green;">
+                                                            <h3 class="text-center"  style="padding: 5px;color:white;">SEA FOOD PIZZA</h3>
+                                                           
+                                                        </div>
+
+                                                         <ul class="list-group list-group-flush text-center" style="color: black;">
+                                                            <li class="list-group-item"><span style="color:red;">Sea Bed</span> <span style="font-size:small;">(Tomato base, seafood, lemon pepper, mozzarella)</span> at $15.00
+                                                            </li>
+                                                            <li class="list-group-item"><span style="color:red;">Prawn Special</span> <span style="font-size:small;">(Tomato base, prawn, capsicum, lemon pepper, mozzarella)</span> at $15.00
+                                                            </li>
+                                                             <li class="list-group-item"><span style="color:green;">Garlic Bread</span> at $4.00
+                                                            </li>
+                                                            <li class="list-group-item"><span style="color:green;">Fries</span>  at $4.00
+                                                            </li>
+                                                            <li class="list-group-item"><span style="color:green;">Wedges</span> at $4.00
+                                                            </li>
+                                                             <li class="list-group-item"><span style="color:green;">Kumara Chips</span> at $4.00
+                                                            </li>
+                                                          
+
+                                                        </ul>
+                                                        <div class="panel-footer"><a class="btn btn-lg btn-block btn-danger" href="index.html/contact">CALL us NOW at 07 867 7060</a> </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                        </div>
+                                        <div class="modal-footer">
+                                            <button type="button" class="btn btn-default" data-dismiss="modal" style="color: black;">Close</button>
+                                        </div>
+                                    </div>
+
+                                </div>
+                            </div>
+                                    </div>
+                            </div>
+
+
+
+							<div class="clear"></div>
+						</div>
+					</div>
+					<div class="col-xs-12 col-lg-6">
+						<div class="box-item">
+							<div class="col-sm-12 col-lg-6">
+								<div class="media"><img class="media__image " src="images/2-thumb.jpg">
+								  <div class="media__body">
+									<h2>STARTS FROM $15.00</h2>
+									<p>Only</p>
+								  </div>
+								</div>
+							</div>
+							<div class="col-sm-12 col-lg-6">
+								<div class="wrapper">
+									<h3 style="color:green;">SEAFOOD PIZZA</h3>
+									<p>Seafood lovers have a wide selection range in seafood. Please check here.</p>
+									<a class="btn btn-3" data-toggle="modal" data-target="#myModal">FULL MENU</a>
+								</div>
+							</div>
+							<div class="clear"></div>
+						</div>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-xs-12 col-lg-6">
+						<div class="box-item">
+							<div class="col-sm-12 col-lg-6">
+								<div class="media"><img class="media__image " src="images/3-thumb.jpg">
+								  <div class="media__body">
+									<h2>STARTS FROM $12.00</h2>
+									<p>Only</p>
+								  </div>
+								</div>
+							</div>
+							<div class="col-sm-12 col-lg-6">
+								<div class="wrapper">
+									<h3 style="color:red;">CHICKEN PIZZA</h3>
+									<p>MOuthwatering chicken pizza with yummy cheese and garlic and many other options available...</p>
+									<a class="btn btn-3" data-toggle="modal" data-target="#myModal">FULL MENU</a>
+								</div>
+							</div>
+							<div class="clear"></div>
+						</div>
+					</div>
+					<div class="col-xs-12 col-lg-6">
+						<div class="box-item">
+							<div class="col-sm-12 col-lg-6">
+								<div class="media"><img class="media__image " src="images/4-thumb.jpg">
+								  <div class="media__body">
+									<h2>STARTS FROM $8.00</h2>
+									<p>Only</p>
+								  </div>
+								</div>
+							</div>
+							<div class="col-sm-12 col-lg-6">
+								<div class="wrapper">
+									<h3 style="color:green;">MEAT PIZZA</h3>
+									<p>we have so many options available in MEAT range including Ham & Cheese, Meat mix, BBQ meat Special. Check here for full menu...</p>
+									<a class="btn btn-3" data-toggle="modal" data-target="#myModal">FULL MENU</a>
+								</div>
+							</div>
+							<div class="clear"></div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		
+		<!-- ////////////Content Box 03 -->
+	<!--	<section class="box-content box-3 staffextra" id="staff">
+			<div class="container">
+				<div class="row heading">
+					<div class="col-lg-12" >	
+	                   <div class="img-responsive">
+
+                            <img style="height:auto;width:auto;border-radius:0%;border:none;padding-top:10px;" src="images/staff.png"/>
+
+						</div>
+                    	<div class="intro">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed euismod tincidunt ut</br> laoreet dolore magna aliquam erat volutpat.
+						Ut wisi enim ad.Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed euismod tincidunt ut .</div>
+	                </div>
+				</div>
+				<div class="row center">
+					<div class="col-md-6">
+						<div class="wrap-img media__body1">
+							<img src="images/11.jpg">
+						</div>
+						<ul class="list-inline social-buttons">
+                            <li><a href="#"><i class="fa fa-twitter"></i></a>
+                            </li>
+                            <li><a href="#"><i class="fa fa-facebook"></i></a>
+                            </li>
+                            <li><a href="#"><i class="fa fa-linkedin"></i></a>
+                            </li>
+							<li><a href="#"><i class="fa fa-pinterest"></i></a>
+                            </li>
+                        </ul>
+					</div>
+					<div class="col-md-6">
+						<div class="row">
+							<h3>Nibh congue scripserit ne mel</h3>
+							<p>Nibh congue scripserit ne mel, pri ne amet mnesarchum. Dicat maiestat per modo simul signiferumque te. Dolore intellegat eu cum, ut est Nostro eloquentiam interpretaris vel id. Minim consequuntur et eam, nonumy equidem pri. Vide virtute ocurreret per in antiopam.</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>-->
+	
+		<section class="box-content box-4 box-style" id="portfolio">
+			<div class="container">
+				<div class="row heading">
+					<div class="col-lg-12">	
+	                   <div class="img-responsive">
+                            <img  src="images/gallery.png" alt=""/>
+
+						</div>
+                    	<div class="intro">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed euismod tincidunt ut</br> laoreet dolore magna aliquam erat volutpat.
+						Ut wisi enim ad.Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed euismod tincidunt ut .</div>
+	                </div>
+				</div>
+                <div class='list-group gallery'>
+                    <div class='col-sm-4 col-xs-6 col-md-3 col-lg-3'>
+                        <a class="thumbnail fancybox" rel="ligthbox" href="images/s7.jpg">
+                            <img class="img-responsive" alt="" src="images/s7.jpg" />
+                            <div class='text-right'>
+                                <small class='text-muted'>Prawn</small>
+                            </div>
+                            <!-- text-right / end -->
+                        </a>
+                    </div>
+                    <!-- col-6 / end -->
+                    <div class='col-sm-4 col-xs-6 col-md-3 col-lg-3'>
+                        <a class="thumbnail fancybox" rel="ligthbox" href="images/s1.jpg">
+                            <img class="img-responsive" alt="" src="images/s1.jpg" />
+                            <div class='text-right'>
+                                <small class='text-muted'>Chicken</small>
+                            </div>
+                            <!-- text-right / end -->
+                        </a>
+                    </div>
+                    <!-- col-6 / end -->
+                    <div class='col-sm-4 col-xs-6 col-md-3 col-lg-3'>
+                        <a class="thumbnail fancybox" rel="ligthbox" href="images/s2.jpg">
+                            <img class="img-responsive" alt="" src="images/s2.jpg" />
+                            <div class='text-right'>
+                                <small class='text-muted'>Meat</small>
+                            </div>
+                            <!-- text-right / end -->
+                        </a>
+                    </div>
+                    <!-- col-6 / end -->
+                    <div class='col-sm-4 col-xs-6 col-md-3 col-lg-3'>
+                        <a class="thumbnail fancybox" rel="ligthbox" href="images/s3.jpg">
+                            <img class="img-responsive" alt="" src="images/s3.jpg" />
+                            <div class='text-right'>
+                                <small class='text-muted'>Prawn</small>
+                            </div>
+                            <!-- text-right / end -->
+                        </a>
+                    </div>
+                    <!-- col-6 / end -->
+                    <div class='col-sm-4 col-xs-6 col-md-3 col-lg-3'>
+                        <a class="thumbnail fancybox" rel="ligthbox" href="images/s4.jpg">
+                            <img class="img-responsive" alt="" src="images/s4.jpg" />
+                            <div class='text-right'>
+                                <small class='text-muted'>Chilly Chicken</small>
+                            </div>
+                            <!-- text-right / end -->
+                        </a>
+                    </div>
+                    <!-- col-6 / end -->
+                    <div class='col-sm-4 col-xs-6 col-md-3 col-lg-3'>
+                        <a class="thumbnail fancybox" rel="ligthbox" href="images/s5.jpg">
+                            <img class="img-responsive" alt="" src="images/s5.jpg" />
+                            <div class='text-right'>
+                                <small class='text-muted'>Veg</small>
+                            </div>
+                            <!-- text-right / end -->
+                        </a>
+                    </div>
+                    <!-- col-6 / end -->
+
+                </div> <!-- list-group / end -->
+	        </div> <!-- row / end -->
+				
+			
+		</section>
+		
+		<!-- ////////////Content Box 05 -->
+        <section class="box-content box-5" id="contact">
+            <div class="container">
+                <div class="row heading">
+                    <div class="col-lg-12">
+                        <div class="img-responsive">
+                            <img src="images/contact.png" />
+
+                        </div>
+                        <div class="intro">
+                           PLease call us on <b> 07 867 7060 </b> for the orders, We are open 7 days.</div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div></div>
+                    <div class="col-md-4 box-item" >
+                        <div class="row" style="border:4px solid #DA251D; padding:20px;border-radius:4px;">
+                            <h3 style="text-align:center;">We are here</h3>
+                            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3174.816324431712!2d175.49315421551492!3d-37.27578241122365!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6d6d7c41e1b979b5%3A0xfdf4a1bc110c2218!2s36+Orchard+W+Rd%2C+Ngatea+3503!5e0!3m2!1sen!2snz!4v1464068848411" width="100%" height="auto" frameborder="0" style="border:0;" allowfullscreen ></iframe>
+                        </div>
+                         <div class="row" style="border:4px solid #DA251D; padding:20px;margin-top:10px;border-radius:4px;">
+                            <h3 style="text-align:center;">Contact Details</h3>
+                            <ul style="list-style-type:none;">
+                                <li>Phone: 07 867 7060</li>
+                                <!--<li>Mobile: 021 000 000</li>-->
+                                <li>Email: info@ngateahotel.co.nz</li>
+                                <li>Address: 36 Orchard West Road, Ngatea.</li>
+                            </ul>
+                        </div>
+                         <div class="row" style="border:4px solid #DA251D; padding:20px;margin-top:10px;text-align:center;padding-bottom:0PX;border-radius:4px;">
+                            <img src="images/7days.png" />
+                             <h3>07 867  7060</h3>
+                         </div>
+                    </div>
+
+
+                    <div id="main-content" class="col-md-8">
+                        <article class="contact" style="border: 4px solid #DA251D;">
+                            <div>
+                                <h2 class="center">Enquiry us</h2>
+                            </div>
+                            <div class="art-content">
+                                <div id="contact_form">
+                                    <form name="form1" id="ff" method="post" action="contact.php">
+                                        <label>
+                                            <span>Enter your name:</span>
+                                            <input type="text" name="name" id="name" required>
+                                        </label>
+                                         <label>
+                                            <span>Enter your number:</span>
+                                            <input type="text" name="number" id="number" required>
+                                        </label>
+                                        <label>
+                                            <span>Enter your email:</span>
+                                            <input type="email" name="email" id="email" required>
+                                        </label>
+                                        <label>
+                                            <span>Your message here:</span>
+                                            <textarea name="message" id="message"></textarea>
+                                        </label>
+                                        <center><input class="sendButton" type="submit" name="Submit" value="Submit"></center>
+                                    </form>
+                                </div>
+                            </div>
+                        </article>
+                    </div>
+
+
+                </div>
+            </div>
+        </section>
+	</div>
+
+  
+	<footer>
+		<div class="wrap-footer">
+			<div class="container">
+				<div class="row">
+			
+					<div class="col-md-6 col-footer footer-2">
+						<div class="footer-heading" style="text-align:left;"><h4>About Us</h4></div>
+						<div class="content">
+							<p style="text-align:left;">Ngatea pizza is centrally located in ngatea main road and we make fresh dough everyday. we make wide range of pizza including chicken, seafood, meat pizza.</p>
+						</div>
+					</div>
+					<div class="col-md-6 col-footer footer-3">
+						<div class="footer-heading" style="text-align:right;"><h4>Contact Details</h4></div>
+						<div class="content">
+                            <div style="float:right;"><a href="#">info@ngateapizza.co.nz </a></div>
+                            <div style="clear:both;float:right;"><a href="#">07 867 7060</a></div>
+                           <!-- <div style="clear:both;float:right;"><a href="#">020 XXX XXXX</a> </div>-->
+                              <div style="clear:both;float:right;"><a href="#">OPEN 7 DAYS</a> </div>							
+						</div>
+                       
+					</div>
+				</div>
+			</div>
+		</div>
+		
+	</footer>
+	<div class="coppy-right">
+		<div class="wrap-footer">
+			<div class="clearfix">
+				<div class="col-md-6 col-md-offset-3">
+					<!--<p>Copyright 2015 - <a href="http://www.365bootstrap.com" target="_blank" rel="nofollow">Bootstrap Themes</a> Designed by 365Bootstrap.com</p>-->
+				</div>
+			</div>	
+		</div>
+	</div>
+	<!-- Footer -->
+	
+	<!-- Core JavaScript Files -->
+    <script src="js/bootstrap.min.js"></script>
+	<script src="js/jquery.backTop.min.js"></script>
+	<script>
+		$(document).ready( function() {
+			$('#backTop').backTop({
+				'position' : 1200,
+				'speed' : 500,
+				'color' : 'red',
+			});
+		});
+	</script>
+    <script>
+    $(document).ready(function(){
+    //FANCYBOX
+    //https://github.com/fancyapps/fancyBox
+    $(".fancybox").fancybox({
+        openEffect: "none",
+        closeEffect: "none"
+    });
+    }); </script>
+   
+  
+
+	<script src="js/jquery.contact-buttons.js"></script>
+	<script src="js/demo.js"></script>
+    <script src="js/anijs.js"></script>
+    <script src="js/app.js"></script>
+
+</body>
+</html>
+	

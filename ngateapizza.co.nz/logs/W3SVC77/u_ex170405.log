@@ -1,0 +1,11 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2017-04-05 11:45:10
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2017-04-05 11:45:09 GET /xxx.htm - 124.206.180.130 HTTP/1.1 Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US)+AppleWebKit/534.14+(KHTML,+like+Gecko)+Chrome/10.0.601.0+Safari/534.14 - 404 1405 251
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2017-04-06 01:44:06
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2017-04-06 01:44:05 GET /robots.txt - 207.241.231.52 HTTP/1.0 Mozilla/5.0+(compatible;+NLNZ_IAHarvester2017/3.3.0++https://natlib.govt.nz/publishers-and-authors/web-harvesting/domain-harvest) - 404 1424 2465
+2017-04-06 01:44:07 GET / - 207.241.231.52 HTTP/1.0 Mozilla/5.0+(compatible;+NLNZ_IAHarvester2017/3.3.0++https://natlib.govt.nz/publishers-and-authors/web-harvesting/domain-harvest) - 403 1412 2455

@@ -1,0 +1,55 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2016-11-20 07:40:36
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2016-11-20 07:40:36 GET / - 107.21.1.8 HTTP/1.1 Mozilla/5.0+(compatible;+DuckDuckGo-Favicons-Bot/1.0;++http://duckduckgo.com) http://kaiparatavern.co.nz/ 200 8209 311
+2016-11-20 07:40:36 GET /favicon.ico - 107.21.1.8 HTTP/1.1 Mozilla/5.0+(compatible;+DuckDuckGo-Favicons-Bot/1.0;++http://duckduckgo.com) http://kaiparatavern.co.nz/favicon.ico 404 1405 333
+2016-11-20 07:40:50 GET / - 163.47.104.24 HTTP/1.1 Mozilla/5.0+(Windows+NT+5.1;+rv:47.0)+Gecko/20100101+Firefox/47.0 https://duckduckgo.com 200 8209 319
+2016-11-20 07:40:50 GET /css/jQuery.lightninBox.css - 163.47.104.24 HTTP/1.1 Mozilla/5.0+(Windows+NT+5.1;+rv:47.0)+Gecko/20100101+Firefox/47.0 http://kaiparatavern.co.nz/ 200 1481 305
+2016-11-20 07:40:50 GET /css/team.css - 163.47.104.24 HTTP/1.1 Mozilla/5.0+(Windows+NT+5.1;+rv:47.0)+Gecko/20100101+Firefox/47.0 http://kaiparatavern.co.nz/ 200 1027 291
+2016-11-20 07:40:50 GET /js/modernizr.custom.js - 163.47.104.24 HTTP/1.1 Mozilla/5.0+(Windows+NT+5.1;+rv:47.0)+Gecko/20100101+Firefox/47.0 http://kaiparatavern.co.nz/ 200 4923 286
+2016-11-20 07:40:50 GET /css/font-awesome.min.css - 163.47.104.24 HTTP/1.1 Mozilla/5.0+(Windows+NT+5.1;+rv:47.0)+Gecko/20100101+Firefox/47.0 http://kaiparatavern.co.nz/ 200 8118 303
+2016-11-20 07:40:50 GET /js/boot_slider.js - 163.47.104.24 HTTP/1.1 Mozilla/5.0+(Windows+NT+5.1;+rv:47.0)+Gecko/20100101+Firefox/47.0 http://kaiparatavern.co.nz/ 200 2045 281
+2016-11-20 07:40:50 GET /js/jQuery.lightninBox.js - 163.47.104.24 HTTP/1.1 Mozilla/5.0+(Windows+NT+5.1;+rv:47.0)+Gecko/20100101+Firefox/47.0 http://kaiparatavern.co.nz/ 200 3081 288
+2016-11-20 07:40:51 GET /js/cbpFWTabs.js - 163.47.104.24 HTTP/1.1 Mozilla/5.0+(Windows+NT+5.1;+rv:47.0)+Gecko/20100101+Firefox/47.0 http://kaiparatavern.co.nz/ 200 1208 279
+2016-11-20 07:40:51 GET /js/main.js - 163.47.104.24 HTTP/1.1 Mozilla/5.0+(Windows+NT+5.1;+rv:47.0)+Gecko/20100101+Firefox/47.0 http://kaiparatavern.co.nz/ 200 871 274
+2016-11-20 07:40:51 GET /css/bootstrap.min.css - 163.47.104.24 HTTP/1.1 Mozilla/5.0+(Windows+NT+5.1;+rv:47.0)+Gecko/20100101+Firefox/47.0 http://kaiparatavern.co.nz/ 200 27990 300
+2016-11-20 07:40:51 GET /css/style.css - 163.47.104.24 HTTP/1.1 Mozilla/5.0+(Windows+NT+5.1;+rv:47.0)+Gecko/20100101+Firefox/47.0 http://kaiparatavern.co.nz/ 200 11722 292
+2016-11-20 07:40:51 GET /js/SmoothScroll.min.js - 163.47.104.24 HTTP/1.1 Mozilla/5.0+(Windows+NT+5.1;+rv:47.0)+Gecko/20100101+Firefox/47.0 http://kaiparatavern.co.nz/ 200 3749 286
+2016-11-20 07:40:51 GET /js/bootstrap.min.js - 163.47.104.24 HTTP/1.1 Mozilla/5.0+(Windows+NT+5.1;+rv:47.0)+Gecko/20100101+Firefox/47.0 http://kaiparatavern.co.nz/ 200 13266 283
+2016-11-20 07:40:51 GET /images/logo.png - 163.47.104.24 HTTP/1.1 Mozilla/5.0+(Windows+NT+5.1;+rv:47.0)+Gecko/20100101+Firefox/47.0 http://kaiparatavern.co.nz/ 200 9464 279
+2016-11-20 07:40:51 GET /js/jquery.min.js - 163.47.104.24 HTTP/1.1 Mozilla/5.0+(Windows+NT+5.1;+rv:47.0)+Gecko/20100101+Firefox/47.0 http://kaiparatavern.co.nz/ 200 43185 280
+2016-11-20 07:40:53 GET /css/images/cd-top-arrow.svg - 163.47.104.24 HTTP/1.1 Mozilla/5.0+(Windows+NT+5.1;+rv:47.0)+Gecko/20100101+Firefox/47.0 http://kaiparatavern.co.nz/css/style.css 404 1405 304
+2016-11-20 07:40:53 GET /fonts/fontawesome-webfont.woff2 - 163.47.104.24 HTTP/1.1 Mozilla/5.0+(Windows+NT+5.1;+rv:47.0)+Gecko/20100101+Firefox/47.0 http://kaiparatavern.co.nz/css/font-awesome.min.css 404 1405 385
+2016-11-20 07:40:58 GET /images/info.jpg - 163.47.104.24 HTTP/1.1 Mozilla/5.0+(Windows+NT+5.1;+rv:47.0)+Gecko/20100101+Firefox/47.0 http://kaiparatavern.co.nz/css/style.css 200 729150 292
+2016-11-20 07:40:58 GET /fonts/fontawesome-webfont.woff - 163.47.104.24 HTTP/1.1 Mozilla/5.0+(Windows+NT+5.1;+rv:47.0)+Gecko/20100101+Firefox/47.0 http://kaiparatavern.co.nz/css/font-awesome.min.css 404 1405 384
+2016-11-20 07:41:00 GET /images/banner2.jpg - 163.47.104.24 HTTP/1.1 Mozilla/5.0+(Windows+NT+5.1;+rv:47.0)+Gecko/20100101+Firefox/47.0 http://kaiparatavern.co.nz/ 200 46855 282
+2016-11-20 07:41:02 GET /fonts/fontawesome-webfont.ttf - 163.47.104.24 HTTP/1.1 Mozilla/5.0+(Windows+NT+5.1;+rv:47.0)+Gecko/20100101+Firefox/47.0 http://kaiparatavern.co.nz/css/font-awesome.min.css 200 152629 388
+2016-11-20 07:41:02 GET /images/banner1.jpg - 163.47.104.24 HTTP/1.1 Mozilla/5.0+(Windows+NT+5.1;+rv:47.0)+Gecko/20100101+Firefox/47.0 http://kaiparatavern.co.nz/ 200 553071 282
+2016-11-20 07:41:06 GET /images/work-img4.jpg - 163.47.104.24 HTTP/1.1 Mozilla/5.0+(Windows+NT+5.1;+rv:47.0)+Gecko/20100101+Firefox/47.0 http://kaiparatavern.co.nz/ 200 946466 284
+2016-11-20 07:41:08 GET /images/banner3.jpg - 163.47.104.24 HTTP/1.1 Mozilla/5.0+(Windows+NT+5.1;+rv:47.0)+Gecko/20100101+Firefox/47.0 http://kaiparatavern.co.nz/ 200 448536 282
+2016-11-20 07:41:08 GET /images/work-img1.jpg - 163.47.104.24 HTTP/1.1 Mozilla/5.0+(Windows+NT+5.1;+rv:47.0)+Gecko/20100101+Firefox/47.0 http://kaiparatavern.co.nz/ 200 889310 284
+2016-11-20 07:41:10 GET /images/team2.jpg - 163.47.104.24 HTTP/1.1 Mozilla/5.0+(Windows+NT+5.1;+rv:47.0)+Gecko/20100101+Firefox/47.0 http://kaiparatavern.co.nz/ 200 920251 280
+2016-11-20 07:41:10 GET /images/team4.jpg - 163.47.104.24 HTTP/1.1 Mozilla/5.0+(Windows+NT+5.1;+rv:47.0)+Gecko/20100101+Firefox/47.0 http://kaiparatavern.co.nz/ 200 957546 280
+2016-11-20 07:41:10 GET /images/team3.jpg - 163.47.104.24 HTTP/1.1 Mozilla/5.0+(Windows+NT+5.1;+rv:47.0)+Gecko/20100101+Firefox/47.0 http://kaiparatavern.co.nz/ 200 843003 280
+2016-11-20 07:41:11 GET /images/work-img2.jpg - 163.47.104.24 HTTP/1.1 Mozilla/5.0+(Windows+NT+5.1;+rv:47.0)+Gecko/20100101+Firefox/47.0 http://kaiparatavern.co.nz/ 200 1001601 284
+2016-11-20 07:41:12 GET /images/banner4.jpg - 163.47.104.24 HTTP/1.1 Mozilla/5.0+(Windows+NT+5.1;+rv:47.0)+Gecko/20100101+Firefox/47.0 http://kaiparatavern.co.nz/ 200 747680 282
+2016-11-20 07:41:12 GET /images/team1.jpg - 163.47.104.24 HTTP/1.1 Mozilla/5.0+(Windows+NT+5.1;+rv:47.0)+Gecko/20100101+Firefox/47.0 http://kaiparatavern.co.nz/ 200 982372 280
+2016-11-20 07:41:14 GET /images/work-img3.jpg - 163.47.104.24 HTTP/1.1 Mozilla/5.0+(Windows+NT+5.1;+rv:47.0)+Gecko/20100101+Firefox/47.0 http://kaiparatavern.co.nz/ 200 943143 284
+2016-11-20 07:41:14 GET /images/xtra_logo.png - 163.47.104.24 HTTP/1.1 Mozilla/5.0+(Windows+NT+5.1;+rv:47.0)+Gecko/20100101+Firefox/47.0 http://kaiparatavern.co.nz/ 200 26596 284
+2016-11-20 07:41:17 GET /images/banner5.jpg - 163.47.104.24 HTTP/1.1 Mozilla/5.0+(Windows+NT+5.1;+rv:47.0)+Gecko/20100101+Firefox/47.0 http://kaiparatavern.co.nz/ 200 680331 282
+2016-11-20 07:41:18 GET /images/work-img7.jpg - 163.47.104.24 HTTP/1.1 Mozilla/5.0+(Windows+NT+5.1;+rv:47.0)+Gecko/20100101+Firefox/47.0 http://kaiparatavern.co.nz/ 200 1067450 284
+2016-11-20 07:41:21 GET /images/work-img5.jpg - 163.47.104.24 HTTP/1.1 Mozilla/5.0+(Windows+NT+5.1;+rv:47.0)+Gecko/20100101+Firefox/47.0 http://kaiparatavern.co.nz/ 200 869467 284
+2016-11-20 07:41:21 GET /images/work-img11.jpg - 163.47.104.24 HTTP/1.1 Mozilla/5.0+(Windows+NT+5.1;+rv:47.0)+Gecko/20100101+Firefox/47.0 http://kaiparatavern.co.nz/ 200 891396 285
+2016-11-20 07:41:21 GET /images/work-img8.jpg - 163.47.104.24 HTTP/1.1 Mozilla/5.0+(Windows+NT+5.1;+rv:47.0)+Gecko/20100101+Firefox/47.0 http://kaiparatavern.co.nz/ 200 915658 284
+2016-11-20 07:41:23 GET /images/work-img6.jpg - 163.47.104.24 HTTP/1.1 Mozilla/5.0+(Windows+NT+5.1;+rv:47.0)+Gecko/20100101+Firefox/47.0 http://kaiparatavern.co.nz/ 200 1093416 284
+2016-11-20 07:41:24 GET /images/work-img9.jpg - 163.47.104.24 HTTP/1.1 Mozilla/5.0+(Windows+NT+5.1;+rv:47.0)+Gecko/20100101+Firefox/47.0 http://kaiparatavern.co.nz/ 200 1018615 284
+2016-11-20 07:41:25 GET /images/work-img10.jpg - 163.47.104.24 HTTP/1.1 Mozilla/5.0+(Windows+NT+5.1;+rv:47.0)+Gecko/20100101+Firefox/47.0 http://kaiparatavern.co.nz/ 200 968132 285
+2016-11-20 07:41:29 GET /images/work-img12.jpg - 163.47.104.24 HTTP/1.1 Mozilla/5.0+(Windows+NT+5.1;+rv:47.0)+Gecko/20100101+Firefox/47.0 http://kaiparatavern.co.nz/ 200 961465 285
+2016-11-20 07:41:29 GET /favicon.ico - 163.47.104.24 HTTP/1.1 Mozilla/5.0+(Windows+NT+5.1;+rv:47.0)+Gecko/20100101+Firefox/47.0 - 404 1405 297
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2016-11-20 09:54:57
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2016-11-20 09:54:57 GET /robots.txt - 66.249.79.83 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 404 1405 229
+2016-11-20 09:54:57 GET / - 66.249.79.85 HTTP/1.1 Mozilla/5.0+(Linux;+Android+6.0.1;+Nexus+5X+Build/MMB29P)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2272.96+Mobile+Safari/537.36+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 8209 422

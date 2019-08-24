@@ -1,0 +1,283 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 201905 will be lost/reset.
+# Last config file used to build this data file was /home/thefi694/tmp/awstats/awstats.thekalahbar.thefirkin.co.nz.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2024                
+POS_TIME 2696                
+POS_VISITOR 6260                
+POS_DAY 6792                
+POS_DOMAIN 3214                
+POS_LOGIN 3480                
+POS_ROBOT 3635                
+POS_WORMS 3799                
+POS_EMAILSENDER 3930                
+POS_EMAILRECEIVER 4073                
+POS_SESSION 6938                
+POS_SIDER 7096                
+POS_FILETYPES 4208                
+POS_DOWNLOADS 4411                
+POS_OS 4459                
+POS_BROWSER 4584                
+POS_SCREENSIZE 4789                
+POS_UNKNOWNREFERER 4863                
+POS_UNKNOWNREFERERBROWSER 5091                
+POS_ORIGIN 5211                
+POS_SEREFERRALS 5344                
+POS_PAGEREFS 5488                
+POS_SEARCHWORDS 5636                
+POS_KEYWORDS 5788                
+POS_MISC 2360                
+POS_ERRORS 5847                
+POS_CLUSTER 3336                
+POS_SIDER_404 5935                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20190601020603 1 0 10528764163586
+FirstTime 20190501151211
+LastTime 20190528025141
+LastUpdate 20190601222459 1 0 0 0 0
+TotalVisits 13                  
+TotalUnique 12                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 12                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+PDFSupport 0 0 0
+JavascriptDisabled 0 0 0
+QuickTimeSupport 0 0 0
+AddToFavourites 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+JavaEnabled 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 0 0 0
+1 0 0 0 0 0 0
+2 3 3 5178 0 1 10113
+3 0 0 0 0 0 0
+4 0 0 0 0 0 0
+5 0 0 0 0 0 0
+6 0 0 0 0 0 0
+7 0 0 0 0 0 0
+8 0 0 0 0 0 0
+9 0 0 0 0 0 0
+10 0 0 0 0 0 0
+11 0 0 0 0 0 0
+12 0 0 0 0 0 0
+13 0 0 0 0 0 0
+14 0 0 0 0 0 0
+15 19 37 2067976 0 1 0
+16 1 1 1740 0 0 0
+17 2 2 3480 0 0 0
+18 7 27 2073958 0 1 0
+19 2 2 3452 0 0 0
+20 0 0 0 1 9 78518
+21 0 0 0 0 0 0
+22 1 1 1726 0 0 0
+23 1 1 1726 0 0 0
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 4
+us 20 20 9733
+nz 11 49 4140859
+fr 4 4 6918
+gb 1 1 1726
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 1
+spider 8 68418 20190506205525 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 8
+png 2 4210 0 0
+html 17 29315 0 0
+jpg 8 3670154 0 0
+Unknown 15 1075 0 0
+svg 14 12458 0 0
+js 10 95344 0 0
+woff2 4 308640 0 0
+css 4 38040 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 5
+macosx 49 11
+linux 7 7
+win10 2 2
+macosx10 1 1
+Unknown 15 15
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 8
+chrome60.0.3112.101 2 2
+chrome58.0.3029.110 1 1
+chrome74.0.3729.131 49 11
+mozilla 5 5
+chrome20.0.1132.57 1 1
+firefox59.0 1 1
+firefox58.0 5 5
+Unknown 10 10
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 2
+Cpanel-HTTP-Client/1.0 20190501151737
+Mozilla/5.0_(compatible;_Let's_Encrypt_validation_server;__https://www.letsencrypt.org) 20190501151215
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+Cpanel-HTTP-Client/1.0 20190501151737
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 32 32
+From1 0 0
+From2 0 0
+From3 0 0
+From4 4 42
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 1
+404 2 20213
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 1
+/robots.txt 2 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 12
+111.69.74.205 11 49 4140859 20190502184926
+69.90.162.40 10 10 640 20190501151737
+66.133.109.36 5 5 435 20190501151215
+100.25.20.231 2 2 3452 20190505020721
+154.49.205.92 1 1 1740 20190501173405
+64.246.165.150 1 1 1726 20190528025141
+51.15.191.81 1 1 1726 20190502223402
+62.4.14.206 1 1 1740 20190502170129
+154.49.205.188 1 1 1740 20190501164020
+212.83.146.233 1 1 1726 20190502195930
+195.154.61.206 1 1 1726 20190502235320
+62.4.14.198 1 1 1726 20190502192755
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 4
+20190501 21 39 2071456 5
+20190502 12 32 2082602 6
+20190505 2 2 3452 1
+20190528 1 1 1726 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 2
+5mn-15mn 3
+0s-30s 10
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 17
+/ 17 29315 11 10
+/assets/fonts/fontawesome-webfont.woff2 4 308640 0 1
+/.well-known/acme-challenge/2H192RO0TBW5TU6YE7KC76QTNKH1WKE1 1 64 0 0
+/.well-known/acme-challenge/ONP_NTAQQCS7A1XQ7BGFJ-HC54DR41U2 1 64 0 0
+/.well-known/acme-challenge/D11UBREGGTIIZ34K1ZO1G3X-LTULLU50 1 64 0 0
+/.well-known/acme-challenge/la09PbqiFpuRgrNbow9X0pN_qg7re29zX9zk-T2Gk84 1 87 0 0
+/.well-known/acme-challenge/JJhAiwkqZ8D4TYPzXr4pYUqLx7HHXrHBvGg1EgBC58k 1 87 0 0
+/.well-known/acme-challenge/9L4KHR93QBF8J6QI2I438S1V9Y73Y1L3 1 64 0 0
+/.well-known/acme-challenge/6N84M7IX5VH92XM4RG_I2JO9_0K3GNR_ 1 64 0 0
+/.well-known/acme-challenge/QpsOdDkjQzqVNzf8iWNqNq0frdG77fEhhQGOTLW6wlg 1 87 1 0
+/.well-known/acme-challenge/1MG_C31QLY6BTE18TLZ0PA-2X4RHHG-N 1 64 1 0
+/.well-known/acme-challenge/60ZSNQF4_TRJ1QUMLS0CIFTPQ8WKAJ-1 1 64 0 0
+/.well-known/acme-challenge/YVO16OWSWYEZNW3HRO_W-D_QBV4C2F5O 1 64 0 1
+/.well-known/acme-challenge/H5M4PMNIADC2UHBQ3P2Z7GNYKUG21-U- 1 64 0 0
+/.well-known/acme-challenge/Do6vbs4yjtWFast5H9_P7BtJfQdRJNcqHioIYuUL9RA 1 87 0 1
+/.well-known/acme-challenge/VGA0U3YGU0DW28OPC9YSX2VHV7H5V_HB 1 64 0 0
+/.well-known/acme-challenge/P-MNXkROyZtfFSb6c93bRYEYqutCZmO4xqCWmHOwvO8 1 87 0 0
+END_SIDER

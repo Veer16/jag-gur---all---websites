@@ -1,0 +1,66 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2017-08-25 13:19:10
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2017-08-25 13:19:10 GET /images/g1.jpg - 217.182.132.88 HTTP/1.1 Mozilla/5.0+(compatible;+AhrefsBot/5.2;++http://ahrefs.com/robot/) - 200 48831 187
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2017-08-25 15:51:46
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2017-08-25 15:51:46 GET / - 163.172.191.240 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/56.0.2924.87+Safari/537.36 - 200 7037 289
+2017-08-25 15:51:47 GET / - 212.47.228.39 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/53.0.2785.101+Safari/537.36 - 200 5621 289
+2017-08-25 15:51:48 GET / - 212.47.228.39 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/53.0.2785.101+Safari/537.36 - 200 5621 293
+2017-08-25 15:51:53 GET /index.html - 212.47.228.39 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/53.0.2785.101+Safari/537.36 http://crossroadsbar.co.nz 200 5621 336
+2017-08-25 15:51:55 GET / - 212.47.228.39 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/53.0.2785.101+Safari/537.36 http://crossroadsbar.co.nz 200 5621 326
+2017-08-25 15:51:55 GET /index.html - 212.47.228.39 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/53.0.2785.101+Safari/537.36 http://www.crossroadsbar.co.nz 200 5621 344
+2017-08-25 15:51:56 GET /single.html - 212.47.228.39 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/53.0.2785.101+Safari/537.36 http://crossroadsbar.co.nz 404 1405 337
+2017-08-25 15:51:56 GET / - 212.47.228.39 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/53.0.2785.101+Safari/537.36 http://www.crossroadsbar.co.nz 200 5621 334
+2017-08-25 15:52:00 GET /single.html - 212.47.228.39 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/53.0.2785.101+Safari/537.36 http://www.crossroadsbar.co.nz 404 1405 345
+2017-08-25 15:52:03 GET / - 163.172.191.240 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/56.0.2924.87+Safari/537.36 - 200 5640 289
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2017-08-25 16:22:38
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2017-08-25 16:22:38 GET / - 51.15.138.167 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/56.0.2924.87+Safari/537.36 - 200 7037 289
+2017-08-25 16:22:38 GET / - 163.172.191.240 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/53.0.2785.101+Safari/537.36 - 200 5621 289
+2017-08-25 16:22:38 GET / - 163.172.191.240 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/53.0.2785.101+Safari/537.36 - 200 5621 293
+2017-08-25 16:22:43 GET /index.html - 163.172.191.240 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/53.0.2785.101+Safari/537.36 http://crossroadsbar.co.nz 200 5621 336
+2017-08-25 16:22:47 GET / - 163.172.191.240 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/53.0.2785.101+Safari/537.36 http://crossroadsbar.co.nz 200 5621 326
+2017-08-25 16:22:47 GET /index.html - 163.172.191.240 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/53.0.2785.101+Safari/537.36 http://www.crossroadsbar.co.nz 200 5621 344
+2017-08-25 16:22:48 GET /single.html - 163.172.191.240 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/53.0.2785.101+Safari/537.36 http://crossroadsbar.co.nz 404 1405 337
+2017-08-25 16:22:51 GET / - 163.172.191.240 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/53.0.2785.101+Safari/537.36 http://www.crossroadsbar.co.nz 200 5621 334
+2017-08-25 16:22:51 GET /single.html - 163.172.191.240 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/53.0.2785.101+Safari/537.36 http://www.crossroadsbar.co.nz 404 1405 345
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2017-08-25 19:36:30
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2017-08-25 19:36:29 GET /js/easing.js - 180.76.15.7 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - 200 1759 233
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2017-08-25 20:03:12
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2017-08-25 20:03:11 GET /robots.txt - 46.229.164.98 HTTP/1.1 Mozilla/5.0+(compatible;+SemrushBot/1.2~bl;++http://www.semrush.com/bot.html) - 404 1424 213
+2017-08-25 20:16:58 GET /robots.txt - 46.229.164.99 HTTP/1.1 Mozilla/5.0+(compatible;+SemrushBot/1.2~bl;++http://www.semrush.com/bot.html) - 404 1424 209
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2017-08-25 20:48:46
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2017-08-25 20:48:46 GET / - 51.15.138.167 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/53.0.2785.101+Safari/537.36 - 200 7018 293
+2017-08-25 20:48:46 GET / - 51.15.138.167 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/53.0.2785.101+Safari/537.36 - 200 5621 289
+2017-08-25 20:48:52 GET /index.html - 51.15.138.167 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/53.0.2785.101+Safari/537.36 http://www.crossroadsbar.co.nz 200 5621 344
+2017-08-25 20:48:56 GET / - 51.15.138.167 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/53.0.2785.101+Safari/537.36 http://www.crossroadsbar.co.nz 200 5621 334
+2017-08-25 20:48:56 GET /index.html - 51.15.138.167 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/53.0.2785.101+Safari/537.36 http://crossroadsbar.co.nz 200 5621 336
+2017-08-25 20:48:58 GET /single.html - 51.15.138.167 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/53.0.2785.101+Safari/537.36 http://www.crossroadsbar.co.nz 404 1405 345
+2017-08-25 20:49:00 GET / - 51.15.138.167 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/53.0.2785.101+Safari/537.36 http://crossroadsbar.co.nz 200 5621 326
+2017-08-25 20:49:00 GET /single.html - 51.15.138.167 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/53.0.2785.101+Safari/537.36 http://crossroadsbar.co.nz 404 1405 337
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2017-08-25 21:57:28
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2017-08-25 21:57:28 GET / - 51.15.138.167 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/56.0.2924.87+Safari/537.36 - 200 7037 289
+2017-08-25 21:57:35 GET / - 51.15.138.167 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/56.0.2924.87+Safari/537.36 - 200 5640 289
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2017-08-26 06:14:11
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2017-08-26 06:14:11 GET /ads.txt - 54.203.102.90 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.3;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/34.0.1847.137+Safari/537.36 - 404 1405 198

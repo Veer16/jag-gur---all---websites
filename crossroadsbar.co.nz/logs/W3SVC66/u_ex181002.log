@@ -1,0 +1,82 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-10-02 07:41:40
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-10-02 07:41:40 GET / - 66.249.79.14 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 7018 300
+2018-10-02 07:52:43 GET / - 52.53.201.78 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_12_6)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/61.0.3163.100+Safari/537.36 - 200 7018 220
+2018-10-02 07:58:24 GET / - 180.76.15.153 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - 200 7037 221
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-10-02 08:48:51
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-10-02 08:48:51 GET /js/wow.min.js - 66.249.79.14 HTTP/1.1 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+compatible;+Googlebot/2.1;++http://www.google.com/bot.html)+Safari/537.36 http://www.crossroadsbar.co.nz/ 200 2376 371
+2018-10-02 08:48:51 GET /cdn.fancybar.net/ac/fancybar6a2f.js - 66.249.79.14 HTTP/1.1 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+compatible;+Googlebot/2.1;++http://www.google.com/bot.html)+Safari/537.36 http://www.crossroadsbar.co.nz/ 404 1405 439
+2018-10-02 08:48:51 GET /www.google-analytics.com/analytics.js - 66.249.79.14 HTTP/1.1 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+compatible;+Googlebot/2.1;++http://www.google.com/bot.html)+Safari/537.36 http://www.crossroadsbar.co.nz/ 404 1405 395
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-10-02 09:58:19
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-10-02 09:58:19 GET /license.php - 46.118.155.165 HTTP/1.1 $ua.tools.random() http://www.crossroadsbar.co.nz/license.php 404 1424 196
+2018-10-02 09:58:19 GET /license.php - 46.118.155.165 HTTP/1.1 $ua.tools.random() http://www.crossroadsbar.co.nz/license.php 404 1424 196
+2018-10-02 09:58:19 GET /license.php - 46.118.155.165 HTTP/1.1 $ua.tools.random() http://www.crossroadsbar.co.nz/license.php 404 1424 196
+2018-10-02 09:58:21 GET /license.php - 46.118.155.165 HTTP/1.1 $ua.tools.random() http://www.crossroadsbar.co.nz/license.php 404 1424 196
+2018-10-02 09:58:21 GET /license.php - 46.118.155.165 HTTP/1.1 $ua.tools.random() http://www.crossroadsbar.co.nz/license.php 404 1424 196
+2018-10-02 10:07:14 GET / - 42.236.99.2 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/50.0.2661.102+Safari/537.36;+360Spider http://www.crossroadsbar.co.nz/ 200 0 327
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-10-02 10:43:08
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-10-02 10:43:08 GET /status - 103.60.167.118 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:57.0)+Gecko/20100101+Firefox/57.0 - 404 1405 161
+2018-10-02 10:43:09 GET /phpMyAdmin/scripts/setup.php - 103.60.167.118 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:57.0)+Gecko/20100101+Firefox/57.0 - 404 1405 178
+2018-10-02 10:43:10 GET /phpmyadmin/scripts/setup.php - 103.60.167.118 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:57.0)+Gecko/20100101+Firefox/57.0 - 404 1405 178
+2018-10-02 10:43:13 GET /_phpMyAdmin/scripts/setup.php - 103.60.167.118 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:57.0)+Gecko/20100101+Firefox/57.0 - 404 1405 179
+2018-10-02 10:43:14 GET /admin/scripts/setup.php - 103.60.167.118 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:57.0)+Gecko/20100101+Firefox/57.0 - 404 1405 173
+2018-10-02 10:43:14 GET /scripts/setup.php - 103.60.167.118 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:57.0)+Gecko/20100101+Firefox/57.0 - 404 1405 167
+2018-10-02 10:43:15 GET /pma/scripts/setup.php - 103.60.167.118 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:57.0)+Gecko/20100101+Firefox/57.0 - 404 1405 171
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-10-02 11:57:34
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-10-02 11:57:34 GET / - 180.153.236.133 HTTP/1.1 Mozilla/5.0(compatible;MSIE9.0;WindowsNT6.1;Trident/5.0) http://www.crossroadsbar.co.nz/ 200 23480 263
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-10-02 14:55:26
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-10-02 14:55:26 GET /single.html - 54.36.149.33 HTTP/1.1 Mozilla/5.0+(compatible;+AhrefsBot/5.2;++http://ahrefs.com/robot/) - 404 1405 181
+2018-10-02 15:05:10 GET /robots.txt - 5.45.207.33 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - 404 1405 206
+2018-10-02 15:05:11 GET /robots.txt - 141.8.132.37 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - 404 1405 202
+2018-10-02 15:05:14 GET / - 5.45.207.33 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - 200 7018 288
+2018-10-02 15:05:14 GET / - 141.8.132.37 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - 200 5621 284
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-10-02 16:16:46
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-10-02 16:16:46 GET /index.html - 180.76.15.5 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - 200 7048 231
+2018-10-02 16:16:46 GET / - 180.76.15.145 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - 200 5640 221
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-10-02 21:23:30
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-10-02 21:23:29 GET /images/g7.jpg - 54.36.149.22 HTTP/1.1 Mozilla/5.0+(compatible;+AhrefsBot/5.2;++http://ahrefs.com/robot/) - 200 0 183
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-10-02 23:54:58
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-10-02 23:54:58 GET /status - 47.75.150.232 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:57.0)+Gecko/20100101+Firefox/57.0 - 404 1405 161
+2018-10-02 23:54:58 GET /phpMyAdmin/scripts/setup.php - 47.75.150.232 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:57.0)+Gecko/20100101+Firefox/57.0 - 404 1405 178
+2018-10-02 23:54:58 GET /phpmyadmin/scripts/setup.php - 47.75.150.232 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:57.0)+Gecko/20100101+Firefox/57.0 - 404 1405 178
+2018-10-02 23:54:58 GET /_phpMyAdmin/scripts/setup.php - 47.75.150.232 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:57.0)+Gecko/20100101+Firefox/57.0 - 404 1405 179
+2018-10-02 23:54:58 GET /admin/scripts/setup.php - 47.75.150.232 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:57.0)+Gecko/20100101+Firefox/57.0 - 404 1405 173
+2018-10-02 23:54:58 GET /scripts/setup.php - 47.75.150.232 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:57.0)+Gecko/20100101+Firefox/57.0 - 404 1405 167
+2018-10-02 23:54:58 GET /pma/scripts/setup.php - 47.75.150.232 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:57.0)+Gecko/20100101+Firefox/57.0 - 404 1405 171
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-10-03 03:05:43
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-10-03 03:05:43 HEAD / - 188.165.200.217 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+5.01;+Windows+NT+5.0) - 200 249 124
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-10-03 04:30:47
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-10-03 04:30:47 GET /robots.txt - 54.36.150.125 HTTP/1.1 Mozilla/5.0+(compatible;+AhrefsBot/5.2;++http://ahrefs.com/robot/) - 404 1405 180
+2018-10-03 04:30:48 GET /images/c3.jpg - 54.36.148.57 HTTP/1.1 Mozilla/5.0+(compatible;+AhrefsBot/5.2;++http://ahrefs.com/robot/) - 200 0 183

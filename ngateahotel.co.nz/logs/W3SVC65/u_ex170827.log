@@ -1,0 +1,18 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2017-08-27 12:30:42
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2017-08-27 12:30:42 GET / - 169.54.233.121 HTTP/1.1 - - 200 959 40
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2017-08-27 18:17:46
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2017-08-27 18:17:46 GET /robots.txt - 66.249.79.21 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 404 1405 235
+2017-08-27 18:17:46 GET /225723/html/page.html - 66.249.79.25 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 404 1405 319
+2017-08-27 18:19:59 GET / - 74.85.210.244 HTTP/1.1 =Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US)+AppleWebKit/534.16+(KHTML,+like+Gecko)+Chrome/10.0.648.204+Safari/534.16 - 200 959 215
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2017-08-27 18:49:24
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2017-08-27 18:49:24 GET /robots.txt - 77.75.78.164 HTTP/1.1 Mozilla/5.0+(compatible;+SeznamBot/3.2;++http://napoveda.seznam.cz/en/seznambot-intro/) - 404 1405 248
+2017-08-27 18:49:27 GET /uploads/89914/images/224974/HPIM2278.JPG - 77.75.78.164 HTTP/1.1 Mozilla/5.0+(compatible;+SeznamBot/3.2;++http://napoveda.seznam.cz/en/seznambot-intro/) - 404 1405 278

@@ -1,0 +1,105 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2019-05-10 09:01:00
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2019-05-10 09:00:59 GET / - 65.60.27.157 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 - 200 23480 227
+2019-05-10 09:00:59 GET /wp - 65.60.27.157 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 - 404 1405 229
+2019-05-10 09:01:00 GET /wordpress - 65.60.27.157 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 - 404 1405 236
+2019-05-10 09:01:00 GET /wp-admin - 65.60.27.157 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 - 404 1405 235
+2019-05-10 09:01:01 GET /blog - 65.60.27.157 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 - 404 1405 231
+2019-05-10 09:01:01 GET /administrator/index.php - 65.60.27.157 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 - 404 1405 250
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2019-05-10 11:39:24
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2019-05-10 11:39:24 GET /robots.txt - 157.55.39.32 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - 404 1405 256
+2019-05-10 11:39:31 GET /index.html - 40.77.167.150 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - 200 7029 288
+2019-05-10 11:39:38 GET /robots.txt - 40.77.167.77 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - 404 1405 256
+2019-05-10 11:39:39 GET /robots.txt - 40.77.167.77 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - 404 1405 256
+2019-05-10 11:39:39 GET /robots.txt - 40.77.167.77 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - 404 1405 256
+2019-05-10 11:39:39 GET /robots.txt - 40.77.167.77 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - 404 1405 256
+2019-05-10 11:39:39 GET /robots.txt - 40.77.167.77 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - 404 1405 256
+2019-05-10 11:39:39 GET /robots.txt - 40.77.167.77 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - 404 1405 256
+2019-05-10 11:39:44 GET /css/iconeffects.css - 157.55.39.9 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - 200 3470 265
+2019-05-10 11:39:44 GET /js/easing.js - 157.55.39.9 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - 200 1740 258
+2019-05-10 11:39:44 GET /js/jquery.swipebox.min.js - 157.55.39.9 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - 200 2872 271
+2019-05-10 11:39:44 GET /js/move-top.js - 157.55.39.9 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - 200 1080 260
+2019-05-10 11:39:44 GET /pagead2.googlesyndication.com/pagead/js/f.txt - 157.55.39.9 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - 404 1405 291
+2019-05-10 11:39:50 GET /css/bootstrap.css - 40.77.167.69 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - 200 27109 263
+2019-05-10 11:39:50 GET /css/swipebox.css - 40.77.167.69 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - 200 1525 262
+2019-05-10 11:39:50 GET /www.google-analytics.com/analytics.js - 40.77.167.69 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - 404 1405 283
+2019-05-10 11:39:54 GET /css/animate.css - 157.55.39.100 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - 200 8279 261
+2019-05-10 11:39:54 GET /css/style.css - 157.55.39.100 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - 200 15962 259
+2019-05-10 11:39:54 GET /js/jquery-1.11.1.min.js - 157.55.39.100 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - 200 43072 269
+2019-05-10 11:39:55 GET /js/responsiveslides.min.js - 157.55.39.100 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - 200 2127 272
+2019-05-10 11:39:55 GET /js/wow.min.js - 157.55.39.100 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - 200 2376 259
+2019-05-10 11:39:58 GET /cdn.fancybar.net/ac/fancybar6a2f.js - 40.77.167.77 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - 404 1405 327
+2019-05-10 11:39:59 GET /images/border.png - 40.77.167.77 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - 200 3286 263
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2019-05-10 12:40:53
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2019-05-10 12:40:53 GET /images/db.png - 157.55.39.9 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - 200 7998 259
+2019-05-10 12:40:53 GET /images/gg.png - 157.55.39.9 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - 200 7753 259
+2019-05-10 12:40:53 GET /images/tw.png - 157.55.39.9 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - 200 7323 259
+2019-05-10 12:40:59 GET /images/banner.jpg - 157.55.39.100 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - 200 339923 263
+2019-05-10 12:40:59 GET /images/fb.png - 157.55.39.100 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - 200 7384 259
+2019-05-10 12:41:03 GET /images/move-top.png - 40.77.167.77 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - 200 3488 265
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2019-05-10 16:25:59
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2019-05-10 16:25:59 GET /wp-content/themes/evolve/js/back-end/libraries/fileuploader/upload_handler.php - 104.148.64.26 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/42.0.2311.152+Safari/537.36 http://www.crossroadsbar.co.nz/wp-content/themes/evolve/js/back-end/libraries/fileuploader/upload_handler.php 404 1424 527
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2019-05-10 21:20:02
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2019-05-10 21:20:02 GET / - 65.60.27.157 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 - 200 23480 227
+2019-05-10 21:20:02 GET /wp - 65.60.27.157 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 - 404 1405 229
+2019-05-10 21:20:03 GET /wordpress - 65.60.27.157 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 - 404 1405 236
+2019-05-10 21:20:03 GET /wp-admin - 65.60.27.157 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 - 404 1405 235
+2019-05-10 21:20:04 GET /blog - 65.60.27.157 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 - 404 1405 231
+2019-05-10 21:20:04 GET /administrator/index.php - 65.60.27.157 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 - 404 1405 250
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2019-05-10 21:37:52
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2019-05-10 21:37:51 GET /robots.txt - 66.249.64.66 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 404 1405 237
+2019-05-10 21:37:52 GET / - 66.249.64.66 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 7018 300
+2019-05-10 21:37:56 GET /css/iconeffects.css - 66.249.64.66 HTTP/1.1 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+compatible;+Googlebot/2.1;++http://www.google.com/bot.html)+Safari/537.36 http://www.crossroadsbar.co.nz/ 200 3470 392
+2019-05-10 21:37:57 GET /css/swipebox.css - 66.249.64.66 HTTP/1.1 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+compatible;+Googlebot/2.1;++http://www.google.com/bot.html)+Safari/537.36 http://www.crossroadsbar.co.nz/ 200 1525 389
+2019-05-10 21:37:57 GET /robots.txt - 66.249.64.170 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 404 1405 233
+2019-05-10 21:37:59 GET /js/easing.js - 66.249.64.66 HTTP/1.1 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+compatible;+Googlebot/2.1;++http://www.google.com/bot.html)+Safari/537.36 http://www.crossroadsbar.co.nz/ 200 1740 370
+2019-05-10 21:38:02 GET /js/move-top.js - 66.249.64.94 HTTP/1.1 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+compatible;+Googlebot/2.1;++http://www.google.com/bot.html)+Safari/537.36 http://www.crossroadsbar.co.nz/ 200 1080 372
+2019-05-10 21:38:04 GET /css/bootstrap.css - 66.249.64.170 HTTP/1.1 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+compatible;+Googlebot/2.1;++http://www.google.com/bot.html)+Safari/537.36 http://www.crossroadsbar.co.nz/ 200 27109 386
+2019-05-10 21:38:05 GET /js/wow.min.js - 66.249.64.170 HTTP/1.1 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+compatible;+Googlebot/2.1;++http://www.google.com/bot.html)+Safari/537.36 http://www.crossroadsbar.co.nz/ 200 2376 367
+2019-05-10 21:38:08 GET /cdn.fancybar.net/ac/fancybar6a2f.js - 66.249.64.94 HTTP/1.1 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+compatible;+Googlebot/2.1;++http://www.google.com/bot.html)+Safari/537.36 http://www.crossroadsbar.co.nz/ 404 1405 439
+2019-05-10 21:38:15 GET /js/responsiveslides.min.js - 66.249.64.94 HTTP/1.1 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+compatible;+Googlebot/2.1;++http://www.google.com/bot.html)+Safari/537.36 http://www.crossroadsbar.co.nz/ 200 2127 384
+2019-05-10 21:38:18 GET /www.google-analytics.com/analytics.js - 66.249.64.94 HTTP/1.1 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+compatible;+Googlebot/2.1;++http://www.google.com/bot.html)+Safari/537.36 http://www.crossroadsbar.co.nz/ 404 1405 395
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2019-05-11 00:30:09
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2019-05-11 00:30:09 GET / - 180.163.220.45 HTTP/1.1 Mozilla/5.0(compatible;MSIE9.0;WindowsNT6.1;Trident/5.0) http://crossroadsbar.co.nz/ 200 7018 255
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2019-05-11 03:08:47
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2019-05-11 03:08:47 GET / - 157.55.39.117 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - 304 211 364
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2019-05-11 03:28:12
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2019-05-11 03:28:11 GET /robots.txt - 144.76.236.112 HTTP/1.1 Mozilla/5.0+(compatible;+MJ12bot/v1.4.8;+http://mj12bot.com/) - 404 1405 171
+2019-05-11 03:28:14 GET / - 144.76.236.112 HTTP/1.1 Mozilla/5.0+(compatible;+MJ12bot/v1.4.8;+http://mj12bot.com/) - 200 23480 348
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2019-05-11 04:17:59
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2019-05-11 04:17:58 GET / - 180.163.220.47 HTTP/1.1 Mozilla/5.0(compatible;MSIE9.0;WindowsNT6.1;Trident/5.0) http://www.crossroadsbar.co.nz/ 200 23480 263
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2019-05-11 05:27:50
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2019-05-11 05:27:50 GET /robots.txt - 5.45.207.33 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - 404 1405 206
+2019-05-11 05:27:54 GET /favicon.ico - 5.45.207.33 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - 404 1405 238

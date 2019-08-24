@@ -1,0 +1,363 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 201812 will be lost/reset.
+# Last config file used to build this data file was /home/thefi694/tmp/awstats/awstats.startavern.thefirkin.co.nz.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2023                
+POS_TIME 2681                
+POS_VISITOR 11105               
+POS_DAY 11783               
+POS_DOMAIN 3304                
+POS_LOGIN 3572                
+POS_ROBOT 3727                
+POS_WORMS 4027                
+POS_EMAILSENDER 4158                
+POS_EMAILRECEIVER 4301                
+POS_SESSION 12133               
+POS_SIDER 12290               
+POS_FILETYPES 4436                
+POS_DOWNLOADS 4721                
+POS_OS 4769                
+POS_BROWSER 4935                
+POS_SCREENSIZE 5115                
+POS_UNKNOWNREFERER 5189                
+POS_UNKNOWNREFERERBROWSER 5421                
+POS_ORIGIN 5503                
+POS_SEREFERRALS 5638                
+POS_PAGEREFS 5782                
+POS_SEARCHWORDS 5959                
+POS_KEYWORDS 6111                
+POS_MISC 2345                
+POS_ERRORS 6170                
+POS_CLUSTER 3428                
+POS_SIDER_404 6260                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20190101005731 1 0 9745381790934
+FirstTime 0
+LastTime 20181230204142
+LastUpdate 20190101231723 1 0 0 0 0
+TotalVisits 20                  
+TotalUnique 12                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 17                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+RealPlayerSupport 0 0 0
+PDFSupport 0 0 0
+JavaEnabled 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+JavascriptDisabled 0 0 0
+QuickTimeSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+AddToFavourites 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 1 1 3725 2 3 17548
+1 1 1 3725 1 3 13821
+2 0 0 0 1 2 13823
+3 2 2 7450 0 0 0
+4 0 0 0 5 5 44193
+5 0 0 0 0 0 0
+6 0 0 0 12 13 118663
+7 0 0 0 1 2 13821
+8 0 0 0 1 2 13824
+9 10 52 4236932 48 53 525530
+10 1 1 3725 1 2 13815
+11 1 1 3725 2 2 7450
+12 1 1 3725 4 5 37771
+13 0 0 0 2 3 17546
+14 0 0 0 1 3 13824
+15 0 0 0 2 3 17546
+16 0 0 0 1 10 4037416
+17 0 0 0 0 0 0
+18 4 35 5211307 4 7 35094
+19 6 62 5516598 2 6 37754
+20 3 3 144941 1 28 311662
+21 2 2 7450 4 31 354966
+22 0 0 0 5 14 129644
+23 0 0 0 2 3 17547
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 4
+us 24 97 9485489
+nz 6 62 5650364
+ro 1 1 3725
+fr 1 1 3725
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 4
+Googlebot/ 81 769533 20181229213635 0
+bot[\s_+:,\.\;\/\\-] 10 37250 20181226152200 0
+Googlebot\-Image/ 5 4012618 20181201165155 0
+no_user_agent 1 3725 20181214003215 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 13
+js 60 948300 0 0
+php 1 0 0 0
+otf 1 65932 0 0
+gif 1 8685 0 0
+woff 1 98024 0 0
+jpg 16 12163038 0 0
+woff2 4 308640 0 0
+ttf 5 421772 0 0
+png 11 42935 0 0
+html 18 67050 0 0
+eot 2 331484 0 0
+css 40 243064 0 0
+svg 1 444379 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 8
+macosx10 2 2
+macosx12 9 9
+Unknown 51 9
+macosx 34 3
+win2003 1 1
+win10 2 2
+linuxandroid 28 3
+win7 34 3
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 8
+edge17 1 1
+firefox59.0 2 2
+msie6.0 1 1
+firefox64.0 1 1
+chrome61.0.3163.100 9 9
+msie9.0 34 3
+mozilla 51 9
+chrome70.0.3538.110 62 6
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 1
+Mozilla/5.0_(compatible;_NLNZ_IAHarvester2018/3.3.0__https://natlib.govt.nz/publishers-and-authors/web-harvesting/domain-harvest) 20181222092811
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 16 16
+From1 1 1
+From2 0 0
+From3 1 1
+From4 14 143
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+https://www.facebook.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 1
+404 96 970132
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 65
+/easing.SlowMo 1 http://startavern.co.nz/plugins/greensock/TweenMax.min.js
+/events.EventDispatcher 1 http://startavern.co.nz/plugins/greensock/TweenMax.min.js
+//wp-login.php 4 http://www.google.com.hk
+/bs.modal 1 http://startavern.co.nz/styles/bootstrap-4.1.2/bootstrap.min.js
+/shift.internal 1 http://startavern.co.nz/plugins/scrollmagic/ScrollMagic.min.js
+//xmlrpc.php 4 http://www.google.com.hk
+/shift.controller_sort 1 http://startavern.co.nz/plugins/scrollmagic/ScrollMagic.min.js
+/bs.collapse 1 http://startavern.co.nz/styles/bootstrap-4.1.2/bootstrap.min.js
+/bs.scrollspy 1 http://startavern.co.nz/styles/bootstrap-4.1.2/bootstrap.min.js
+/keydown.timepicker 1 http://startavern.co.nz/plugins/jquery-timepicker/jquery.timepicker.js
+/next/prev 1 http://startavern.co.nz/plugins/jquery-datepicker/jquery-ui.js
+/focus.timepicker 1 http://startavern.co.nz/plugins/jquery-timepicker/jquery.timepicker.js
+/easing.RoughEase 1 http://startavern.co.nz/plugins/greensock/TweenMax.min.js
+/core.Animation 1 http://startavern.co.nz/plugins/greensock/TweenMax.min.js
+/core.SimpleTimeline 1 http://startavern.co.nz/plugins/greensock/TweenMax.min.js
+/mouseout.timepicker 1 http://startavern.co.nz/plugins/jquery-timepicker/jquery.timepicker.js
+/px.parallax 1 http://startavern.co.nz/plugins/parallax-js-master/parallax.min.js
+/blog1/wp-login.php 1 -
+/click.timepicker- 1 http://startavern.co.nz/plugins/jquery-timepicker/jquery.timepicker.js
+/TweenLite.js 1 http://startavern.co.nz/plugins/greensock/TimelineMax.min.js
+/mouseup.dismiss 1 http://startavern.co.nz/styles/bootstrap-4.1.2/bootstrap.min.js
+/destroy.plugin_gsap 1 http://startavern.co.nz/plugins/greensock/animation.gsap.min.js
+/easing.Ease 1 http://startavern.co.nz/plugins/greensock/TweenMax.min.js
+/test/wp-login.php 1 -
+/add.internal 1 http://startavern.co.nz/plugins/scrollmagic/ScrollMagic.min.js
+/com.greensock 1 http://startavern.co.nz/plugins/greensock/TweenMax.min.js
+/click.dismiss 1 http://startavern.co.nz/styles/bootstrap-4.1.2/bootstrap.min.js
+/owl.carousel 1 http://startavern.co.nz/plugins/OwlCarousel2-2.2.1/owl.carousel.js
+/wordpress2/wp-login.php 1 -
+/click.timepicker 1 http://startavern.co.nz/plugins/jquery-timepicker/jquery.timepicker.js
+/plugins.CSSPlugin 1 http://startavern.co.nz/plugins/greensock/TweenMax.min.js
+/test1/wp-login.php 1 -
+/bs.button 1 http://startavern.co.nz/styles/bootstrap-4.1.2/bootstrap.min.js
+/wordpress1/wp-login.php 1 -
+/bs.tab 1 http://startavern.co.nz/styles/bootstrap-4.1.2/bootstrap.min.js
+/change.timepicker 1 http://startavern.co.nz/plugins/jquery-timepicker/jquery.timepicker.js
+/Version/ 1 http://startavern.co.nz/plugins/greensock/TweenMax.min.js
+/popper.js 1 http://startavern.co.nz/styles/bootstrap-4.1.2/bootstrap.min.js
+/mouseleave.timepicker 1 http://startavern.co.nz/plugins/jquery-timepicker/jquery.timepicker.js
+/destroy.internal 1 http://startavern.co.nz/plugins/scrollmagic/ScrollMagic.min.js
+/blog/wp-login.php 1 -
+/test2/wp-login.php 1 -
+/hqdefault.jpg 1 http://startavern.co.nz/plugins/OwlCarousel2-2.2.1/owl.carousel.js
+/change.internal 1 http://startavern.co.nz/plugins/scrollmagic/ScrollMagic.min.js
+/keydown.dismiss 1 http://startavern.co.nz/styles/bootstrap-4.1.2/bootstrap.min.js
+/bs.carousel 1 http://startavern.co.nz/styles/bootstrap-4.1.2/bootstrap.min.js
+/wp1/wp-login.php 1 -
+/ScrollMagic.Controller 1 http://startavern.co.nz/plugins/scrollmagic/ScrollMagic.min.js
+/bs.tooltip 1 http://startavern.co.nz/styles/bootstrap-4.1.2/bootstrap.min.js
+/easing.SteppedEase 1 http://startavern.co.nz/plugins/greensock/TweenMax.min.js
+/plugins.TweenPlugin 1 http://startavern.co.nz/plugins/greensock/TweenMax.min.js
+/robots.txt 26 -
+/bs.popover 1 http://startavern.co.nz/styles/bootstrap-4.1.2/bootstrap.min.js
+/mm/dd/yy 1 http://startavern.co.nz/plugins/jquery-datepicker/jquery-ui.js
+/bs.alert 1 http://startavern.co.nz/styles/bootstrap-4.1.2/bootstrap.min.js
+/mouseover.timepicker 1 http://startavern.co.nz/plugins/jquery-timepicker/jquery.timepicker.js
+/bs.dropdown 1 http://startavern.co.nz/styles/bootstrap-4.1.2/bootstrap.min.js
+/wp3/wp-login.php 1 -
+/wp-login.php 1 -
+/blur.timepicker 1 http://startavern.co.nz/plugins/jquery-timepicker/jquery.timepicker.js
+/easing.EaseLookup 1 http://startavern.co.nz/plugins/greensock/TweenMax.min.js
+/ads.txt 1 -
+/easing.Back 1 http://startavern.co.nz/plugins/greensock/TweenMax.min.js
+/mousedown.dismiss 1 http://startavern.co.nz/styles/bootstrap-4.1.2/bootstrap.min.js
+/mouseenter.timepicker 1 http://startavern.co.nz/plugins/jquery-timepicker/jquery.timepicker.js
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 17
+52.53.201.78 9 9 33525 20181230204142
+207.241.232.247 9 51 4233207 20181222092811
+118.149.73.191 3 34 5207582 20181204181937
+115.189.130.185 3 28 442782 20181206200001
+79.116.41.72 1 1 3725 20181214003216
+64.246.165.140 1 1 3725 20181208195734
+159.65.98.93 1 1 3725 20181229215341
+69.171.251.12 1 5 146558 20181206195902
+64.246.165.50 1 1 3725 20181229210704
+51.254.114.91 1 1 3725 20181214102917
+69.171.251.13 1 6 97063 20181206195902
+69.171.251.3 1 4 39404 20181206195901
+69.171.251.27 0 5 338315 
+69.171.251.30 0 5 77015 
+69.171.251.41 0 1 448620 
+69.171.251.25 0 4 2346504 
+69.171.251.16 0 4 1714103 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 14
+20181204 3 34 5207582 1
+20181206 6 62 5650364 4
+20181208 1 1 3725 1
+20181212 1 1 3725 1
+20181214 3 3 11175 3
+20181216 1 1 3725 1
+20181219 1 1 3725 1
+20181221 1 1 3725 1
+20181222 9 51 4233207 1
+20181223 1 1 3725 1
+20181226 1 1 3725 1
+20181228 1 1 3725 1
+20181229 2 2 7450 2
+20181230 1 1 3725 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 2
+0s-30s 19
+30s-2mn 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 8
+/ 18 67050 18 15
+/plugins/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2 4 308640 1 3
+/font/edwardian_script_itc.ttf 4 256224 1 1
+/plugins/font-awesome-4.7.0/fonts/fontawesome-webfont.eot 2 331484 0 0
+/plugins/font-awesome-4.7.0/fonts/fontawesome-webfont.woff 1 98024 0 0
+/font/edwardian_script_itc.otf 1 65932 0 1
+/contact_process.php 1 0 0 0
+/plugins/font-awesome-4.7.0/fonts/fontawesome-webfont.ttf 1 165548 0 0
+END_SIDER

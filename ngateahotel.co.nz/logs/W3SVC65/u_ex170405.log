@@ -1,0 +1,50 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2017-04-05 11:45:12
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2017-04-05 11:45:12 GET /xxx.htm - 124.206.180.130 HTTP/1.1 HTC_Dream+Mozilla/5.0+(Linux;+U;+Android+1.5;+en-ca;+Build/CUPCAKE)+AppleWebKit/528.5++(KHTML,+like+Gecko)+Version/3.1.2+Mobile+Safari/525.20.1 - 404 1405 276
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2017-04-05 12:15:27
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2017-04-05 12:15:27 GET /robots.txt - 141.8.184.29 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - 404 1405 191
+2017-04-05 12:15:31 GET /favicon.ico - 93.158.152.7 HTTP/1.1 Mozilla/5.0+(compatible;+YandexImages/3.0;++http://yandex.com/bots) - 404 1405 239
+2017-04-05 12:15:35 GET /uploads/89914/images/224974/HPIM2278.JPG - 178.154.189.33 HTTP/1.1 Mozilla/5.0+(compatible;+YandexImages/3.0;++http://yandex.com/bots) - 404 1405 268
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2017-04-05 16:29:17
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2017-04-05 16:29:17 GET /robots.txt - 66.249.79.113 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 404 1405 231
+2017-04-05 16:29:17 GET /webapps/i/89914/230892/364405 - 66.249.79.113 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 404 1405 327
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2017-04-05 17:14:56
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2017-04-05 17:14:55 GET /robots.txt - 162.210.196.100 HTTP/1.1 Mozilla/5.0+(compatible;+MJ12bot/v1.4.8;+http://mj12bot.com/) - 404 1405 165
+2017-04-05 17:14:57 GET / - 162.210.196.100 HTTP/1.1 Mozilla/5.0+(compatible;+MJ12bot/v1.4.8;+http://mj12bot.com/) - 200 959 342
+2017-04-05 17:15:00 GET /robots.txt - 162.210.196.100 HTTP/1.1 Mozilla/5.0+(compatible;+MJ12bot/v1.4.8;+http://mj12bot.com/) - 404 1405 169
+2017-04-05 17:15:02 GET / - 162.210.196.100 HTTP/1.1 Mozilla/5.0+(compatible;+MJ12bot/v1.4.8;+http://mj12bot.com/) - 200 959 346
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2017-04-05 23:41:12
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2017-04-05 23:41:11 GET /robots.txt - 46.229.164.99 HTTP/1.1 Mozilla/5.0+(compatible;+SemrushBot/1.2~bl;++http://www.semrush.com/bot.html) - 404 1424 211
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2017-04-06 02:52:41
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2017-04-06 02:52:40 GET /robots.txt - 207.241.231.59 HTTP/1.0 Mozilla/5.0+(compatible;+NLNZ_IAHarvester2017/3.3.0++https://natlib.govt.nz/publishers-and-authors/web-harvesting/domain-harvest) - 404 1424 2715
+2017-04-06 02:52:42 GET / - 207.241.231.59 HTTP/1.0 Mozilla/5.0+(compatible;+NLNZ_IAHarvester2017/3.3.0++https://natlib.govt.nz/publishers-and-authors/web-harvesting/domain-harvest) - 200 978 2705
+2017-04-06 02:52:43 GET /favicon.ico - 207.241.231.59 HTTP/1.0 Mozilla/5.0+(compatible;+NLNZ_IAHarvester2017/3.3.0++https://natlib.govt.nz/publishers-and-authors/web-harvesting/domain-harvest) http://ngateahotel.co.nz/ 404 1424 2752
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2017-04-06 03:51:16
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2017-04-06 03:51:15 GET / - 216.19.222.225 HTTP/1.1 =Mozilla/5.0+(Windows;+U;+Windows+NT+6.1;+en-US)+AppleWebKit/534.16+(KHTML,+like+Gecko)+Chrome/10.0.648.204+Safari/534.16 - 200 959 215
+2017-04-06 03:56:37 GET / - 101.98.114.81 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/57.0.2987.133+Safari/537.36 - 200 818 368
+2017-04-06 03:56:37 GET /favicon.ico - 101.98.114.81 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/57.0.2987.133+Safari/537.36 http://ngateahotel.co.nz/ 404 1405 339
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2017-04-06 06:44:32
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2017-04-06 06:44:32 GET / - 185.38.14.215 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/37.0.2062.120+Safari/537.36 http://pizza-imperia.com/ 200 818 242

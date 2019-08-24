@@ -1,0 +1,123 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-09-05 07:06:52
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-09-05 07:06:51 HEAD / - 35.205.150.78 HTTP/1.1 - - 200 249 61
+2018-09-05 07:06:53 GET / - 35.205.150.78 HTTP/1.1 - - 200 103142 60
+2018-09-05 07:16:02 GET /robots.txt - 46.229.168.67 HTTP/1.1 Mozilla/5.0+(compatible;+SemrushBot/2~bl;++http://www.semrush.com/bot.html) - 404 1424 196
+2018-09-05 07:16:04 GET / - 46.229.168.81 HTTP/1.1 Mozilla/5.0+(compatible;+SemrushBot/2~bl;++http://www.semrush.com/bot.html) - 200 13748 205
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-09-05 08:48:02
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-09-05 08:48:02 GET /robots.txt - 180.76.15.161 HTTP/1.1 Mozilla/5.0+(Windows+NT+5.1;+rv:6.0.2)+Gecko/20100101+Firefox/6.0.2 - 404 1424 223
+2018-09-05 08:48:02 GET /robots.txt - 180.76.15.32 HTTP/1.1 Mozilla/5.0+(Windows+NT+5.1;+rv:6.0.2)+Gecko/20100101+Firefox/6.0.2 - 404 1424 223
+2018-09-05 08:51:17 GET / - 180.76.15.15 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - 200 13748 223
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-09-05 10:31:25
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-09-05 10:31:25 GET / - 40.77.167.125 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - 200 13729 272
+2018-09-05 10:31:28 GET /css/bootstrap/css/bootstrap.min.css - 40.77.189.57 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b - 200 97587 280
+2018-09-05 10:31:29 GET /style.css - 40.77.189.131 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b - 200 17822 254
+2018-09-05 10:31:29 GET /css/colors.css - 40.77.189.131 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b - 200 10501 259
+2018-09-05 10:31:29 GET /js/prettyphoto/css/prettyPhoto.css - 40.77.189.131 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b - 200 20163 279
+2018-09-05 10:31:31 GET /images/logo-big.png - 40.77.188.21 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b - 200 16600 264
+2018-09-05 10:31:31 GET /images/blog/blog-1.jpg - 40.77.189.131 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b - 200 14403 267
+2018-09-05 10:31:32 GET /images/events/event-1.jpg - 40.77.189.57 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b - 200 608557 270
+2018-09-05 10:31:34 GET /images/events/event-2.jpg - 40.77.188.21 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b - 200 595360 270
+2018-09-05 10:31:37 GET /images/events/event-3.jpg - 40.77.188.122 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b - 200 598125 270
+2018-09-05 10:31:37 GET /images/events/event-4.jpg - 40.77.188.182 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b - 200 16101 270
+2018-09-05 10:31:38 GET /images/team/member-2.jpg - 40.77.188.122 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b - 200 594701 269
+2018-09-05 10:31:39 GET /images/team/member-3.jpg - 40.77.188.122 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b - 200 587295 269
+2018-09-05 10:31:39 GET /images/team/member-1.jpg - 40.77.188.59 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b - 200 593475 269
+2018-09-05 10:31:41 GET /images/gallery/gallery-1.jpg - 40.77.188.59 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b - 200 16100 273
+2018-09-05 10:31:41 GET /images/gallery/gallery-2.jpg - 40.77.188.59 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b - 200 16758 273
+2018-09-05 10:31:42 GET /images/gallery/gallery-3.jpg - 40.77.189.115 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b - 200 14699 273
+2018-09-05 10:31:42 GET /images/gallery/gallery-4.jpg - 40.77.189.115 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b - 200 14402 273
+2018-09-05 10:31:42 GET /images/gallery/gallery-5.jpg - 40.77.189.115 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b - 200 18116 273
+2018-09-05 10:31:44 GET /images/gallery/gallery-6.jpg - 40.77.189.0 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b - 200 20196 273
+2018-09-05 10:31:46 GET /images/bkgs/home-bkg.jpg - 40.77.189.129 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b - 200 275939 269
+2018-09-05 10:31:48 GET /images/bkgs/section-bkg.jpg - 40.77.190.68 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b - 200 130166 272
+2018-09-05 10:31:48 GET /images/toggle-plus.png - 40.77.189.138 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b - 200 1206 267
+2018-09-05 10:31:49 GET /images/icon-facebook.png - 40.77.188.59 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b - 200 1874 269
+2018-09-05 10:31:49 GET /css/bootstrap/fonts/glyphicons-halflings-regular.ttf - 40.77.190.68 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b - 200 29775 297
+2018-09-05 10:31:49 GET /css/bootstrap/js/bootstrap.min.js - 40.77.189.115 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b - 200 27990 278
+2018-09-05 10:31:49 GET /js/jquery.easing.min.js - 40.77.188.59 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b - 200 7308 268
+2018-09-05 10:31:50 GET /js/prettyphoto/js/jquery.prettyPhoto.js - 40.77.188.21 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b - 200 22334 284
+2018-09-05 10:31:51 GET /js/jquery.isotope.min.js - 40.77.190.107 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b - 200 16218 269
+2018-09-05 10:31:53 GET /js/jquery.flexslider-min.js - 40.77.189.138 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b - 200 21685 272
+2018-09-05 10:31:54 GET /js/jquery.form.min.js - 40.77.190.67 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b - 200 11390 266
+2018-09-05 10:31:54 GET /js/contactform.js - 40.77.190.68 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b - 200 4238 262
+2018-09-05 10:31:54 GET /js/jquery.nicescroll.min.js - 40.77.190.68 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b - 200 57934 272
+2018-09-05 10:31:54 GET /js/init.js - 40.77.189.0 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b - 200 3636 255
+2018-09-05 10:31:55 GET /images/toggle-minus.png - 40.77.190.67 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b - 200 1196 268
+2018-09-05 10:31:55 GET /images/flexslider-arrows.png - 40.77.190.107 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b - 200 1827 273
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-09-05 11:44:22
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-09-05 11:44:22 GET / - 79.3.69.168 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - 200 13729 295
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-09-05 12:48:57
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-09-05 12:48:56 GET /webapps/site/89914/230892/info/galleryExpose3x10.html - 66.249.79.119 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 404 1405 379
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-09-05 13:50:02
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-09-05 13:50:02 GET /robots.txt - 46.229.168.79 HTTP/1.1 Mozilla/5.0+(compatible;+SemrushBot/2~bl;++http://www.semrush.com/bot.html) - 404 1424 196
+2018-09-05 13:50:03 GET /include/contact-process.php - 46.229.168.71 HTTP/1.1 Mozilla/5.0+(compatible;+SemrushBot/2~bl;++http://www.semrush.com/bot.html) - 200 519 232
+2018-09-05 14:02:20 GET /webapps/i/89914/230892/393108 - 66.249.79.121 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 404 1405 327
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-09-05 14:19:11
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-09-05 14:19:11 GET / - 40.77.167.125 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - 200 13729 272
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-09-05 15:01:15
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-09-05 15:01:14 GET /robots.txt - 5.45.207.33 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - 404 1405 204
+2018-09-05 15:01:18 GET /images/favicon.ico - 5.45.207.33 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - 404 1405 243
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-09-05 16:51:59
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-09-05 16:51:59 GET /css/colors.css - 180.76.15.5 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - 200 3327 237
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-09-05 19:12:55
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-09-05 19:12:55 GET /WP/ - 103.194.169.7 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 - 404 1405 224
+2018-09-05 19:12:55 GET /portal/ - 103.194.169.7 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 - 404 1405 228
+2018-09-05 19:12:55 GET /install/ - 103.194.169.7 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 - 404 1405 229
+2018-09-05 19:12:55 GET /wp1/ - 103.194.169.7 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 - 404 1405 225
+2018-09-05 19:12:55 GET /press/ - 103.194.169.7 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 - 404 1405 227
+2018-09-05 19:12:55 GET /wp/test/ - 103.194.169.7 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:58.0)+Gecko/20100101+Firefox/58.0 - 404 1405 229
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-09-05 20:45:20
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-09-05 20:45:20 GET / - 180.76.15.137 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - 200 13748 223
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-09-06 00:30:53
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-09-06 00:30:52 GET /images/logo-big.png - 69.171.251.29 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 200 16600 222
+2018-09-06 00:31:06 GET / - 203.109.200.206 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+11_4_1+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Mobile/15G77+[FBAN/FBIOS;FBDV/iPhone7,2;FBMD/iPhone;FBSN/iOS;FBSV/11.4.1;FBSS/2;FBCR/SparkNZ;FBID/phone;FBLC/en_GB;FBOP/5;FBRV/123168147] http://m.facebook.com 200 13729 507
+2018-09-06 00:34:31 GET /images/logo-big.png - 69.171.251.31 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 200 16600 222
+2018-09-06 00:45:28 GET / - 139.81.207.135 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_12_5)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/58.0.3029.110+Safari/537.36 - 200 13729 238
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-09-06 03:54:08
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-09-06 03:54:08 GET /robots.txt - 46.229.168.78 HTTP/1.1 Mozilla/5.0+(compatible;+SemrushBot/2~bl;++http://www.semrush.com/bot.html) - 404 1424 196
+2018-09-06 03:54:10 GET / - 46.229.168.83 HTTP/1.1 Mozilla/5.0+(compatible;+SemrushBot/2~bl;++http://www.semrush.com/bot.html) - 200 13748 205
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-09-06 04:51:24
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-09-06 04:51:24 GET /robots.txt - 207.244.157.10 HTTP/1.1 Mozilla/5.0+(compatible;+MJ12bot/v1.4.8;+http://mj12bot.com/) - 404 1405 169
+2018-09-06 04:51:56 GET / - 207.244.157.10 HTTP/1.1 Mozilla/5.0+(compatible;+MJ12bot/v1.4.8;+http://mj12bot.com/) - 200 103142 346

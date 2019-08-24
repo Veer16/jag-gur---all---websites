@@ -1,0 +1,25 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2017-03-30 23:45:00
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2017-03-30 23:44:59 GET /xxx.htm - 120.188.78.79 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/56.0.2924.87+Safari/537.36 - 200 1903 381
+2017-03-30 23:45:28 GET /xxx.htm - 208.98.49.43 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.3;+Trident/7.0;+rv:11.0)+like+Gecko - 200 4452 189
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2017-03-31 02:10:35
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2017-03-31 02:10:35 GET /xxx.htm - 106.46.46.120 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:52.0)+Gecko/20100101+Firefox/52.0 - 200 1903 354
+2017-03-31 02:10:37 GET /favicon.ico - 106.46.46.120 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:52.0)+Gecko/20100101+Firefox/52.0 - 404 1405 268
+2017-03-31 02:10:37 GET /favicon.ico - 106.46.46.120 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64;+rv:52.0)+Gecko/20100101+Firefox/52.0 - 404 1405 328
+2017-03-31 02:10:56 GET /xxx.htm - 47.89.23.190 HTTP/1.1 - - 200 4452 63
+2017-03-31 02:10:56 GET /xxx.htm - 47.89.23.190 HTTP/1.1 - - 200 4452 63
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2017-03-31 02:50:32
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2017-03-31 02:50:31 GET /xxx.htm - 223.93.147.165 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.2;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/45.0.2454.93+Safari/537.36 - 200 0 218
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2017-03-31 06:39:21
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2017-03-31 06:39:21 GET / - 202.46.179.253 HTTP/1.1 NZRS+Webscan.+https://zonescan.nzrs.net.nz - 200 474 228

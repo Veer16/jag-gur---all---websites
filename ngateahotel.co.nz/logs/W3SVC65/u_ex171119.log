@@ -1,0 +1,47 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2017-11-19 16:20:26
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2017-11-19 16:20:26 GET / - 191.101.201.34 HTTP/1.1 python-requests/2.18.4 - 200 13729 176
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2017-11-19 18:02:03
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2017-11-19 18:02:03 GET / - 158.69.228.14 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/52.0.2743.116+Safari/537.36 - 200 13729 320
+2017-11-19 18:02:03 GET /css/bootstrap/js/bootstrap.min.js - 158.69.228.14 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/52.0.2743.116+Safari/537.36 http://ngateahotel.co.nz/ 200 9762 329
+2017-11-19 18:02:03 GET /js/jquery.easing.min.js - 158.69.228.14 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/52.0.2743.116+Safari/537.36 http://ngateahotel.co.nz/ 200 2644 319
+2017-11-19 18:02:03 GET /js/contactform.js - 158.69.228.14 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/52.0.2743.116+Safari/537.36 http://ngateahotel.co.nz/ 200 1385 313
+2017-11-19 18:02:03 GET /js/prettyphoto/js/jquery.prettyPhoto.js - 158.69.228.14 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/52.0.2743.116+Safari/537.36 http://ngateahotel.co.nz/ 200 8007 335
+2017-11-19 18:02:03 GET /js/jquery.flexslider-min.js - 158.69.228.14 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/52.0.2743.116+Safari/537.36 http://ngateahotel.co.nz/ 200 8289 323
+2017-11-19 18:02:03 GET /js/jquery.isotope.min.js - 158.69.228.14 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/52.0.2743.116+Safari/537.36 http://ngateahotel.co.nz/ 200 6559 320
+2017-11-19 18:02:03 GET /js/jquery.form.min.js - 158.69.228.14 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/52.0.2743.116+Safari/537.36 http://ngateahotel.co.nz/ 200 5510 317
+2017-11-19 18:02:03 GET /js/init.js - 158.69.228.14 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/52.0.2743.116+Safari/537.36 http://ngateahotel.co.nz/ 200 1800 306
+2017-11-19 18:02:05 GET /js/jquery.nicescroll.min.js - 158.69.228.14 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/52.0.2743.116+Safari/537.36 http://ngateahotel.co.nz/ 200 21445 323
+2017-11-19 18:02:05 GET /robots.txt - 158.69.228.14 HTTP/1.1 Mozilla/5.0+(compatible;+MSIE+10.0;+Windows+NT+6.2;+WOW64;+Trident/6.0) - 404 1405 280
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2017-11-19 21:58:12
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2017-11-19 21:58:12 GET /robots.txt - 66.249.79.23 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 404 1405 235
+2017-11-19 21:58:12 GET /images/gallery/gallery-1.jpg - 66.249.79.23 HTTP/1.1 Googlebot-Image/1.0 - 304 210 263
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2017-11-20 00:35:22
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2017-11-20 00:35:22 GET /favicon.ico - 66.249.79.25 HTTP/1.1 Googlebot-Image/1.0 - 404 1405 196
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2017-11-20 02:05:20
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2017-11-20 02:05:20 GET /robots.txt - 151.80.39.12 HTTP/1.1 Mozilla/5.0+(compatible;+AhrefsBot/5.2;++http://ahrefs.com/robot/) - 404 1405 182
+2017-11-20 02:05:21 GET / - 51.255.71.119 HTTP/1.1 Mozilla/5.0+(compatible;+AhrefsBot/5.2;++http://ahrefs.com/robot/) - 200 13729 172
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2017-11-20 02:25:24
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2017-11-20 02:25:23 GET /images/favicon.ico - 66.249.79.25 HTTP/1.1 Googlebot-Image/1.0 - 404 1405 203
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2017-11-20 05:58:17
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2017-11-20 05:58:17 GET /robots.txt - 46.229.164.99 HTTP/1.1 Mozilla/5.0+(compatible;+SemrushBot/1.2~bl;++http://www.semrush.com/bot.html) - 404 1424 211

@@ -1,0 +1,36 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2019-04-26 16:47:21
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2019-04-26 16:47:20 GET / - 52.11.113.111 HTTP/1.1 Go-http-client/1.1 - 200 0 98
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2019-04-26 20:50:34
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2019-04-26 20:50:34 GET /robots.txt - 66.249.79.141 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 404 1405 231
+2019-04-26 20:50:36 GET / - 66.249.79.141 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 8794 294
+2019-04-26 20:50:38 GET /css/contact-buttons.css - 66.249.79.137 HTTP/1.1 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+compatible;+Googlebot/2.1;++http://www.google.com/bot.html)+Safari/537.36 http://ngateapizza.co.nz/ 404 1405 384
+2019-04-26 20:51:04 GET /favicon.ico - 66.249.79.137 HTTP/1.1 Googlebot-Image/1.0 - 404 1405 192
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2019-04-26 22:08:28
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2019-04-26 22:08:28 GET /favicon.ico - 66.249.75.2 HTTP/1.1 Googlebot-Image/1.0 - 404 1405 192
+2019-04-26 22:10:16 GET /robots.txt - 5.45.207.33 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - 404 1405 200
+2019-04-26 22:10:20 GET /favicon.ico - 5.45.207.33 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - 404 1405 232
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2019-04-27 01:04:10
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2019-04-27 01:04:10 GET / - 66.249.75.2 HTTP/1.1 Mozilla/5.0+(Linux;+Android+6.0.1;+Nexus+5X+Build/MMB29P)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2272.96+Mobile+Safari/537.36+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 8794 552
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2019-04-27 01:31:14
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2019-04-27 01:31:14 HEAD / - 138.201.249.86 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/70.0.3538.77+Safari/537.36 - 200 248 172
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2019-04-27 05:14:26
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2019-04-27 05:14:26 GET / - 66.249.75.31 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 37853 294
+2019-04-27 05:14:30 GET /css/style.css - 66.249.75.31 HTTP/1.1 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+compatible;+Googlebot/2.1;++http://www.google.com/bot.html)+Safari/537.36 http://ngateapizza.co.nz/ 200 21067 374

@@ -1,0 +1,71 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2019-06-16 07:43:23
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2019-06-16 07:43:23 GET / - 109.248.149.39 HTTP/1.0 Mozilla/5.0+(Windows+NT+6.3;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/68.0.3440.106+Safari/537.36 http://kaiparatavern.co.nz/ 200 34855 314
+2019-06-16 07:43:23 POST / - 109.248.149.39 HTTP/1.0 Mozilla/5.0+(Windows+NT+6.3;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/68.0.3440.106+Safari/537.36 http://kaiparatavern.co.nz/ 405 1515 555
+2019-06-16 07:56:16 GET / - 52.90.210.212 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/72.0.3626.109+Safari/537.36 - 200 34836 190
+2019-06-16 08:02:15 GET / - 185.206.224.199 HTTP/1.0 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/58.0.3029.110+Safari/537.36+Edge/16.16299 http://kaiparatavern.co.nz/ 200 34855 329
+2019-06-16 08:02:15 POST / - 185.206.224.199 HTTP/1.0 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/58.0.3029.110+Safari/537.36+Edge/16.16299 http://kaiparatavern.co.nz/ 405 1515 583
+2019-06-16 08:17:12 GET /robots.txt - 66.249.69.114 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 404 1405 237
+2019-06-16 08:17:12 GET / - 66.249.69.118 HTTP/1.1 Mozilla/5.0+(Linux;+Android+6.0.1;+Nexus+5X+Build/MMB29P)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2272.96+Mobile+Safari/537.36+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 8209 426
+2019-06-16 08:17:24 GET /favicon.ico - 66.249.69.114 HTTP/1.1 Googlebot-Image/1.0 - 404 1405 198
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2019-06-16 09:29:15
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2019-06-16 09:29:15 GET /robots.txt - 157.55.39.36 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - 404 1405 256
+2019-06-16 09:29:20 GET / - 207.46.13.85 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - 200 8209 278
+2019-06-16 09:29:22 GET /css/bootstrap.min.css - 40.77.188.30 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b - 200 121509 272
+2019-06-16 09:29:25 GET /css/font-awesome.min.css - 40.77.189.110 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b - 200 29179 275
+2019-06-16 09:29:25 GET /robots.txt - 207.46.13.45 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - 404 1405 256
+2019-06-16 09:29:25 GET /css/jQuery.lightninBox.css - 40.77.189.110 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b - 200 5227 277
+2019-06-16 09:29:25 GET /robots.txt - 207.46.13.45 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - 404 1405 256
+2019-06-16 09:29:25 GET /robots.txt - 207.46.13.45 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - 404 1405 256
+2019-06-16 09:29:25 GET /css/team.css - 40.77.188.30 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b - 200 3537 263
+2019-06-16 09:29:25 GET /robots.txt - 207.46.13.45 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - 404 1405 256
+2019-06-16 09:29:26 GET /css/style.css - 40.77.188.157 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b - 200 46677 264
+2019-06-16 09:29:27 GET /js/modernizr.custom.js - 40.77.189.153 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b - 200 8758 273
+2019-06-16 09:29:28 GET /js/jquery.min.js - 40.77.189.153 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b - 200 96256 267
+2019-06-16 09:29:30 GET /js/bootstrap.min.js - 40.77.188.120 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b - 200 37132 270
+2019-06-16 09:29:30 GET /js/SmoothScroll.min.js - 40.77.189.110 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b - 200 6852 273
+2019-06-16 09:29:31 GET /js/main.js - 40.77.188.31 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b - 200 1141 261
+2019-06-16 09:29:32 GET /js/jQuery.lightninBox.js - 40.77.191.30 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b - 200 11492 275
+2019-06-16 09:29:32 GET /js/cbpFWTabs.js - 40.77.191.30 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b - 200 1962 266
+2019-06-16 09:29:32 GET /js/boot_slider.js - 40.77.191.30 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b - 200 5146 268
+2019-06-16 09:29:33 GET /css/images/cd-top-arrow.svg - 40.77.188.31 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b - 404 1405 278
+2019-06-16 09:29:33 GET /fonts/fontawesome-webfont.ttf - 40.77.188.120 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b - 200 152629 288
+2019-06-16 09:36:47 GET / - 35.155.227.129 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1)+AppleWebKit/537.2+(KHTML,+like+Gecko)+Chrome/22.0.1216.0+Safari/537.2 - 200 34836 174
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2019-06-16 11:23:15
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2019-06-16 11:23:15 GET /robots.txt - 66.249.69.171 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 404 1405 233
+2019-06-16 11:23:15 GET / - 66.249.69.169 HTTP/1.1 Mozilla/5.0+(Linux;+Android+6.0.1;+Nexus+5X+Build/MMB29P)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2272.96+Mobile+Safari/537.36+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 8209 554
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2019-06-16 15:40:49
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2019-06-16 15:40:49 GET / - 66.249.69.116 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 8209 300
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2019-06-16 15:59:40
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2019-06-16 15:59:39 GET / - 180.76.15.34 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - 200 8228 225
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2019-06-16 17:34:58
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2019-06-16 17:34:58 GET / - 66.249.69.116 HTTP/1.1 Mozilla/5.0+(Linux;+Android+6.0.1;+Nexus+5X+Build/MMB29P)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2272.96+Mobile+Safari/537.36+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 8209 558
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2019-06-17 02:21:47
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2019-06-17 02:21:47 GET /robots.txt - 66.249.69.116 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 404 1405 237
+2019-06-17 02:21:49 GET / - 66.249.69.118 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 8209 300
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2019-06-17 05:01:30
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2019-06-17 05:01:29 GET / - 46.166.143.122 HTTP/1.0 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/67.0.3396.99+Safari/537.36 http://kaiparatavern.co.nz/ 200 34855 314
+2019-06-17 05:01:30 POST / - 46.166.143.122 HTTP/1.0 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/67.0.3396.99+Safari/537.36 http://kaiparatavern.co.nz/ 405 0 532

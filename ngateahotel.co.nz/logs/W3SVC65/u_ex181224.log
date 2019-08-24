@@ -1,0 +1,539 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-12-24 07:00:00
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-12-24 07:00:00 GET /js/jquery.flexslider-min.js - 118.93.15.143 HTTP/1.1 Mozilla/5.0+(Linux;+Android+7.1.1;+SM-T355Y)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.99+Safari/537.36 http://www.ngateahotel.co.nz/ 200 21685 371
+2018-12-24 07:00:00 GET /js/jquery.form.min.js - 118.93.15.143 HTTP/1.1 Mozilla/5.0+(Linux;+Android+7.1.1;+SM-T355Y)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.99+Safari/537.36 http://www.ngateahotel.co.nz/ 200 11390 365
+2018-12-24 07:00:00 GET /css/bootstrap/fonts/glyphicons-halflings-regular.ttf - 118.93.15.143 HTTP/1.1 Mozilla/5.0+(Linux;+Android+7.1.1;+SM-T355Y)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.99+Safari/537.36 http://www.ngateahotel.co.nz/css/bootstrap/css/bootstrap.min.css 200 29775 469
+2018-12-24 07:00:00 GET /js/contactform.js - 118.93.15.143 HTTP/1.1 Mozilla/5.0+(Linux;+Android+7.1.1;+SM-T355Y)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.99+Safari/537.36 http://www.ngateahotel.co.nz/ 200 4238 361
+2018-12-24 07:00:01 GET /js/init.js - 118.93.15.143 HTTP/1.1 Mozilla/5.0+(Linux;+Android+7.1.1;+SM-T355Y)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.99+Safari/537.36 http://www.ngateahotel.co.nz/ 200 3636 354
+2018-12-24 07:00:01 GET /js/jquery.nicescroll.min.js - 118.93.15.143 HTTP/1.1 Mozilla/5.0+(Linux;+Android+7.1.1;+SM-T355Y)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.99+Safari/537.36 http://www.ngateahotel.co.nz/ 200 57934 371
+2018-12-24 07:00:01 GET /images/events/event-4.jpg - 118.93.15.143 HTTP/1.1 Mozilla/5.0+(Linux;+Android+7.1.1;+SM-T355Y)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.99+Safari/537.36 http://www.ngateahotel.co.nz/ 200 16101 405
+2018-12-24 07:00:02 GET /images/bkgs/home-bkg.jpg - 118.93.15.143 HTTP/1.1 Mozilla/5.0+(Linux;+Android+7.1.1;+SM-T355Y)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.99+Safari/537.36 http://www.ngateahotel.co.nz/ 200 275939 404
+2018-12-24 07:00:04 GET /images/events/event-2.jpg - 118.93.15.143 HTTP/1.1 Mozilla/5.0+(Linux;+Android+7.1.1;+SM-T355Y)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.99+Safari/537.36 http://www.ngateahotel.co.nz/ 200 595360 405
+2018-12-24 07:00:05 GET /images/gallery/gallery-1.jpg - 118.93.15.143 HTTP/1.1 Mozilla/5.0+(Linux;+Android+7.1.1;+SM-T355Y)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.99+Safari/537.36 http://www.ngateahotel.co.nz/ 200 16100 408
+2018-12-24 07:00:05 GET /images/team/member-2.jpg - 118.93.15.143 HTTP/1.1 Mozilla/5.0+(Linux;+Android+7.1.1;+SM-T355Y)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.99+Safari/537.36 http://www.ngateahotel.co.nz/ 200 594701 404
+2018-12-24 07:00:05 GET /images/events/event-3.jpg - 118.93.15.143 HTTP/1.1 Mozilla/5.0+(Linux;+Android+7.1.1;+SM-T355Y)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.99+Safari/537.36 http://www.ngateahotel.co.nz/ 200 598125 405
+2018-12-24 07:00:05 GET /images/events/event-1.jpg - 118.93.15.143 HTTP/1.1 Mozilla/5.0+(Linux;+Android+7.1.1;+SM-T355Y)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.99+Safari/537.36 http://www.ngateahotel.co.nz/ 200 608557 405
+2018-12-24 07:00:05 GET /images/gallery/gallery-2.jpg - 118.93.15.143 HTTP/1.1 Mozilla/5.0+(Linux;+Android+7.1.1;+SM-T355Y)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.99+Safari/537.36 http://www.ngateahotel.co.nz/ 200 16758 408
+2018-12-24 07:00:05 GET /images/gallery/gallery-3.jpg - 118.93.15.143 HTTP/1.1 Mozilla/5.0+(Linux;+Android+7.1.1;+SM-T355Y)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.99+Safari/537.36 http://www.ngateahotel.co.nz/ 200 14699 408
+2018-12-24 07:00:05 GET /images/team/member-1.jpg - 118.93.15.143 HTTP/1.1 Mozilla/5.0+(Linux;+Android+7.1.1;+SM-T355Y)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.99+Safari/537.36 http://www.ngateahotel.co.nz/ 200 593475 404
+2018-12-24 07:00:05 GET /images/gallery/gallery-4.jpg - 118.93.15.143 HTTP/1.1 Mozilla/5.0+(Linux;+Android+7.1.1;+SM-T355Y)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.99+Safari/537.36 http://www.ngateahotel.co.nz/ 200 14402 408
+2018-12-24 07:00:05 GET /images/gallery/gallery-5.jpg - 118.93.15.143 HTTP/1.1 Mozilla/5.0+(Linux;+Android+7.1.1;+SM-T355Y)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.99+Safari/537.36 http://www.ngateahotel.co.nz/ 200 18116 408
+2018-12-24 07:00:05 GET /images/gallery/gallery-6.jpg - 118.93.15.143 HTTP/1.1 Mozilla/5.0+(Linux;+Android+7.1.1;+SM-T355Y)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.99+Safari/537.36 http://www.ngateahotel.co.nz/ 200 20196 408
+2018-12-24 07:00:05 GET /images/icon-facebook.png - 118.93.15.143 HTTP/1.1 Mozilla/5.0+(Linux;+Android+7.1.1;+SM-T355Y)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.99+Safari/537.36 http://www.ngateahotel.co.nz/style.css 200 1874 413
+2018-12-24 07:00:05 GET /images/toggle-plus.png - 118.93.15.143 HTTP/1.1 Mozilla/5.0+(Linux;+Android+7.1.1;+SM-T355Y)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.99+Safari/537.36 http://www.ngateahotel.co.nz/style.css 200 1206 411
+2018-12-24 07:00:05 GET /images/toggle-minus.png - 118.93.15.143 HTTP/1.1 Mozilla/5.0+(Linux;+Android+7.1.1;+SM-T355Y)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.99+Safari/537.36 http://www.ngateahotel.co.nz/style.css 200 1196 412
+2018-12-24 07:00:06 GET /images/flexslider-arrows.png - 118.93.15.143 HTTP/1.1 Mozilla/5.0+(Linux;+Android+7.1.1;+SM-T355Y)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.99+Safari/537.36 http://www.ngateahotel.co.nz/style.css 200 1827 417
+2018-12-24 07:00:06 GET /images/team/member-3.jpg - 118.93.15.143 HTTP/1.1 Mozilla/5.0+(Linux;+Android+7.1.1;+SM-T355Y)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.99+Safari/537.36 http://www.ngateahotel.co.nz/ 200 587295 404
+2018-12-24 07:00:08 GET /images/bkgs/section-bkg.jpg - 118.93.15.143 HTTP/1.1 Mozilla/5.0+(Linux;+Android+7.1.1;+SM-T355Y)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.99+Safari/537.36 http://www.ngateahotel.co.nz/ 200 130166 407
+2018-12-24 07:00:08 GET /images/favicon.ico - 118.93.15.143 HTTP/1.1 Mozilla/5.0+(Linux;+Android+7.1.1;+SM-T355Y)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.99+Safari/537.36 http://www.ngateahotel.co.nz/ 404 1405 398
+2018-12-24 07:02:15 GET /robots.txt - 216.244.66.244 HTTP/1.1 Mozilla/5.0+(compatible;+DotBot/1.1;+http://www.opensiteexplorer.org/dotbot,+help@moz.com) - 404 1405 228
+2018-12-24 07:13:28 GET / - 118.148.206.2 HTTP/1.1 Mozilla/5.0+(Linux;+Android+8.0.0;+SM-G950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.99+Mobile+Safari/537.36 http://www.google.com/ 200 13729 456
+2018-12-24 07:13:28 GET /images/blog/blog-1.jpg - 118.148.206.2 HTTP/1.1 Mozilla/5.0+(Linux;+Android+8.0.0;+SM-G950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.99+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/ 200 14403 409
+2018-12-24 07:13:28 GET /js/prettyphoto/css/prettyPhoto.css - 118.148.206.2 HTTP/1.1 Mozilla/5.0+(Linux;+Android+8.0.0;+SM-G950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.99+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/ 200 4101 400
+2018-12-24 07:13:28 GET /style.css - 118.148.206.2 HTTP/1.1 Mozilla/5.0+(Linux;+Android+8.0.0;+SM-G950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.99+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/ 200 5866 375
+2018-12-24 07:13:28 GET /css/colors.css - 118.148.206.2 HTTP/1.1 Mozilla/5.0+(Linux;+Android+8.0.0;+SM-G950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.99+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/ 200 3308 380
+2018-12-24 07:13:28 GET /css/bootstrap/js/bootstrap.min.js - 118.148.206.2 HTTP/1.1 Mozilla/5.0+(Linux;+Android+8.0.0;+SM-G950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.99+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/ 200 9762 384
+2018-12-24 07:13:28 GET /images/logo-big.png - 118.148.206.2 HTTP/1.1 Mozilla/5.0+(Linux;+Android+8.0.0;+SM-G950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.99+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/ 200 16600 406
+2018-12-24 07:13:30 GET /js/jquery.easing.min.js - 118.148.206.2 HTTP/1.1 Mozilla/5.0+(Linux;+Android+8.0.0;+SM-G950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.99+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/ 200 2644 374
+2018-12-24 07:13:30 GET /js/jquery.isotope.min.js - 118.148.206.2 HTTP/1.1 Mozilla/5.0+(Linux;+Android+8.0.0;+SM-G950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.99+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/ 200 6559 375
+2018-12-24 07:13:30 GET /css/bootstrap/css/bootstrap.min.css - 118.148.206.2 HTTP/1.1 Mozilla/5.0+(Linux;+Android+8.0.0;+SM-G950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.99+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/ 200 22905 401
+2018-12-24 07:13:30 GET /js/jquery.flexslider-min.js - 118.148.206.2 HTTP/1.1 Mozilla/5.0+(Linux;+Android+8.0.0;+SM-G950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.99+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/ 200 8289 378
+2018-12-24 07:13:30 GET /js/jquery.form.min.js - 118.148.206.2 HTTP/1.1 Mozilla/5.0+(Linux;+Android+8.0.0;+SM-G950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.99+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/ 200 5510 372
+2018-12-24 07:13:30 GET /js/prettyphoto/js/jquery.prettyPhoto.js - 118.148.206.2 HTTP/1.1 Mozilla/5.0+(Linux;+Android+8.0.0;+SM-G950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.99+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/ 200 8007 390
+2018-12-24 07:13:30 GET /js/contactform.js - 118.148.206.2 HTTP/1.1 Mozilla/5.0+(Linux;+Android+8.0.0;+SM-G950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.99+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/ 200 1385 368
+2018-12-24 07:13:30 GET /js/init.js - 118.148.206.2 HTTP/1.1 Mozilla/5.0+(Linux;+Android+8.0.0;+SM-G950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.99+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/ 200 1800 361
+2018-12-24 07:13:30 GET /js/jquery.nicescroll.min.js - 118.148.206.2 HTTP/1.1 Mozilla/5.0+(Linux;+Android+8.0.0;+SM-G950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.99+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/ 200 21445 378
+2018-12-24 07:13:30 GET /css/bootstrap/fonts/glyphicons-halflings-regular.woff - 118.148.206.2 HTTP/1.1 Mozilla/5.0+(Linux;+Android+8.0.0;+SM-G950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.99+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/css/bootstrap/css/bootstrap.min.css 404 1405 477
+2018-12-24 07:13:31 GET /images/events/event-4.jpg - 118.148.206.2 HTTP/1.1 Mozilla/5.0+(Linux;+Android+8.0.0;+SM-G950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.99+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/ 200 16101 412
+2018-12-24 07:13:31 GET /images/events/event-1.jpg - 118.148.206.2 HTTP/1.1 Mozilla/5.0+(Linux;+Android+8.0.0;+SM-G950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.99+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/ 200 608557 412
+2018-12-24 07:13:31 GET /css/bootstrap/fonts/glyphicons-halflings-regular.ttf - 118.148.206.2 HTTP/1.1 Mozilla/5.0+(Linux;+Android+8.0.0;+SM-G950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.99+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/css/bootstrap/css/bootstrap.min.css 200 29775 476
+2018-12-24 07:13:31 GET /images/bkgs/home-bkg.jpg - 118.148.206.2 HTTP/1.1 Mozilla/5.0+(Linux;+Android+8.0.0;+SM-G950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.99+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/ 200 275939 411
+2018-12-24 07:13:32 GET /images/events/event-2.jpg - 118.148.206.2 HTTP/1.1 Mozilla/5.0+(Linux;+Android+8.0.0;+SM-G950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.99+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/ 200 595360 412
+2018-12-24 07:13:32 GET /images/team/member-2.jpg - 118.148.206.2 HTTP/1.1 Mozilla/5.0+(Linux;+Android+8.0.0;+SM-G950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.99+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/ 200 594701 411
+2018-12-24 07:13:32 GET /images/events/event-3.jpg - 118.148.206.2 HTTP/1.1 Mozilla/5.0+(Linux;+Android+8.0.0;+SM-G950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.99+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/ 200 598125 412
+2018-12-24 07:13:32 GET /images/team/member-1.jpg - 118.148.206.2 HTTP/1.1 Mozilla/5.0+(Linux;+Android+8.0.0;+SM-G950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.99+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/ 200 593475 411
+2018-12-24 07:13:33 GET /images/team/member-3.jpg - 118.148.206.2 HTTP/1.1 Mozilla/5.0+(Linux;+Android+8.0.0;+SM-G950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.99+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/ 200 587295 411
+2018-12-24 07:13:33 GET /images/gallery/gallery-1.jpg - 118.148.206.2 HTTP/1.1 Mozilla/5.0+(Linux;+Android+8.0.0;+SM-G950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.99+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/ 200 16100 415
+2018-12-24 07:13:34 GET /images/gallery/gallery-2.jpg - 118.148.206.2 HTTP/1.1 Mozilla/5.0+(Linux;+Android+8.0.0;+SM-G950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.99+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/ 200 16758 415
+2018-12-24 07:13:34 GET /images/gallery/gallery-4.jpg - 118.148.206.2 HTTP/1.1 Mozilla/5.0+(Linux;+Android+8.0.0;+SM-G950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.99+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/ 200 14402 415
+2018-12-24 07:13:34 GET /images/gallery/gallery-3.jpg - 118.148.206.2 HTTP/1.1 Mozilla/5.0+(Linux;+Android+8.0.0;+SM-G950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.99+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/ 200 14699 415
+2018-12-24 07:13:34 GET /images/gallery/gallery-5.jpg - 118.148.206.2 HTTP/1.1 Mozilla/5.0+(Linux;+Android+8.0.0;+SM-G950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.99+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/ 200 18116 415
+2018-12-24 07:13:34 GET /images/gallery/gallery-6.jpg - 118.148.206.2 HTTP/1.1 Mozilla/5.0+(Linux;+Android+8.0.0;+SM-G950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.99+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/ 200 20196 415
+2018-12-24 07:13:34 GET /images/bkgs/section-bkg.jpg - 118.148.206.2 HTTP/1.1 Mozilla/5.0+(Linux;+Android+8.0.0;+SM-G950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.99+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/ 200 130166 414
+2018-12-24 07:13:34 GET /images/toggle-plus.png - 118.148.206.2 HTTP/1.1 Mozilla/5.0+(Linux;+Android+8.0.0;+SM-G950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.99+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/style.css 200 1206 418
+2018-12-24 07:13:34 GET /images/icon-facebook.png - 118.148.206.2 HTTP/1.1 Mozilla/5.0+(Linux;+Android+8.0.0;+SM-G950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.99+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/style.css 200 1874 420
+2018-12-24 07:13:34 GET /images/toggle-minus.png - 118.148.206.2 HTTP/1.1 Mozilla/5.0+(Linux;+Android+8.0.0;+SM-G950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.99+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/style.css 200 1196 419
+2018-12-24 07:13:34 GET /images/flexslider-arrows.png - 118.148.206.2 HTTP/1.1 Mozilla/5.0+(Linux;+Android+8.0.0;+SM-G950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.99+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/style.css 200 1827 424
+2018-12-24 07:13:35 GET /images/favicon.ico - 118.148.206.2 HTTP/1.1 Mozilla/5.0+(Linux;+Android+8.0.0;+SM-G950F)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.99+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/ 404 1405 405
+2018-12-24 07:21:09 GET /images/gallery/gallery-3.jpg - 216.244.66.244 HTTP/1.1 Mozilla/5.0+(compatible;+DotBot/1.1;+http://www.opensiteexplorer.org/dotbot,+help@moz.com) - 200 14699 246
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-12-24 09:07:54
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-12-24 09:07:53 GET / - 173.252.127.18 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 09:07:56 GET / - 173.252.127.18 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 09:07:56 GET / - 173.252.127.18 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 09:07:56 GET / - 173.252.127.21 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 09:07:56 GET / - 173.252.127.21 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 09:07:56 GET / - 173.252.127.4 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 09:07:56 GET / - 173.252.127.4 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 09:07:56 GET / - 173.252.127.35 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 09:07:56 GET / - 173.252.127.34 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 09:07:56 GET / - 173.252.127.27 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 09:07:56 GET / - 173.252.127.27 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 09:07:56 GET / - 173.252.127.34 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 09:07:56 GET / - 173.252.127.34 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 09:07:56 GET / - 173.252.127.10 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 09:07:56 GET / - 173.252.127.10 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 09:07:56 GET / - 173.252.127.21 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-12-24 09:38:29
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-12-24 09:38:28 GET /robots.txt - 216.244.66.244 HTTP/1.1 Mozilla/5.0+(compatible;+DotBot/1.1;+http://www.opensiteexplorer.org/dotbot,+help@moz.com) - 404 1405 228
+2018-12-24 09:46:23 GET / - 180.76.15.30 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - 200 103161 223
+2018-12-24 09:48:03 GET /phpmyadmin/ - 173.212.198.100 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - 404 1424 189
+2018-12-24 09:51:49 GET /general.html - 216.244.66.244 HTTP/1.1 Mozilla/5.0+(compatible;+DotBot/1.1;+http://www.opensiteexplorer.org/dotbot,+help@moz.com) - 404 1405 230
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-12-24 10:19:40
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-12-24 10:19:40 GET /robots.txt - 66.249.65.156 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 404 1405 235
+2018-12-24 10:22:26 GET / - 66.249.65.155 HTTP/1.1 Mozilla/5.0+(Linux;+Android+6.0.1;+Nexus+5X+Build/MMB29P)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2272.96+Mobile+Safari/537.36+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 103142 424
+2018-12-24 10:28:57 GET /images/favicon.ico - 66.249.65.153 HTTP/1.1 Googlebot-Image/1.0 - 404 1405 203
+2018-12-24 10:30:30 GET /robots.txt - 216.244.66.244 HTTP/1.1 Mozilla/5.0+(compatible;+DotBot/1.1;+http://www.opensiteexplorer.org/dotbot,+help@moz.com) - 404 1405 228
+2018-12-24 10:40:04 GET /favicon.ico - 66.249.65.153 HTTP/1.1 Googlebot-Image/1.0 - 404 1405 196
+2018-12-24 10:43:56 GET / - 173.252.87.11 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 10:43:57 GET / - 173.252.87.11 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 10:43:57 GET / - 173.252.87.11 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 10:43:58 GET / - 173.252.87.10 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 10:43:58 GET / - 173.252.87.12 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 10:43:58 GET / - 173.252.87.12 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 10:43:58 GET / - 173.252.87.18 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 10:43:58 GET / - 173.252.87.16 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 10:43:58 GET / - 173.252.87.18 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 10:43:58 GET / - 173.252.87.10 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 10:43:58 GET / - 173.252.87.18 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 10:43:58 GET / - 173.252.87.19 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 10:43:58 GET / - 173.252.87.16 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 10:43:58 GET / - 173.252.87.12 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 10:43:58 GET / - 173.252.87.20 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 10:43:58 GET / - 173.252.87.18 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 10:48:29 GET /images/events/event-1.jpg - 216.244.66.244 HTTP/1.1 Mozilla/5.0+(compatible;+DotBot/1.1;+http://www.opensiteexplorer.org/dotbot,+help@moz.com) - 200 608557 243
+2018-12-24 10:51:50 GET /webapps/i/89914/230892/380343 - 216.244.66.244 HTTP/1.1 Mozilla/5.0+(compatible;+DotBot/1.1;+http://www.opensiteexplorer.org/dotbot,+help@moz.com) - 404 1405 247
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-12-24 11:46:20
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-12-24 11:46:20 GET /backup/wp-admin/ - 39.104.79.46 HTTP/1.1 - - 404 1424 105
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-12-24 12:07:12
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-12-24 12:07:11 GET / - 173.252.127.38 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 12:07:13 GET / - 173.252.127.38 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 12:07:13 GET / - 173.252.127.38 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 12:07:13 GET / - 173.252.127.38 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 12:07:13 GET / - 173.252.127.25 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 12:07:13 GET / - 173.252.127.25 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 12:07:13 GET / - 173.252.127.25 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 12:07:13 GET / - 173.252.127.25 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 12:07:13 GET / - 173.252.127.25 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 12:07:14 GET / - 173.252.127.25 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 12:07:14 GET / - 173.252.127.25 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 12:07:14 GET / - 173.252.127.37 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 12:07:14 GET / - 173.252.127.14 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 12:07:14 GET / - 173.252.127.37 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 12:07:14 GET / - 173.252.127.15 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 12:07:14 GET / - 173.252.127.32 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-12-24 12:48:11
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-12-24 12:48:10 GET /images/favicon.ico - 66.249.65.153 HTTP/1.1 Googlebot-Image/1.0 - 404 1405 203
+2018-12-24 12:49:07 GET /favicon.ico - 66.249.65.156 HTTP/1.1 Googlebot-Image/1.0 - 404 1405 196
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-12-24 13:06:36
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-12-24 13:06:36 GET /robots.txt - 216.244.66.244 HTTP/1.1 Mozilla/5.0+(compatible;+DotBot/1.1;+http://www.opensiteexplorer.org/dotbot,+help@moz.com) - 404 1405 228
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-12-24 13:22:42
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-12-24 13:22:41 GET /images/gallery/gallery-5.jpg - 216.244.66.244 HTTP/1.1 Mozilla/5.0+(compatible;+DotBot/1.1;+http://www.opensiteexplorer.org/dotbot,+help@moz.com) - 200 18116 246
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-12-24 14:50:54
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-12-24 14:50:54 GET /robots.txt - 216.244.66.244 HTTP/1.1 Mozilla/5.0+(compatible;+DotBot/1.1;+http://www.opensiteexplorer.org/dotbot,+help@moz.com) - 404 1405 228
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-12-24 15:09:57
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-12-24 15:09:57 GET /'no-bull-rodeo-2012'.html - 216.244.66.244 HTTP/1.1 Mozilla/5.0+(compatible;+DotBot/1.1;+http://www.opensiteexplorer.org/dotbot,+help@moz.com) - 404 1405 243
+2018-12-24 15:13:02 GET / - 52.53.201.78 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_12_6)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/61.0.3163.100+Safari/537.36 - 200 13729 218
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-12-24 18:12:15
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-12-24 18:12:14 GET /robots.txt - 66.249.73.31 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 404 1405 231
+2018-12-24 18:12:15 GET / - 66.249.73.3 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 13729 294
+2018-12-24 18:12:15 GET / - 66.249.73.31 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 8913 294
+2018-12-24 18:18:00 GET /robots.txt - 216.244.66.244 HTTP/1.1 Mozilla/5.0+(compatible;+DotBot/1.1;+http://www.opensiteexplorer.org/dotbot,+help@moz.com) - 404 1405 224
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-12-24 18:37:37
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-12-24 18:37:37 GET /images/gallery/gallery-3.jpg - 216.244.66.244 HTTP/1.1 Mozilla/5.0+(compatible;+DotBot/1.1;+http://www.opensiteexplorer.org/dotbot,+help@moz.com) - 200 14699 242
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-12-24 19:09:14
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-12-24 19:09:14 GET /robots.txt - 216.244.66.244 HTTP/1.1 Mozilla/5.0+(compatible;+DotBot/1.1;+http://www.opensiteexplorer.org/dotbot,+help@moz.com) - 404 1405 228
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-12-24 19:26:51
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-12-24 19:26:51 GET /webapps/i/89914/230899/336944 - 216.244.66.244 HTTP/1.1 Mozilla/5.0+(compatible;+DotBot/1.1;+http://www.opensiteexplorer.org/dotbot,+help@moz.com) - 404 1405 247
+2018-12-24 19:30:58 GET / - 173.252.127.12 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 19:31:00 GET / - 173.252.127.12 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 19:31:00 GET / - 173.252.127.12 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 19:31:00 GET / - 173.252.127.27 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 19:31:00 GET / - 173.252.127.27 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 19:31:00 GET / - 173.252.127.15 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 19:31:00 GET / - 173.252.127.15 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 19:31:00 GET / - 173.252.127.42 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 19:31:00 GET / - 173.252.127.40 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 19:31:02 GET / - 173.252.127.27 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 19:31:02 GET / - 173.252.127.15 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 19:31:02 GET / - 173.252.127.31 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 19:31:02 GET / - 173.252.127.27 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 19:31:02 GET / - 173.252.127.36 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 19:31:02 GET / - 173.252.127.40 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 19:31:02 GET / - 173.252.127.42 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 19:36:38 GET / - 66.220.149.27 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 19:36:40 GET / - 66.220.149.27 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 19:36:40 GET / - 66.220.149.27 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 19:36:40 GET / - 66.220.149.7 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 19:36:40 GET / - 66.220.149.28 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 19:36:40 GET / - 66.220.149.28 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 19:36:40 GET / - 66.220.149.28 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 19:36:40 GET / - 66.220.149.28 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 19:36:40 GET / - 66.220.149.22 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 19:36:40 GET / - 66.220.149.28 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 19:36:40 GET / - 66.220.149.18 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 19:36:40 GET / - 66.220.149.22 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 19:36:40 GET / - 66.220.149.28 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 19:36:40 GET / - 66.220.149.23 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 19:36:40 GET / - 66.220.149.28 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 19:36:41 GET / - 66.220.149.23 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 19:37:38 GET / - 119.224.100.169 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+11_2_5+like+Mac+OS+X)+AppleWebKit/604.5.6+(KHTML,+like+Gecko)+Version/11.0+Mobile/15D60+Safari/604.1 https://www.google.co.nz/ 200 65536 415
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-12-24 20:25:35
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-12-24 20:25:34 GET /images/favicon.ico - 66.249.65.156 HTTP/1.1 Googlebot-Image/1.0 - 404 1405 203
+2018-12-24 20:25:34 GET /favicon.ico - 66.249.65.155 HTTP/1.1 Googlebot-Image/1.0 - 404 1405 196
+2018-12-24 20:25:36 GET /favicon.ico - 66.249.65.156 HTTP/1.1 Googlebot-Image/1.0 - 404 1405 196
+2018-12-24 20:31:43 GET / - 69.171.251.5 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 20:31:46 GET / - 69.171.251.5 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 20:31:46 GET / - 69.171.251.31 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 20:31:46 GET / - 69.171.251.11 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 20:31:46 GET / - 69.171.251.29 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 20:31:46 GET / - 69.171.251.29 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 20:31:46 GET / - 69.171.251.31 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 20:31:46 GET / - 69.171.251.29 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 20:31:46 GET / - 69.171.251.9 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 20:31:46 GET / - 69.171.251.31 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 20:31:46 GET / - 69.171.251.11 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 20:31:46 GET / - 69.171.251.31 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 20:31:46 GET / - 69.171.251.31 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 20:31:46 GET / - 69.171.251.31 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 20:31:46 GET / - 69.171.251.29 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 20:31:46 GET / - 69.171.251.11 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-12-24 21:23:02
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-12-24 21:23:02 GET / - 173.252.127.27 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 21:23:04 GET / - 173.252.127.27 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 21:23:04 GET / - 173.252.127.36 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 21:23:04 GET / - 173.252.127.25 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 21:23:04 GET / - 173.252.127.2 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 21:23:04 GET / - 173.252.127.29 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 21:23:04 GET / - 173.252.127.41 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 21:23:04 GET / - 173.252.127.6 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 21:23:04 GET / - 173.252.127.6 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 21:23:04 GET / - 173.252.127.6 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 21:23:04 GET / - 173.252.127.2 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 21:23:04 GET / - 173.252.127.41 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 21:23:05 GET / - 173.252.127.32 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 21:23:05 GET / - 173.252.127.29 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 21:23:05 GET / - 173.252.127.29 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 21:23:05 GET / - 173.252.127.29 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 21:23:56 GET /backup/wp-admin/ - 39.98.175.232 HTTP/1.1 - - 404 1424 105
+2018-12-24 21:37:48 GET /robots.txt - 46.4.105.251 HTTP/1.1 Mozilla/5.0+(compatible;+BLEXBot/1.0;++http://webmeup-crawler.com/) - 404 1405 262
+2018-12-24 21:37:49 GET /robots.txt - 46.4.105.251 HTTP/1.1 Mozilla/5.0+(compatible;+BLEXBot/1.0;++http://webmeup-crawler.com/) - 404 1405 266
+2018-12-24 21:37:50 GET / - 46.4.105.251 HTTP/1.1 Mozilla/5.0+(compatible;+BLEXBot/1.0;++http://webmeup-crawler.com/) - 200 103142 256
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-12-24 22:05:44
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-12-24 22:05:43 GET /css/bootstrap/fonts/glyphicons-halflings-regular.woff - 119.224.100.169 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+11_2_5+like+Mac+OS+X)+AppleWebKit/604.5.6+(KHTML,+like+Gecko)+Version/11.0+Mobile/15D60+Safari/604.1 http://www.ngateahotel.co.nz/ 404 1405 382
+2018-12-24 22:05:44 GET / - 119.224.100.169 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+11_2_5+like+Mac+OS+X)+AppleWebKit/604.5.6+(KHTML,+like+Gecko)+Version/11.0+Mobile/15D60+Safari/604.1 https://www.google.co.nz/ 200 103142 415
+2018-12-24 22:05:44 GET /images/icon-facebook.png - 119.224.100.169 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+11_2_5+like+Mac+OS+X)+AppleWebKit/604.5.6+(KHTML,+like+Gecko)+Version/11.0+Mobile/15D60+Safari/604.1 http://www.ngateahotel.co.nz/ 200 1874 397
+2018-12-24 22:05:44 GET /js/jquery.easing.min.js - 119.224.100.169 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+11_2_5+like+Mac+OS+X)+AppleWebKit/604.5.6+(KHTML,+like+Gecko)+Version/11.0+Mobile/15D60+Safari/604.1 http://www.ngateahotel.co.nz/ 200 7308 352
+2018-12-24 22:05:45 GET /js/jquery.isotope.min.js - 119.224.100.169 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+11_2_5+like+Mac+OS+X)+AppleWebKit/604.5.6+(KHTML,+like+Gecko)+Version/11.0+Mobile/15D60+Safari/604.1 http://www.ngateahotel.co.nz/ 200 16218 353
+2018-12-24 22:05:45 GET /css/bootstrap/fonts/glyphicons-halflings-regular.ttf - 119.224.100.169 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+11_2_5+like+Mac+OS+X)+AppleWebKit/604.5.6+(KHTML,+like+Gecko)+Version/11.0+Mobile/15D60+Safari/604.1 http://www.ngateahotel.co.nz/ 200 29775 381
+2018-12-24 22:05:45 GET /js/contactform.js - 119.224.100.169 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+11_2_5+like+Mac+OS+X)+AppleWebKit/604.5.6+(KHTML,+like+Gecko)+Version/11.0+Mobile/15D60+Safari/604.1 http://www.ngateahotel.co.nz/ 200 4238 346
+2018-12-24 22:05:45 GET /js/jquery.flexslider-min.js - 119.224.100.169 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+11_2_5+like+Mac+OS+X)+AppleWebKit/604.5.6+(KHTML,+like+Gecko)+Version/11.0+Mobile/15D60+Safari/604.1 http://www.ngateahotel.co.nz/ 200 21685 356
+2018-12-24 22:05:46 GET /js/jquery.nicescroll.min.js - 119.224.100.169 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+11_2_5+like+Mac+OS+X)+AppleWebKit/604.5.6+(KHTML,+like+Gecko)+Version/11.0+Mobile/15D60+Safari/604.1 http://www.ngateahotel.co.nz/ 200 57934 356
+2018-12-24 22:05:46 GET /images/gallery/gallery-5.jpg - 119.224.100.169 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+11_2_5+like+Mac+OS+X)+AppleWebKit/604.5.6+(KHTML,+like+Gecko)+Version/11.0+Mobile/15D60+Safari/604.1 http://www.ngateahotel.co.nz/ 200 18116 401
+2018-12-24 22:05:46 GET /images/gallery/gallery-6.jpg - 119.224.100.169 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+11_2_5+like+Mac+OS+X)+AppleWebKit/604.5.6+(KHTML,+like+Gecko)+Version/11.0+Mobile/15D60+Safari/604.1 http://www.ngateahotel.co.nz/ 200 20196 401
+2018-12-24 22:06:05 GET / - 69.171.251.22 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 22:06:06 GET /images/gallery/gallery-3.jpg - 69.171.251.37 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 14767 249
+2018-12-24 22:06:06 GET /images/gallery/gallery-5.jpg - 69.171.251.33 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 18184 249
+2018-12-24 22:06:06 GET /images/gallery/gallery-4.jpg - 69.171.251.37 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 14470 249
+2018-12-24 22:06:06 GET /images/gallery/gallery-6.jpg - 69.171.251.33 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 20264 249
+2018-12-24 22:06:06 GET /images/gallery/gallery-1.jpg - 69.171.251.33 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 16168 249
+2018-12-24 22:06:06 GET /images/gallery/gallery-2.jpg - 69.171.251.32 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 16826 249
+2018-12-24 22:06:06 GET / - 69.171.251.22 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 22:06:06 GET / - 69.171.251.22 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 22:06:06 GET / - 69.171.251.22 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 22:06:06 GET / - 69.171.251.22 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 22:06:07 GET / - 69.171.251.17 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 22:06:07 GET / - 69.171.251.17 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 22:06:07 GET / - 69.171.251.32 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 22:06:07 GET / - 69.171.251.17 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 22:06:07 GET / - 69.171.251.32 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 22:06:07 GET / - 69.171.251.32 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 22:06:07 GET / - 69.171.251.32 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 22:06:07 GET / - 69.171.251.37 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 22:06:07 GET / - 69.171.251.17 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 22:06:07 GET / - 69.171.251.17 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 22:06:07 GET / - 69.171.251.17 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 22:06:07 GET /images/events/event-1.jpg - 69.171.251.37 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 524609 246
+2018-12-24 22:18:43 GET /images/favicon.ico - 66.249.65.153 HTTP/1.1 Googlebot-Image/1.0 - 404 1405 203
+2018-12-24 22:26:09 GET /robots.txt - 66.249.65.156 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 404 1405 235
+2018-12-24 22:28:04 GET /favicon.ico - 66.249.65.153 HTTP/1.1 Googlebot-Image/1.0 - 404 1405 196
+2018-12-24 22:40:24 GET / - 173.252.95.7 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 22:40:26 GET / - 173.252.95.7 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 22:40:26 GET / - 173.252.95.7 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 22:40:26 GET / - 173.252.95.7 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 22:40:26 GET / - 173.252.95.19 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 22:40:26 GET / - 173.252.95.23 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 22:40:26 GET / - 173.252.95.30 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 22:40:26 GET / - 173.252.95.23 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 22:40:26 GET / - 173.252.95.4 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 22:40:26 GET / - 173.252.95.23 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 22:40:26 GET / - 173.252.95.29 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 22:40:26 GET / - 173.252.95.23 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 22:40:26 GET / - 173.252.95.30 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 22:40:26 GET / - 173.252.95.35 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 22:40:27 GET / - 173.252.95.10 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 22:40:27 GET / - 173.252.95.10 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-12-24 23:07:28
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-12-24 23:07:28 GET / - 66.249.73.31 HTTP/1.1 Mozilla/5.0+(Linux;+Android+6.0.1;+Nexus+5X+Build/MMB29P)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2272.96+Mobile+Safari/537.36+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 13729 420
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-12-24 23:29:24
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-12-24 23:29:23 GET / - 173.252.87.1 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 23:29:26 GET / - 173.252.87.8 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 23:29:26 GET / - 173.252.87.9 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 23:29:26 GET / - 173.252.87.9 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 23:29:26 GET / - 173.252.87.9 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 23:29:26 GET / - 173.252.87.17 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 23:29:26 GET / - 173.252.87.15 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 23:29:26 GET / - 173.252.87.15 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 23:29:26 GET / - 173.252.87.15 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 23:29:26 GET / - 173.252.87.9 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 23:29:26 GET / - 173.252.87.9 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 23:29:26 GET / - 173.252.87.8 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 23:29:26 GET / - 173.252.87.10 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 23:29:26 GET / - 173.252.87.7 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 23:29:26 GET / - 173.252.87.7 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-24 23:29:26 GET / - 173.252.87.10 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-12-25 00:12:46
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-12-25 00:12:46 GET / - 66.220.149.40 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-25 00:12:47 GET / - 66.220.149.40 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-25 00:12:47 GET / - 66.220.149.40 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-25 00:12:47 GET / - 66.220.149.33 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-25 00:12:47 GET / - 66.220.149.4 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-25 00:12:47 GET / - 66.220.149.33 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-25 00:12:47 GET / - 66.220.149.27 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-25 00:12:47 GET / - 66.220.149.37 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-25 00:12:47 GET / - 66.220.149.29 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-25 00:12:47 GET / - 66.220.149.27 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-25 00:12:47 GET / - 66.220.149.14 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-25 00:12:47 GET / - 66.220.149.37 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-25 00:12:47 GET / - 66.220.149.37 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-25 00:12:47 GET / - 66.220.149.27 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-25 00:12:47 GET / - 66.220.149.37 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-25 00:12:47 GET / - 66.220.149.4 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-12-25 00:30:28
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-12-25 00:30:28 GET / - 115.189.86.172 HTTP/1.1 Mozilla/5.0+(Linux;+Android+7.1.1;+F8331+Build/41.2.A.7.76)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.158+Mobile+Safari/537.36 - 200 13729 424
+2018-12-25 00:30:28 GET /style.css - 115.189.86.172 HTTP/1.1 Mozilla/5.0+(Linux;+Android+7.1.1;+F8331+Build/41.2.A.7.76)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.158+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/ 200 5866 376
+2018-12-25 00:30:28 GET /css/colors.css - 115.189.86.172 HTTP/1.1 Mozilla/5.0+(Linux;+Android+7.1.1;+F8331+Build/41.2.A.7.76)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.158+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/ 200 3308 381
+2018-12-25 00:30:28 GET /js/prettyphoto/css/prettyPhoto.css - 115.189.86.172 HTTP/1.1 Mozilla/5.0+(Linux;+Android+7.1.1;+F8331+Build/41.2.A.7.76)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.158+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/ 200 4101 401
+2018-12-25 00:30:28 GET /css/bootstrap/css/bootstrap.min.css - 115.189.86.172 HTTP/1.1 Mozilla/5.0+(Linux;+Android+7.1.1;+F8331+Build/41.2.A.7.76)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.158+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/ 200 22905 402
+2018-12-25 00:30:29 GET /js/jquery.easing.min.js - 115.189.86.172 HTTP/1.1 Mozilla/5.0+(Linux;+Android+7.1.1;+F8331+Build/41.2.A.7.76)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.158+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/ 200 2644 375
+2018-12-25 00:30:29 GET /js/jquery.isotope.min.js - 115.189.86.172 HTTP/1.1 Mozilla/5.0+(Linux;+Android+7.1.1;+F8331+Build/41.2.A.7.76)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.158+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/ 200 6559 376
+2018-12-25 00:30:29 GET /js/jquery.flexslider-min.js - 115.189.86.172 HTTP/1.1 Mozilla/5.0+(Linux;+Android+7.1.1;+F8331+Build/41.2.A.7.76)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.158+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/ 200 8289 379
+2018-12-25 00:30:29 GET /css/bootstrap/js/bootstrap.min.js - 115.189.86.172 HTTP/1.1 Mozilla/5.0+(Linux;+Android+7.1.1;+F8331+Build/41.2.A.7.76)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.158+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/ 200 9762 385
+2018-12-25 00:30:29 GET /js/prettyphoto/js/jquery.prettyPhoto.js - 115.189.86.172 HTTP/1.1 Mozilla/5.0+(Linux;+Android+7.1.1;+F8331+Build/41.2.A.7.76)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.158+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/ 200 8007 391
+2018-12-25 00:30:29 GET /js/jquery.form.min.js - 115.189.86.172 HTTP/1.1 Mozilla/5.0+(Linux;+Android+7.1.1;+F8331+Build/41.2.A.7.76)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.158+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/ 200 5510 373
+2018-12-25 00:30:29 GET /js/jquery.nicescroll.min.js - 115.189.86.172 HTTP/1.1 Mozilla/5.0+(Linux;+Android+7.1.1;+F8331+Build/41.2.A.7.76)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.158+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/ 200 21445 379
+2018-12-25 00:30:29 GET /js/contactform.js - 115.189.86.172 HTTP/1.1 Mozilla/5.0+(Linux;+Android+7.1.1;+F8331+Build/41.2.A.7.76)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.158+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/ 200 1385 369
+2018-12-25 00:30:30 GET /js/init.js - 115.189.86.172 HTTP/1.1 Mozilla/5.0+(Linux;+Android+7.1.1;+F8331+Build/41.2.A.7.76)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.158+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/ 200 1800 362
+2018-12-25 00:30:30 GET /images/blog/blog-1.jpg - 115.189.86.172 HTTP/1.1 Mozilla/5.0+(Linux;+Android+7.1.1;+F8331+Build/41.2.A.7.76)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.158+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/ 200 14403 410
+2018-12-25 00:30:30 GET /images/logo-big.png - 115.189.86.172 HTTP/1.1 Mozilla/5.0+(Linux;+Android+7.1.1;+F8331+Build/41.2.A.7.76)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.158+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/ 200 16600 407
+2018-12-25 00:30:31 GET /images/events/event-4.jpg - 115.189.86.172 HTTP/1.1 Mozilla/5.0+(Linux;+Android+7.1.1;+F8331+Build/41.2.A.7.76)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.158+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/ 200 16101 413
+2018-12-25 00:30:33 GET /images/bkgs/home-bkg.jpg - 115.189.86.172 HTTP/1.1 Mozilla/5.0+(Linux;+Android+7.1.1;+F8331+Build/41.2.A.7.76)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.158+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/ 200 275939 412
+2018-12-25 00:30:33 GET /images/events/event-2.jpg - 115.189.86.172 HTTP/1.1 Mozilla/5.0+(Linux;+Android+7.1.1;+F8331+Build/41.2.A.7.76)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.158+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/ 200 595360 413
+2018-12-25 00:30:33 GET /images/events/event-1.jpg - 115.189.86.172 HTTP/1.1 Mozilla/5.0+(Linux;+Android+7.1.1;+F8331+Build/41.2.A.7.76)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.158+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/ 200 608557 413
+2018-12-25 00:30:33 GET /images/gallery/gallery-1.jpg - 115.189.86.172 HTTP/1.1 Mozilla/5.0+(Linux;+Android+7.1.1;+F8331+Build/41.2.A.7.76)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.158+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/ 200 16100 416
+2018-12-25 00:30:33 GET /images/team/member-3.jpg - 115.189.86.172 HTTP/1.1 Mozilla/5.0+(Linux;+Android+7.1.1;+F8331+Build/41.2.A.7.76)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.158+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/ 200 587295 412
+2018-12-25 00:30:33 GET /images/gallery/gallery-2.jpg - 115.189.86.172 HTTP/1.1 Mozilla/5.0+(Linux;+Android+7.1.1;+F8331+Build/41.2.A.7.76)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.158+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/ 200 16758 416
+2018-12-25 00:30:33 GET /images/gallery/gallery-3.jpg - 115.189.86.172 HTTP/1.1 Mozilla/5.0+(Linux;+Android+7.1.1;+F8331+Build/41.2.A.7.76)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.158+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/ 200 14699 416
+2018-12-25 00:30:35 GET /images/gallery/gallery-5.jpg - 115.189.86.172 HTTP/1.1 Mozilla/5.0+(Linux;+Android+7.1.1;+F8331+Build/41.2.A.7.76)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.158+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/ 200 18116 416
+2018-12-25 00:30:35 GET /images/gallery/gallery-4.jpg - 115.189.86.172 HTTP/1.1 Mozilla/5.0+(Linux;+Android+7.1.1;+F8331+Build/41.2.A.7.76)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.158+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/ 200 14402 416
+2018-12-25 00:30:35 GET /images/gallery/gallery-6.jpg - 115.189.86.172 HTTP/1.1 Mozilla/5.0+(Linux;+Android+7.1.1;+F8331+Build/41.2.A.7.76)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.158+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/ 200 20196 416
+2018-12-25 00:30:35 GET /images/events/event-3.jpg - 115.189.86.172 HTTP/1.1 Mozilla/5.0+(Linux;+Android+7.1.1;+F8331+Build/41.2.A.7.76)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.158+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/ 200 598125 413
+2018-12-25 00:30:35 GET /images/team/member-1.jpg - 115.189.86.172 HTTP/1.1 Mozilla/5.0+(Linux;+Android+7.1.1;+F8331+Build/41.2.A.7.76)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.158+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/ 200 593475 412
+2018-12-25 00:30:35 GET /images/icon-facebook.png - 115.189.86.172 HTTP/1.1 Mozilla/5.0+(Linux;+Android+7.1.1;+F8331+Build/41.2.A.7.76)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.158+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/style.css 200 1874 421
+2018-12-25 00:30:35 GET /images/toggle-minus.png - 115.189.86.172 HTTP/1.1 Mozilla/5.0+(Linux;+Android+7.1.1;+F8331+Build/41.2.A.7.76)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.158+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/style.css 200 1196 420
+2018-12-25 00:30:35 GET /images/bkgs/section-bkg.jpg - 115.189.86.172 HTTP/1.1 Mozilla/5.0+(Linux;+Android+7.1.1;+F8331+Build/41.2.A.7.76)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.158+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/ 200 130166 415
+2018-12-25 00:30:35 GET /images/toggle-plus.png - 115.189.86.172 HTTP/1.1 Mozilla/5.0+(Linux;+Android+7.1.1;+F8331+Build/41.2.A.7.76)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.158+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/style.css 200 1206 419
+2018-12-25 00:30:36 GET /css/bootstrap/fonts/glyphicons-halflings-regular.woff - 115.189.86.172 HTTP/1.1 Mozilla/5.0+(Linux;+Android+7.1.1;+F8331+Build/41.2.A.7.76)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.158+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/css/bootstrap/css/bootstrap.min.css 404 1405 478
+2018-12-25 00:30:36 GET /images/flexslider-arrows.png - 115.189.86.172 HTTP/1.1 Mozilla/5.0+(Linux;+Android+7.1.1;+F8331+Build/41.2.A.7.76)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.158+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/style.css 200 1827 425
+2018-12-25 00:30:37 GET /css/bootstrap/fonts/glyphicons-halflings-regular.ttf - 115.189.86.172 HTTP/1.1 Mozilla/5.0+(Linux;+Android+7.1.1;+F8331+Build/41.2.A.7.76)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.158+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/css/bootstrap/css/bootstrap.min.css 200 29775 477
+2018-12-25 00:30:45 GET /images/team/member-2.jpg - 115.189.86.172 HTTP/1.1 Mozilla/5.0+(Linux;+Android+7.1.1;+F8331+Build/41.2.A.7.76)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.158+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/ 200 594701 412
+2018-12-25 00:30:47 GET /images/favicon.ico - 115.189.86.172 HTTP/1.1 Mozilla/5.0+(Linux;+Android+7.1.1;+F8331+Build/41.2.A.7.76)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.158+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/ 404 1405 406
+2018-12-25 00:32:02 GET /js/prettyphoto/images/prettyPhoto/default/sprite_x.png - 115.189.86.172 HTTP/1.1 Mozilla/5.0+(Linux;+Android+7.1.1;+F8331+Build/41.2.A.7.76)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.158+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/js/prettyphoto/css/prettyPhoto.css 200 1344 476
+2018-12-25 00:32:02 GET /js/prettyphoto/images/prettyPhoto/default/sprite_y.png - 115.189.86.172 HTTP/1.1 Mozilla/5.0+(Linux;+Android+7.1.1;+F8331+Build/41.2.A.7.76)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.158+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/js/prettyphoto/css/prettyPhoto.css 200 1410 476
+2018-12-25 00:32:02 GET /js/prettyphoto/images/prettyPhoto/default/loader.gif - 115.189.86.172 HTTP/1.1 Mozilla/5.0+(Linux;+Android+7.1.1;+F8331+Build/41.2.A.7.76)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.158+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/js/prettyphoto/css/prettyPhoto.css 200 6579 474
+2018-12-25 00:32:02 GET /js/prettyphoto/images/prettyPhoto/default/sprite.png - 115.189.86.172 HTTP/1.1 Mozilla/5.0+(Linux;+Android+7.1.1;+F8331+Build/41.2.A.7.76)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.158+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/js/prettyphoto/css/prettyPhoto.css 200 6930 474
+2018-12-25 00:32:03 GET /js/prettyphoto/images/prettyPhoto/default/default_thumb.png - 115.189.86.172 HTTP/1.1 Mozilla/5.0+(Linux;+Android+7.1.1;+F8331+Build/41.2.A.7.76)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.158+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/js/prettyphoto/css/prettyPhoto.css 200 1785 481
+2018-12-25 00:32:03 GET /js/prettyphoto/images/prettyPhoto/light_rounded/btnNext.png - 115.189.86.172 HTTP/1.1 Mozilla/5.0+(Linux;+Android+7.1.1;+F8331+Build/41.2.A.7.76)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.158+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/js/prettyphoto/css/prettyPhoto.css 200 1659 481
+2018-12-25 00:37:31 HEAD / - 188.165.200.217 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+5.01;+Windows+NT+5.0) - 200 249 122
+2018-12-25 00:40:04 GET / - 23.237.4.26 HTTP/1.1 Mozilla/5.0+(compatible;+AlphaBot/3.2;++http://alphaseobot.com/bot.html) - 200 103142 172
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-12-25 02:02:18
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-12-25 02:02:18 GET /css/bootstrap/fonts/glyphicons-halflings-regular.woff - 119.224.100.169 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+11_2_5+like+Mac+OS+X)+AppleWebKit/604.5.6+(KHTML,+like+Gecko)+Version/11.0+Mobile/15D60+Safari/604.1 http://www.ngateahotel.co.nz/ 404 1405 382
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-12-25 02:39:13
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-12-25 02:39:13 GET /robots.txt - 216.244.66.244 HTTP/1.1 Mozilla/5.0+(compatible;+DotBot/1.1;+http://www.opensiteexplorer.org/dotbot,+help@moz.com) - 404 1405 224
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-12-25 03:07:22
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-12-25 03:07:22 GET /images/gallery/gallery-1.jpg - 216.244.66.244 HTTP/1.1 Mozilla/5.0+(compatible;+DotBot/1.1;+http://www.opensiteexplorer.org/dotbot,+help@moz.com) - 200 16100 242
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-12-25 03:31:11
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-12-25 03:31:11 GET /robots.txt - 216.244.66.244 HTTP/1.1 Mozilla/5.0+(compatible;+DotBot/1.1;+http://www.opensiteexplorer.org/dotbot,+help@moz.com) - 404 1405 228
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-12-25 03:47:19
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-12-25 03:47:19 GET /robots.txt - 5.45.207.33 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - 404 1405 204
+2018-12-25 03:47:22 GET /images/favicon.ico - 5.45.207.33 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - 404 1405 243
+2018-12-25 03:51:08 GET /webapps/i/89914/230892/447646 - 216.244.66.244 HTTP/1.1 Mozilla/5.0+(compatible;+DotBot/1.1;+http://www.opensiteexplorer.org/dotbot,+help@moz.com) - 404 1405 247
+2018-12-25 03:58:47 GET / - 66.220.149.29 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-25 03:58:48 GET / - 66.220.149.4 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-25 03:58:48 GET / - 66.220.149.4 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-25 03:58:48 GET / - 66.220.149.15 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-25 03:58:48 GET / - 66.220.149.15 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-25 03:58:48 GET / - 66.220.149.13 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-25 03:58:49 GET / - 66.220.149.34 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-25 03:58:49 GET / - 66.220.149.34 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-25 03:58:49 GET / - 66.220.149.13 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-25 03:58:49 GET / - 66.220.149.15 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-25 03:58:49 GET / - 66.220.149.34 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-25 03:58:49 GET / - 66.220.149.13 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-25 03:58:49 GET / - 66.220.149.34 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-25 03:58:49 GET / - 66.220.149.34 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-25 03:58:49 GET / - 66.220.149.34 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-25 03:58:49 GET / - 66.220.149.15 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-25 04:00:07 GET / - 141.8.132.37 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - 200 13729 225
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-12-25 05:05:07
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-12-25 05:05:07 GET / - 64.233.173.53 HTTP/1.1 Mozilla/5.0+(Linux;+Android+7.0;+Redmi+Note+4)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.99+Mobile+Safari/537.36 http://www.google.com/ 200 103142 582
+2018-12-25 05:05:07 GET /css/bootstrap/css/bootstrap.min.css - 64.233.173.53 HTTP/1.1 Mozilla/5.0+(Linux;+Android+7.0;+Redmi+Note+4)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.99+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/ 200 97587 527
+2018-12-25 05:05:07 GET /style.css - 64.233.173.53 HTTP/1.1 Mozilla/5.0+(Linux;+Android+7.0;+Redmi+Note+4)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.99+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/ 200 17822 501
+2018-12-25 05:05:07 GET /images/blog/blog-1.jpg - 64.233.173.57 HTTP/1.1 Mozilla/5.0+(Linux;+Android+7.0;+Redmi+Note+4)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.99+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/ 200 14403 535
+2018-12-25 05:05:07 GET /images/logo-big.png - 64.233.173.55 HTTP/1.1 Mozilla/5.0+(Linux;+Android+7.0;+Redmi+Note+4)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.99+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/ 200 16600 532
+2018-12-25 05:05:07 GET /css/colors.css - 64.233.173.53 HTTP/1.1 Mozilla/5.0+(Linux;+Android+7.0;+Redmi+Note+4)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.99+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/ 200 10501 506
+2018-12-25 05:05:08 GET /js/prettyphoto/css/prettyPhoto.css - 64.233.173.53 HTTP/1.1 Mozilla/5.0+(Linux;+Android+7.0;+Redmi+Note+4)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.99+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/ 200 20163 526
+2018-12-25 05:05:08 GET /css/bootstrap/js/bootstrap.min.js - 64.233.173.53 HTTP/1.1 Mozilla/5.0+(Linux;+Android+7.0;+Redmi+Note+4)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.99+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/ 200 27990 510
+2018-12-25 05:05:08 GET /js/jquery.easing.min.js - 64.233.173.57 HTTP/1.1 Mozilla/5.0+(Linux;+Android+7.0;+Redmi+Note+4)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.99+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/ 200 7308 500
+2018-12-25 05:05:08 GET /js/jquery.isotope.min.js - 64.233.173.57 HTTP/1.1 Mozilla/5.0+(Linux;+Android+7.0;+Redmi+Note+4)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.99+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/ 200 16218 501
+2018-12-25 05:05:08 GET /js/prettyphoto/js/jquery.prettyPhoto.js - 64.233.173.55 HTTP/1.1 Mozilla/5.0+(Linux;+Android+7.0;+Redmi+Note+4)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.99+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/ 200 22334 516
+2018-12-25 05:05:08 GET /js/jquery.flexslider-min.js - 64.233.173.53 HTTP/1.1 Mozilla/5.0+(Linux;+Android+7.0;+Redmi+Note+4)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.99+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/ 200 21685 504
+2018-12-25 05:05:08 GET /js/jquery.form.min.js - 64.233.173.57 HTTP/1.1 Mozilla/5.0+(Linux;+Android+7.0;+Redmi+Note+4)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.99+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/ 200 11390 498
+2018-12-25 05:05:08 GET /js/contactform.js - 64.233.173.53 HTTP/1.1 Mozilla/5.0+(Linux;+Android+7.0;+Redmi+Note+4)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.99+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/ 200 4238 494
+2018-12-25 05:05:08 GET /js/jquery.nicescroll.min.js - 64.233.173.53 HTTP/1.1 Mozilla/5.0+(Linux;+Android+7.0;+Redmi+Note+4)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.99+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/ 200 57934 504
+2018-12-25 05:05:08 GET /css/bootstrap/fonts/glyphicons-halflings-regular.woff - 64.233.173.55 HTTP/1.1 Mozilla/5.0+(Linux;+Android+7.0;+Redmi+Note+4)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.99+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/css/bootstrap/css/bootstrap.min.css 404 1405 603
+2018-12-25 05:05:08 GET /js/init.js - 64.233.173.55 HTTP/1.1 Mozilla/5.0+(Linux;+Android+7.0;+Redmi+Note+4)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.99+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/ 200 3636 487
+2018-12-25 05:05:08 GET /images/events/event-1.jpg - 64.233.173.55 HTTP/1.1 Mozilla/5.0+(Linux;+Android+7.0;+Redmi+Note+4)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.99+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/ 200 608557 538
+2018-12-25 05:05:08 GET /images/bkgs/home-bkg.jpg - 64.233.173.53 HTTP/1.1 Mozilla/5.0+(Linux;+Android+7.0;+Redmi+Note+4)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.99+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/ 200 275939 537
+2018-12-25 05:05:08 GET /images/events/event-2.jpg - 64.233.173.55 HTTP/1.1 Mozilla/5.0+(Linux;+Android+7.0;+Redmi+Note+4)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.99+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/ 200 595360 538
+2018-12-25 05:05:08 GET /images/events/event-3.jpg - 64.233.173.55 HTTP/1.1 Mozilla/5.0+(Linux;+Android+7.0;+Redmi+Note+4)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.99+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/ 200 598125 538
+2018-12-25 05:05:09 GET /images/events/event-4.jpg - 64.233.173.57 HTTP/1.1 Mozilla/5.0+(Linux;+Android+7.0;+Redmi+Note+4)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.99+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/ 200 16101 538
+2018-12-25 05:05:09 GET /css/bootstrap/fonts/glyphicons-halflings-regular.ttf - 64.233.173.53 HTTP/1.1 Mozilla/5.0+(Linux;+Android+7.0;+Redmi+Note+4)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.99+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/css/bootstrap/css/bootstrap.min.css 200 29775 602
+2018-12-25 05:05:09 GET /images/team/member-1.jpg - 64.233.173.57 HTTP/1.1 Mozilla/5.0+(Linux;+Android+7.0;+Redmi+Note+4)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.99+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/ 200 593475 537
+2018-12-25 05:05:09 GET /images/team/member-2.jpg - 64.233.173.53 HTTP/1.1 Mozilla/5.0+(Linux;+Android+7.0;+Redmi+Note+4)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.99+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/ 200 594701 537
+2018-12-25 05:05:09 GET /images/team/member-3.jpg - 64.233.173.57 HTTP/1.1 Mozilla/5.0+(Linux;+Android+7.0;+Redmi+Note+4)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.99+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/ 200 587295 537
+2018-12-25 05:05:09 GET /images/gallery/gallery-1.jpg - 64.233.173.57 HTTP/1.1 Mozilla/5.0+(Linux;+Android+7.0;+Redmi+Note+4)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.99+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/ 200 16100 541
+2018-12-25 05:05:09 GET /images/gallery/gallery-2.jpg - 64.233.173.55 HTTP/1.1 Mozilla/5.0+(Linux;+Android+7.0;+Redmi+Note+4)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.99+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/ 200 16758 541
+2018-12-25 05:05:09 GET /images/gallery/gallery-3.jpg - 64.233.173.55 HTTP/1.1 Mozilla/5.0+(Linux;+Android+7.0;+Redmi+Note+4)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.99+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/ 200 14699 541
+2018-12-25 05:05:09 GET /images/gallery/gallery-4.jpg - 64.233.173.55 HTTP/1.1 Mozilla/5.0+(Linux;+Android+7.0;+Redmi+Note+4)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.99+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/ 200 14402 541
+2018-12-25 05:05:09 GET /images/gallery/gallery-5.jpg - 64.233.173.55 HTTP/1.1 Mozilla/5.0+(Linux;+Android+7.0;+Redmi+Note+4)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.99+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/ 200 18116 541
+2018-12-25 05:05:09 GET /images/gallery/gallery-6.jpg - 64.233.173.53 HTTP/1.1 Mozilla/5.0+(Linux;+Android+7.0;+Redmi+Note+4)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.99+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/ 200 20196 541
+2018-12-25 05:05:10 GET /images/bkgs/section-bkg.jpg - 64.233.173.53 HTTP/1.1 Mozilla/5.0+(Linux;+Android+7.0;+Redmi+Note+4)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.99+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/ 200 130166 540
+2018-12-25 05:05:11 GET /images/toggle-plus.png - 64.233.173.55 HTTP/1.1 Mozilla/5.0+(Linux;+Android+7.0;+Redmi+Note+4)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.99+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/style.css 200 1206 544
+2018-12-25 05:05:11 GET /images/icon-facebook.png - 64.233.173.53 HTTP/1.1 Mozilla/5.0+(Linux;+Android+7.0;+Redmi+Note+4)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.99+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/style.css 200 1874 546
+2018-12-25 05:05:11 GET /images/flexslider-arrows.png - 64.233.173.55 HTTP/1.1 Mozilla/5.0+(Linux;+Android+7.0;+Redmi+Note+4)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.99+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/style.css 200 1827 550
+2018-12-25 05:05:11 GET /images/toggle-minus.png - 64.233.173.55 HTTP/1.1 Mozilla/5.0+(Linux;+Android+7.0;+Redmi+Note+4)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.99+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/style.css 200 1196 545
+2018-12-25 05:05:13 GET /css/bootstrap/fonts/glyphicons-halflings-regular.ttf - 203.184.61.148 HTTP/1.1 Mozilla/5.0+(Linux;+Android+7.0;+Redmi+Note+4)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.99+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/css/bootstrap/css/bootstrap.min.css 200 29775 533
+2018-12-25 05:05:13 GET /images/favicon.ico - 64.233.173.55 HTTP/1.1 Mozilla/5.0+(Linux;+Android+7.0;+Redmi+Note+4)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/71.0.3578.99+Mobile+Safari/537.36 http://www.ngateahotel.co.nz/ 404 1405 531
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-12-25 05:37:18
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-12-25 05:37:18 GET / - 173.252.95.31 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-25 05:37:19 GET / - 173.252.95.31 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-25 05:37:19 GET / - 173.252.95.31 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-25 05:37:19 GET / - 173.252.95.31 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-25 05:37:19 GET / - 173.252.95.31 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-25 05:37:19 GET / - 173.252.95.31 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-25 05:37:19 GET / - 173.252.95.11 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-25 05:37:19 GET / - 173.252.95.24 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-25 05:37:19 GET / - 173.252.95.24 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-25 05:37:19 GET / - 173.252.95.24 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-25 05:37:19 GET / - 173.252.95.9 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-25 05:37:19 GET / - 173.252.95.25 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-25 05:37:19 GET / - 173.252.95.15 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-25 05:37:20 GET / - 173.252.95.24 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-25 05:37:20 GET / - 173.252.95.17 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221
+2018-12-25 05:37:20 GET / - 173.252.95.32 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 103212 221

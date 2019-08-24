@@ -1,0 +1,55 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2017-09-21 14:43:56
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2017-09-21 14:43:55 GET / - 38.145.81.117 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_12_5)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/58.0.3029.110+Safari/537.36 - 200 818 238
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2017-09-21 15:51:17
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2017-09-21 15:51:16 GET / - 204.16.0.243 HTTP/1.1 Mozilla/5.0+(Windows+NT+5.1;+rv:32.0)+Gecko/20100101+Firefox/32.0 - 200 959 852
+2017-09-21 15:57:39 GET / - 198.143.147.42 HTTP/1.1 Mozilla/5.0+(Windows+NT+5.1;+rv:32.0)+Gecko/20100101+Firefox/32.0 - 200 959 297
+2017-09-21 16:07:46 GET / - 37.187.17.7 HTTP/1.1 Mozilla/5.0+(Windows+NT+5.1;+rv:32.0)+Gecko/20100101+Firefox/32.0 - 200 959 669
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2017-09-21 20:25:49
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2017-09-21 20:25:49 GET /robots.txt - 46.229.164.99 HTTP/1.1 Mozilla/5.0+(compatible;+SemrushBot/1.2~bl;++http://www.semrush.com/bot.html) - 404 1424 211
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2017-09-22 01:46:43
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2017-09-22 01:46:43 GET /robots.txt - 199.58.86.209 HTTP/1.1 Mozilla/5.0+(compatible;+MJ12bot/v1.4.8;+http://mj12bot.com/) - 404 1405 169
+2017-09-22 01:46:45 GET / - 199.58.86.209 HTTP/1.1 Mozilla/5.0+(compatible;+MJ12bot/v1.4.8;+http://mj12bot.com/) - 200 959 346
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2017-09-22 04:01:05
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2017-09-22 04:01:04 GET /robots.txt - 151.80.39.176 HTTP/1.1 Mozilla/5.0+(compatible;+AhrefsBot/5.2;++http://ahrefs.com/robot/) - 404 1405 182
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2017-09-22 04:26:29
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2017-09-22 04:26:28 GET /wwwroot/addons/tinymce/plugins/tinybrowser/upload.php - 173.208.146.2 HTTP/1.1 Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.1;+Trident/5.0) - 404 1405 269
+2017-09-22 04:26:28 GET /public/js/tiny_mce/plugins/tinybrowser/upload.php - 173.208.146.2 HTTP/1.1 Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.1;+Trident/5.0) - 404 1405 241
+2017-09-22 04:26:29 GET /js/tinymce/plugins/tinybrowser/upload.php - 173.208.146.2 HTTP/1.1 Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.1;+Trident/5.0) - 404 1405 233
+2017-09-22 04:26:29 GET /tinybrowser/tree/tinybrowser/upload.php - 173.208.146.2 HTTP/1.1 Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.1;+Trident/5.0) - 404 1405 231
+2017-09-22 04:26:29 GET /flikQ/rocketeercms/blob/master/themes/admin/assets/js/tiny_mce/plugins/tinybrowser/upload.php - 173.208.146.2 HTTP/1.1 Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.1;+Trident/5.0) - 404 1405 285
+2017-09-22 04:26:30 GET /scripts/tiny_mce/plugins/tinybrowser/upload.php - 173.208.146.2 HTTP/1.1 Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.1;+Trident/5.0) - 404 1405 239
+2017-09-22 04:26:30 GET /painel/scripts/tiny_mce/plugins/tinybrowser/upload.php - 173.208.146.2 HTTP/1.1 Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.1;+Trident/5.0) - 404 1405 246
+2017-09-22 04:26:30 GET /tinymce_pt/jscripts/tiny_mce/plugins/tinybrowser/upload.php - 173.208.146.2 HTTP/1.1 Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.1;+Trident/5.0) - 404 1405 251
+2017-09-22 04:26:30 GET /php/tinybrowser/upload.php - 173.208.146.2 HTTP/1.1 Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.1;+Trident/5.0) - 404 1405 218
+2017-09-22 04:26:31 GET /jscripts/tiny_mce/plugins/tinybrowser/upload.php - 173.208.146.2 HTTP/1.1 Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.1;+Trident/5.0) - 404 1405 240
+2017-09-22 04:26:31 GET /tiny_mce/plugins/tinybrowser/upload.php - 173.208.146.2 HTTP/1.1 Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.1;+Trident/5.0) - 404 1405 231
+2017-09-22 04:26:31 GET /wp-content/plugins/simple-forum/editors/tinymce/plugins/tinybrowser/upload.php - 173.208.146.2 HTTP/1.1 Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.1;+Trident/5.0) - 404 1405 270
+2017-09-22 04:26:33 GET /Association/wp-content/plugins/simple-forum/editors/tinymce/plugins/tinybrowser/upload.php - 173.208.146.2 HTTP/1.1 Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.1;+Trident/5.0) - 404 1405 282
+2017-09-22 04:26:33 GET /js/tiny_mce/plugins/tinybrowser/upload.php - 173.208.146.2 HTTP/1.1 Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.1;+Trident/5.0) - 404 1405 234
+2017-09-22 04:26:33 GET /bd/search - 173.208.146.2 HTTP/1.1 Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.1;+Trident/5.0) - 404 1405 283
+2017-09-22 04:26:33 GET /tinybrowser/upload.php - 173.208.146.2 HTTP/1.1 Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.1;+Trident/5.0) - 404 1405 214
+2017-09-22 04:26:34 GET /plugins/editors/tinymce/jscripts/tiny_mce/plugins/tinybrowser/upload.php - 173.208.146.2 HTTP/1.1 Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.1;+Trident/5.0) - 404 1405 264
+2017-09-22 04:26:34 GET /public/javascripts/tiny_mce/plugins/tinybrowser/upload.php - 173.208.146.2 HTTP/1.1 Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.1;+Trident/5.0) - 404 1405 250
+2017-09-22 04:26:34 GET /cat-bin/tools/login/lib/tiny_mce/plugins/tinybrowser/upload.php - 173.208.146.2 HTTP/1.1 Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.1;+Trident/5.0) - 404 1405 255
+2017-09-22 04:26:35 GET /admin/lib/tiny_mce/plugins/tinybrowser/upload.php - 173.208.146.2 HTTP/1.1 Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.1;+Trident/5.0) - 404 1405 241
+2017-09-22 04:26:35 GET /static/js/tiny_mce/plugins/tinybrowser/upload.php - 173.208.146.2 HTTP/1.1 Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.1;+Trident/5.0) - 404 1405 241
+2017-09-22 04:26:35 GET /editors/tinymce/jscripts/tiny_mce/plugins/tinybrowser/upload.php - 173.208.146.2 HTTP/1.1 Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.1;+Trident/5.0) - 404 1405 256
+2017-09-22 04:26:35 GET /projects/bilardII/resources/js/tiny_mce/plugins/tinybrowser/upload.php - 173.208.146.2 HTTP/1.1 Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.1;+Trident/5.0) - 404 1405 262

@@ -1,0 +1,61 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2016-12-23 10:09:30
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2016-12-23 10:09:29 GET / - 5.39.27.253 HTTP/1.0 Mozilla/5.0+(Windows+NT+6.1)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2228.0+Safari/537.36 - 200 13762 259
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2016-12-23 11:40:45
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2016-12-23 11:40:44 GET /robots.txt - 68.180.229.190 HTTP/1.1 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) - 404 1405 167
+2016-12-23 11:40:46 GET / - 68.180.229.190 HTTP/1.1 Mozilla/5.0+(compatible;+Yahoo!+Slurp;+http://help.yahoo.com/help/us/ysearch/slurp) - 304 210 265
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2016-12-23 11:56:50
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2016-12-23 11:56:50 GET /robots.txt - 69.58.178.57 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+i686;+rv:14.0;+ips-agent)+Gecko/20100101+Firefox/14.0.1 - 404 1405 185
+2016-12-23 11:56:52 GET / - 69.58.178.57 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+i686;+rv:14.0;+ips-agent)+Gecko/20100101+Firefox/14.0.1 - 200 13738 175
+2016-12-23 11:56:53 GET /about.html - 69.58.178.57 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+i686;+rv:14.0;+ips-agent)+Gecko/20100101+Firefox/14.0.1 - 200 5709 185
+2016-12-23 11:56:54 GET /services.html - 69.58.178.57 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+i686;+rv:14.0;+ips-agent)+Gecko/20100101+Firefox/14.0.1 - 200 7369 188
+2016-12-23 11:56:56 GET /contact.html - 69.58.178.57 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+i686;+rv:14.0;+ips-agent)+Gecko/20100101+Firefox/14.0.1 - 200 6391 187
+2016-12-23 11:56:57 GET /index.html - 69.58.178.57 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+i686;+rv:14.0;+ips-agent)+Gecko/20100101+Firefox/14.0.1 - 200 13738 185
+2016-12-23 11:56:59 GET /portfolio.html - 69.58.178.57 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+i686;+rv:14.0;+ips-agent)+Gecko/20100101+Firefox/14.0.1 - 200 12622 189
+2016-12-23 12:12:21 GET /robots.txt - 207.241.229.147 HTTP/1.0 Mozilla/5.0+(compatible;+archive.org_bot++http://www.archive.org/details/archive.org_bot) - 404 1424 252
+2016-12-23 12:12:27 GET / - 207.241.229.147 HTTP/1.0 Mozilla/5.0+(compatible;+archive.org_bot++http://www.archive.org/details/archive.org_bot) http://hauntedearthghostvideos.blogspot.tw/2012_05_01_archive.html 200 13757 319
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2016-12-23 19:34:44
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2016-12-23 19:34:44 GET /robots.txt - 207.46.13.231 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - 404 1405 254
+2016-12-23 19:34:49 GET / - 40.77.167.88 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - 200 13738 276
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2016-12-23 19:59:14
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2016-12-23 19:59:14 GET / - 202.46.52.142 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/45.0.2454.93+Safari/537.36 - 200 3395 322
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2016-12-23 20:30:22
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2016-12-23 20:30:21 GET /robots.txt - 54.144.198.99 HTTP/1.1 - - 404 1424 72
+2016-12-23 20:30:23 GET / - 54.144.198.99 HTTP/1.1 CheckMarkNetwork/1.0+(+http://www.checkmarknetwork.com/spider.html) - 200 13757 143
+2016-12-23 20:30:24 GET /css/bootstrap.min.css - 54.144.198.99 HTTP/1.1 roboto - 200 120767 103
+2016-12-23 20:30:27 GET /ionicons/css/ionicons.min.css - 54.144.198.99 HTTP/1.1 roboto - 200 51551 111
+2016-12-23 20:30:29 GET /css/style.css - 54.144.198.99 HTTP/1.1 roboto - 200 23688 95
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2016-12-23 22:55:44
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2016-12-23 22:55:44 GET /robots.txt - 178.255.215.91 HTTP/1.1 Mozilla/5.0+(compatible;+Exabot/3.0;++http://www.exabot.com/go/robot) - 404 1424 277
+2016-12-23 22:55:44 GET / - 178.255.215.91 HTTP/1.1 Mozilla/5.0+(compatible;+Exabot/3.0;++http://www.exabot.com/go/robot) - 200 3395 353
+2016-12-23 23:03:18 GET / - 180.76.15.17 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - 304 229 308
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2016-12-24 02:30:37
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2016-12-24 02:30:37 GET / - 79.134.218.13 HTTP/1.1 <a+href="http://forum.windowsfaq.ru/">Forum.WindowsFAQ.ru</a> <a+href="http://forum.windowsfaq.ru/">Forum.WindowsFAQ.ru</a> 200 13738 305
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2016-12-24 04:08:12
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2016-12-24 04:08:11 GET / - 85.248.227.164 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/37.0.2062.120+Safari/537.36 http://burger-imperia.com/ 200 3376 243

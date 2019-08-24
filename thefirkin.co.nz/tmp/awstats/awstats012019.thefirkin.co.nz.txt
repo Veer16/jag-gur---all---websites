@@ -1,0 +1,450 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 201901 will be lost/reset.
+# Last config file used to build this data file was /home/thefi694/tmp/awstats/awstats.thefirkin.co.nz.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2012                
+POS_TIME 2683                
+POS_VISITOR 10931               
+POS_DAY 12514               
+POS_DOMAIN 3417                
+POS_LOGIN 3807                
+POS_ROBOT 3962                
+POS_WORMS 4506                
+POS_EMAILSENDER 4637                
+POS_EMAILRECEIVER 4780                
+POS_SESSION 13046               
+POS_SIDER 13224               
+POS_FILETYPES 4915                
+POS_DOWNLOADS 5180                
+POS_OS 5228                
+POS_BROWSER 5441                
+POS_SCREENSIZE 5919                
+POS_UNKNOWNREFERER 5993                
+POS_UNKNOWNREFERERBROWSER 6477                
+POS_ORIGIN 6597                
+POS_SEREFERRALS 6732                
+POS_PAGEREFS 6917                
+POS_SEARCHWORDS 7094                
+POS_KEYWORDS 7246                
+POS_MISC 2347                
+POS_ERRORS 7305                
+POS_CLUSTER 3663                
+POS_SIDER_404 7397                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20190201003821 1 0 9424559035994
+FirstTime 20190101185420
+LastTime 20190131023548
+LastUpdate 20190201231850 1 0 0 0 0
+TotalVisits 42                  
+TotalUnique 27                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 45                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+FlashSupport 0 0 0
+PDFSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+TotalMisc 0 0 0
+JavascriptDisabled 0 0 0
+JavaEnabled 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+DirectorSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 2 22 5665747
+1 15 15 23170 9 16 156732
+2 2 2 8966 4 4 40350
+3 0 2 69440 5 15 115486
+4 0 0 0 5 20 193890
+5 2 18 10836045 19 25 146915
+6 3 15 105894 11 21 5596062
+7 1 8 105174 55 61 313737
+8 1 2 39203 14 19 5593927
+9 3 3 13449 16 24 5960877
+10 3 3 26888 6 6 38108
+11 0 0 0 5 17 5637446
+12 0 0 0 26 52 13581510
+13 2 2 8966 15 27 2197411
+14 1 2 39203 22 32 11131761
+15 8 23 11800522 35 43 5820640
+16 1 1 4483 9 15 5559262
+17 5 5 35854 32 37 211884
+18 6 6 40337 9 31 3176442
+19 6 36 21555770 12 19 115588
+20 0 0 0 5 16 113632
+21 2 16 10738682 2 18 5604651
+22 3 3 13449 4 9 5527801
+23 1 1 4483 6 12 88854
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 13
+us 41 85 22922442
+nz 6 43 21579210
+cn 4 4 17932
+lt 4 4 44810
+pl 4 4 44810
+ie 2 16 10738682
+ca 1 1 4483
+ua 1 1 4483
+fr 1 1 4483
+my 1 1 4483
+es 0 1 34720
+lk 0 1 34720
+in 0 1 34720
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 10
+facebookexternalhit/ 191 57735808 20190131180244 0
+Googlebot/ 87 736571 20190131195553 0
+archive\.org_bot 16 10827070 20190131181103 0
+no_user_agent 5 10961357 20190130140535 0
+bot[\s_+:,\.\;\/\\-] 4 17932 20190126060554 0
+bingbot/ 3 13449 20190126163113 0
+DomainCrawler/ 2 8966 20190112225055 0
+YandexBot/ 2 8966 20190120080756 0
+Konqueror/ 2 8966 20190125230432 0
+[\s_+:,\.\;\/\\-]bot 1 4483 20190111050636 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 11
+html 45 255491 0 0
+css 21 230898 0 0
+jpg 32 41234235 0 0
+svg 2 449996 0 0
+eot 4 497226 0 0
+woff2 4 308640 0 0
+ttf 1 165548 0 0
+Unknown 10 755 0 0
+js 32 435456 0 0
+png 11 11793709 0 0
+woff 1 98024 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 12
+win8.1 4 2
+winnt 2 2
+win7 43 13
+win10 52 8
+macosx6 1 1
+macosx11 4 4
+macosx10 1 1
+Unknown 35 18
+linux 3 3
+winxp 2 0
+linuxandroid 3 0
+macosx12 13 13
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 24
+safari5.1.7 1 1
+chrome71.0.3578.98 52 6
+chrome23.0.1271.95 1 0
+firefox40.1 1 1
+msie11 1 0
+msie11.0 25 4
+firefox52.0 1 1
+chrome63.0.3239.132 1 1
+opera49.0.2725.47 4 4
+chrome60.0.3112.101 3 3
+firefox59.0 1 1
+firefox29.0 2 2
+chrome71.0.3578.99 2 0
+firefox47.0 4 4
+msie8.0 8 1
+chrome64.0.3282.137 1 0
+firefox56.0 2 2
+chrome61.0.3163.100 13 13
+firefox64.0 1 1
+firefox50.0 1 0
+firefox37.1 2 2
+opera12.0 1 0
+Unknown 5 5
+mozilla 30 13
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 5
+Cpanel-HTTP-Client/1.0 20190111014140
+Mozilla/5.0_(compatible;_Google-Site-Verification/1.0) 20190125190800
+Mozilla/5.0_(compatible;_Let's_Encrypt_validation_server;__https://www.letsencrypt.org) 20190111014143
+Mozilla/4.0_(compatible;) 20190111052032
+Mozilla/5.0_(compatible;_NLNZ_IAHarvester2019/3.3.0__https://natlib.govt.nz/publishers-and-authors/web-harvesting/domain-harvest) 20190117151019
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+Cpanel-HTTP-Client/1.0 20190111014140
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 45 51
+From1 0 0
+From2 0 7
+From3 2 2
+From4 18 103
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+www_google_com 0 6
+www_google_com_lb 0 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+https://www.facebook.com 2 2
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 1
+404 224 2265145
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 67
+/wp3/wp-login.php 1 -
+/classes/commons/resources/flyoutmenu/flyoutmenu.js 6 http://www.thefirkin.co.nz/CONTACT.php
+/bs.tab 1 http://thefirkin.co.nz/js/bootstrap.min.js
+/fonts/glyphicons-halflings-regular.eot 1 http://thefirkin.co.nz/css/bootstrap.min.css
+/bs.modal 1 http://thefirkin.co.nz/js/bootstrap.min.js
+/wp1/wp-login.php 1 -
+/blog/wp-login.php 1 -
+/wordpress2/wp-login.php 1 -
+/click._change 1 http://thefirkin.co.nz/js/jquery.min.js
+/a 1 http://thefirkin.co.nz/js/jquery.min.js
+/blog/wp-includes/wlwmanifest.xml 1 -
+/googled76ba004f7050331.html 1 -
+/wp/wp-login.php 1 -
+/google1c8193b8c872e89e.html 1 -
+/wordpress/wp-login.php 1 -
+/CONTACT.php 2 -
+/bs.tooltip 1 http://thefirkin.co.nz/js/bootstrap.min.js
+/fonts/glyphicons-halflings-regular.woff 1 http://thefirkin.co.nz/css/bootstrap.min.css
+/bs.popover 1 http://thefirkin.co.nz/js/bootstrap.min.js
+/bs.dropdown 1 http://thefirkin.co.nz/js/bootstrap.min.js
+/wp2/wp-login.php 1 -
+//xmlrpc.php 2 http://www.google.com.hk
+/cms/wp-includes/wlwmanifest.xml 1 -
+/wp-login.php 16 -
+/submit._submit 1 http://thefirkin.co.nz/js/jquery.min.js
+/classes/commons/resources/flyoutmenu/flyoutmenu.css 5 http://www.thefirkin.co.nz/menu.php
+/fonts/glyphicons-halflings-regular.woff2 1 http://thefirkin.co.nz/css/bootstrap.min.css
+/bs.alert 1 http://thefirkin.co.nz/js/bootstrap.min.js
+/https://www.facebook.com/theFirkinSportsBar/ 1 -
+/change._change 1 http://thefirkin.co.nz/js/jquery.min.js
+/ads.txt 1 -
+/bs.scrollspy 1 http://thefirkin.co.nz/js/bootstrap.min.js
+/templates/Vertigo/resources/css/less.build.css 5 http://www.thefirkin.co.nz/menu.php
+/wp-includes/wlwmanifest.xml 1 -
+/bs.button 1 http://thefirkin.co.nz/js/bootstrap.min.js
+/beforeactivate._change 1 http://thefirkin.co.nz/js/jquery.min.js
+/test3/wp-login.php 1 -
+/templates/Vertigo/resources/js/browserify.build.js 6 http://www.thefirkin.co.nz/CONTACT.php
+/propertychange._change 1 http://thefirkin.co.nz/js/jquery.min.js
+/wp/wp-includes/wlwmanifest.xml 1 -
+/bs.affix 1 http://thefirkin.co.nz/js/bootstrap.min.js
+/blog3/wp-login.php 1 -
+/bs.carousel 1 http://thefirkin.co.nz/js/bootstrap.min.js
+/fonts/glyphicons-halflings-regular.ttf 1 http://thefirkin.co.nz/css/bootstrap.min.css
+/Microsoft.XMLHTTP 1 http://thefirkin.co.nz/js/jquery.min.js
+//wp-login.php 7 -
+/test1/wp-login.php 1 -
+/contactform/contactform.js 41 http://thefirkin.co.nz/
+/wordpress3/wp-login.php 1 -
+/classes/components/GoogleMapV2/layouts/Default/Default.css 3 http://thefirkin.co.nz/CONTACT.php
+/xmlrpc.php 1 -
+/wordpress1/wp-login.php 1 -
+/Microsoft.XMLDOM 1 http://thefirkin.co.nz/js/jquery.min.js
+/templates/Vertigo/resources/css/typography.css 6 http://www.thefirkin.co.nz/CONTACT.php
+/robots.txt 63 -
+/classes/commons/resources/global/global.css 6 http://www.thefirkin.co.nz/CONTACT.php
+/test2/wp-login.php 1 -
+/Popover%20requires%20tooltip.js 1 http://thefirkin.co.nz/js/bootstrap.min.js
+/wordpress/wp-includes/wlwmanifest.xml 1 -
+/fonts/glyphicons-halflings-regular.svg 1 http://thefirkin.co.nz/css/bootstrap.min.css
+/https://fonts.googleapis.com/css 1 -
+/site/wp-includes/wlwmanifest.xml 1 -
+/blog2/wp-login.php 1 -
+/bs.collapse 1 http://thefirkin.co.nz/js/bootstrap.min.js
+/blog1/wp-login.php 1 -
+/menu.php 3 -
+/test/wp-login.php 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 45
+52.53.201.78 13 13 58279 20190130173230
+69.90.162.40 7 7 494 20190111014142
+207.241.232.246 6 21 11778117 20190117150950
+60.191.38.77 4 4 17932 20190131023548
+116.89.224.153 4 27 10840528 20190111061208
+66.133.109.36 3 3 261 20190111014143
+87.101.94.118 2 2 22405 20190123150700
+95.174.64.148 2 2 22405 20190106182853
+118.92.125.77 2 16 10738682 20190125190749
+31.13.115.13 2 3 127378 20190126195631
+85.206.165.25 2 2 22405 20190130171946
+85.206.165.6 2 2 22405 20190113103603
+161.69.99.11 2 2 8966 20190111181603
+46.119.126.222 1 1 4483 20190117013332
+34.217.70.109 1 1 4483 20190126062456
+5.196.64.109 1 1 4483 20190125230430
+173.252.95.20 1 4 754336 20190104215330
+18.144.42.77 1 1 4483 20190119080128
+64.246.165.160 1 1 4483 20190119135350
+14.192.208.255 1 1 4483 20190114010405
+54.91.39.251 1 1 4483 20190124142207
+69.164.111.198 1 8 105174 20190113072919
+167.114.226.133 1 1 4483 20190103185105
+66.102.8.207 1 1 4483 20190125190800
+173.252.95.14 1 4 2072934 20190104215331
+31.13.115.11 0 1 1947979 
+68.99.148.94 0 1 34720 
+31.13.115.12 0 4 2365987 
+31.13.115.1 0 1 5473954 
+31.13.115.6 0 3 168558 
+31.13.115.2 0 4 654826 
+66.102.6.15 0 1 34720 
+173.252.95.11 0 1 2302412 
+54.185.19.114 0 2 47795 
+173.252.95.16 0 3 75172 
+34.211.158.27 0 2 14413 
+123.231.85.244 0 1 34720 
+209.234.253.183 0 1 34720 
+166.232.191.86 0 1 34720 
+173.252.95.24 0 1 5473954 
+117.195.239.3 0 1 34720 
+66.102.8.211 1 1 4483 20190125190800
+54.152.108.94 1 1 4483 20190115223033
+173.252.95.22 0 3 59874 
+95.214.212.178 0 1 34720 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 22
+20190101 1 1 4483 1
+20190103 1 1 4483 1
+20190104 3 17 10743165 3
+20190106 3 3 26888 2
+20190107 1 1 4483 1
+20190108 1 1 4483 1
+20190111 17 40 10854732 5
+20190112 1 1 4483 1
+20190113 3 11 162299 2
+20190114 2 2 8966 2
+20190115 1 1 4483 1
+20190116 1 2 39203 1
+20190117 7 22 11782600 2
+20190119 3 3 13449 3
+20190121 2 2 8966 2
+20190123 3 5 96328 2
+20190124 1 1 4483 1
+20190125 5 20 10786851 4
+20190126 4 22 10809856 3
+20190128 1 2 39203 1
+20190130 3 4 61608 2
+20190131 1 1 4483 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 4
+30mn-1h 1
+30s-2mn 1
+0s-30s 39
+5mn-15mn 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 15
+/ 45 255491 39 35
+/fonts/fontawesome-webfont.eot 4 497226 0 1
+/fonts/fontawesome-webfont.woff2 4 308640 1 3
+/.well-known/acme-challenge/MBGPE09IMOSVN4UM79ZA6CCU-UDEDE2H 1 64 0 0
+/fonts/fontawesome-webfont.ttf 1 165548 0 1
+/.well-known/acme-challenge/5PTRFH5plA6Gc1FmY18nT4LDMLtBPeZWX06W4cYKNsc 1 87 0 0
+/.well-known/acme-challenge/omFlFkEXP_nqOsGOaa4thVN6gyar9vSWAMSvJF0bXnE 1 87 1 0
+/fonts/fontawesome-webfont.woff 1 98024 0 0
+/.well-known/acme-challenge/-I51X0T5OJACHBFLB21LYOVX8DSBJ3XQ 1 64 0 0
+/.well-known/acme-challenge/6GH7G7E2ZH9ZU9B_QPHAMKPWN42XZLMJ 1 64 1 0
+/.well-known/acme-challenge/5brG-CcIzbXayCR0eMS0UPviSWt79Ufsl85HxFOY_lw 1 87 0 1
+/.well-known/acme-challenge/rq8Y3Ikc3edymd7l8CwDdPTOHxV5vWsRrYwwmwf-xLY 1 87 0 1
+/.well-known/acme-challenge/be04KEuw2B8OMfTPqD1cRixLzcZ7IuCUBVMp14WabJI 1 87 0 0
+/.well-known/acme-challenge/2N3FRLYXS7-ATNBAS-YJ_B9C6HMHAK5G 1 64 0 0
+/.well-known/acme-challenge/DMX61Q58J1OP654_QBH4T9LZGEHKXPD8 1 64 0 0
+END_SIDER

@@ -1,0 +1,91 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-07-09 12:48:09
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-07-09 12:48:09 GET / - 193.106.30.99 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+rv:34.0)+Gecko/20100101+Firefox/34.0 - 200 23480 193
+2018-07-09 12:48:12 GET / - 193.106.30.99 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+rv:34.0)+Gecko/20100101+Firefox/34.0 - 200 5621 193
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-07-09 14:15:28
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-07-09 14:15:27 GET /robots.txt - 66.249.79.150 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 404 1405 237
+2018-07-09 14:15:28 GET / - 66.249.79.148 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 7018 300
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-07-09 14:54:13
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-07-09 14:54:12 GET /robots.txt - 207.241.232.49 HTTP/1.0 Mozilla/5.0+(compatible;+archive.org_bot++http://www.archive.org/details/archive.org_bot) - 404 1424 250
+2018-07-09 14:54:17 GET /images/loader.html - 207.241.232.49 HTTP/1.0 Mozilla/5.0+(compatible;+archive.org_bot++http://www.archive.org/details/archive.org_bot) http://crossroadsbar.co.nz/css/swipebox.css 200 641 312
+2018-07-09 14:56:42 GET /robots.txt - 207.241.232.48 HTTP/1.0 Mozilla/5.0+(compatible;+archive.org_bot++http://www.archive.org/details/archive.org_bot) - 404 1424 250
+2018-07-09 14:56:45 GET /images/icons.html - 207.241.232.48 HTTP/1.0 Mozilla/5.0+(compatible;+archive.org_bot++http://www.archive.org/details/archive.org_bot) http://crossroadsbar.co.nz/css/swipebox.css 200 640 311
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-07-09 15:21:50
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-07-09 15:21:49 GET /robots.txt - 207.241.232.43 HTTP/1.0 Mozilla/5.0+(compatible;+archive.org_bot++http://www.archive.org/details/archive.org_bot) - 404 1424 250
+2018-07-09 15:21:53 GET /fonts/PoiretOne-Regular.html - 207.241.232.43 HTTP/1.0 Mozilla/5.0+(compatible;+archive.org_bot++http://www.archive.org/details/archive.org_bot) http://crossroadsbar.co.nz/css/style.css 200 651 319
+2018-07-09 15:22:16 GET /robots.txt - 207.241.231.118 HTTP/1.0 Mozilla/5.0+(compatible;+archive.org_bot++http://www.archive.org/details/archive.org_bot) - 404 1424 250
+2018-07-09 15:22:19 GET /images/move-top.png - 207.241.231.118 HTTP/1.0 Mozilla/5.0+(compatible;+archive.org_bot++http://www.archive.org/details/archive.org_bot) http://crossroadsbar.co.nz/css/style.css 200 3507 310
+2018-07-09 15:22:23 GET /robots.txt - 207.241.232.177 HTTP/1.0 Mozilla/5.0+(compatible;+archive.org_bot++http://www.archive.org/details/archive.org_bot) - 404 1424 250
+2018-07-09 15:22:27 GET /images/db.png - 207.241.232.177 HTTP/1.0 Mozilla/5.0+(compatible;+archive.org_bot++http://www.archive.org/details/archive.org_bot) http://crossroadsbar.co.nz/css/style.css 200 8017 304
+2018-07-09 15:23:45 GET /robots.txt - 207.241.232.44 HTTP/1.0 Mozilla/5.0+(compatible;+archive.org_bot++http://www.archive.org/details/archive.org_bot) - 404 1424 250
+2018-07-09 15:23:50 GET /images/bottom.jpg - 207.241.232.44 HTTP/1.0 Mozilla/5.0+(compatible;+archive.org_bot++http://www.archive.org/details/archive.org_bot) http://crossroadsbar.co.nz/css/style.css 200 117992 308
+2018-07-09 15:24:40 GET /images/banner.jpg - 207.241.231.118 HTTP/1.0 Mozilla/5.0+(compatible;+archive.org_bot++http://www.archive.org/details/archive.org_bot) http://crossroadsbar.co.nz/css/style.css 200 339942 308
+2018-07-09 15:27:36 GET /images/arrows.html - 207.241.232.43 HTTP/1.0 Mozilla/5.0+(compatible;+archive.org_bot++http://www.archive.org/details/archive.org_bot) http://crossroadsbar.co.nz/css/style.css 200 641 309
+2018-07-09 15:28:39 GET /images/tw.png - 207.241.232.177 HTTP/1.0 Mozilla/5.0+(compatible;+archive.org_bot++http://www.archive.org/details/archive.org_bot) http://crossroadsbar.co.nz/css/style.css 200 7342 304
+2018-07-09 15:29:01 GET /images/img-sprite.html - 207.241.232.177 HTTP/1.0 Mozilla/5.0+(compatible;+archive.org_bot++http://www.archive.org/details/archive.org_bot) http://crossroadsbar.co.nz/css/style.css 200 645 313
+2018-07-09 15:30:49 GET /images/nav.png - 207.241.231.118 HTTP/1.0 Mozilla/5.0+(compatible;+archive.org_bot++http://www.archive.org/details/archive.org_bot) http://crossroadsbar.co.nz/css/style.css 200 3334 305
+2018-07-09 15:31:24 GET /images/gg.png - 207.241.232.177 HTTP/1.0 Mozilla/5.0+(compatible;+archive.org_bot++http://www.archive.org/details/archive.org_bot) http://crossroadsbar.co.nz/css/style.css 200 7772 304
+2018-07-09 15:32:03 GET /images/fb.png - 207.241.232.44 HTTP/1.0 Mozilla/5.0+(compatible;+archive.org_bot++http://www.archive.org/details/archive.org_bot) http://crossroadsbar.co.nz/css/style.css 200 7403 304
+2018-07-09 15:37:46 GET /images/reservation.jpg - 207.241.232.44 HTTP/1.0 Mozilla/5.0+(compatible;+archive.org_bot++http://www.archive.org/details/archive.org_bot) http://crossroadsbar.co.nz/css/style.css 200 127672 313
+2018-07-09 15:40:20 GET /images/pagenate.html - 207.241.231.118 HTTP/1.0 Mozilla/5.0+(compatible;+archive.org_bot++http://www.archive.org/details/archive.org_bot) http://crossroadsbar.co.nz/css/bootstrap.css 200 643 315
+2018-07-09 15:41:51 GET /fonts/glyphicons-halflings-regular.woff - 207.241.232.49 HTTP/1.0 Mozilla/5.0+(compatible;+archive.org_bot++http://www.archive.org/details/archive.org_bot) http://crossroadsbar.co.nz/css/bootstrap.css 404 1424 334
+2018-07-09 15:46:06 GET /fonts/glyphicons-halflings-regulard41d.eot - 207.241.232.49 HTTP/1.0 Mozilla/5.0+(compatible;+archive.org_bot++http://www.archive.org/details/archive.org_bot) http://crossroadsbar.co.nz/css/bootstrap.css 200 20410 337
+2018-07-09 15:51:38 GET /fonts/glyphicons-halflings-regular.eot - 207.241.232.48 HTTP/1.0 Mozilla/5.0+(compatible;+archive.org_bot++http://www.archive.org/details/archive.org_bot) http://crossroadsbar.co.nz/css/bootstrap.css 200 20410 333
+2018-07-09 15:55:40 GET /fonts/glyphicons-halflings-regular.ttf - 207.241.232.48 HTTP/1.0 Mozilla/5.0+(compatible;+archive.org_bot++http://www.archive.org/details/archive.org_bot) http://crossroadsbar.co.nz/css/bootstrap.css 200 45686 333
+2018-07-09 16:00:37 GET /robots.txt - 207.241.232.47 HTTP/1.0 Mozilla/5.0+(compatible;+archive.org_bot++http://www.archive.org/details/archive.org_bot) - 404 1424 250
+2018-07-09 16:00:41 GET /fonts/glyphicons-halflings-regular.html - 207.241.232.47 HTTP/1.0 Mozilla/5.0+(compatible;+archive.org_bot++http://www.archive.org/details/archive.org_bot) http://crossroadsbar.co.nz/css/bootstrap.css 200 662 334
+2018-07-09 16:03:52 GET /robots.txt - 207.241.232.46 HTTP/1.0 Mozilla/5.0+(compatible;+archive.org_bot++http://www.archive.org/details/archive.org_bot) - 404 1424 250
+2018-07-09 16:03:56 GET /fonts/ecoicons/ecoicon-2.html - 207.241.232.46 HTTP/1.0 Mozilla/5.0+(compatible;+archive.org_bot++http://www.archive.org/details/archive.org_bot) http://crossroadsbar.co.nz/css/iconeffects.css 200 651 326
+2018-07-09 16:04:05 GET /robots.txt - 207.241.232.45 HTTP/1.0 Mozilla/5.0+(compatible;+archive.org_bot++http://www.archive.org/details/archive.org_bot) - 404 1424 250
+2018-07-09 16:04:10 GET /fonts/ecoicons/ecoicon-4.html - 207.241.232.45 HTTP/1.0 Mozilla/5.0+(compatible;+archive.org_bot++http://www.archive.org/details/archive.org_bot) http://crossroadsbar.co.nz/css/iconeffects.css 200 650 326
+2018-07-09 16:07:57 GET /fonts/ecoicons/ecoicond41d.html - 207.241.232.45 HTTP/1.0 Mozilla/5.0+(compatible;+archive.org_bot++http://www.archive.org/details/archive.org_bot) http://crossroadsbar.co.nz/css/iconeffects.css 200 650 328
+2018-07-09 16:08:23 GET /robots.txt - 207.241.231.33 HTTP/1.0 Mozilla/5.0+(compatible;+archive.org_bot++http://www.archive.org/details/archive.org_bot) - 404 1424 250
+2018-07-09 16:08:27 GET /fonts/ecoicons/ecoicon-3.html - 207.241.231.33 HTTP/1.0 Mozilla/5.0+(compatible;+archive.org_bot++http://www.archive.org/details/archive.org_bot) http://crossroadsbar.co.nz/css/iconeffects.css 200 650 326
+2018-07-09 16:09:28 GET /fonts/ecoicons/ecoicon.html - 207.241.232.43 HTTP/1.0 Mozilla/5.0+(compatible;+archive.org_bot++http://www.archive.org/details/archive.org_bot) http://crossroadsbar.co.nz/css/iconeffects.css 200 650 324
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-07-10 02:53:05
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-07-10 02:53:05 GET /robots.txt - 5.45.207.33 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - 404 1405 202
+2018-07-10 02:53:05 GET /robots.txt - 5.45.207.33 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - 404 1405 206
+2018-07-10 02:53:09 GET / - 5.45.207.33 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - 200 7018 284
+2018-07-10 02:53:09 GET / - 5.45.207.33 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - 200 5621 288
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-07-10 03:11:25
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-07-10 03:11:25 GET /robots.txt - 144.76.7.79 HTTP/1.1 Mozilla/5.0+(compatible;+MJ12bot/v1.4.8;+http://mj12bot.com/) - 404 1405 167
+2018-07-10 03:11:27 GET / - 144.76.7.79 HTTP/1.1 Mozilla/5.0+(compatible;+MJ12bot/v1.4.8;+http://mj12bot.com/) - 200 23480 344
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-07-10 03:53:13
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-07-10 03:53:13 GET / - 180.76.15.34 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - 200 7037 221
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-07-10 05:06:47
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-07-10 05:06:47 GET / - 52.53.201.78 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_12_6)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/61.0.3163.100+Safari/537.36 - 200 7018 220
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-07-10 06:43:29
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-07-10 06:43:28 GET /robots.txt - 66.249.79.146 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 404 1405 237
+2018-07-10 06:43:29 GET / - 66.249.79.150 HTTP/1.1 Mozilla/5.0+(Linux;+Android+6.0.1;+Nexus+5X+Build/MMB29P)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2272.96+Mobile+Safari/537.36+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 23480 426
+2018-07-10 06:43:32 GET /css/style.css - 66.249.79.146 HTTP/1.1 Mozilla/5.0+(Linux;+Android+6.0.1;+Nexus+5X+Build/MMB29P)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2272.96+Mobile+Safari/537.36+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) http://www.crossroadsbar.co.nz/ 200 62590 460
+2018-07-10 06:43:32 GET /css/animate.css - 66.249.79.148 HTTP/1.1 Mozilla/5.0+(Linux;+Android+6.0.1;+Nexus+5X+Build/MMB29P)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2272.96+Mobile+Safari/537.36+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) http://www.crossroadsbar.co.nz/ 200 72506 462
+2018-07-10 06:43:33 GET /css/swipebox.css - 66.249.79.148 HTTP/1.1 Mozilla/5.0+(Linux;+Android+6.0.1;+Nexus+5X+Build/MMB29P)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2272.96+Mobile+Safari/537.36+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) http://www.crossroadsbar.co.nz/ 200 4352 463
+2018-07-10 06:43:33 GET /js/jquery.swipebox.min.js - 66.249.79.148 HTTP/1.1 Mozilla/5.0+(Linux;+Android+6.0.1;+Nexus+5X+Build/MMB29P)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2272.96+Mobile+Safari/537.36+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) http://www.crossroadsbar.co.nz/ 200 7468 457
+2018-07-10 06:43:33 GET /css/animate.css - 66.249.79.146 HTTP/1.1 Mozilla/5.0+(Linux;+Android+6.0.1;+Nexus+5X+Build/MMB29P)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2272.96+Mobile+Safari/537.36+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) http://www.crossroadsbar.co.nz/ 304 210 547
+2018-07-10 06:43:34 GET /css/iconeffects.css - 66.249.79.146 HTTP/1.1 Mozilla/5.0+(Linux;+Android+6.0.1;+Nexus+5X+Build/MMB29P)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2272.96+Mobile+Safari/537.36+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) http://www.crossroadsbar.co.nz/ 200 16091 466

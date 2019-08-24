@@ -1,0 +1,97 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2019-07-26 07:37:49
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2019-07-26 07:37:49 GET /index.php - 66.249.79.8 HTTP/1.1 Mozilla/5.0+(Linux;+Android+6.0.1;+Nexus+5X+Build/MMB29P)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2272.96+Mobile+Safari/537.36+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 404 1405 614
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2019-07-26 09:05:03
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2019-07-26 09:05:03 GET /robots.txt - 66.249.79.194 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 404 1405 237
+2019-07-26 09:05:03 GET / - 66.249.79.222 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 6996 300
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2019-07-26 10:51:43
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2019-07-26 10:51:43 GET / - 18.237.249.157 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_8_3)+AppleWebKit/537.31+(KHTML,+like+Gecko)+Chrome/26.0.1410.65+Safari/537.31 - 200 7015 229
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2019-07-26 11:58:07
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2019-07-26 11:58:07 GET / - 66.249.79.194 HTTP/1.1 Mozilla/5.0+(Linux;+Android+6.0.1;+Nexus+5X+Build/MMB29P)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2272.96+Mobile+Safari/537.36+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 6996 426
+2019-07-26 11:58:20 GET /www.google-analytics.com/analytics.js - 66.249.79.8 HTTP/1.1 Mozilla/5.0+(Linux;+Android+6.0.1;+Nexus+5X+Build/MMB29P)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2272.96+Mobile+Safari/537.36+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) http://www.crossroadsbar.co.nz/ 404 1405 465
+2019-07-26 11:58:32 GET /www.google-analytics.com/analytics.js - 66.249.79.222 HTTP/1.1 Mozilla/5.0+(Linux;+Android+6.0.1;+Nexus+5X+Build/MMB29P)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2272.96+Mobile+Safari/537.36+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) http://www.crossroadsbar.co.nz/ 404 1405 469
+2019-07-26 11:59:54 GET /css/swipebox.css - 66.249.79.222 HTTP/1.1 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+compatible;+Googlebot/2.1;++http://www.google.com/bot.html)+Safari/537.36 http://www.crossroadsbar.co.nz/ 200 1525 389
+2019-07-26 12:00:06 GET /cdn.fancybar.net/ac/fancybar6a2f.js - 66.249.79.10 HTTP/1.1 Mozilla/5.0+(Linux;+Android+6.0.1;+Nexus+5X+Build/MMB29P)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2272.96+Mobile+Safari/537.36+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) http://www.crossroadsbar.co.nz/ 404 1405 509
+2019-07-26 12:00:13 GET /cdn.fancybar.net/ac/fancybar6a2f.js - 66.249.79.222 HTTP/1.1 Mozilla/5.0+(Linux;+Android+6.0.1;+Nexus+5X+Build/MMB29P)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2272.96+Mobile+Safari/537.36+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) http://www.crossroadsbar.co.nz/ 404 1405 513
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2019-07-26 13:06:54
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2019-07-26 13:06:54 HEAD / - 54.246.158.68 HTTP/1.1 CheckMarkNetwork/1.0+(+http://www.checkmarknetwork.com/spider.html) - 200 248 213
+2019-07-26 13:06:54 GET /robots.txt - 54.246.158.68 HTTP/1.1 CheckMarkNetwork/1.0+(+http://www.checkmarknetwork.com/spider.html) - 404 1405 245
+2019-07-26 13:06:55 GET / - 54.246.158.68 HTTP/1.1 CheckMarkNetwork/1.0+(+http://www.checkmarknetwork.com/spider.html) - 200 5626 351
+2019-07-26 13:06:55 GET /js/jquery-1.11.1.min.js - 54.246.158.68 HTTP/1.1 CheckMarkNetwork/1.0+(+http://www.checkmarknetwork.com/spider.html) http://crossroadsbar.co.nz/ 200 43072 310
+2019-07-26 13:06:55 GET /js/move-top.js - 54.246.158.68 HTTP/1.1 CheckMarkNetwork/1.0+(+http://www.checkmarknetwork.com/spider.html) http://crossroadsbar.co.nz/ 200 1080 301
+2019-07-26 13:06:55 GET /js/easing.js - 54.246.158.68 HTTP/1.1 CheckMarkNetwork/1.0+(+http://www.checkmarknetwork.com/spider.html) http://crossroadsbar.co.nz/ 200 1740 299
+2019-07-26 13:06:56 GET /js/jquery.swipebox.min.js - 54.246.158.68 HTTP/1.1 CheckMarkNetwork/1.0+(+http://www.checkmarknetwork.com/spider.html) http://crossroadsbar.co.nz/ 200 2872 312
+2019-07-26 13:06:56 GET /js/wow.min.js - 54.246.158.68 HTTP/1.1 CheckMarkNetwork/1.0+(+http://www.checkmarknetwork.com/spider.html) http://crossroadsbar.co.nz/ 200 2376 300
+2019-07-26 13:06:56 GET /www.google-analytics.com/analytics.js - 54.246.158.68 HTTP/1.1 CheckMarkNetwork/1.0+(+http://www.checkmarknetwork.com/spider.html) http://crossroadsbar.co.nz/ 404 1405 324
+2019-07-26 13:06:56 GET /js/responsiveslides.min.js - 54.246.158.68 HTTP/1.1 CheckMarkNetwork/1.0+(+http://www.checkmarknetwork.com/spider.html) http://crossroadsbar.co.nz/ 200 2127 313
+2019-07-26 13:06:57 GET /cdn.fancybar.net/ac/fancybar6a2f.js - 54.246.158.68 HTTP/1.1 CheckMarkNetwork/1.0+(+http://www.checkmarknetwork.com/spider.html) http://crossroadsbar.co.nz/ 404 1405 368
+2019-07-26 13:06:57 GET /pagead2.googlesyndication.com/pagead/js/f.txt - 54.246.158.68 HTTP/1.1 CheckMarkNetwork/1.0+(+http://www.checkmarknetwork.com/spider.html) http://crossroadsbar.co.nz/ 404 1405 332
+2019-07-26 13:06:57 GET /pagead2.googlesyndication.com/pagead/js/f.txt - 54.246.158.68 HTTP/1.1 CheckMarkNetwork/1.0+(+http://www.checkmarknetwork.com/spider.html) http://crossroadsbar.co.nz/ 404 1405 332
+2019-07-26 13:06:58 GET /css/swipebox.css - 54.246.158.68 HTTP/1.1 CheckMarkNetwork/1.0+(+http://www.checkmarknetwork.com/spider.html) - 200 1525 251
+2019-07-26 13:06:58 GET /css/iconeffects.css - 54.246.158.68 HTTP/1.1 CheckMarkNetwork/1.0+(+http://www.checkmarknetwork.com/spider.html) - 200 3470 254
+2019-07-26 13:06:58 GET /css/animate.css - 54.246.158.68 HTTP/1.1 CheckMarkNetwork/1.0+(+http://www.checkmarknetwork.com/spider.html) - 200 8279 250
+2019-07-26 13:06:58 GET /css/style.css - 54.246.158.68 HTTP/1.1 CheckMarkNetwork/1.0+(+http://www.checkmarknetwork.com/spider.html) - 200 15962 248
+2019-07-26 13:06:58 GET /css/bootstrap.css - 54.246.158.68 HTTP/1.1 CheckMarkNetwork/1.0+(+http://www.checkmarknetwork.com/spider.html) - 200 27109 252
+2019-07-26 13:07:00 GET /js/jquery-1.11.1.min.js - 54.246.158.68 HTTP/1.1 CheckMarkNetwork/1.0+(+http://www.checkmarknetwork.com/spider.html) - 200 33622 258
+2019-07-26 13:07:00 GET /js/move-top.js - 54.246.158.68 HTTP/1.1 CheckMarkNetwork/1.0+(+http://www.checkmarknetwork.com/spider.html) - 200 1080 249
+2019-07-26 13:07:00 GET /js/easing.js - 54.246.158.68 HTTP/1.1 CheckMarkNetwork/1.0+(+http://www.checkmarknetwork.com/spider.html) - 200 1412 247
+2019-07-26 13:07:00 GET /js/jquery.swipebox.min.js - 54.246.158.68 HTTP/1.1 CheckMarkNetwork/1.0+(+http://www.checkmarknetwork.com/spider.html) - 200 2439 260
+2019-07-26 13:07:00 GET /js/wow.min.js - 54.246.158.68 HTTP/1.1 CheckMarkNetwork/1.0+(+http://www.checkmarknetwork.com/spider.html) - 200 2014 248
+2019-07-26 13:07:01 GET /js/responsiveslides.min.js - 54.246.158.68 HTTP/1.1 CheckMarkNetwork/1.0+(+http://www.checkmarknetwork.com/spider.html) - 200 1784 261
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2019-07-26 15:16:57
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2019-07-26 15:16:56 GET /robots.txt - 54.36.148.135 HTTP/1.1 Mozilla/5.0+(compatible;+AhrefsBot/6.1;++http://ahrefs.com/robot/) - 404 1405 184
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2019-07-26 16:22:51
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2019-07-26 16:22:50 GET / - 95.216.118.216 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_12_5)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/59.0.3071.114+Safari/537.36 - 200 6996 349
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2019-07-26 20:33:03
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2019-07-26 20:33:03 GET / - 66.249.79.222 HTTP/1.1 Mozilla/5.0+(Linux;+Android+6.0.1;+Nexus+5X+Build/MMB29P)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2272.96+Mobile+Safari/537.36+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 6996 561
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2019-07-26 20:51:10
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2019-07-26 20:51:10 GET /robots.txt - 66.249.79.10 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 404 1405 233
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2019-07-26 21:36:17
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2019-07-26 21:36:17 GET / - 42.236.101.214 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/50.0.2661.102+Safari/537.36;+360Spider http://www.crossroadsbar.co.nz/ 200 6996 327
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2019-07-26 22:21:04
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2019-07-26 22:21:04 GET /robots.txt - 5.45.207.33 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - 404 1405 202
+2019-07-26 22:21:05 GET /robots.txt - 5.45.207.33 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - 404 1405 206
+2019-07-26 22:21:08 GET / - 5.45.207.33 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - 200 6996 284
+2019-07-26 22:21:09 GET / - 5.45.207.33 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - 200 5626 288
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2019-07-26 23:25:50
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2019-07-26 23:25:50 GET / - 180.163.220.126 HTTP/1.1 Mozilla/5.0(compatible;MSIE9.0;WindowsNT6.1;Trident/5.0) http://crossroadsbar.co.nz/ 200 6996 255
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2019-07-27 02:05:01
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2019-07-27 02:05:00 GET /wp-content/plugins/ad-inserter/readme.txt - 193.106.30.99 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+rv:34.0)+Gecko/20100101+Firefox/34.0 - 404 1405 234

@@ -1,0 +1,232 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2019-02-27 07:02:08
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2019-02-27 07:02:08 GET / - 173.252.127.19 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 13806 217
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2019-02-27 07:37:36
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2019-02-27 07:37:35 GET /index.php - 134.73.199.154 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/42.0.2311.152+Safari/537.36 http://palacehotel.co.nz/index.php?option=com_adsmanager&task=upload&tmpl=component 404 1424 475
+2019-02-27 07:40:40 GET / - 207.46.13.31 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - 304 210 361
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2019-02-27 08:57:52
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2019-02-27 08:57:52 GET / - 35.162.141.247 HTTP/1.1 Go-http-client/1.1 - 200 13738 98
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2019-02-27 09:37:46
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2019-02-27 09:37:46 GET / - 173.252.127.40 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 13806 217
+2019-02-27 09:37:47 GET /about.html - 173.252.127.40 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 5775 227
+2019-02-27 09:37:47 GET /index.html - 173.252.127.33 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 13806 227
+2019-02-27 09:37:47 GET /services.html - 173.252.127.1 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 7435 230
+2019-02-27 09:37:47 GET /contact.html - 173.252.127.1 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 6457 229
+2019-02-27 09:37:47 GET /portfolio.html - 173.252.127.1 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 12690 231
+2019-02-27 09:39:08 GET / - 46.188.18.71 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.0;+rv:34.0)+Gecko/20100101+Firefox/34.0 - 200 13738 167
+2019-02-27 09:39:08 GET /services.html - 46.188.18.71 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.0;+rv:34.0)+Gecko/20100101+Firefox/34.0 - 200 7369 180
+2019-02-27 09:39:08 GET /about.html - 46.188.18.71 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.0;+rv:34.0)+Gecko/20100101+Firefox/34.0 - 200 5709 177
+2019-02-27 09:39:09 GET /index.html - 46.188.18.71 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.0;+rv:34.0)+Gecko/20100101+Firefox/34.0 - 200 13738 177
+2019-02-27 09:39:09 GET /contact.html - 46.188.18.71 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.0;+rv:34.0)+Gecko/20100101+Firefox/34.0 - 200 6391 179
+2019-02-27 09:39:09 GET /portfolio.html - 46.188.18.71 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.0;+rv:34.0)+Gecko/20100101+Firefox/34.0 - 200 12622 181
+2019-02-27 09:39:11 GET /index.html - 46.188.18.71 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.0;+rv:34.0)+Gecko/20100101+Firefox/34.0 - 200 13738 177
+2019-02-27 09:39:11 GET /index.html2121121121212.1 - 46.188.18.71 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.0;+rv:34.0)+Gecko/20100101+Firefox/34.0 - 404 1405 192
+2019-02-27 09:39:11 GET /index.html+and+1=1 - 46.188.18.71 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.0;+rv:34.0)+Gecko/20100101+Firefox/34.0 - 404 1405 191
+2019-02-27 09:39:13 GET /index.html+and+1>1 - 46.188.18.71 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.0;+rv:34.0)+Gecko/20100101+Firefox/34.0 - 404 1405 191
+2019-02-27 09:39:13 GET /index.html'+and+'x'='x - 46.188.18.71 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.0;+rv:34.0)+Gecko/20100101+Firefox/34.0 - 404 1405 203
+2019-02-27 09:39:14 GET /index.html'+and+'x'='y - 46.188.18.71 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.0;+rv:34.0)+Gecko/20100101+Firefox/34.0 - 404 1405 203
+2019-02-27 09:39:16 GET /index.html"+and+"x"="y - 46.188.18.71 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.0;+rv:34.0)+Gecko/20100101+Firefox/34.0 - 404 1405 203
+2019-02-27 09:39:16 GET /index.html999999.1+union+select+unhex(hex(version()))+--+and+1=1 - 46.188.18.71 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.0;+rv:34.0)+Gecko/20100101+Firefox/34.0 - 404 1405 245
+2019-02-27 09:39:17 GET /index.html99999'+union+select+unhex(hex(version()))+--+'x'='x - 46.188.18.71 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.0;+rv:34.0)+Gecko/20100101+Firefox/34.0 - 404 1405 246
+2019-02-27 09:39:17 GET /index.html99999"+union+select+unhex(hex(version()))+--+"x"="x - 46.188.18.71 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.0;+rv:34.0)+Gecko/20100101+Firefox/34.0 - 404 1405 246
+2019-02-27 09:39:17 GET /index.html+or+(1,2)=(select*from(select+name_const(CHAR(72,102,113,122,111,77,90,73,74,115),1),name_const(CHAR(72,102,113,122,111,77,90,73,74,115),1))a)+--+and+1=1 - 46.188.18.71 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.0;+rv:34.0)+Gecko/20100101+Firefox/34.0 - 404 1405 344
+2019-02-27 09:39:18 GET /index.html'+or+(1,2)=(select*from(select+name_const(CHAR(72,102,113,122,111,77,90,73,74,115),1),name_const(CHAR(72,102,113,122,111,77,90,73,74,115),1))a)+--+'x'='x - 46.188.18.71 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.0;+rv:34.0)+Gecko/20100101+Firefox/34.0 - 404 1405 348
+2019-02-27 09:39:18 GET /index.html"+or+(1,2)=(select*from(select+name_const(CHAR(72,102,113,122,111,77,90,73,74,115),1),name_const(CHAR(72,102,113,122,111,77,90,73,74,115),1))a)+--+"x"="x - 46.188.18.71 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.0;+rv:34.0)+Gecko/20100101+Firefox/34.0 - 404 1405 348
+2019-02-27 09:48:43 GET / - 35.164.124.150 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.181+Safari/537.36 - 200 3376 240
+2019-02-27 09:59:45 HEAD / - 178.128.229.48 HTTP/1.1 Mozilla/5.0+(Macintosh;+U;+Intel+Mac+OS+X+10_5_8;+en-US)+AppleWebKit/532.8+(KHTML,+like+Gecko)+Chrome/4.0.302.2+Safari/532.8 - 200 248 255
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2019-02-27 10:43:46
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2019-02-27 10:43:45 GET /robots.txt - 46.229.168.135 HTTP/1.1 Mozilla/5.0+(compatible;+SemrushBot/3~bl;++http://www.semrush.com/bot.html) - 404 1424 205
+2019-02-27 10:43:46 GET /index.html - 46.229.168.142 HTTP/1.1 Mozilla/5.0+(compatible;+SemrushBot/3~bl;++http://www.semrush.com/bot.html) - 200 13757 211
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2019-02-27 12:07:04
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2019-02-27 12:07:04 GET /robots.txt - 66.249.69.112 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 404 1405 235
+2019-02-27 12:10:46 GET / - 66.249.69.110 HTTP/1.1 Mozilla/5.0+(Linux;+Android+6.0.1;+Nexus+5X+Build/MMB29P)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2272.96+Mobile+Safari/537.36+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 13738 424
+2019-02-27 12:11:23 GET /favicon.ico - 66.249.69.114 HTTP/1.1 Googlebot-Image/1.0 - 404 1405 196
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2019-02-27 12:30:26
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2019-02-27 12:30:25 GET /about.html - 66.249.87.48 HTTP/1.1 AdsBot-Google+(+http://www.google.com/adsbot.html) - 200 5709 192
+2019-02-27 12:33:56 GET /contact.html - 66.249.87.46 HTTP/1.1 AdsBot-Google+(+http://www.google.com/adsbot.html) - 200 2565 194
+2019-02-27 12:34:22 GET /portfolio.html - 66.249.87.50 HTTP/1.1 AdsBot-Google+(+http://www.google.com/adsbot.html) - 200 2704 196
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2019-02-27 12:53:48
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2019-02-27 12:53:47 GET /contact.html - 185.130.184.232 HTTP/1.0 Mozilla/5.0+(Windows+NT+6.2;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/68.0.3440.106+Safari/537.36 http://palacehotel.co.nz/contact.html 200 6410 334
+2019-02-27 12:53:48 POST / - 185.130.184.232 HTTP/1.0 Mozilla/5.0+(Windows+NT+6.2;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/68.0.3440.106+Safari/537.36 http://palacehotel.co.nz/contact.html 405 1515 539
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2019-02-27 13:21:28
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2019-02-27 13:21:27 GET /js/menu.js - 66.249.87.46 HTTP/1.1 AdsBot-Google+(+http://www.google.com/adsbot.html) http://www.palacehotel.co.nz/contact.html 200 1168 306
+2019-02-27 13:21:48 GET /js/isotope.pkgd.min.js - 66.249.87.48 HTTP/1.1 AdsBot-Google+(+http://www.google.com/adsbot.html) http://www.palacehotel.co.nz/contact.html 200 13789 318
+2019-02-27 13:35:12 GET /favicon.ico - 66.249.69.112 HTTP/1.1 Googlebot-Image/1.0 - 404 1405 196
+2019-02-27 13:47:50 GET /js/custom.js - 66.249.87.50 HTTP/1.1 AdsBot-Google+(+http://www.google.com/adsbot.html) http://www.palacehotel.co.nz/portfolio.html 200 1191 310
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2019-02-27 16:54:39
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2019-02-27 16:54:39 GET /services.html - 180.76.15.140 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - 200 2986 236
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2019-02-27 17:27:59
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2019-02-27 17:27:59 GET /about.html - 180.76.15.19 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - 200 5728 233
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2019-02-27 18:05:03
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2019-02-27 18:05:02 GET /img/img3_1.jpg - 103.215.197.9 HTTP/1.1 Mozilla/5.0+(Linux;+Android+6.0.1;+ONE+A2003)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/72.0.3626.105+Mobile+Safari/537.36 https://www.google.com/ 200 1125686 394
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2019-02-27 19:19:25
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2019-02-27 19:19:24 GET /robots.txt - 5.45.207.33 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - 404 1405 200
+2019-02-27 19:19:24 GET /robots.txt - 141.8.132.37 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - 404 1405 204
+2019-02-27 19:19:28 GET / - 5.45.207.33 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - 200 13738 282
+2019-02-27 19:19:28 GET / - 141.8.132.37 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - 200 2707 286
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2019-02-27 19:43:52
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2019-02-27 19:43:52 GET /robots.txt - 46.229.168.143 HTTP/1.1 Mozilla/5.0+(compatible;+SemrushBot/3~bl;++http://www.semrush.com/bot.html) - 404 1424 205
+2019-02-27 19:43:53 GET /index.html - 46.229.168.153 HTTP/1.1 Mozilla/5.0+(compatible;+SemrushBot/3~bl;++http://www.semrush.com/bot.html) - 200 13757 211
+2019-02-27 19:50:34 GET / - 60.191.38.77 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10.11;+rv:47.0)+Gecko/20100101+Firefox/47.0 - 200 13738 176
+2019-02-27 19:55:59 GET /contact.html - 185.17.149.147 HTTP/1.0 Mozilla/5.0+(Windows+NT+5.1)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/49.0.2623.112+Safari/537.36 http://palacehotel.co.nz/contact.html 200 6410 322
+2019-02-27 19:55:59 POST / - 185.17.149.147 HTTP/1.0 Mozilla/5.0+(Windows+NT+5.1)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/49.0.2623.112+Safari/537.36 http://palacehotel.co.nz/contact.html 405 1515 566
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2019-02-27 21:09:02
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2019-02-27 21:09:02 GET /contact.html - 185.189.113.43 HTTP/1.0 Mozilla/5.0+(Windows+NT+6.1)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/67.0.3396.87+Safari/537.36 http://palacehotel.co.nz/contact.html 200 6410 321
+2019-02-27 21:09:02 POST / - 185.189.113.43 HTTP/1.0 Mozilla/5.0+(Windows+NT+6.1)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/67.0.3396.87+Safari/537.36 http://palacehotel.co.nz/contact.html 405 1515 573
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2019-02-27 21:47:48
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2019-02-27 21:47:47 GET /robots.txt - 173.252.95.34 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 404 1424 227
+2019-02-27 21:47:49 GET / - 173.252.95.8 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 13806 217
+2019-02-27 21:47:50 GET /about.html - 173.252.95.34 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 5775 227
+2019-02-27 21:47:50 GET /index.html - 173.252.95.30 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 13806 227
+2019-02-27 21:47:50 GET /services.html - 173.252.95.18 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 7435 230
+2019-02-27 21:47:51 GET /contact.html - 173.252.95.10 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 6457 229
+2019-02-27 21:47:51 GET /portfolio.html - 173.252.95.17 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 12690 231
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2019-02-27 22:21:12
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2019-02-27 22:21:12 GET / - 69.171.251.20 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 13806 217
+2019-02-27 22:34:55 GET / - 173.252.127.16 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 13806 217
+2019-02-27 22:42:50 GET /wp/wp-login.php - 163.172.32.64 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - 404 1424 190
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2019-02-27 23:06:12
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2019-02-27 23:06:12 GET / - 173.252.95.17 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 13806 217
+2019-02-27 23:19:36 GET /about.html - 40.77.167.97 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - 304 210 367
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2019-02-28 00:52:41
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2019-02-28 00:52:40 GET / - 202.180.70.98 HTTP/1.1 Mozilla/5.0+(iPad;+CPU+OS+12_1_4+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/12.0+Mobile/15E148+Safari/604.1 http://www.tearohanz.co.nz/h/hotels-taverns/205-palace-hotel 200 13738 443
+2019-02-28 00:52:42 GET /js/modernizr.js - 202.180.70.98 HTTP/1.1 Mozilla/5.0+(iPad;+CPU+OS+12_1_4+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/12.0+Mobile/15E148+Safari/604.1 http://www.palacehotel.co.nz/ 200 51615 337
+2019-02-28 00:52:42 GET /css/style.css - 202.180.70.98 HTTP/1.1 Mozilla/5.0+(iPad;+CPU+OS+12_1_4+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/12.0+Mobile/15E148+Safari/604.1 http://www.palacehotel.co.nz/ 200 23669 350
+2019-02-28 00:52:43 GET /ionicons/css/ionicons.min.css - 202.180.70.98 HTTP/1.1 Mozilla/5.0+(iPad;+CPU+OS+12_1_4+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/12.0+Mobile/15E148+Safari/604.1 http://www.palacehotel.co.nz/ 200 51532 366
+2019-02-28 00:52:43 GET /css/bootstrap.min.css - 202.180.70.98 HTTP/1.1 Mozilla/5.0+(iPad;+CPU+OS+12_1_4+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/12.0+Mobile/15E148+Safari/604.1 http://www.palacehotel.co.nz/ 200 120748 358
+2019-02-28 00:52:43 GET /js/menu.js - 202.180.70.98 HTTP/1.1 Mozilla/5.0+(iPad;+CPU+OS+12_1_4+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/12.0+Mobile/15E148+Safari/604.1 http://www.palacehotel.co.nz/ 200 2093 332
+2019-02-28 00:52:43 GET /js/bootstrap.min.js - 202.180.70.98 HTTP/1.1 Mozilla/5.0+(iPad;+CPU+OS+12_1_4+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/12.0+Mobile/15E148+Safari/604.1 http://www.palacehotel.co.nz/ 200 37132 341
+2019-02-28 00:52:44 GET /js/animated-headline.js - 202.180.70.98 HTTP/1.1 Mozilla/5.0+(iPad;+CPU+OS+12_1_4+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/12.0+Mobile/15E148+Safari/604.1 http://www.palacehotel.co.nz/ 200 5815 345
+2019-02-28 00:52:44 GET /js/isotope.pkgd.min.js - 202.180.70.98 HTTP/1.1 Mozilla/5.0+(iPad;+CPU+OS+12_1_4+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/12.0+Mobile/15E148+Safari/604.1 http://www.palacehotel.co.nz/ 200 38008 344
+2019-02-28 00:52:44 GET /js/custom.js - 202.180.70.98 HTTP/1.1 Mozilla/5.0+(iPad;+CPU+OS+12_1_4+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/12.0+Mobile/15E148+Safari/604.1 http://www.palacehotel.co.nz/ 200 2120 334
+2019-02-28 00:52:44 GET /js/jquery-2.1.1.js - 202.180.70.98 HTTP/1.1 Mozilla/5.0+(iPad;+CPU+OS+12_1_4+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/12.0+Mobile/15E148+Safari/604.1 http://www.palacehotel.co.nz/ 200 247616 340
+2019-02-28 00:52:44 GET /img/logo.png - 202.180.70.98 HTTP/1.1 Mozilla/5.0+(iPad;+CPU+OS+12_1_4+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/12.0+Mobile/15E148+Safari/604.1 http://www.palacehotel.co.nz/ 200 22564 392
+2019-02-28 00:52:46 GET /ionicons/fonts/ionicons.ttf - 202.180.70.98 HTTP/1.1 Mozilla/5.0+(iPad;+CPU+OS+12_1_4+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/12.0+Mobile/15E148+Safari/604.1 http://www.palacehotel.co.nz/ 200 188773 357
+2019-02-28 00:52:51 GET /img/img4.jpg - 202.180.70.98 HTTP/1.1 Mozilla/5.0+(iPad;+CPU+OS+12_1_4+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/12.0+Mobile/15E148+Safari/604.1 http://www.palacehotel.co.nz/ 200 1243133 392
+2019-02-28 00:52:54 GET /img/img3.jpg - 202.180.70.98 HTTP/1.1 Mozilla/5.0+(iPad;+CPU+OS+12_1_4+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/12.0+Mobile/15E148+Safari/604.1 http://www.palacehotel.co.nz/ 200 1188783 392
+2019-02-28 00:52:57 GET /img/img2.jpg - 202.180.70.98 HTTP/1.1 Mozilla/5.0+(iPad;+CPU+OS+12_1_4+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/12.0+Mobile/15E148+Safari/604.1 http://www.palacehotel.co.nz/ 200 1266298 392
+2019-02-28 00:52:58 GET /img/img6.jpg - 202.180.70.98 HTTP/1.1 Mozilla/5.0+(iPad;+CPU+OS+12_1_4+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/12.0+Mobile/15E148+Safari/604.1 http://www.palacehotel.co.nz/ 200 1235277 392
+2019-02-28 00:53:00 GET /img/img3_1.jpg - 202.180.70.98 HTTP/1.1 Mozilla/5.0+(iPad;+CPU+OS+12_1_4+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/12.0+Mobile/15E148+Safari/604.1 http://www.palacehotel.co.nz/ 200 1125686 394
+2019-02-28 00:53:00 GET /img/img5.jpg - 202.180.70.98 HTTP/1.1 Mozilla/5.0+(iPad;+CPU+OS+12_1_4+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/12.0+Mobile/15E148+Safari/604.1 http://www.palacehotel.co.nz/ 200 1134136 392
+2019-02-28 00:53:04 GET /img/img8.jpg - 202.180.70.98 HTTP/1.1 Mozilla/5.0+(iPad;+CPU+OS+12_1_4+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/12.0+Mobile/15E148+Safari/604.1 http://www.palacehotel.co.nz/ 200 1146016 392
+2019-02-28 00:53:04 GET /img/img7.jpg - 202.180.70.98 HTTP/1.1 Mozilla/5.0+(iPad;+CPU+OS+12_1_4+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/12.0+Mobile/15E148+Safari/604.1 http://www.palacehotel.co.nz/ 200 1155627 392
+2019-02-28 00:53:06 GET /img/bg.jpg - 202.180.70.98 HTTP/1.1 Mozilla/5.0+(iPad;+CPU+OS+12_1_4+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/12.0+Mobile/15E148+Safari/604.1 http://www.palacehotel.co.nz/ 200 95902 390
+2019-02-28 00:53:07 GET /img/img9.jpg - 202.180.70.98 HTTP/1.1 Mozilla/5.0+(iPad;+CPU+OS+12_1_4+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/12.0+Mobile/15E148+Safari/604.1 http://www.palacehotel.co.nz/ 200 1089855 392
+2019-02-28 00:53:08 GET /img/img10.jpg - 202.180.70.98 HTTP/1.1 Mozilla/5.0+(iPad;+CPU+OS+12_1_4+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/12.0+Mobile/15E148+Safari/604.1 http://www.palacehotel.co.nz/ 200 1018686 393
+2019-02-28 00:53:08 GET /favicon.ico - 202.180.70.98 HTTP/1.1 Mozilla/5.0+(iPad;+CPU+OS+12_1_4+like+Mac+OS+X)+AppleWebKit/605.1.15+(KHTML,+like+Gecko)+Version/12.0+Mobile/15E148+Safari/604.1 http://www.palacehotel.co.nz/ 404 1405 333
+2019-02-28 00:58:59 GET /portfolio.html - 180.76.15.158 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - 200 12641 237
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2019-02-28 02:12:11
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2019-02-28 02:12:11 GET /contact.html - 93.120.176.95 HTTP/1.0 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/68.0.3440.106+Safari/537.36+OPR/55.0.2994.44 http://palacehotel.co.nz/contact.html 200 6410 351
+2019-02-28 02:12:11 POST / - 93.120.176.95 HTTP/1.0 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/68.0.3440.106+Safari/537.36+OPR/55.0.2994.44 http://palacehotel.co.nz/contact.html 405 1515 920
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2019-02-28 03:00:34
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2019-02-28 03:00:34 GET /robots.txt - 144.76.38.40 HTTP/1.1 Mozilla/5.0+(compatible;+MJ12bot/v1.4.8;+http://mj12bot.com/) - 404 1405 165
+2019-02-28 03:00:35 GET / - 144.76.38.40 HTTP/1.1 Mozilla/5.0+(compatible;+MJ12bot/v1.4.8;+http://mj12bot.com/) - 200 13738 342
+2019-02-28 03:01:36 GET /wordpress/wp-login.php - 93.90.178.169 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:62.0)+Gecko/20100101+Firefox/62.0 - 404 1424 197
+2019-02-28 03:14:38 GET / - 66.220.149.22 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 13806 217
+2019-02-28 03:14:40 GET /services.html - 66.220.149.24 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 7435 230
+2019-02-28 03:14:40 GET /about.html - 66.220.149.24 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 5775 227
+2019-02-28 03:14:40 GET /index.html - 66.220.149.27 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 13806 227
+2019-02-28 03:14:40 GET /contact.html - 66.220.149.27 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 6457 229
+2019-02-28 03:14:40 GET /portfolio.html - 66.220.149.27 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 12690 231
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2019-02-28 03:58:20
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2019-02-28 03:58:20 GET / - 173.252.127.15 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 13806 217
+2019-02-28 04:09:53 GET /robots.txt - 54.36.148.250 HTTP/1.1 Mozilla/5.0+(compatible;+AhrefsBot/6.1;++http://ahrefs.com/robot/) - 404 1405 178
+2019-02-28 04:09:55 GET /img/img4.jpg - 54.36.150.165 HTTP/1.1 Mozilla/5.0+(compatible;+AhrefsBot/6.1;++http://ahrefs.com/robot/) - 200 0 180
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2019-02-28 04:48:33
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2019-02-28 04:48:33 GET / - 49.255.234.14 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://www.google.com.au/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&ved=2ahUKEwjG6MaC0N3gAhURVH0KHbfuDhAQFjABegQICRAB&url=http%3A%2F%2Fwww.palacehotel.co.nz%2F&usg=AOvVaw19YxQUEXm66SXnl4_GRoj8 200 13738 478
+2019-02-28 04:48:34 GET /css/style.css - 49.255.234.14 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://www.palacehotel.co.nz/ 200 23669 295
+2019-02-28 04:48:34 GET /img/logo.png - 49.255.234.14 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://www.palacehotel.co.nz/ 200 22564 342
+2019-02-28 04:48:34 GET /ionicons/css/ionicons.min.css - 49.255.234.14 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://www.palacehotel.co.nz/ 200 51532 311
+2019-02-28 04:48:34 GET /js/modernizr.js - 49.255.234.14 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://www.palacehotel.co.nz/ 200 51615 317
+2019-02-28 04:48:34 GET /css/bootstrap.min.css - 49.255.234.14 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://www.palacehotel.co.nz/ 200 120748 303
+2019-02-28 04:48:34 GET /js/menu.js - 49.255.234.14 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://www.palacehotel.co.nz/ 200 2093 312
+2019-02-28 04:48:34 GET /js/animated-headline.js - 49.255.234.14 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://www.palacehotel.co.nz/ 200 5815 325
+2019-02-28 04:48:34 GET /js/isotope.pkgd.min.js - 49.255.234.14 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://www.palacehotel.co.nz/ 200 38008 324
+2019-02-28 04:48:34 GET /js/custom.js - 49.255.234.14 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://www.palacehotel.co.nz/ 200 2120 314
+2019-02-28 04:48:34 GET /js/bootstrap.min.js - 49.255.234.14 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://www.palacehotel.co.nz/ 200 37132 321
+2019-02-28 04:48:36 GET /img/img6.jpg - 49.255.234.14 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://www.palacehotel.co.nz/ 200 1235277 342
+2019-02-28 04:48:36 GET /ionicons/fonts/ionicons.eot - 49.255.234.14 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://www.palacehotel.co.nz/ 200 120989 345
+2019-02-28 04:48:36 GET /js/jquery-2.1.1.js - 49.255.234.14 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://www.palacehotel.co.nz/ 200 247616 320
+2019-02-28 04:48:37 GET /img/img4.jpg - 49.255.234.14 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://www.palacehotel.co.nz/ 200 1243133 342
+2019-02-28 04:48:37 GET /img/img3.jpg - 49.255.234.14 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://www.palacehotel.co.nz/ 200 1188783 342
+2019-02-28 04:48:38 GET /img/img8.jpg - 49.255.234.14 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://www.palacehotel.co.nz/ 200 1146016 342
+2019-02-28 04:48:38 GET /img/bg.jpg - 49.255.234.14 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://www.palacehotel.co.nz/ 200 95902 340
+2019-02-28 04:48:39 GET /img/img10.jpg - 49.255.234.14 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://www.palacehotel.co.nz/ 200 1018686 343
+2019-02-28 04:48:39 GET /img/img7.jpg - 49.255.234.14 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://www.palacehotel.co.nz/ 200 1155627 342
+2019-02-28 04:48:40 GET /img/img5.jpg - 49.255.234.14 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://www.palacehotel.co.nz/ 200 262144 342
+2019-02-28 04:48:40 GET /img/img9.jpg - 49.255.234.14 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://www.palacehotel.co.nz/ 200 786432 342
+2019-02-28 04:48:40 GET /img/img2.jpg - 49.255.234.14 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://www.palacehotel.co.nz/ 200 1048576 342
+2019-02-28 04:48:40 GET /img/img3_1.jpg - 49.255.234.14 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+WOW64;+Trident/7.0;+rv:11.0)+like+Gecko http://www.palacehotel.co.nz/ 200 262144 344
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2019-02-28 05:31:07
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2019-02-28 05:31:06 GET / - 180.76.15.30 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - 200 13757 219

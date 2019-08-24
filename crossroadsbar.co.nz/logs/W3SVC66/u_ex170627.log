@@ -1,0 +1,33 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2017-06-27 07:28:33
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2017-06-27 07:28:32 GET /blog/wp-admin/setup-config.php - 173.208.169.26 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Trident/7.0;+rv:11.0)+like+Gecko - 404 1405 272
+2017-06-27 07:28:32 GET /wp/wp-admin/setup-config.php - 173.208.169.26 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Trident/7.0;+rv:11.0)+like+Gecko - 404 1405 270
+2017-06-27 07:28:33 GET /wordpress/wp-admin/setup-config.php - 173.208.169.26 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Trident/7.0;+rv:11.0)+like+Gecko - 404 1405 253
+2017-06-27 07:28:33 GET /old/wp-admin/setup-config.php - 173.208.169.26 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Trident/7.0;+rv:11.0)+like+Gecko - 404 1405 247
+2017-06-27 07:28:33 GET /test/wp-admin/setup-config.php - 173.208.169.26 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Trident/7.0;+rv:11.0)+like+Gecko - 404 1405 248
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2017-06-27 21:38:48
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2017-06-27 21:38:47 GET /robots.txt - 5.255.253.86 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - 404 1405 189
+2017-06-27 21:38:51 GET /images/serve1.png - 141.8.142.93 HTTP/1.1 Mozilla/5.0+(compatible;+YandexImages/3.0;++http://yandex.com/bots) - 304 211 293
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2017-06-28 02:48:58
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2017-06-28 02:48:58 GET /robots.txt - 66.249.75.210 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 404 1405 233
+2017-06-28 02:48:58 GET / - 66.249.75.208 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 7018 300
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2017-06-28 05:05:20
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2017-06-28 05:05:20 GET /css/style.css - 66.249.75.208 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) http://www.crossroadsbar.co.nz/ 200 15962 338
+2017-06-28 05:05:20 GET /css/swipebox.css - 66.249.75.206 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) http://www.crossroadsbar.co.nz/ 200 1525 341
+2017-06-28 05:05:21 GET /css/bootstrap.css - 66.249.75.206 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) http://www.crossroadsbar.co.nz/ 200 27109 342
+2017-06-28 05:05:22 GET /css/animate.css - 66.249.75.210 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) http://www.crossroadsbar.co.nz/ 200 8279 340
+2017-06-28 05:05:22 GET /pagead2.googlesyndication.com/pagead/js/f.txt - 66.249.75.206 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) http://www.crossroadsbar.co.nz/ 404 1405 355
+2017-06-28 05:05:22 GET /cdn.fancybar.net/ac/fancybar6a2f.js - 66.249.75.210 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) http://www.crossroadsbar.co.nz/ 404 1405 391
+2017-06-28 05:05:24 GET /css/iconeffects.css - 66.249.75.206 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) http://www.crossroadsbar.co.nz/ 200 3470 344
+2017-06-28 05:05:25 GET /www.google-analytics.com/analytics.js - 66.249.75.208 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) http://www.crossroadsbar.co.nz/ 404 1405 347

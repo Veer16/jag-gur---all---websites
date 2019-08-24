@@ -1,0 +1,368 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-07-10 07:09:03
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-07-10 07:09:02 GET / - 80.255.12.248 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/37.0.2062.120+Safari/537.36 http://burger-imperia.com/ 200 3376 243
+2018-07-10 07:19:37 GET /css/style.css - 124.248.133.190 HTTP/1.1 Mozilla/5.0+(Linux;+Android+8.0.0;+SAMSUNG+SM-G965F+Build/R16NW)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/7.2+Chrome/59.0.3071.125+Mobile+Safari/537.36 http://www.palacehotel.co.nz/ 200 5918 425
+2018-07-10 07:19:37 GET / - 124.248.133.190 HTTP/1.1 Mozilla/5.0+(Linux;+Android+8.0.0;+SAMSUNG+SM-G965F+Build/R16NW)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/7.2+Chrome/59.0.3071.125+Mobile+Safari/537.36 https://www.google.com/ 200 3376 503
+2018-07-10 07:19:37 GET /css/bootstrap.min.css - 124.248.133.190 HTTP/1.1 Mozilla/5.0+(Linux;+Android+8.0.0;+SAMSUNG+SM-G965F+Build/R16NW)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/7.2+Chrome/59.0.3071.125+Mobile+Safari/537.36 http://www.palacehotel.co.nz/ 200 27806 433
+2018-07-10 07:19:37 GET /ionicons/css/ionicons.min.css - 124.248.133.190 HTTP/1.1 Mozilla/5.0+(Linux;+Android+8.0.0;+SAMSUNG+SM-G965F+Build/R16NW)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/7.2+Chrome/59.0.3071.125+Mobile+Safari/537.36 http://www.palacehotel.co.nz/ 200 10932 441
+2018-07-10 07:19:37 GET /js/modernizr.js - 124.248.133.190 HTTP/1.1 Mozilla/5.0+(Linux;+Android+8.0.0;+SAMSUNG+SM-G965F+Build/R16NW)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/7.2+Chrome/59.0.3071.125+Mobile+Safari/537.36 http://www.palacehotel.co.nz/ 200 19903 412
+2018-07-10 07:19:39 GET /img/bg.jpg - 124.248.133.190 HTTP/1.1 Mozilla/5.0+(Linux;+Android+8.0.0;+SAMSUNG+SM-G965F+Build/R16NW)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/7.2+Chrome/59.0.3071.125+Mobile+Safari/537.36 http://www.palacehotel.co.nz/css/style.css 200 95902 456
+2018-07-10 07:19:39 GET /img/logo.png - 124.248.133.190 HTTP/1.1 Mozilla/5.0+(Linux;+Android+8.0.0;+SAMSUNG+SM-G965F+Build/R16NW)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/7.2+Chrome/59.0.3071.125+Mobile+Safari/537.36 http://www.palacehotel.co.nz/ 200 22564 445
+2018-07-10 07:19:40 GET /ionicons/fonts/ionicons.ttf - 124.248.133.190 HTTP/1.1 Mozilla/5.0+(Linux;+Android+8.0.0;+SAMSUNG+SM-G965F+Build/R16NW)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/7.2+Chrome/59.0.3071.125+Mobile+Safari/537.36 http://www.palacehotel.co.nz/ionicons/css/ionicons.min.css 200 188773 499
+2018-07-10 07:19:42 GET /js/jquery-2.1.1.js - 124.248.133.190 HTTP/1.1 Mozilla/5.0+(Linux;+Android+8.0.0;+SAMSUNG+SM-G965F+Build/R16NW)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/7.2+Chrome/59.0.3071.125+Mobile+Safari/537.36 http://www.palacehotel.co.nz/ 200 97203 415
+2018-07-10 07:19:47 GET /img/img9.jpg - 124.248.133.190 HTTP/1.1 Mozilla/5.0+(Linux;+Android+8.0.0;+SAMSUNG+SM-G965F+Build/R16NW)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/7.2+Chrome/59.0.3071.125+Mobile+Safari/537.36 http://www.palacehotel.co.nz/ 200 1089855 445
+2018-07-10 07:19:51 GET /img/img5.jpg - 124.248.133.190 HTTP/1.1 Mozilla/5.0+(Linux;+Android+8.0.0;+SAMSUNG+SM-G965F+Build/R16NW)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/7.2+Chrome/59.0.3071.125+Mobile+Safari/537.36 http://www.palacehotel.co.nz/ 200 1134136 445
+2018-07-10 07:19:59 GET /img/img8.jpg - 124.248.133.190 HTTP/1.1 Mozilla/5.0+(Linux;+Android+8.0.0;+SAMSUNG+SM-G965F+Build/R16NW)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/7.2+Chrome/59.0.3071.125+Mobile+Safari/537.36 http://www.palacehotel.co.nz/ 200 1146016 445
+2018-07-10 07:19:59 GET /img/img6.jpg - 124.248.133.190 HTTP/1.1 Mozilla/5.0+(Linux;+Android+8.0.0;+SAMSUNG+SM-G965F+Build/R16NW)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/7.2+Chrome/59.0.3071.125+Mobile+Safari/537.36 http://www.palacehotel.co.nz/ 200 1235277 445
+2018-07-10 07:20:03 GET /img/img3.jpg - 124.248.133.190 HTTP/1.1 Mozilla/5.0+(Linux;+Android+8.0.0;+SAMSUNG+SM-G965F+Build/R16NW)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/7.2+Chrome/59.0.3071.125+Mobile+Safari/537.36 http://www.palacehotel.co.nz/ 200 1188783 445
+2018-07-10 07:20:03 GET /js/bootstrap.min.js - 124.248.133.190 HTTP/1.1 Mozilla/5.0+(Linux;+Android+8.0.0;+SAMSUNG+SM-G965F+Build/R16NW)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/7.2+Chrome/59.0.3071.125+Mobile+Safari/537.36 http://www.palacehotel.co.nz/ 200 13266 416
+2018-07-10 07:20:03 GET /js/menu.js - 124.248.133.190 HTTP/1.1 Mozilla/5.0+(Linux;+Android+8.0.0;+SAMSUNG+SM-G965F+Build/R16NW)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/7.2+Chrome/59.0.3071.125+Mobile+Safari/537.36 http://www.palacehotel.co.nz/ 200 1168 407
+2018-07-10 07:20:03 GET /js/animated-headline.js - 124.248.133.190 HTTP/1.1 Mozilla/5.0+(Linux;+Android+8.0.0;+SAMSUNG+SM-G965F+Build/R16NW)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/7.2+Chrome/59.0.3071.125+Mobile+Safari/537.36 http://www.palacehotel.co.nz/ 200 2209 420
+2018-07-10 07:20:04 GET /img/img4.jpg - 124.248.133.190 HTTP/1.1 Mozilla/5.0+(Linux;+Android+8.0.0;+SAMSUNG+SM-G965F+Build/R16NW)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/7.2+Chrome/59.0.3071.125+Mobile+Safari/537.36 http://www.palacehotel.co.nz/ 200 1243133 445
+2018-07-10 07:20:04 GET /js/isotope.pkgd.min.js - 124.248.133.190 HTTP/1.1 Mozilla/5.0+(Linux;+Android+8.0.0;+SAMSUNG+SM-G965F+Build/R16NW)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/7.2+Chrome/59.0.3071.125+Mobile+Safari/537.36 http://www.palacehotel.co.nz/ 200 13789 419
+2018-07-10 07:20:04 GET /js/custom.js - 124.248.133.190 HTTP/1.1 Mozilla/5.0+(Linux;+Android+8.0.0;+SAMSUNG+SM-G965F+Build/R16NW)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/7.2+Chrome/59.0.3071.125+Mobile+Safari/537.36 http://www.palacehotel.co.nz/ 200 1191 409
+2018-07-10 07:20:04 GET /img/img7.jpg - 124.248.133.190 HTTP/1.1 Mozilla/5.0+(Linux;+Android+8.0.0;+SAMSUNG+SM-G965F+Build/R16NW)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/7.2+Chrome/59.0.3071.125+Mobile+Safari/537.36 http://www.palacehotel.co.nz/ 200 1155627 445
+2018-07-10 07:20:07 GET /img/img3_1.jpg - 124.248.133.190 HTTP/1.1 Mozilla/5.0+(Linux;+Android+8.0.0;+SAMSUNG+SM-G965F+Build/R16NW)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/7.2+Chrome/59.0.3071.125+Mobile+Safari/537.36 http://www.palacehotel.co.nz/ 200 1125686 447
+2018-07-10 07:20:20 GET /img/img2.jpg - 124.248.133.190 HTTP/1.1 Mozilla/5.0+(Linux;+Android+8.0.0;+SAMSUNG+SM-G965F+Build/R16NW)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/7.2+Chrome/59.0.3071.125+Mobile+Safari/537.36 http://www.palacehotel.co.nz/ 200 1266298 445
+2018-07-10 07:20:22 GET /img/img10.jpg - 124.248.133.190 HTTP/1.1 Mozilla/5.0+(Linux;+Android+8.0.0;+SAMSUNG+SM-G965F+Build/R16NW)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/7.2+Chrome/59.0.3071.125+Mobile+Safari/537.36 http://www.palacehotel.co.nz/ 200 1018686 446
+2018-07-10 07:20:22 GET /favicon.ico - 124.248.133.190 HTTP/1.1 Mozilla/5.0+(Linux;+Android+8.0.0;+SAMSUNG+SM-G965F+Build/R16NW)+AppleWebKit/537.36+(KHTML,+like+Gecko)+SamsungBrowser/7.2+Chrome/59.0.3071.125+Mobile+Safari/537.36 http://www.palacehotel.co.nz/ 404 1405 444
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-07-10 07:43:10
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-07-10 07:43:10 GET / - 122.60.233.3 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.3;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/67.0.3396.99+Safari/537.36 https://www.google.co.nz/ 200 3376 424
+2018-07-10 07:43:10 GET /css/style.css - 122.60.233.3 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.3;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/67.0.3396.99+Safari/537.36 http://www.palacehotel.co.nz/ 200 5918 344
+2018-07-10 07:43:10 GET /ionicons/css/ionicons.min.css - 122.60.233.3 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.3;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/67.0.3396.99+Safari/537.36 http://www.palacehotel.co.nz/ 200 10932 360
+2018-07-10 07:43:11 GET /js/modernizr.js - 122.60.233.3 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.3;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/67.0.3396.99+Safari/537.36 http://www.palacehotel.co.nz/ 200 19903 331
+2018-07-10 07:43:11 GET /css/bootstrap.min.css - 122.60.233.3 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.3;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/67.0.3396.99+Safari/537.36 http://www.palacehotel.co.nz/ 200 27806 352
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-07-10 08:53:45
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-07-10 08:53:44 GET /robots.txt - 54.36.150.125 HTTP/1.1 Mozilla/5.0+(compatible;+AhrefsBot/5.2;++http://ahrefs.com/robot/) - 404 1405 178
+2018-07-10 08:53:46 GET /portfolio.html - 54.36.148.176 HTTP/1.1 Mozilla/5.0+(compatible;+AhrefsBot/5.2;++http://ahrefs.com/robot/) - 200 2704 182
+2018-07-10 08:59:58 GET / - 191.96.249.88 HTTP/1.1 - - 200 13757 125
+2018-07-10 09:00:00 GET / - 191.96.249.88 HTTP/1.1 - - 200 13757 121
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-07-10 09:20:07
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-07-10 09:20:07 GET / - 66.249.79.14 HTTP/1.1 Mozilla/5.0+(Linux;+Android+6.0.1;+Nexus+5X+Build/MMB29P)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2272.96+Mobile+Safari/537.36+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 3376 424
+2018-07-10 09:20:09 GET /js/isotope.pkgd.min.js - 66.249.79.14 HTTP/1.1 Mozilla/5.0+(Linux;+Android+6.0.1;+Nexus+5X+Build/MMB29P)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2272.96+Mobile+Safari/537.36+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) http://www.palacehotel.co.nz/ 200 13789 450
+2018-07-10 09:20:10 GET /css/bootstrap.min.css - 66.249.79.14 HTTP/1.1 Mozilla/5.0+(Linux;+Android+6.0.1;+Nexus+5X+Build/MMB29P)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2272.96+Mobile+Safari/537.36+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) http://www.palacehotel.co.nz/ 200 27806 464
+2018-07-10 09:20:12 GET /favicon.ico - 66.249.79.14 HTTP/1.1 Googlebot-Image/1.0 - 404 1405 196
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-07-10 11:53:04
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-07-10 11:53:04 GET / - 192.241.76.207 HTTP/1.0 Mozilla/5.0+(Windows+NT+6.3;+Win64;+x64;+rv:57.0)+Gecko/20100101+Firefox/57.0 - 200 13757 299
+2018-07-10 11:53:05 GET /contact.html - 192.241.76.207 HTTP/1.0 Mozilla/5.0+(Windows+NT+6.3;+Win64;+x64;+rv:57.0)+Gecko/20100101+Firefox/57.0 http://palacehotel.co.nz 200 6410 380
+2018-07-10 11:53:05 POST /contact.html - 192.241.76.207 HTTP/1.0 Mozilla/5.0+(Windows+NT+6.3;+Win64;+x64;+rv:57.0)+Gecko/20100101+Firefox/57.0 http://palacehotel.co.nz/contact.html 405 1515 2171
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-07-10 13:25:48
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-07-10 13:25:48 GET / - 188.26.25.42 HTTP/1.1 Java/1.8.0_171 - 200 13738 200
+2018-07-10 13:25:49 GET /about.html - 188.26.25.42 HTTP/1.1 Java/1.8.0_171 - 200 5709 210
+2018-07-10 13:25:49 GET /contact.html - 188.26.25.42 HTTP/1.1 Java/1.8.0_171 - 200 6391 212
+2018-07-10 13:25:50 GET /index.html - 188.26.25.42 HTTP/1.1 Java/1.8.0_171 - 200 13738 210
+2018-07-10 13:25:50 GET /portfolio.html - 188.26.25.42 HTTP/1.1 Java/1.8.0_171 - 200 12622 214
+2018-07-10 13:25:51 GET /services.html - 188.26.25.42 HTTP/1.1 Java/1.8.0_171 - 200 7369 213
+2018-07-10 13:25:51 GET /img/logo.png - 188.26.25.42 HTTP/1.1 Java/1.8.0_171 - 200 22564 212
+2018-07-10 13:25:52 GET /js/animated-headline.js - 188.26.25.42 HTTP/1.1 Java/1.8.0_171 - 200 5815 223
+2018-07-10 13:25:52 GET /js/bootstrap.min.js - 188.26.25.42 HTTP/1.1 Java/1.8.0_171 - 200 37132 219
+2018-07-10 13:25:53 GET /js/custom.js - 188.26.25.42 HTTP/1.1 Java/1.8.0_171 - 200 2120 212
+2018-07-10 13:25:53 GET /js/isotope.pkgd.min.js - 188.26.25.42 HTTP/1.1 Java/1.8.0_171 - 200 38008 222
+2018-07-10 13:25:54 GET /js/jquery-2.1.1.js - 188.26.25.42 HTTP/1.1 Java/1.8.0_171 - 200 247616 218
+2018-07-10 13:25:56 GET /js/menu.js - 188.26.25.42 HTTP/1.1 Java/1.8.0_171 - 200 2093 210
+2018-07-10 13:25:56 GET /js/modernizr.js - 188.26.25.42 HTTP/1.1 Java/1.8.0_171 - 200 51615 215
+2018-07-10 13:25:56 GET /js/lightbox-plus-jquery.min.js - 188.26.25.42 HTTP/1.1 Java/1.8.0_171 - 200 93520 230
+2018-07-10 13:25:56 GET /js/).children().detach().end()[this.options.html - 188.26.25.42 HTTP/1.1 Java/1.8.0_171 - 404 1405 249
+2018-07-10 13:25:57 GET /js/).html()||a.find( - 188.26.25.42 HTTP/1.1 Java/1.8.0_171 - 404 1405 220
+2018-07-10 13:25:57 GET /js/)[this.options.html - 188.26.25.42 HTTP/1.1 Java/1.8.0_171 - 404 1405 223
+2018-07-10 13:25:58 GET /js/).html(this.album[this.currentImageIndex].title).fadeIn( - 188.26.25.42 HTTP/1.1 Java/1.8.0_171 - 404 1405 259
+2018-07-10 13:25:58 GET /js/,data:b}).done(function(a){f=arguments,g.html(d - 188.26.25.42 HTTP/1.1 Java/1.8.0_171 - 404 1405 253
+2018-07-10 13:25:59 GET /js/'+b+' - 188.26.25.42 HTTP/1.1 Java/1.8.0_171 - 404 1405 208
+2018-07-10 13:25:59 GET /https:/www.facebook.com/Palace-Hotel-167729699947376 - 188.26.25.42 HTTP/1.1 Java/1.8.0_171 - 404 1405 253
+2018-07-10 13:26:00 GET /https:/oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js - 188.26.25.42 HTTP/1.1 Java/1.8.0_171 - 404 1405 255
+2018-07-10 13:26:00 GET /https:/oss.maxcdn.com/respond/1.4.2/respond.min.js - 188.26.25.42 HTTP/1.1 Java/1.8.0_171 - 404 1405 251
+2018-07-10 13:26:00 GET /https:/www.facebook.com/thepalacehotelTearoha/ - 188.26.25.42 HTTP/1.1 Java/1.8.0_171 - 404 1405 255
+2018-07-10 13:26:01 GET /https:/www.youtube.com/embed/Epe_nOIyGQ8 - 188.26.25.42 HTTP/1.1 Java/1.8.0_171 - 404 1405 241
+2018-07-10 13:26:01 GET /https:/www.google.com/maps/embed - 188.26.25.42 HTTP/1.1 Java/1.8.0_171 - 404 1405 419
+2018-07-10 13:26:01 GET /js/data:image/gif;base64,R0lGODlhAQABAIAAAP/wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw== - 188.26.25.42 HTTP/1.1 Java/1.8.0_171 - 404 1405 285
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-07-10 14:06:59
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-07-10 14:06:59 GET / - 171.25.193.235 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/37.0.2062.120+Safari/537.36 http://burger-imperia.com/ 200 13738 243
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-07-10 15:06:05
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-07-10 15:06:05 GET /portfolio.html - 66.249.79.18 HTTP/1.1 Mozilla/5.0+(Linux;+Android+6.0.1;+Nexus+5X+Build/MMB29P)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2272.96+Mobile+Safari/537.36+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 2704 438
+2018-07-10 15:06:08 GET /css/style.css - 66.249.79.14 HTTP/1.1 Mozilla/5.0+(Linux;+Android+6.0.1;+Nexus+5X+Build/MMB29P)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2272.96+Mobile+Safari/537.36+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) http://www.palacehotel.co.nz/portfolio.html 200 5918 470
+2018-07-10 15:06:08 GET /ionicons/css/ionicons.min.css - 66.249.79.18 HTTP/1.1 Mozilla/5.0+(Linux;+Android+6.0.1;+Nexus+5X+Build/MMB29P)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2272.96+Mobile+Safari/537.36+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) http://www.palacehotel.co.nz/portfolio.html 200 10932 486
+2018-07-10 15:06:09 GET /js/lightbox-plus-jquery.min.js - 66.249.79.16 HTTP/1.1 Mozilla/5.0+(Linux;+Android+6.0.1;+Nexus+5X+Build/MMB29P)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2272.96+Mobile+Safari/537.36+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) http://www.palacehotel.co.nz/portfolio.html 200 41513 472
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-07-10 16:56:17
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-07-10 16:56:16 GET /robots.txt - 46.229.168.74 HTTP/1.1 Mozilla/5.0+(compatible;+SemrushBot/2~bl;++http://www.semrush.com/bot.html) - 404 1424 212
+2018-07-10 16:56:18 GET /index.html - 46.229.168.72 HTTP/1.1 Mozilla/5.0+(compatible;+SemrushBot/2~bl;++http://www.semrush.com/bot.html) - 200 3396 211
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-07-10 17:49:43
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-07-10 17:49:43 GET /robots.txt - 66.249.79.152 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 404 1405 231
+2018-07-10 17:49:43 GET / - 66.249.79.154 HTTP/1.1 Mozilla/5.0+(Linux;+Android+6.0.1;+Nexus+5X+Build/MMB29P)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2272.96+Mobile+Safari/537.36+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 3376 420
+2018-07-10 17:49:44 GET /css/bootstrap.min.css - 66.249.79.154 HTTP/1.1 Mozilla/5.0+(Linux;+Android+6.0.1;+Nexus+5X+Build/MMB29P)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2272.96+Mobile+Safari/537.36+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) http://palacehotel.co.nz/ 200 27806 456
+2018-07-10 17:49:46 GET /css/style.css - 66.249.79.152 HTTP/1.1 Mozilla/5.0+(Linux;+Android+6.0.1;+Nexus+5X+Build/MMB29P)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2272.96+Mobile+Safari/537.36+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) http://palacehotel.co.nz/ 200 5918 448
+2018-07-10 18:02:43 GET / - 220.181.108.75 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - 200 3395 266
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-07-10 18:28:25
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-07-10 18:28:24 GET / - 188.26.25.42 HTTP/1.1 Java/1.8.0_171 - 200 13738 204
+2018-07-10 18:28:26 GET /about.html - 188.26.25.42 HTTP/1.1 Java/1.8.0_171 - 200 5709 214
+2018-07-10 18:28:26 GET /contact.html - 188.26.25.42 HTTP/1.1 Java/1.8.0_171 - 200 6391 216
+2018-07-10 18:28:26 GET /index.html - 188.26.25.42 HTTP/1.1 Java/1.8.0_171 - 200 13738 214
+2018-07-10 18:28:27 GET /portfolio.html - 188.26.25.42 HTTP/1.1 Java/1.8.0_171 - 200 12622 218
+2018-07-10 18:28:27 GET /services.html - 188.26.25.42 HTTP/1.1 Java/1.8.0_171 - 200 7369 217
+2018-07-10 18:28:27 GET /img/logo.png - 188.26.25.42 HTTP/1.1 Java/1.8.0_171 - 200 22564 216
+2018-07-10 18:28:27 GET /js/animated-headline.js - 188.26.25.42 HTTP/1.1 Java/1.8.0_171 - 200 5815 227
+2018-07-10 18:28:28 GET /js/bootstrap.min.js - 188.26.25.42 HTTP/1.1 Java/1.8.0_171 - 200 37132 223
+2018-07-10 18:28:28 GET /js/custom.js - 188.26.25.42 HTTP/1.1 Java/1.8.0_171 - 200 2120 216
+2018-07-10 18:28:28 GET /js/isotope.pkgd.min.js - 188.26.25.42 HTTP/1.1 Java/1.8.0_171 - 200 38008 226
+2018-07-10 18:28:31 GET /js/jquery-2.1.1.js - 188.26.25.42 HTTP/1.1 Java/1.8.0_171 - 200 247616 222
+2018-07-10 18:28:31 GET /js/menu.js - 188.26.25.42 HTTP/1.1 Java/1.8.0_171 - 200 2093 214
+2018-07-10 18:28:33 GET /js/modernizr.js - 188.26.25.42 HTTP/1.1 Java/1.8.0_171 - 200 51615 219
+2018-07-10 18:28:34 GET /js/lightbox-plus-jquery.min.js - 188.26.25.42 HTTP/1.1 Java/1.8.0_171 - 200 93520 234
+2018-07-10 18:28:34 GET /js/).children().detach().end()[this.options.html - 188.26.25.42 HTTP/1.1 Java/1.8.0_171 - 404 1405 253
+2018-07-10 18:28:34 GET /js/).html()||a.find( - 188.26.25.42 HTTP/1.1 Java/1.8.0_171 - 404 1405 224
+2018-07-10 18:28:34 GET /js/)[this.options.html - 188.26.25.42 HTTP/1.1 Java/1.8.0_171 - 404 1405 227
+2018-07-10 18:28:35 GET /js/).html(this.album[this.currentImageIndex].title).fadeIn( - 188.26.25.42 HTTP/1.1 Java/1.8.0_171 - 404 1405 263
+2018-07-10 18:28:35 GET /js/,data:b}).done(function(a){f=arguments,g.html(d - 188.26.25.42 HTTP/1.1 Java/1.8.0_171 - 404 1405 257
+2018-07-10 18:28:35 GET /js/'+b+' - 188.26.25.42 HTTP/1.1 Java/1.8.0_171 - 404 1405 212
+2018-07-10 18:28:36 GET /https:/www.facebook.com/Palace-Hotel-167729699947376 - 188.26.25.42 HTTP/1.1 Java/1.8.0_171 - 404 1405 257
+2018-07-10 18:28:36 GET /https:/oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js - 188.26.25.42 HTTP/1.1 Java/1.8.0_171 - 404 1405 259
+2018-07-10 18:28:36 GET /https:/oss.maxcdn.com/respond/1.4.2/respond.min.js - 188.26.25.42 HTTP/1.1 Java/1.8.0_171 - 404 1405 255
+2018-07-10 18:28:37 GET /https:/www.facebook.com/thepalacehotelTearoha/ - 188.26.25.42 HTTP/1.1 Java/1.8.0_171 - 404 1405 259
+2018-07-10 18:28:37 GET /https:/www.youtube.com/embed/Epe_nOIyGQ8 - 188.26.25.42 HTTP/1.1 Java/1.8.0_171 - 404 1405 245
+2018-07-10 18:28:37 GET /https:/www.google.com/maps/embed - 188.26.25.42 HTTP/1.1 Java/1.8.0_171 - 404 1405 423
+2018-07-10 18:28:39 GET /js/data:image/gif;base64,R0lGODlhAQABAIAAAP/wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw== - 188.26.25.42 HTTP/1.1 Java/1.8.0_171 - 404 1405 289
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-07-10 18:45:49
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-07-10 18:45:49 GET /robots.txt - 66.249.79.14 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 404 1405 235
+2018-07-10 18:45:49 GET /portfolio.html - 66.249.79.16 HTTP/1.1 Mozilla/5.0+(Linux;+Android+6.0.1;+Nexus+5X+Build/MMB29P)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2272.96+Mobile+Safari/537.36+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 304 210 488
+2018-07-10 18:45:55 GET /css/style.css - 66.249.79.16 HTTP/1.1 Mozilla/5.0+(Linux;+Android+6.0.1;+Nexus+5X+Build/MMB29P)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2272.96+Mobile+Safari/537.36+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) http://www.palacehotel.co.nz/portfolio.html 200 5918 470
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-07-10 19:07:08
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-07-10 19:07:08 GET / - 52.53.201.78 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_12_6)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/61.0.3163.100+Safari/537.36 - 200 3376 218
+2018-07-10 19:22:50 GET /js/custom.js - 66.249.79.156 HTTP/1.1 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+compatible;+Googlebot/2.1;++http://www.google.com/bot.html)+Safari/537.36 http://palacehotel.co.nz/ 200 1191 358
+2018-07-10 19:22:51 GET /js/jquery-2.1.1.js - 66.249.79.152 HTTP/1.1 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+compatible;+Googlebot/2.1;++http://www.google.com/bot.html)+Safari/537.36 http://palacehotel.co.nz/ 200 97203 364
+2018-07-10 19:22:51 GET /ionicons/css/ionicons.min.css - 66.249.79.152 HTTP/1.1 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+compatible;+Googlebot/2.1;++http://www.google.com/bot.html)+Safari/537.36 http://palacehotel.co.nz/ 200 10932 390
+2018-07-10 19:28:24 GET /robots.txt - 5.45.207.33 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - 404 1405 200
+2018-07-10 19:28:29 GET /favicon.ico - 5.45.207.33 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - 404 1405 232
+2018-07-10 19:43:55 GET / - 66.249.79.152 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 3376 294
+2018-07-10 19:43:57 GET /js/menu.js - 66.249.79.154 HTTP/1.1 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+compatible;+Googlebot/2.1;++http://www.google.com/bot.html)+Safari/537.36 http://palacehotel.co.nz/ 200 1168 356
+2018-07-10 19:51:48 GET /img/img3.jpg - 66.249.79.16 HTTP/1.1 Googlebot-Image/1.0 - 304 211 247
+2018-07-10 20:02:04 GET /img/img8.jpg - 66.249.79.18 HTTP/1.1 Googlebot-Image/1.0 - 304 211 247
+2018-07-10 20:07:03 GET /img/img9.jpg - 66.249.79.18 HTTP/1.1 Googlebot-Image/1.0 - 304 211 247
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-07-10 20:27:34
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-07-10 20:27:34 GET / - 184.173.238.173 HTTP/1.1 Apache-HttpClient/4.4.1+(Java/1.8.0_121) - 200 3376 156
+2018-07-10 20:37:44 GET /img/logo.png - 66.249.79.16 HTTP/1.1 Googlebot-Image/1.0 - 304 211 247
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-07-10 21:37:42
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-07-10 21:37:42 GET /portfolio.html - 66.249.79.14 HTTP/1.1 Mozilla/5.0+(Linux;+Android+6.0.1;+Nexus+5X+Build/MMB29P)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2272.96+Mobile+Safari/537.36+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 304 210 488
+2018-07-10 21:41:50 GET / - 66.249.79.14 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 3376 298
+2018-07-10 21:53:08 GET /robots.txt - 46.229.168.81 HTTP/1.1 Mozilla/5.0+(compatible;+SemrushBot/2~bl;++http://www.semrush.com/bot.html) - 404 1424 216
+2018-07-10 21:53:11 GET /portfolio.html - 46.229.168.82 HTTP/1.1 Mozilla/5.0+(compatible;+SemrushBot/2~bl;++http://www.semrush.com/bot.html) - 200 2723 219
+2018-07-10 21:59:22 GET / - 123.255.40.147 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/67.0.3396.99+Safari/537.36 https://www.google.co.nz/ 200 3376 437
+2018-07-10 21:59:23 GET /css/style.css - 123.255.40.147 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/67.0.3396.99+Safari/537.36 http://www.palacehotel.co.nz/ 200 5918 357
+2018-07-10 21:59:23 GET /ionicons/css/ionicons.min.css - 123.255.40.147 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/67.0.3396.99+Safari/537.36 http://www.palacehotel.co.nz/ 200 10932 373
+2018-07-10 21:59:23 GET /css/bootstrap.min.css - 123.255.40.147 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/67.0.3396.99+Safari/537.36 http://www.palacehotel.co.nz/ 200 27806 365
+2018-07-10 21:59:24 GET /js/modernizr.js - 123.255.40.147 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/67.0.3396.99+Safari/537.36 http://www.palacehotel.co.nz/ 200 19903 344
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-07-10 22:19:44
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-07-10 22:19:44 GET /img/img4.jpg - 66.249.79.16 HTTP/1.1 Googlebot-Image/1.0 - 304 211 247
+2018-07-10 22:19:44 GET /img/img4.jpg - 66.249.79.14 HTTP/1.1 Googlebot-Image/1.0 - 304 211 247
+2018-07-10 22:29:24 GET / - 66.249.79.154 HTTP/1.1 Mozilla/5.0+(Linux;+Android+6.0.1;+Nexus+5X+Build/MMB29P)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2272.96+Mobile+Safari/537.36+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 3376 420
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-07-10 23:30:47
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-07-10 23:30:47 GET /img/01.jpg - 116.251.145.130 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/67.0.3396.87+Safari/537.36 http://www.palacehotel.co.nz/css/style.css 206 306 437
+2018-07-10 23:31:02 GET /img/01.jpg - 116.251.145.130 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/67.0.3396.87+Safari/537.36 http://www.palacehotel.co.nz/css/style.css 206 655360 437
+2018-07-10 23:34:30 GET / - 122.58.38.144 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:61.0)+Gecko/20100101+Firefox/61.0 https://www.google.co.nz/ 200 3376 367
+2018-07-10 23:34:30 GET /js/bootstrap.min.js - 122.58.38.144 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:61.0)+Gecko/20100101+Firefox/61.0 http://www.palacehotel.co.nz/ 200 13266 300
+2018-07-10 23:34:31 GET /css/style.css - 122.58.38.144 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:61.0)+Gecko/20100101+Firefox/61.0 http://www.palacehotel.co.nz/ 200 5918 309
+2018-07-10 23:34:31 GET /js/menu.js - 122.58.38.144 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:61.0)+Gecko/20100101+Firefox/61.0 http://www.palacehotel.co.nz/ 200 1168 291
+2018-07-10 23:34:31 GET /ionicons/css/ionicons.min.css - 122.58.38.144 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:61.0)+Gecko/20100101+Firefox/61.0 http://www.palacehotel.co.nz/ 200 10932 325
+2018-07-10 23:34:31 GET /js/animated-headline.js - 122.58.38.144 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:61.0)+Gecko/20100101+Firefox/61.0 http://www.palacehotel.co.nz/ 200 2209 304
+2018-07-10 23:34:31 GET /js/modernizr.js - 122.58.38.144 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:61.0)+Gecko/20100101+Firefox/61.0 http://www.palacehotel.co.nz/ 200 19903 296
+2018-07-10 23:34:31 GET /css/bootstrap.min.css - 122.58.38.144 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:61.0)+Gecko/20100101+Firefox/61.0 http://www.palacehotel.co.nz/ 200 27806 317
+2018-07-10 23:34:31 GET /js/custom.js - 122.58.38.144 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:61.0)+Gecko/20100101+Firefox/61.0 http://www.palacehotel.co.nz/ 200 1191 293
+2018-07-10 23:34:32 GET /img/logo.png - 122.58.38.144 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:61.0)+Gecko/20100101+Firefox/61.0 http://www.palacehotel.co.nz/ 200 22564 293
+2018-07-10 23:34:32 GET /js/isotope.pkgd.min.js - 122.58.38.144 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:61.0)+Gecko/20100101+Firefox/61.0 http://www.palacehotel.co.nz/ 200 13789 303
+2018-07-10 23:34:34 GET /js/jquery-2.1.1.js - 122.58.38.144 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:61.0)+Gecko/20100101+Firefox/61.0 http://www.palacehotel.co.nz/ 200 97203 299
+2018-07-10 23:34:36 GET /ionicons/fonts/ionicons.ttf - 122.58.38.144 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:61.0)+Gecko/20100101+Firefox/61.0 http://www.palacehotel.co.nz/ionicons/css/ionicons.min.css 200 188773 408
+2018-07-10 23:34:39 GET /img/img2.jpg - 122.58.38.144 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:61.0)+Gecko/20100101+Firefox/61.0 http://www.palacehotel.co.nz/ 200 1266298 293
+2018-07-10 23:34:40 GET /img/bg.jpg - 122.58.38.144 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:61.0)+Gecko/20100101+Firefox/61.0 http://www.palacehotel.co.nz/css/style.css 200 95902 304
+2018-07-10 23:34:40 GET /img/img3.jpg - 122.58.38.144 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:61.0)+Gecko/20100101+Firefox/61.0 http://www.palacehotel.co.nz/ 200 1188783 293
+2018-07-10 23:34:40 GET /img/img6.jpg - 122.58.38.144 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:61.0)+Gecko/20100101+Firefox/61.0 http://www.palacehotel.co.nz/ 200 1235277 293
+2018-07-10 23:34:42 GET /img/img3_1.jpg - 122.58.38.144 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:61.0)+Gecko/20100101+Firefox/61.0 http://www.palacehotel.co.nz/ 200 1125686 295
+2018-07-10 23:34:45 GET /img/img9.jpg - 122.58.38.144 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:61.0)+Gecko/20100101+Firefox/61.0 http://www.palacehotel.co.nz/ 200 1089855 293
+2018-07-10 23:34:47 GET /img/img8.jpg - 122.58.38.144 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:61.0)+Gecko/20100101+Firefox/61.0 http://www.palacehotel.co.nz/ 200 1146016 293
+2018-07-10 23:34:49 GET /img/img10.jpg - 122.58.38.144 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:61.0)+Gecko/20100101+Firefox/61.0 http://www.palacehotel.co.nz/ 200 1018686 294
+2018-07-10 23:34:56 GET /img/img5.jpg - 122.58.38.144 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:61.0)+Gecko/20100101+Firefox/61.0 http://www.palacehotel.co.nz/ 200 1134136 293
+2018-07-10 23:34:59 GET /img/img7.jpg - 122.58.38.144 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:61.0)+Gecko/20100101+Firefox/61.0 http://www.palacehotel.co.nz/ 200 1155627 293
+2018-07-10 23:35:00 GET /img/img4.jpg - 122.58.38.144 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:61.0)+Gecko/20100101+Firefox/61.0 http://www.palacehotel.co.nz/ 200 1243133 293
+2018-07-10 23:35:00 GET /favicon.ico - 122.58.38.144 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:61.0)+Gecko/20100101+Firefox/61.0 - 404 1405 312
+2018-07-10 23:35:00 GET /favicon.ico - 122.58.38.144 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:61.0)+Gecko/20100101+Firefox/61.0 - 404 1405 252
+2018-07-10 23:39:24 GET /about.html - 122.58.38.144 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:61.0)+Gecko/20100101+Firefox/61.0 http://www.palacehotel.co.nz/ 200 2711 381
+2018-07-10 23:39:24 GET /css/style.css - 122.58.38.144 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:61.0)+Gecko/20100101+Firefox/61.0 http://www.palacehotel.co.nz/about.html 200 0 319
+2018-07-10 23:39:24 GET /ionicons/css/ionicons.min.css - 122.58.38.144 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:61.0)+Gecko/20100101+Firefox/61.0 http://www.palacehotel.co.nz/about.html 200 0 335
+2018-07-10 23:39:24 GET /css/bootstrap.min.css - 122.58.38.144 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:61.0)+Gecko/20100101+Firefox/61.0 http://www.palacehotel.co.nz/about.html 200 0 327
+2018-07-10 23:39:35 GET /img/01.jpg - 122.58.38.144 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:61.0)+Gecko/20100101+Firefox/61.0 http://www.palacehotel.co.nz/css/style.css 200 3652210 304
+2018-07-10 23:39:50 GET /services.html - 122.58.38.144 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:61.0)+Gecko/20100101+Firefox/61.0 http://www.palacehotel.co.nz/about.html 200 2967 394
+2018-07-10 23:39:59 GET /index.html - 122.58.38.144 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:61.0)+Gecko/20100101+Firefox/61.0 http://www.palacehotel.co.nz/services.html 200 3377 394
+2018-07-10 23:52:24 GET / - 52.200.221.20 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1)+AppleWebKit/537.2+(KHTML,+like+Gecko)+Chrome/22.0.1216.0+Safari/537.2 - 200 13738 172
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-07-11 00:46:54
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-07-11 00:46:54 GET /wp-login.php - 49.145.151.22 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64;+rv:40.0)+Gecko/20100101+Firefox/40.1 - 404 1405 182
+2018-07-11 00:46:54 GET / - 49.145.151.22 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64;+rv:40.0)+Gecko/20100101+Firefox/40.1 - 200 13738 170
+2018-07-11 00:56:43 GET /img/img6.jpg - 66.249.79.18 HTTP/1.1 Googlebot-Image/1.0 - 304 211 247
+2018-07-11 01:01:43 GET /img/img5.jpg - 66.249.79.14 HTTP/1.1 Googlebot-Image/1.0 - 304 211 247
+2018-07-11 01:07:33 GET /img/img3_1.jpg - 66.249.79.18 HTTP/1.1 Googlebot-Image/1.0 - 304 211 249
+2018-07-11 01:21:40 GET /img/img4.jpg - 66.249.82.216 HTTP/1.1 Mozilla/5.0+(Windows+NT+5.1;+rv:11.0)+Gecko+Firefox/11.0+(via+ggpht.com+GoogleImageProxy) - 200 1243133 220
+2018-07-11 01:21:44 GET /img/img4.jpg - 210.55.211.91 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.3;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/67.0.3396.99+Safari/537.36 https://www.google.co.nz/ 200 1243133 462
+2018-07-11 01:22:05 GET /img/img10.jpg - 66.249.79.16 HTTP/1.1 Googlebot-Image/1.0 - 304 211 248
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-07-11 02:17:00
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-07-11 02:17:00 GET /portfolio.html - 66.249.79.16 HTTP/1.1 Mozilla/5.0+(Linux;+Android+6.0.1;+Nexus+5X+Build/MMB29P)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2272.96+Mobile+Safari/537.36+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 304 210 488
+2018-07-11 02:28:28 GET /img/img7.jpg - 66.249.79.14 HTTP/1.1 Googlebot-Image/1.0 - 304 210 247
+2018-07-11 02:30:32 GET / - 118.148.218.105 HTTP/1.1 Mozilla/5.0+(Linux;+Android+5.1.1;+HUAWEI+SCL-L02+Build/HuaweiSCL-L02)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/54.0.2840.68+Mobile+Safari/537.36 - 200 3376 444
+2018-07-11 02:30:32 GET /css/style.css - 118.148.218.105 HTTP/1.1 Mozilla/5.0+(Linux;+Android+5.1.1;+HUAWEI+SCL-L02+Build/HuaweiSCL-L02)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/54.0.2840.68+Mobile+Safari/537.36 http://www.palacehotel.co.nz/ 200 5918 411
+2018-07-11 02:30:33 GET /js/modernizr.js - 118.148.218.105 HTTP/1.1 Mozilla/5.0+(Linux;+Android+5.1.1;+HUAWEI+SCL-L02+Build/HuaweiSCL-L02)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/54.0.2840.68+Mobile+Safari/537.36 http://www.palacehotel.co.nz/ 200 19903 398
+2018-07-11 02:30:33 GET /ionicons/css/ionicons.min.css - 118.148.218.105 HTTP/1.1 Mozilla/5.0+(Linux;+Android+5.1.1;+HUAWEI+SCL-L02+Build/HuaweiSCL-L02)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/54.0.2840.68+Mobile+Safari/537.36 http://www.palacehotel.co.nz/ 200 10932 427
+2018-07-11 02:30:33 GET /css/bootstrap.min.css - 118.148.218.105 HTTP/1.1 Mozilla/5.0+(Linux;+Android+5.1.1;+HUAWEI+SCL-L02+Build/HuaweiSCL-L02)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/54.0.2840.68+Mobile+Safari/537.36 http://www.palacehotel.co.nz/ 200 27806 419
+2018-07-11 02:30:33 GET /js/menu.js - 118.148.218.105 HTTP/1.1 Mozilla/5.0+(Linux;+Android+5.1.1;+HUAWEI+SCL-L02+Build/HuaweiSCL-L02)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/54.0.2840.68+Mobile+Safari/537.36 http://www.palacehotel.co.nz/ 200 1168 393
+2018-07-11 02:30:33 GET /js/animated-headline.js - 118.148.218.105 HTTP/1.1 Mozilla/5.0+(Linux;+Android+5.1.1;+HUAWEI+SCL-L02+Build/HuaweiSCL-L02)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/54.0.2840.68+Mobile+Safari/537.36 http://www.palacehotel.co.nz/ 200 2209 406
+2018-07-11 02:30:33 GET /js/bootstrap.min.js - 118.148.218.105 HTTP/1.1 Mozilla/5.0+(Linux;+Android+5.1.1;+HUAWEI+SCL-L02+Build/HuaweiSCL-L02)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/54.0.2840.68+Mobile+Safari/537.36 http://www.palacehotel.co.nz/ 200 13266 402
+2018-07-11 02:30:34 GET /js/jquery-2.1.1.js - 118.148.218.105 HTTP/1.1 Mozilla/5.0+(Linux;+Android+5.1.1;+HUAWEI+SCL-L02+Build/HuaweiSCL-L02)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/54.0.2840.68+Mobile+Safari/537.36 http://www.palacehotel.co.nz/ 200 97203 401
+2018-07-11 02:30:34 GET /ionicons/fonts/ionicons.ttf - 118.148.218.105 HTTP/1.1 Mozilla/5.0+(Linux;+Android+5.1.1;+HUAWEI+SCL-L02+Build/HuaweiSCL-L02)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/54.0.2840.68+Mobile+Safari/537.36 http://www.palacehotel.co.nz/ionicons/css/ionicons.min.css 200 188773 485
+2018-07-11 02:30:34 GET /img/logo.png - 118.148.218.105 HTTP/1.1 Mozilla/5.0+(Linux;+Android+5.1.1;+HUAWEI+SCL-L02+Build/HuaweiSCL-L02)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/54.0.2840.68+Mobile+Safari/537.36 http://www.palacehotel.co.nz/ 200 22564 420
+2018-07-11 02:30:34 GET /js/isotope.pkgd.min.js - 118.148.218.105 HTTP/1.1 Mozilla/5.0+(Linux;+Android+5.1.1;+HUAWEI+SCL-L02+Build/HuaweiSCL-L02)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/54.0.2840.68+Mobile+Safari/537.36 http://www.palacehotel.co.nz/ 200 13789 405
+2018-07-11 02:30:34 GET /img/bg.jpg - 118.148.218.105 HTTP/1.1 Mozilla/5.0+(Linux;+Android+5.1.1;+HUAWEI+SCL-L02+Build/HuaweiSCL-L02)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/54.0.2840.68+Mobile+Safari/537.36 http://www.palacehotel.co.nz/css/style.css 200 95902 431
+2018-07-11 02:30:35 GET /img/img3.jpg - 118.148.218.105 HTTP/1.1 Mozilla/5.0+(Linux;+Android+5.1.1;+HUAWEI+SCL-L02+Build/HuaweiSCL-L02)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/54.0.2840.68+Mobile+Safari/537.36 http://www.palacehotel.co.nz/ 200 1188783 420
+2018-07-11 02:30:44 GET /img/img9.jpg - 118.148.218.105 HTTP/1.1 Mozilla/5.0+(Linux;+Android+5.1.1;+HUAWEI+SCL-L02+Build/HuaweiSCL-L02)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/54.0.2840.68+Mobile+Safari/537.36 http://www.palacehotel.co.nz/ 200 1089855 420
+2018-07-11 02:30:47 GET /img/img4.jpg - 118.148.218.105 HTTP/1.1 Mozilla/5.0+(Linux;+Android+5.1.1;+HUAWEI+SCL-L02+Build/HuaweiSCL-L02)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/54.0.2840.68+Mobile+Safari/537.36 http://www.palacehotel.co.nz/ 200 1243133 420
+2018-07-11 02:30:47 GET /img/img5.jpg - 118.148.218.105 HTTP/1.1 Mozilla/5.0+(Linux;+Android+5.1.1;+HUAWEI+SCL-L02+Build/HuaweiSCL-L02)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/54.0.2840.68+Mobile+Safari/537.36 http://www.palacehotel.co.nz/ 200 1134136 420
+2018-07-11 02:30:47 GET /img/img7.jpg - 118.148.218.105 HTTP/1.1 Mozilla/5.0+(Linux;+Android+5.1.1;+HUAWEI+SCL-L02+Build/HuaweiSCL-L02)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/54.0.2840.68+Mobile+Safari/537.36 http://www.palacehotel.co.nz/ 200 1155627 420
+2018-07-11 02:30:48 GET /img/img6.jpg - 118.148.218.105 HTTP/1.1 Mozilla/5.0+(Linux;+Android+5.1.1;+HUAWEI+SCL-L02+Build/HuaweiSCL-L02)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/54.0.2840.68+Mobile+Safari/537.36 http://www.palacehotel.co.nz/ 200 1235277 420
+2018-07-11 02:30:57 GET /img/img10.jpg - 118.148.218.105 HTTP/1.1 Mozilla/5.0+(Linux;+Android+5.1.1;+HUAWEI+SCL-L02+Build/HuaweiSCL-L02)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/54.0.2840.68+Mobile+Safari/537.36 http://www.palacehotel.co.nz/ 200 1018686 421
+2018-07-11 02:30:57 GET /js/custom.js - 118.148.218.105 HTTP/1.1 Mozilla/5.0+(Linux;+Android+5.1.1;+HUAWEI+SCL-L02+Build/HuaweiSCL-L02)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/54.0.2840.68+Mobile+Safari/537.36 http://www.palacehotel.co.nz/ 200 1191 395
+2018-07-11 02:30:57 GET /img/img3_1.jpg - 118.148.218.105 HTTP/1.1 Mozilla/5.0+(Linux;+Android+5.1.1;+HUAWEI+SCL-L02+Build/HuaweiSCL-L02)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/54.0.2840.68+Mobile+Safari/537.36 http://www.palacehotel.co.nz/ 200 1125686 422
+2018-07-11 02:30:58 GET /img/img8.jpg - 118.148.218.105 HTTP/1.1 Mozilla/5.0+(Linux;+Android+5.1.1;+HUAWEI+SCL-L02+Build/HuaweiSCL-L02)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/54.0.2840.68+Mobile+Safari/537.36 http://www.palacehotel.co.nz/ 200 1146016 420
+2018-07-11 02:31:03 GET /img/img2.jpg - 118.148.218.105 HTTP/1.1 Mozilla/5.0+(Linux;+Android+5.1.1;+HUAWEI+SCL-L02+Build/HuaweiSCL-L02)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/54.0.2840.68+Mobile+Safari/537.36 http://www.palacehotel.co.nz/ 200 1266298 420
+2018-07-11 02:31:07 GET /favicon.ico - 118.148.218.105 HTTP/1.1 Mozilla/5.0+(Linux;+Android+5.1.1;+HUAWEI+SCL-L02+Build/HuaweiSCL-L02)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/54.0.2840.68+Mobile+Safari/537.36 http://www.palacehotel.co.nz/ 404 1405 394
+2018-07-11 02:36:34 GET /robots.txt - 5.45.207.33 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - 404 1405 204
+2018-07-11 02:36:38 GET / - 5.45.207.63 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - 200 3376 286
+2018-07-11 02:36:40 GET /js/menu.js - 141.8.132.37 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) http://www.palacehotel.co.nz/ 200 1168 336
+2018-07-11 02:36:41 GET /js/isotope.pkgd.min.js - 5.45.207.27 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) http://www.palacehotel.co.nz/ 200 13789 348
+2018-07-11 02:36:43 GET /ionicons/css/ionicons.min.css - 213.180.203.65 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) http://www.palacehotel.co.nz/ 200 10932 355
+2018-07-11 02:36:43 GET /js/custom.js - 141.8.132.8 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) http://www.palacehotel.co.nz/ 200 1191 338
+2018-07-11 02:36:44 GET /js/bootstrap.min.js - 141.8.132.37 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) http://www.palacehotel.co.nz/ 200 13266 345
+2018-07-11 02:36:45 GET /js/modernizr.js - 141.8.132.37 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) http://www.palacehotel.co.nz/ 200 19903 341
+2018-07-11 02:36:46 GET /css/bootstrap.min.css - 5.45.207.33 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) http://www.palacehotel.co.nz/ 200 27806 347
+2018-07-11 02:36:46 GET /js/jquery-2.1.1.js - 141.8.132.37 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) http://www.palacehotel.co.nz/ 200 97203 344
+2018-07-11 02:36:47 GET /css/style.css - 5.45.207.33 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) http://www.palacehotel.co.nz/ 200 5918 339
+2018-07-11 02:36:48 GET /js/animated-headline.js - 141.8.132.37 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) http://www.palacehotel.co.nz/ 200 2209 349
+2018-07-11 02:36:49 GET /ionicons/fonts/ionicons.ttf - 5.45.207.33 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) http://www.palacehotel.co.nz/ionicons/css/ionicons.min.css 200 188773 428
+2018-07-11 02:38:18 GET /favicon.ico - 66.249.79.16 HTTP/1.1 Googlebot-Image/1.0 - 404 1405 196
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-07-11 03:25:40
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-07-11 03:25:40 GET /contact.html - 118.148.218.105 HTTP/1.1 Mozilla/5.0+(Linux;+Android+5.1.1;+HUAWEI+SCL-L02+Build/HuaweiSCL-L02)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/54.0.2840.68+Mobile+Safari/537.36 http://www.palacehotel.co.nz/ 200 2565 496
+2018-07-11 03:25:50 GET /img/01.jpg - 118.148.218.105 HTTP/1.1 Mozilla/5.0+(Linux;+Android+5.1.1;+HUAWEI+SCL-L02+Build/HuaweiSCL-L02)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/54.0.2840.68+Mobile+Safari/537.36 http://www.palacehotel.co.nz/css/style.css 200 3652210 431
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-07-11 04:21:23
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-07-11 04:21:23 GET / - 196.52.43.90 HTTP/1.1 - - 200 13738 44
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-07-11 04:53:25
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-07-11 04:53:25 GET /robots.txt - 46.229.168.81 HTTP/1.1 Mozilla/5.0+(compatible;+SemrushBot/2~bl;++http://www.semrush.com/bot.html) - 404 1424 212
+2018-07-11 04:53:26 GET /about.html - 46.229.168.67 HTTP/1.1 Mozilla/5.0+(compatible;+SemrushBot/2~bl;++http://www.semrush.com/bot.html) - 200 2730 211
+2018-07-11 05:03:43 GET /img/img4.jpg - 66.249.82.217 HTTP/1.1 Mozilla/5.0+(Windows+NT+5.1;+rv:11.0)+Gecko+Firefox/11.0+(via+ggpht.com+GoogleImageProxy) - 200 1243133 220
+2018-07-11 05:10:17 GET / - 118.92.125.123 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/67.0.3396.99+Safari/537.36 - 200 3376 389
+2018-07-11 05:10:18 GET /css/style.css - 118.92.125.123 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/67.0.3396.99+Safari/537.36 http://www.palacehotel.co.nz/ 200 5918 345
+2018-07-11 05:10:18 GET /css/bootstrap.min.css - 118.92.125.123 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/67.0.3396.99+Safari/537.36 http://www.palacehotel.co.nz/ 200 27806 353
+2018-07-11 05:10:18 GET /ionicons/css/ionicons.min.css - 118.92.125.123 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/67.0.3396.99+Safari/537.36 http://www.palacehotel.co.nz/ 200 10932 361
+2018-07-11 05:10:18 GET /js/modernizr.js - 118.92.125.123 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/67.0.3396.99+Safari/537.36 http://www.palacehotel.co.nz/ 200 19903 332
+2018-07-11 05:10:19 GET /img/logo.png - 118.92.125.123 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/67.0.3396.99+Safari/537.36 http://www.palacehotel.co.nz/ 200 22564 365
+2018-07-11 05:10:21 GET /js/menu.js - 118.92.125.123 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/67.0.3396.99+Safari/537.36 http://www.palacehotel.co.nz/ 200 1168 327
+2018-07-11 05:10:21 GET /js/animated-headline.js - 118.92.125.123 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/67.0.3396.99+Safari/537.36 http://www.palacehotel.co.nz/ 200 2209 340
+2018-07-11 05:10:21 GET /js/bootstrap.min.js - 118.92.125.123 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/67.0.3396.99+Safari/537.36 http://www.palacehotel.co.nz/ 200 13266 336
+2018-07-11 05:10:21 GET /js/isotope.pkgd.min.js - 118.92.125.123 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/67.0.3396.99+Safari/537.36 http://www.palacehotel.co.nz/ 200 13789 339
+2018-07-11 05:10:21 GET /js/custom.js - 118.92.125.123 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/67.0.3396.99+Safari/537.36 http://www.palacehotel.co.nz/ 200 1191 329
+2018-07-11 05:10:23 GET /js/jquery-2.1.1.js - 118.92.125.123 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/67.0.3396.99+Safari/537.36 http://www.palacehotel.co.nz/ 200 97203 335
+2018-07-11 05:10:23 GET /ionicons/fonts/ionicons.ttf - 118.92.125.123 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/67.0.3396.99+Safari/537.36 http://www.palacehotel.co.nz/ionicons/css/ionicons.min.css 200 188773 419
+2018-07-11 05:10:26 GET /img/bg.jpg - 118.92.125.123 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/67.0.3396.99+Safari/537.36 http://www.palacehotel.co.nz/css/style.css 200 95902 376
+2018-07-11 05:10:27 GET /img/img2.jpg - 118.92.125.123 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/67.0.3396.99+Safari/537.36 http://www.palacehotel.co.nz/ 200 1266298 365
+2018-07-11 05:10:30 GET /img/img4.jpg - 118.92.125.123 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/67.0.3396.99+Safari/537.36 http://www.palacehotel.co.nz/ 200 1243133 365
+2018-07-11 05:10:31 GET /img/img3.jpg - 118.92.125.123 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/67.0.3396.99+Safari/537.36 http://www.palacehotel.co.nz/ 200 1188783 365
+2018-07-11 05:10:31 GET /img/img5.jpg - 118.92.125.123 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/67.0.3396.99+Safari/537.36 http://www.palacehotel.co.nz/ 200 1134136 365
+2018-07-11 05:10:36 GET /img/img7.jpg - 118.92.125.123 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/67.0.3396.99+Safari/537.36 http://www.palacehotel.co.nz/ 200 1155627 365
+2018-07-11 05:10:38 GET /img/img8.jpg - 118.92.125.123 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/67.0.3396.99+Safari/537.36 http://www.palacehotel.co.nz/ 200 1146016 365
+2018-07-11 05:10:39 GET /img/img9.jpg - 118.92.125.123 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/67.0.3396.99+Safari/537.36 http://www.palacehotel.co.nz/ 200 1089855 365
+2018-07-11 05:10:39 GET /img/img6.jpg - 118.92.125.123 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/67.0.3396.99+Safari/537.36 http://www.palacehotel.co.nz/ 200 1235277 365
+2018-07-11 05:10:40 GET /img/img10.jpg - 118.92.125.123 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/67.0.3396.99+Safari/537.36 http://www.palacehotel.co.nz/ 200 1018686 366
+2018-07-11 05:10:40 GET /img/img3_1.jpg - 118.92.125.123 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/67.0.3396.99+Safari/537.36 http://www.palacehotel.co.nz/ 200 1125686 367
+2018-07-11 05:10:41 GET /favicon.ico - 118.92.125.123 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/67.0.3396.99+Safari/537.36 http://www.palacehotel.co.nz/ 404 1405 364
+2018-07-11 05:19:37 GET /services.html - 118.92.125.123 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/67.0.3396.99+Safari/537.36 http://www.palacehotel.co.nz/ 200 2967 442
+2018-07-11 05:20:09 GET /img/01.jpg - 118.92.125.123 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/67.0.3396.99+Safari/537.36 http://www.palacehotel.co.nz/css/style.css 200 3652210 376
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-07-11 05:43:57
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-07-11 05:43:57 GET /portfolio.html - 66.249.79.16 HTTP/1.1 Mozilla/5.0+(Linux;+Android+6.0.1;+Nexus+5X+Build/MMB29P)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2272.96+Mobile+Safari/537.36+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 304 210 488
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-07-11 06:12:04
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-07-11 06:12:04 GET /robots.txt - 46.229.168.78 HTTP/1.1 Mozilla/5.0+(compatible;+SemrushBot/2~bl;++http://www.semrush.com/bot.html) - 404 1424 212
+2018-07-11 06:12:04 GET /portfolio.html - 46.229.168.68 HTTP/1.1 Mozilla/5.0+(compatible;+SemrushBot/2~bl;++http://www.semrush.com/bot.html) - 200 2723 215
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-07-11 06:31:29
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-07-11 06:31:28 GET /robots.txt - 66.249.79.156 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 404 1405 231
+2018-07-11 06:31:30 GET / - 66.249.79.156 HTTP/1.1 Mozilla/5.0+(Linux;+Android+6.0.1;+Nexus+5X+Build/MMB29P)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2272.96+Mobile+Safari/537.36+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 3376 420
+2018-07-11 06:31:35 GET /css/style.css - 66.249.79.154 HTTP/1.1 Mozilla/5.0+(Linux;+Android+6.0.1;+Nexus+5X+Build/MMB29P)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2272.96+Mobile+Safari/537.36+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) http://palacehotel.co.nz/ 200 5918 448
+2018-07-11 06:31:35 GET /css/bootstrap.min.css - 66.249.79.154 HTTP/1.1 Mozilla/5.0+(Linux;+Android+6.0.1;+Nexus+5X+Build/MMB29P)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2272.96+Mobile+Safari/537.36+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) http://palacehotel.co.nz/ 200 27806 456
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-07-11 06:55:13
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-07-11 06:55:13 GET /img/img4.jpg - 66.249.82.216 HTTP/1.1 Mozilla/5.0+(Windows+NT+5.1;+rv:11.0)+Gecko+Firefox/11.0+(via+ggpht.com+GoogleImageProxy) - 200 1243133 220

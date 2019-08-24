@@ -1,0 +1,69 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-07-14 14:29:49
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-07-14 14:29:48 GET / - 52.53.201.78 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_12_6)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/61.0.3163.100+Safari/537.36 - 200 7018 220
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-07-14 15:34:43
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-07-14 15:34:43 GET /robots.txt - 5.45.207.33 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - 404 1405 202
+2018-07-14 15:34:44 GET /robots.txt - 5.45.207.21 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - 404 1405 206
+2018-07-14 15:34:48 GET / - 141.8.132.37 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - 200 7018 284
+2018-07-14 15:34:48 GET / - 5.45.207.33 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - 200 5621 288
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-07-14 16:43:32
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-07-14 16:43:32 GET /robots.txt - 46.229.168.68 HTTP/1.1 Mozilla/5.0+(compatible;+SemrushBot/2~bl;++http://www.semrush.com/bot.html) - 404 1424 218
+2018-07-14 16:43:39 GET / - 46.229.168.70 HTTP/1.1 Mozilla/5.0+(compatible;+SemrushBot/2~bl;++http://www.semrush.com/bot.html) - 200 7037 207
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-07-14 19:51:13
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-07-14 19:51:13 GET /robots.txt - 46.229.168.71 HTTP/1.1 Mozilla/5.0+(compatible;+SemrushBot/2~bl;++http://www.semrush.com/bot.html) - 404 1424 218
+2018-07-14 19:51:20 GET /index.html - 46.229.168.75 HTTP/1.1 Mozilla/5.0+(compatible;+SemrushBot/2~bl;++http://www.semrush.com/bot.html) - 200 7048 217
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-07-14 22:09:47
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-07-14 22:09:46 GET /robots.txt - 5.45.207.33 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - 404 1405 206
+2018-07-14 22:09:50 GET /favicon.ico - 5.45.207.33 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - 404 1405 238
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-07-14 22:38:32
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-07-14 22:38:31 GET /robots.txt - 66.249.79.34 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 404 1405 233
+2018-07-14 22:38:31 GET / - 66.249.79.63 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 7018 296
+2018-07-14 22:39:13 GET /css/swipebox.css - 66.249.79.63 HTTP/1.1 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+compatible;+Googlebot/2.1;++http://www.google.com/bot.html)+Safari/537.36 http://crossroadsbar.co.nz/ 200 1525 381
+2018-07-14 22:39:13 GET /css/bootstrap.css - 66.249.79.34 HTTP/1.1 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+compatible;+Googlebot/2.1;++http://www.google.com/bot.html)+Safari/537.36 http://crossroadsbar.co.nz/ 200 27109 382
+2018-07-14 22:39:14 GET /cdn.fancybar.net/ac/fancybar6a2f.js - 66.249.79.38 HTTP/1.1 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+compatible;+Googlebot/2.1;++http://www.google.com/bot.html)+Safari/537.36 http://crossroadsbar.co.nz/ 404 1405 431
+2018-07-14 22:39:14 GET /js/easing.js - 66.249.79.63 HTTP/1.1 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+compatible;+Googlebot/2.1;++http://www.google.com/bot.html)+Safari/537.36 http://crossroadsbar.co.nz/ 200 1740 362
+2018-07-14 22:39:14 GET /js/move-top.js - 66.249.79.38 HTTP/1.1 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+compatible;+Googlebot/2.1;++http://www.google.com/bot.html)+Safari/537.36 http://crossroadsbar.co.nz/ 200 1080 364
+2018-07-14 22:39:15 GET /js/wow.min.js - 66.249.79.38 HTTP/1.1 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+compatible;+Googlebot/2.1;++http://www.google.com/bot.html)+Safari/537.36 http://crossroadsbar.co.nz/ 200 2376 363
+2018-07-14 22:39:15 GET /js/jquery.swipebox.min.js - 66.249.79.38 HTTP/1.1 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+compatible;+Googlebot/2.1;++http://www.google.com/bot.html)+Safari/537.36 http://crossroadsbar.co.nz/ 200 2872 375
+2018-07-14 22:39:15 GET /js/responsiveslides.min.js - 66.249.79.63 HTTP/1.1 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+compatible;+Googlebot/2.1;++http://www.google.com/bot.html)+Safari/537.36 http://crossroadsbar.co.nz/ 200 2127 376
+2018-07-14 22:39:17 GET /css/style.css - 66.249.79.63 HTTP/1.1 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+compatible;+Googlebot/2.1;++http://www.google.com/bot.html)+Safari/537.36 http://crossroadsbar.co.nz/ 200 15962 378
+2018-07-14 22:39:17 GET /pagead2.googlesyndication.com/pagead/js/f.txt - 66.249.79.34 HTTP/1.1 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+compatible;+Googlebot/2.1;++http://www.google.com/bot.html)+Safari/537.36 http://crossroadsbar.co.nz/ 404 1405 395
+2018-07-14 22:39:18 GET /js/jquery-1.11.1.min.js - 66.249.79.63 HTTP/1.1 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+compatible;+Googlebot/2.1;++http://www.google.com/bot.html)+Safari/537.36 http://crossroadsbar.co.nz/ 200 43072 373
+2018-07-14 22:39:18 GET /css/animate.css - 66.249.79.63 HTTP/1.1 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+compatible;+Googlebot/2.1;++http://www.google.com/bot.html)+Safari/537.36 http://crossroadsbar.co.nz/ 200 8279 380
+2018-07-14 22:39:18 GET /css/iconeffects.css - 66.249.79.34 HTTP/1.1 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+compatible;+Googlebot/2.1;++http://www.google.com/bot.html)+Safari/537.36 http://crossroadsbar.co.nz/ 200 3470 384
+2018-07-14 22:39:19 GET /www.google-analytics.com/analytics.js - 66.249.79.63 HTTP/1.1 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+compatible;+Googlebot/2.1;++http://www.google.com/bot.html)+Safari/537.36 http://crossroadsbar.co.nz/ 404 1405 387
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-07-14 23:17:43
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-07-14 23:17:43 GET /robots.txt - 46.229.168.72 HTTP/1.1 Mozilla/5.0+(compatible;+SemrushBot/2~bl;++http://www.semrush.com/bot.html) - 404 1424 218
+2018-07-14 23:17:51 GET /index.html - 46.229.168.65 HTTP/1.1 Mozilla/5.0+(compatible;+SemrushBot/2~bl;++http://www.semrush.com/bot.html) - 200 7048 217
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-07-15 02:00:42
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-07-15 02:00:42 HEAD / - 35.195.53.238 HTTP/1.1 - - 200 249 63
+2018-07-15 02:00:43 GET / - 35.195.53.238 HTTP/1.1 - - 200 23480 62
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-07-15 05:14:05
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-07-15 05:14:05 GET /robots.txt - 66.249.79.38 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 404 1405 237
+2018-07-15 05:14:05 GET / - 66.249.79.42 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 7018 300

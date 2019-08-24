@@ -1,0 +1,279 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-11-18 07:12:06
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-11-18 07:12:06 GET /portfolio.html - 111.69.78.0 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:63.0)+Gecko/20100101+Firefox/63.0 http://www.palacehotel.co.nz/services.html 200 12622 406
+2018-11-18 07:12:06 GET /js/menu.js - 111.69.78.0 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:63.0)+Gecko/20100101+Firefox/63.0 http://www.palacehotel.co.nz/portfolio.html 200 2093 313
+2018-11-18 07:12:06 GET /css/lightbox.min.css - 111.69.78.0 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:63.0)+Gecko/20100101+Firefox/63.0 http://www.palacehotel.co.nz/portfolio.html 200 3023 338
+2018-11-18 07:12:06 GET /js/animated-headline.js - 111.69.78.0 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:63.0)+Gecko/20100101+Firefox/63.0 http://www.palacehotel.co.nz/portfolio.html 200 5815 326
+2018-11-18 07:12:07 GET /css/style.css - 111.69.78.0 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:63.0)+Gecko/20100101+Firefox/63.0 http://www.palacehotel.co.nz/portfolio.html 200 23669 331
+2018-11-18 07:12:07 GET /js/bootstrap.min.js - 111.69.78.0 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:63.0)+Gecko/20100101+Firefox/63.0 http://www.palacehotel.co.nz/portfolio.html 200 37132 322
+2018-11-18 07:12:07 GET /css/bootstrap.min.css - 111.69.78.0 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:63.0)+Gecko/20100101+Firefox/63.0 http://www.palacehotel.co.nz/portfolio.html 200 120748 339
+2018-11-18 07:12:07 GET /ionicons/css/ionicons.min.css - 111.69.78.0 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:63.0)+Gecko/20100101+Firefox/63.0 http://www.palacehotel.co.nz/portfolio.html 200 51532 347
+2018-11-18 07:12:07 GET /js/modernizr.js - 111.69.78.0 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:63.0)+Gecko/20100101+Firefox/63.0 http://www.palacehotel.co.nz/portfolio.html 200 51615 318
+2018-11-18 07:12:07 GET /js/custom.js - 111.69.78.0 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:63.0)+Gecko/20100101+Firefox/63.0 http://www.palacehotel.co.nz/portfolio.html 200 2120 315
+2018-11-18 07:12:07 GET /js/isotope.pkgd.min.js - 111.69.78.0 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:63.0)+Gecko/20100101+Firefox/63.0 http://www.palacehotel.co.nz/portfolio.html 200 38008 325
+2018-11-18 07:12:07 GET /js/lightbox-plus-jquery.min.js - 111.69.78.0 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:63.0)+Gecko/20100101+Firefox/63.0 http://www.palacehotel.co.nz/portfolio.html 200 93520 333
+2018-11-18 07:12:09 GET /js/jquery-2.1.1.js - 111.69.78.0 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:63.0)+Gecko/20100101+Firefox/63.0 http://www.palacehotel.co.nz/portfolio.html 200 247616 321
+2018-11-18 07:12:09 GET /img/prev.png - 111.69.78.0 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:63.0)+Gecko/20100101+Firefox/63.0 http://www.palacehotel.co.nz/css/lightbox.min.css 200 1608 321
+2018-11-18 07:12:09 GET /img/next.png - 111.69.78.0 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:63.0)+Gecko/20100101+Firefox/63.0 http://www.palacehotel.co.nz/css/lightbox.min.css 200 1598 321
+2018-11-18 07:12:09 GET /img/loading.gif - 111.69.78.0 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:63.0)+Gecko/20100101+Firefox/63.0 http://www.palacehotel.co.nz/css/lightbox.min.css 200 8724 324
+2018-11-18 07:12:09 GET /img/close.png - 111.69.78.0 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:63.0)+Gecko/20100101+Firefox/63.0 http://www.palacehotel.co.nz/css/lightbox.min.css 200 526 322
+2018-11-18 07:12:09 GET /favicon.ico - 111.69.78.0 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64;+rv:63.0)+Gecko/20100101+Firefox/63.0 - 404 1405 320
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-11-18 08:03:26
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-11-18 08:03:25 GET / - 180.76.15.150 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - 200 13757 223
+2018-11-18 08:07:05 GET /contact.html - 54.36.150.179 HTTP/1.1 Mozilla/5.0+(compatible;+AhrefsBot/5.2;++http://ahrefs.com/robot/) - 200 6391 184
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-11-18 09:05:59
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-11-18 09:05:58 GET /admin/index.php - 34.219.22.227 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.2;+rv:28.0)+Gecko/20100101+Firefox/28.0 https://google.com 404 1405 221
+2018-11-18 09:14:43 GET /services.html - 54.36.148.138 HTTP/1.1 Mozilla/5.0+(compatible;+AhrefsBot/5.2;++http://ahrefs.com/robot/) - 200 7369 185
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-11-18 09:32:30
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-11-18 09:32:29 GET /about.html - 54.36.148.246 HTTP/1.1 Mozilla/5.0+(compatible;+AhrefsBot/5.2;++http://ahrefs.com/robot/) - 200 5709 182
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-11-18 10:28:30
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-11-18 10:28:30 GET / - 5.196.87.26 HTTP/1.1 Mozilla/5.0+(compatible;+AhrefsBot/5.2;++http://ahrefs.com/robot/) - 200 13738 172
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-11-18 11:16:13
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-11-18 11:16:13 GET /robots.txt - 157.55.39.0 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - 404 1405 254
+2018-11-18 11:16:20 GET /contact.html - 157.55.39.164 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - 200 2565 288
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-11-18 11:40:59
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-11-18 11:40:59 GET / - 52.53.201.78 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_12_6)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/61.0.3163.100+Safari/537.36 - 200 13738 218
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-11-18 12:05:46
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-11-18 12:05:46 GET /portfolio.html - 54.36.148.245 HTTP/1.1 Mozilla/5.0+(compatible;+AhrefsBot/5.2;++http://ahrefs.com/robot/) - 200 12622 186
+2018-11-18 12:11:04 GET /robots.txt - 54.221.75.68 HTTP/1.1 CCBot/2.0+(https://commoncrawl.org/faq/) - 404 1405 227
+2018-11-18 12:11:04 GET /about.html - 54.221.75.68 HTTP/1.1 CCBot/2.0+(https://commoncrawl.org/faq/) - 200 5709 227
+2018-11-18 12:18:54 GET /portfolio.html - 54.221.75.68 HTTP/1.1 CCBot/2.0+(https://commoncrawl.org/faq/) - 200 12622 231
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-11-18 12:35:05
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-11-18 12:35:05 GET /robots.txt - 5.45.207.27 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - 404 1405 204
+2018-11-18 12:35:10 GET / - 141.8.183.34 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - 200 13738 286
+2018-11-18 12:35:11 GET /ionicons/css/ionicons.min.css - 141.8.132.8 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) http://www.palacehotel.co.nz/ 200 51532 355
+2018-11-18 12:35:13 GET /js/isotope.pkgd.min.js - 178.154.246.8 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) http://www.palacehotel.co.nz/ 200 38008 348
+2018-11-18 12:35:13 GET /js/animated-headline.js - 213.180.203.65 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) http://www.palacehotel.co.nz/ 200 5815 349
+2018-11-18 12:35:14 GET /js/menu.js - 5.45.207.33 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) http://www.palacehotel.co.nz/ 200 2093 336
+2018-11-18 12:35:16 GET /js/jquery-2.1.1.js - 141.8.132.37 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) http://www.palacehotel.co.nz/ 200 247616 344
+2018-11-18 12:35:16 GET /js/modernizr.js - 5.45.207.21 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) http://www.palacehotel.co.nz/ 200 51615 341
+2018-11-18 12:35:16 GET /js/custom.js - 141.8.132.37 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) http://www.palacehotel.co.nz/ 200 2120 338
+2018-11-18 12:35:16 GET /css/bootstrap.min.css - 5.45.207.21 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) http://www.palacehotel.co.nz/ 200 120748 347
+2018-11-18 12:35:16 GET /js/bootstrap.min.js - 5.45.207.33 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) http://www.palacehotel.co.nz/ 200 37132 345
+2018-11-18 12:35:17 GET /css/style.css - 5.45.207.33 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) http://www.palacehotel.co.nz/ 200 23669 339
+2018-11-18 12:35:17 GET /ionicons/fonts/ionicons.ttf - 141.8.132.37 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) http://www.palacehotel.co.nz/ionicons/css/ionicons.min.css 200 188773 428
+2018-11-18 12:36:50 GET / - 5.45.207.33 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - 304 210 371
+2018-11-18 12:46:12 GET /wp-login.php - 141.168.182.143 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64;+rv:40.0)+Gecko/20100101+Firefox/40.1 - 404 1405 182
+2018-11-18 12:46:12 GET / - 141.168.182.143 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64;+rv:40.0)+Gecko/20100101+Firefox/40.1 - 200 13738 170
+2018-11-18 12:47:43 GET /services.html - 54.221.75.68 HTTP/1.1 CCBot/2.0+(https://commoncrawl.org/faq/) - 200 7369 230
+2018-11-18 12:48:28 GET / - 54.221.75.68 HTTP/1.1 CCBot/2.0+(https://commoncrawl.org/faq/) - 200 13738 217
+2018-11-18 12:50:44 GET /contact.html - 54.221.75.68 HTTP/1.1 CCBot/2.0+(https://commoncrawl.org/faq/) - 200 6391 229
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-11-18 13:42:50
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-11-18 13:42:50 GET /index.html - 54.36.149.77 HTTP/1.1 Mozilla/5.0+(compatible;+AhrefsBot/5.2;++http://ahrefs.com/robot/) - 200 13738 182
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-11-18 14:22:03
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-11-18 14:22:02 GET /robots.txt - 46.229.168.134 HTTP/1.1 Mozilla/5.0+(compatible;+SemrushBot/2~bl;++http://www.semrush.com/bot.html) - 404 1424 209
+2018-11-18 14:22:16 GET /portfolio.html - 46.229.168.153 HTTP/1.1 Mozilla/5.0+(compatible;+SemrushBot/2~bl;++http://www.semrush.com/bot.html) - 200 12641 219
+2018-11-18 14:23:47 GET /robots.txt - 46.229.168.135 HTTP/1.1 Mozilla/5.0+(compatible;+SemrushBot/2~bl;++http://www.semrush.com/bot.html) - 404 1424 205
+2018-11-18 14:23:57 GET /about.html - 46.229.168.138 HTTP/1.1 Mozilla/5.0+(compatible;+SemrushBot/2~bl;++http://www.semrush.com/bot.html) - 200 5728 211
+2018-11-18 14:35:08 GET / - 66.249.79.58 HTTP/1.1 Mozilla/5.0+(Linux;+Android+6.0.1;+Nexus+5X+Build/MMB29P)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2272.96+Mobile+Safari/537.36+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 3376 420
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-11-18 15:03:05
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-11-18 15:03:05 GET /robots.txt - 180.76.15.134 HTTP/1.1 Mozilla/5.0+(Windows+NT+5.1;+rv:6.0.2)+Gecko/20100101+Firefox/6.0.2 - 404 1424 219
+2018-11-18 15:03:05 GET /robots.txt - 180.76.15.139 HTTP/1.1 Mozilla/5.0+(Windows+NT+5.1;+rv:6.0.2)+Gecko/20100101+Firefox/6.0.2 - 404 1424 219
+2018-11-18 15:05:28 GET / - 180.76.15.159 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - 200 13757 219
+2018-11-18 15:08:41 GET /contact.html - 54.36.149.98 HTTP/1.1 Mozilla/5.0+(compatible;+AhrefsBot/5.2;++http://ahrefs.com/robot/) - 200 6391 184
+2018-11-18 15:09:19 GET /robots.txt - 66.249.79.42 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 404 1405 235
+2018-11-18 15:11:10 GET /favicon.ico - 66.249.79.42 HTTP/1.1 Googlebot-Image/1.0 - 404 1405 196
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-11-18 16:02:18
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-11-18 16:02:17 GET / - 62.210.83.78 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10.13;+rv:62.0)+Gecko/20100101+Firefox/62.0 - 200 13738 339
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-11-18 16:31:05
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-11-18 16:31:05 GET /about.html - 54.36.149.107 HTTP/1.1 Mozilla/5.0+(compatible;+AhrefsBot/5.2;++http://ahrefs.com/robot/) - 200 5709 182
+2018-11-18 16:39:48 GET /robots.txt - 46.229.168.139 HTTP/1.1 Mozilla/5.0+(compatible;+SemrushBot/2~bl;++http://www.semrush.com/bot.html) - 404 1424 205
+2018-11-18 16:39:59 GET /portfolio.html - 46.229.168.131 HTTP/1.1 Mozilla/5.0+(compatible;+SemrushBot/2~bl;++http://www.semrush.com/bot.html) - 200 12641 215
+2018-11-18 16:46:28 GET /services.html - 54.36.148.33 HTTP/1.1 Mozilla/5.0+(compatible;+AhrefsBot/5.2;++http://ahrefs.com/robot/) - 200 7369 185
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-11-18 17:35:21
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-11-18 17:35:21 GET / - 54.36.148.63 HTTP/1.1 Mozilla/5.0+(compatible;+AhrefsBot/5.2;++http://ahrefs.com/robot/) - 200 3376 172
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-11-18 18:23:39
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-11-18 18:23:38 GET / - 106.11.154.114 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/69.0.3497.81+YisouSpider/5.0+Safari/537.36 - 200 3395 366
+2018-11-18 18:23:41 GET /css/style.css - 106.11.155.100 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/69.0.3497.81+YisouSpider/5.0+Safari/537.36 http://www.palacehotel.co.nz/ 200 5937 322
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-11-18 19:04:49
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-11-18 19:04:48 GET / - 40.77.167.182 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - 200 13738 276
+2018-11-18 19:17:51 GET /robots.txt - 66.249.79.52 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 404 1405 231
+2018-11-18 19:17:52 GET / - 66.249.79.55 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 3376 294
+2018-11-18 19:20:44 GET /portfolio.html - 54.36.148.210 HTTP/1.1 Mozilla/5.0+(compatible;+AhrefsBot/5.2;++http://ahrefs.com/robot/) - 200 12622 186
+2018-11-18 19:30:53 GET / - 40.77.167.182 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - 200 13738 276
+2018-11-18 19:31:03 GET /css/style.css - 40.77.190.78 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b http://www.palacehotel.co.nz/ 200 23669 263
+2018-11-18 19:31:04 GET /ionicons/css/ionicons.min.css - 40.77.190.78 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b http://www.palacehotel.co.nz/ 200 51532 279
+2018-11-18 19:31:04 GET /js/modernizr.js - 40.77.190.78 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b http://www.palacehotel.co.nz/ 200 51615 250
+2018-11-18 19:31:04 GET /css/bootstrap.min.css - 40.77.190.78 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b http://www.palacehotel.co.nz/ 200 120748 271
+2018-11-18 19:31:06 GET /js/jquery-2.1.1.js - 40.77.190.78 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b http://www.palacehotel.co.nz/ 200 247616 253
+2018-11-18 19:31:06 GET /ionicons/fonts/ionicons.ttf - 40.77.190.78 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b http://www.palacehotel.co.nz/ 200 188773 270
+2018-11-18 19:31:06 GET /js/bootstrap.min.js - 40.77.190.78 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b http://www.palacehotel.co.nz/ 200 37132 254
+2018-11-18 19:31:07 GET /js/menu.js - 40.77.190.78 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b http://www.palacehotel.co.nz/ 200 2093 245
+2018-11-18 19:31:07 GET /js/animated-headline.js - 40.77.190.78 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b http://www.palacehotel.co.nz/ 200 5815 258
+2018-11-18 19:31:08 GET /js/isotope.pkgd.min.js - 40.77.190.78 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b http://www.palacehotel.co.nz/ 200 38008 257
+2018-11-18 19:31:08 GET /js/custom.js - 40.77.190.78 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b http://www.palacehotel.co.nz/ 200 2120 247
+2018-11-18 19:31:10 GET /robots.txt - 40.77.167.61 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - 404 1405 254
+2018-11-18 19:31:10 GET /robots.txt - 40.77.167.61 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - 404 1405 254
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-11-18 19:47:10
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-11-18 19:47:09 GET /xmlrpc.php - 88.190.254.100 HTTP/1.1 Mozilla/5.0+(X11;+Linux+i686;+rv:2.0.1)+Gecko/20100101+Firefox/4.0.1 - 404 1405 240
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-11-18 20:27:46
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-11-18 20:27:46 GET /robots.txt - 34.214.247.40 HTTP/1.1 btcrawler - 404 1405 93
+2018-11-18 20:27:46 GET /robots.txt - 52.25.50.11 HTTP/1.1 btcrawler - 404 1405 93
+2018-11-18 20:27:47 GET /robots.txt - 52.25.50.11 HTTP/1.1 btcrawler - 404 1405 93
+2018-11-18 20:27:47 GET /robots.txt - 52.25.50.11 HTTP/1.1 btcrawler - 404 1405 93
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-11-18 20:48:48
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-11-18 20:48:47 GET /index.html - 151.80.39.37 HTTP/1.1 Mozilla/5.0+(compatible;+AhrefsBot/5.2;++http://ahrefs.com/robot/) - 200 3377 182
+2018-11-18 21:00:56 GET /img/img6.jpg - 54.36.148.81 HTTP/1.1 Mozilla/5.0+(compatible;+AhrefsBot/5.2;++http://ahrefs.com/robot/) - 200 0 184
+2018-11-18 21:16:22 GET /img/img2.jpg - 54.36.149.55 HTTP/1.1 Mozilla/5.0+(compatible;+AhrefsBot/5.2;++http://ahrefs.com/robot/) - 200 0 184
+2018-11-18 21:28:22 HEAD / - 128.199.89.78 HTTP/1.1 Mozilla google.com 200 294 133
+2018-11-18 21:28:23 GET / - 128.199.89.78 HTTP/1.1 Mozilla/5.0+(Macintosh;+Intel+Mac+OS+X+10_11_6)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/53.0.2785.143+Safari/537.36 - 200 2707 287
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-11-18 22:18:00
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-11-18 22:18:00 GET /.git/config - 94.102.57.141 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/67.0.2526.73+Safari/537.36 - 404 1405 177
+2018-11-18 22:21:50 GET /contact.html - 54.36.148.202 HTTP/1.1 Mozilla/5.0+(compatible;+AhrefsBot/5.2;++http://ahrefs.com/robot/) - 200 6391 184
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-11-18 22:41:40
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-11-18 22:41:40 GET /img/img3.jpg - 54.36.148.60 HTTP/1.1 Mozilla/5.0+(compatible;+AhrefsBot/5.2;++http://ahrefs.com/robot/) - 200 0 184
+2018-11-18 22:50:05 GET / - 191.96.249.142 HTTP/1.1 - - 200 13757 121
+2018-11-18 23:02:16 GET /img/img5.jpg - 54.36.148.100 HTTP/1.1 Mozilla/5.0+(compatible;+AhrefsBot/5.2;++http://ahrefs.com/robot/) - 200 0 184
+2018-11-18 23:06:18 GET /services.html - 207.46.13.158 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - 200 7369 289
+2018-11-18 23:06:21 GET /css/bootstrap.min.css - 40.77.193.51 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b - 200 120748 270
+2018-11-18 23:06:22 GET /ionicons/css/ionicons.min.css - 40.77.192.111 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b - 200 51532 278
+2018-11-18 23:06:22 GET /css/style.css - 40.77.195.134 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b - 200 23669 262
+2018-11-18 23:06:24 GET /js/modernizr.js - 40.77.194.252 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b - 200 51615 264
+2018-11-18 23:06:27 GET /js/jquery-2.1.1.js - 40.77.193.86 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b - 200 247616 267
+2018-11-18 23:06:28 GET /js/bootstrap.min.js - 40.77.195.201 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b - 200 37132 268
+2018-11-18 23:06:28 GET /js/menu.js - 40.77.192.15 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b - 200 2093 259
+2018-11-18 23:06:29 GET /js/animated-headline.js - 40.77.192.154 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b - 200 5815 272
+2018-11-18 23:06:31 GET /js/isotope.pkgd.min.js - 40.77.195.34 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b - 200 38008 271
+2018-11-18 23:06:31 GET /js/custom.js - 40.77.193.149 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b - 200 2120 261
+2018-11-18 23:06:33 GET /ionicons/fonts/ionicons.ttf - 40.77.253.198 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/534++(KHTML,+like+Gecko)+BingPreview/1.0b - 200 188773 284
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-11-18 23:22:22
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-11-18 23:22:22 GET /img/img4.jpg - 54.36.148.130 HTTP/1.1 Mozilla/5.0+(compatible;+AhrefsBot/5.2;++http://ahrefs.com/robot/) - 200 0 184
+2018-11-18 23:28:56 GET /img/logo.png - 66.220.149.39 HTTP/1.1 facebookexternalhit/1.1+(+http://www.facebook.com/externalhit_uatext.php) - 206 22632 229
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-11-18 23:46:23
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-11-18 23:46:22 GET /services.html - 5.196.87.61 HTTP/1.1 Mozilla/5.0+(compatible;+AhrefsBot/5.2;++http://ahrefs.com/robot/) - 200 7369 185
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-11-19 00:04:48
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-11-19 00:04:48 GET /about.html - 5.196.87.62 HTTP/1.1 Mozilla/5.0+(compatible;+AhrefsBot/5.2;++http://ahrefs.com/robot/) - 200 5709 182
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-11-19 00:38:43
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-11-19 00:38:43 GET / - 54.36.148.121 HTTP/1.1 Mozilla/5.0+(compatible;+AhrefsBot/5.2;++http://ahrefs.com/robot/) - 200 13738 172
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-11-19 02:07:45
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-11-19 02:07:44 GET /robots.txt - 144.76.71.176 HTTP/1.1 Mozilla/5.0+(compatible;+MJ12bot/v1.4.8;+http://mj12bot.com/) - 404 1405 165
+2018-11-19 02:07:47 GET / - 144.76.71.176 HTTP/1.1 Mozilla/5.0+(compatible;+MJ12bot/v1.4.8;+http://mj12bot.com/) - 200 13738 342
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-11-19 02:36:33
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-11-19 02:36:32 GET /portfolio.html - 54.36.148.76 HTTP/1.1 Mozilla/5.0+(compatible;+AhrefsBot/5.2;++http://ahrefs.com/robot/) - 200 12622 186
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-11-19 03:17:37
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-11-19 03:17:37 GET / - 66.249.79.55 HTTP/1.1 Mozilla/5.0+(Linux;+Android+6.0.1;+Nexus+5X+Build/MMB29P)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2272.96+Mobile+Safari/537.36+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 3376 420
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-11-19 03:35:22
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-11-19 03:35:21 GET /contact.html - 66.249.79.52 HTTP/1.1 Mozilla/5.0+(Linux;+Android+6.0.1;+Nexus+5X+Build/MMB29P)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2272.96+Mobile+Safari/537.36+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 2565 432
+2018-11-19 03:46:37 GET / - 198.143.133.157 HTTP/1.1 Mozilla/5.0+(Windows+NT+10.0;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/66.0.3359.117+Safari/537.36 - 200 2707 207
+2018-11-19 03:46:39 GET / - 185.93.180.217 HTTP/1.0 Mozilla/5.0+(Windows+NT+7.1;+Win64;+rv:32.1)+Gecko/20100101+Firefox/32.1 http://palacehotel.co.nz/ 200 13244 249
+2018-11-19 03:46:39 GET /contact.html - 185.93.180.217 HTTP/1.0 Mozilla/5.0+(Windows+NT+7.1;+Win64;+rv:32.1)+Gecko/20100101+Firefox/32.1 http://palacehotel.co.nz/contact.html 200 0 273
+2018-11-19 03:46:41 POST / - 185.93.180.217 HTTP/1.0 Mozilla/5.0+(Windows+NT+7.1;+Win64;+rv:32.1)+Gecko/20100101+Firefox/32.1 http://palacehotel.co.nz/contact.html 405 1515 506
+2018-11-19 03:51:25 GET /index.html - 5.196.87.62 HTTP/1.1 Mozilla/5.0+(compatible;+AhrefsBot/5.2;++http://ahrefs.com/robot/) - 200 13738 182
+2018-11-19 04:05:41 GET /contact.html - 207.46.13.195 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - 200 2565 288
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-11-19 04:38:41
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-11-19 04:38:41 GET /robots.txt - 46.229.168.138 HTTP/1.1 Mozilla/5.0+(compatible;+SemrushBot/2~bl;++http://www.semrush.com/bot.html) - 404 1424 205
+2018-11-19 04:38:42 GET /contact.html - 46.229.168.136 HTTP/1.1 Mozilla/5.0+(compatible;+SemrushBot/2~bl;++http://www.semrush.com/bot.html) - 200 6410 213
+2018-11-19 04:51:25 GET /services.html - 66.249.79.58 HTTP/1.1 Mozilla/5.0+(Linux;+Android+6.0.1;+Nexus+5X+Build/MMB29P)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/41.0.2272.96+Mobile+Safari/537.36+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - 200 2967 433
+2018-11-19 05:05:36 GET /robots.txt - 148.251.139.69 HTTP/1.1 Mozilla/5.0+(compatible;+BLEXBot/1.0;++http://webmeup-crawler.com/) - 404 1405 262
+2018-11-19 05:05:36 GET /robots.txt - 148.251.139.69 HTTP/1.1 Mozilla/5.0+(compatible;+BLEXBot/1.0;++http://webmeup-crawler.com/) - 404 1405 266
+2018-11-19 05:05:37 GET / - 148.251.139.69 HTTP/1.1 Mozilla/5.0+(compatible;+BLEXBot/1.0;++http://webmeup-crawler.com/) - 200 3376 256
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-11-19 05:39:29
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-11-19 05:39:29 GET /contact.html - 151.80.39.185 HTTP/1.1 Mozilla/5.0+(compatible;+AhrefsBot/5.2;++http://ahrefs.com/robot/) - 200 2565 184
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-11-19 06:14:46
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-11-19 06:14:45 GET /.ssh/id_rsa - 94.102.57.141 HTTP/1.1 Mozilla/5.0+(SIMON+SMITH+NT+10.0;+WOW64;+forensic@evestigator.com.au)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/67.0.2526.73+Safari/537.36 - 404 1405 210
+2018-11-19 06:14:46 GET /.ssh/id_dsa - 94.102.57.141 HTTP/1.1 Mozilla/5.0+(SIMON+SMITH+NT+10.0;+WOW64;+forensic@evestigator.com.au)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/67.0.2526.73+Safari/537.36 - 404 1405 210
+2018-11-19 06:14:47 GET /.ssh/id_ed25519 - 94.102.57.141 HTTP/1.1 Mozilla/5.0+(SIMON+SMITH+NT+10.0;+WOW64;+forensic@evestigator.com.au)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/67.0.2526.73+Safari/537.36 - 404 1405 214
+2018-11-19 06:14:48 GET /.ssh/id_ecdsa - 94.102.57.141 HTTP/1.1 Mozilla/5.0+(SIMON+SMITH+NT+10.0;+WOW64;+forensic@evestigator.com.au)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/67.0.2526.73+Safari/537.36 - 404 1405 212
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2018-11-19 06:52:09
+#Fields: date time cs-method cs-uri-stem cs-username c-ip cs-version cs(User-Agent) cs(Referer) sc-status sc-bytes cs-bytes
+2018-11-19 06:52:09 GET /services.html - 54.36.148.91 HTTP/1.1 Mozilla/5.0+(compatible;+AhrefsBot/5.2;++http://ahrefs.com/robot/) - 200 7369 185
